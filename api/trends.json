@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T22:20:58.098271+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2026-01-05T23:20:17.578277+08:00",
+  "total_titles_processed": 1949,
   "failed_sources": [],
   "trends": [
     {
@@ -115,6 +115,19 @@
           "time_info": "[09时22分 ~ 13时33分]"
         },
         {
+          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
+          "url": "https://wallstreetcn.com/articles/3762568",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时36分 ~ 23时20分]"
+        },
+        {
           "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
           "url": "https://wallstreetcn.com/articles/3762525",
           "source": "华尔街见闻",
@@ -150,19 +163,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时33分 ~ 14时32分]"
-        },
-        {
-          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
-          "url": "https://wallstreetcn.com/articles/3762568",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 22时20分]"
         },
         {
           "title": "A股AI应用方向午后拉升，蓝色光标涨超15%，风语筑、博瑞传播、科德教育、昆仑万维等纷纷跟涨。",
@@ -275,7 +275,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
