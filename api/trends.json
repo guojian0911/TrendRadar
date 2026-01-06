@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T19:16:13.722325+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2026-01-06T20:35:38.551534+08:00",
+  "total_titles_processed": 1851,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时16分 ~ 16时24分]"
+        },
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[11时26分 ~ 20时35分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -68,20 +83,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时22分 ~ 15时23分]"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时26分 ~ 19时16分]"
         },
         {
           "title": "AirPods Pro3马年特别款开箱",
@@ -562,8 +563,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时23分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[15时23分 ~ 20时35分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
