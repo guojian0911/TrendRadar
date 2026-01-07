@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T22:20:56.466656+08:00",
-  "total_titles_processed": 2102,
+  "generated_at": "2026-01-07T23:20:57.558700+08:00",
+  "total_titles_processed": 2200,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时24分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[16时24分 ~ 23时20分]"
         },
         {
           "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
@@ -68,8 +68,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时24分 ~ 22时20分]"
+          "appearance_count": 11,
+          "time_info": "[17时24分 ~ 23时20分]"
         },
         {
           "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
@@ -179,7 +179,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -193,6 +193,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 23时20分]"
         },
         {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
@@ -229,19 +242,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时20分]"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 22时20分]"
         },
         {
           "title": "荣耀高管再度回应Air手机争议",
