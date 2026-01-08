@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T22:22:07.725600+08:00",
-  "total_titles_processed": 2071,
+  "generated_at": "2026-01-08T23:21:10.399424+08:00",
+  "total_titles_processed": 2170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 AI Claude 企业培训 谷歌 google gemini",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -79,11 +79,12 @@
             13,
             12,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时22分]"
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时21分]"
         },
         {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
@@ -103,7 +104,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -315,7 +316,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -340,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
+        },
+        {
+          "title": "六天蒸发两千亿 苹果跌落神坛 谷歌凭Gemini逆袭",
+          "url": "https://flash.jin10.com/detail/20260108224229611800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "英国信息专员办公室：我们已联系X平台和xAI，要求其阐明为遵守英国数据保护法及保障个人权利所采取的具体措施。",
