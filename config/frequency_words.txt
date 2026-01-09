@@ -1,7 +1,11 @@
+人工智能
+大模型
+AIGC
+多模态
+LLM
 DeepSeek
 梁文锋
 AI
-Claude
 企业培训
 谷歌
 google
@@ -10,6 +14,21 @@ gemini
 chatgpt
 openai
 
+Anthropic
+Claude
+Claude Code
+Codex
+OpenCode
+智谱
+GLM
+MiniMax
+Agent
+AI Agent
+工作流
+Workflow
+Context Engineering
+Prompt
+AI Skills
 金价
 
 黄金
