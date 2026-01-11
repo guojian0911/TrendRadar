@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T19:14:39.305399+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-01-11T20:31:50.832511+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
@@ -31,11 +31,12 @@
             9,
             7,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时14分 ~ 19时14分]"
+          "appearance_count": 24,
+          "time_info": "[01时14分 ~ 20时31分]"
         },
         {
           "title": "南大人工智能学科排名全球第一",
@@ -56,6 +57,23 @@
           "time_info": "[09时23分 ~ 17时17分]"
         },
         {
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时22分 ~ 20时31分]"
+        },
+        {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
           "url": "https://www.cls.cn/detail/2253847",
           "source": "财联社热门",
@@ -67,8 +85,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 19时14分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 20时31分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -107,8 +125,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 19时14分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 20时31分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -133,11 +151,12 @@
             1,
             5,
             9,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时22分 ~ 19时14分]"
+          "appearance_count": 8,
+          "time_info": "[13时22分 ~ 20时31分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -164,22 +183,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时22分 ~ 07时16分]"
-        },
-        {
-          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
-          "url": "https://wallstreetcn.com/articles/3763033",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时22分 ~ 19时14分]"
         },
         {
           "title": "AI登顶LOL韩服",
@@ -248,17 +251,6 @@
           "time_info": "[09时23分 ~ 14时25分]"
         },
         {
-          "title": "中国首个金融气象AI模型“熵机”在穗发布",
-          "url": "https://flash.jin10.com/detail/20260111185158665800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "AI每回答一个问题要消耗多少水",
           "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
           "source": "百度热搜",
@@ -267,11 +259,12 @@
             9,
             8,
             18,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 19时14分]"
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 20时31分]"
         },
         {
           "title": "AI时代还有学画画的必要吗",
@@ -288,6 +281,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时22分 ~ 18时17分]"
+        },
+        {
+          "title": "中国首个金融气象AI模型“熵机”在穗发布",
+          "url": "https://flash.jin10.com/detail/20260111185158665800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时31分]"
         },
         {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
@@ -349,8 +354,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 20时31分]"
         },
         {
           "title": "疑似马斯克AI账号登顶LOL韩服",
@@ -388,6 +393,18 @@
           "time_info": "[16时21分 ~ 17时17分]"
         },
         {
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时31分]"
+        },
+        {
           "title": "如何看待《英雄联盟》韩服出现神秘玩家，疑似马斯克的 AI（Grok），两天时间 93% 胜率杀进前三？",
           "url": "https://www.zhihu.com/question/1993676340092691102",
           "source": "知乎",
@@ -410,15 +427,15 @@
           "time_info": "18时17分"
         },
         {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
+          "title": "摩根士丹利中国首席经济学家邢自强：未来行业配置展望方面，在当前形势下，高科技行业成为结构性赛道机会。 人工智能、生物制药、人形机器人等领域作为亮点，技术创新动能强劲，有望持续吸引市场关注。",
+          "url": "https://wallstreetcn.com/livenews/3034711",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "20时31分"
         },
         {
           "title": "用一个字证明你不是AI",
@@ -457,7 +474,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价将走向何方",
@@ -492,8 +509,19 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 20时31分]"
+        },
+        {
+          "title": "MiniMax港交所公告，悉数行使超额配股权。",
+          "url": "https://wallstreetcn.com/livenews/3034713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "20时31分"
         },
         {
           "title": "金价新高不断 还能上车吗",
