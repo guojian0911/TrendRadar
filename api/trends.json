@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T06:16:07.034737+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-01-13T07:14:36.430277+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "张文宏：拒绝把AI引入医院病历系统",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
@@ -73,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
@@ -86,19 +86,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -108,8 +109,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -123,8 +124,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -139,8 +140,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -150,8 +151,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时14分]"
+        },
+        {
+          "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
@@ -163,6 +175,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时20分 ~ 07时14分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -201,27 +225,17 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
-          "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时20分 ~ 06时16分]"
-        },
-        {
           "title": "万字解析中国AI产业",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 07时14分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -234,6 +248,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时20分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
+          "url": "https://wallstreetcn.com/livenews/3035583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时14分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -260,15 +286,26 @@
           "time_info": "[02时26分 ~ 03时18分]"
         },
         {
-          "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
-          "url": "https://wallstreetcn.com/livenews/3035583",
+          "title": "电网基建与AIDC需求共振，变压器行业高景气延续",
+          "url": "https://wallstreetcn.com/livenews/3035608",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "07时14分"
+        },
+        {
+          "title": "催化事件不断，AI应用从“可用”迈向“好用”",
+          "url": "https://wallstreetcn.com/livenews/3035605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
@@ -313,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "从AI眼镜到脑机接口，智能终端升级大有可为",
+          "url": "https://wallstreetcn.com/livenews/3035598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "马斯克：（谈及苹果与谷歌的合作）鉴于谷歌还拥有安卓和Chrome，这似乎是对谷歌权力的不合理集中。",
@@ -365,7 +413,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
