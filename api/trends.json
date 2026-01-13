@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T09:14:17.172784+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2026-01-13T11:25:18.435495+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时25分]"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -32,18 +32,6 @@
           "time_info": "[00时22分 ~ 09时14分]"
         },
         {
-          "title": "张文宏：拒绝把AI引入医院病历系统",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8A%8AAI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时14分]"
-        },
-        {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
           "url": "https://wallstreetcn.com/articles/3763068",
           "source": "华尔街见闻",
@@ -52,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时25分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -66,6 +54,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时22分 ~ 07时14分]"
+        },
+        {
+          "title": "张文宏：拒绝把AI引入医院病历系统",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8A%8AAI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时25分]"
         },
         {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
@@ -128,8 +129,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时25分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -141,11 +142,12 @@
             28,
             26,
             23,
-            21
+            21,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时25分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -153,11 +155,23 @@
           "source": "贴吧",
           "ranks": [
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时25分]"
+        },
+        {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 11时25分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -173,26 +187,54 @@
           "time_info": "[04时20分 ~ 09时14分]"
         },
         {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
+          "title": "万字解析中国AI产业",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            30,
+            15,
+            9,
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "appearance_count": 8,
+          "time_info": "[05时16分 ~ 11时25分]"
         },
         {
           "title": "张文宏称拒绝把AI引入医院病历系统",
           "url": "https://www.toutiao.com/trending/7594611746107854346/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 11时25分]"
+        },
+        {
+          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
+          "url": "https://www.cls.cn/detail/2255501",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 11时25分]"
+        },
+        {
+          "title": "梁文锋新论文剧透下一代模型",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
@@ -215,20 +257,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "万字解析中国AI产业",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            15,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时16分 ~ 09时14分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -255,6 +283,18 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 11时25分]"
+        },
+        {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
           "url": "https://flash.jin10.com/detail/20260113001151493800",
           "source": "金十数据",
@@ -267,15 +307,16 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
-          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
-          "url": "https://www.cls.cn/detail/2255501",
+          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2255551",
           "source": "财联社热门",
           "ranks": [
-            7
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 11时25分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -326,26 +367,48 @@
           "time_info": "[02时26分 ~ 03时18分]"
         },
         {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
+          "title": "如何看待最新 2025-2026 年 csrankings 人工智能排名南京大学位居全国第 1 名？",
+          "url": "https://www.zhihu.com/question/1991915523580135211",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
-          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2255551",
-          "source": "财联社热门",
+          "title": "iPhone官宣接入Gemini",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5Gemini",
+          "source": "bilibili 热搜",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
+          "url": "https://www.cls.cn/detail/2255512",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "DeepSeek发布梁文锋署名新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "电网基建与AIDC需求共振，变压器行业高景气延续",
@@ -390,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美防长称马斯克旗下AI聊天机器人将接入五角大楼系统",
+          "url": "https://wallstreetcn.com/livenews/3035759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
