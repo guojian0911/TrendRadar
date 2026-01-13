@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T17:25:09.663367+08:00",
-  "total_titles_processed": 1540,
+  "generated_at": "2026-01-13T18:19:48.103643+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 74,
+      "match_count": 77,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时13分 ~ 17时25分]"
+          "appearance_count": 15,
+          "time_info": "[09时13分 ~ 18时19分]"
         },
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -68,8 +68,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时24分 ~ 17时25分]"
+          "appearance_count": 13,
+          "time_info": "[11时24分 ~ 18时19分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -132,11 +132,12 @@
             10,
             7,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时13分 ~ 17时25分]"
+          "appearance_count": 15,
+          "time_info": "[09时13分 ~ 18时19分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -188,11 +189,12 @@
             16,
             13,
             15,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时36分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[12时36分 ~ 18时19分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -208,8 +210,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时22分 ~ 17时25分]"
+          "appearance_count": 24,
+          "time_info": "[00时22分 ~ 18时19分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -330,6 +332,43 @@
           "time_info": "[09时13分 ~ 12时37分]"
         },
         {
+          "title": "工信部：实施工业互联网与人工智能融合赋能行动 推动人工智能技术在工业全链条渗透",
+          "url": "https://www.cls.cn/detail/2256114",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 18时19分]"
+        },
+        {
+          "title": "中国核聚变装置融入AI技术",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 18时19分]"
+        },
+        {
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 18时19分]"
+        },
+        {
           "title": "如何看待马斯克AI预言",
           "url": "https://www.douyin.com/hot/2366116",
           "source": "抖音",
@@ -357,31 +396,6 @@
           "time_info": "[11时24分 ~ 14时27分]"
         },
         {
-          "title": "中国核聚变装置融入AI技术",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
-        },
-        {
-          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
-          "url": "https://www.cls.cn/detail/2255695",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 17时25分]"
-        },
-        {
           "title": "苹果接入Gemini模型想做啥",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
           "source": "bilibili 热搜",
@@ -393,15 +407,30 @@
           "time_info": "[15时21分 ~ 15时22分]"
         },
         {
-          "title": "工信部：实施工业互联网与人工智能融合赋能行动 推动人工智能技术在工业全链条渗透",
-          "url": "https://www.cls.cn/detail/2256114",
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
           "source": "财联社热门",
           "ranks": [
-            5
+            13,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 18时19分]"
+        },
+        {
+          "title": "张文宏称拒绝将AI引入医院病历系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 18时19分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
@@ -449,39 +478,26 @@
           "time_info": "16时24分"
         },
         {
+          "title": "EDG官宣Maokai回归",
+          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "谷歌今年将在越南研发并生产高端手机。",
           "url": "https://flash.jin10.com/detail/20260113170321463800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
-        },
-        {
-          "title": "张文宏称拒绝将AI引入医院病历系统",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 17时25分]"
-        },
-        {
-          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
-          "url": "https://www.cls.cn/detail/2255873",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 17时25分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -520,6 +536,19 @@
           "time_info": "[13时23分 ~ 14时27分]"
         },
         {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时19分]"
+        },
+        {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
           "url": "https://flash.jin10.com/detail/20260113001151493800",
           "source": "金十数据",
@@ -532,16 +561,17 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
+          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
+          "url": "https://www.cls.cn/detail/2255787",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            11,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
@@ -556,18 +586,6 @@
           "time_info": "[15时21分 ~ 16时24分]"
         },
         {
-          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
-          "url": "https://www.cls.cn/detail/2255787",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 17时25分]"
-        },
-        {
           "title": "iPhone官宣接入Gemini",
           "url": "https://search.bilibili.com/all?keyword=iPhone%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5Gemini",
           "source": "bilibili 热搜",
@@ -578,6 +596,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 14时27分]"
+        },
+        {
+          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
+          "url": "https://www.zhihu.com/question/1994352106249873378",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 18时19分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -697,17 +726,6 @@
           "time_info": "[17时24分 ~ 17时25分]"
         },
         {
-          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
-          "url": "https://www.zhihu.com/question/1994352106249873378",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
-        },
-        {
           "title": "OpenAI收购医疗保健初创公司Torch",
           "url": "https://www.toutiao.com/trending/7594644941129940998/",
           "source": "今日头条",
@@ -739,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "韩服马斯克AI事件疑点解析",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E9%A9%AC%E6%96%AF%E5%85%8BAI%E4%BA%8B%E4%BB%B6%E7%96%91%E7%82%B9%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "催化事件不断，AI应用从“可用”迈向“好用”",
@@ -794,6 +823,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
+          "url": "https://www.cls.cn/detail/2256259",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
@@ -928,11 +968,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 18时19分]"
         }
       ]
     }
