@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T02:26:21.003649+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-01-14T03:17:58.223963+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -61,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -73,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -85,8 +85,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -97,8 +97,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -109,8 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -122,8 +122,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -133,8 +133,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -142,11 +142,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -154,11 +155,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -183,6 +185,17 @@
           "time_info": "[00时25分 ~ 00时26分]"
         },
         {
+          "title": "gemini3pro 真那么好用吗？",
+          "url": "https://www.zhihu.com/question/1990762235694434081",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时17分]"
+        },
+        {
           "title": "Salesforce发布Slack的升级版功能Slackbot，由Anthropic的AI模型提供支持。",
           "url": "https://wallstreetcn.com/livenews/3036304",
           "source": "华尔街见闻-快讯",
@@ -205,17 +218,6 @@
           "time_info": "00时26分"
         },
         {
-          "title": "gemini3pro 真那么好用吗？",
-          "url": "https://www.zhihu.com/question/1990762235694434081",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
           "title": "赛默飞CEO：公司将积极部署先进的人工智能能力，以进一步降低成本。",
           "url": "https://flash.jin10.com/detail/20260114003934392800",
           "source": "金十数据",
@@ -233,7 +235,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -264,8 +266,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "金价",
