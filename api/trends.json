@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T22:22:19.166316+08:00",
-  "total_titles_processed": 2123,
+  "generated_at": "2026-01-14T23:21:48.306264+08:00",
+  "total_titles_processed": 2224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时43分 ~ 22时22分]"
+          "appearance_count": 15,
+          "time_info": "[11时43分 ~ 23时21分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -107,11 +107,25 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 22时22分]"
+          "appearance_count": 9,
+          "time_info": "[16时24分 ~ 23时21分]"
+        },
+        {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时24分 ~ 23时21分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -242,11 +256,12 @@
             21,
             18,
             30,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 20时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 23时21分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -263,19 +278,6 @@
           "time_info": "[00时25分 ~ 06时18分]"
         },
         {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 22时22分]"
-        },
-        {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
           "url": "https://www.zhihu.com/question/1994233409871050526",
           "source": "知乎",
@@ -284,8 +286,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 22时22分]"
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 23时21分]"
         },
         {
           "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
@@ -560,7 +562,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -706,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "浙江用AI抓出贪官",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "报道：Meta启动裁员，战略中心从元宇宙转向AI设备",
