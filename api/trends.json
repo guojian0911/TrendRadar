@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T13:21:36.172751+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-01-14T14:27:41.651312+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -79,11 +79,12 @@
             10,
             5,
             15,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 14时27分]"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -95,8 +96,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 14时27分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -145,8 +146,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 14时27分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -188,8 +189,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 14时27分]"
         },
         {
           "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
@@ -202,8 +203,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 14时27分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -230,6 +231,17 @@
           "time_info": "[00时25分 ~ 03时17分]"
         },
         {
+          "title": "国产大模型新年动作频频：智谱联手华为开源新模型，MiniMax开源评测集",
+          "url": "https://wallstreetcn.com/livenews/3036711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "智谱联合华为开源首个国产芯片训练的多模态SOTA模型",
           "url": "https://wallstreetcn.com/livenews/3036524",
           "source": "华尔街见闻-快讯",
@@ -239,6 +251,33 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 14时27分]"
+        },
+        {
+          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
+          "url": "https://www.zhihu.com/question/1994088546865284778",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 14时27分]"
         },
         {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
@@ -265,18 +304,6 @@
           "time_info": "[11时44分 ~ 12时43分]"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 13时21分]"
-        },
-        {
           "title": "阿里巴巴：1月15日10:00将召开千问APP发布会，见证AI如何“开启办事时代”。",
           "url": "https://wallstreetcn.com/livenews/3036624",
           "source": "华尔街见闻-快讯",
@@ -287,19 +314,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 12时43分]"
-        },
-        {
-          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
-          "url": "https://www.zhihu.com/question/1994088546865284778",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 13时21分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -322,6 +336,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时27分]"
         },
         {
           "title": "海关总署：我国人工智能算力需求旺盛，去年电脑零部件进口增长20%",
@@ -358,17 +384,6 @@
           "time_info": "05时17分"
         },
         {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-14）",
           "url": "https://flash.jin10.com/detail/20260114115842588800",
           "source": "金十数据",
@@ -389,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
+          "url": "https://www.zhihu.com/question/1994310970621859099",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "“末日博士”鲁比尼：AI繁荣正抵消包括美国总统和地缘政治在内的一系列风险。 AI将开创“美国例外论”的新篇章。",
@@ -471,7 +497,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "花旗预测三个月内金价达5000美元",
@@ -536,6 +562,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
+        },
+        {
+          "title": "澳新银行预计2026年下半年黄金价格将高于5000美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3036683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行预计，2026年下半年黄金交易价格将高于5000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260114133123697800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     }
