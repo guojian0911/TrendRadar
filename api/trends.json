@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T04:20:36.667410+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-01-16T05:17:54.488390+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时17分]"
         },
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时17分]"
         },
         {
           "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时17分]"
         },
         {
           "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
@@ -52,11 +52,12 @@
           "ranks": [
             10,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时17分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -68,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时17分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -82,8 +83,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时17分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -91,11 +92,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时17分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -106,8 +108,23 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时17分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            26,
+            30,
+            27,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "time_info": "[00时29分 ~ 05时17分]"
         },
         {
           "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
@@ -119,20 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            26,
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时21分]"
         },
         {
           "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
@@ -251,6 +254,28 @@
           "time_info": "01时28分"
         },
         {
+          "title": "AI编程初创公司Replit接近按90亿美元估值融资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3038201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "据华尔街日报：与马斯克生子的网红Ashley St. Clair因Grok聊天机器人照片起诉xAI，寻求禁令防止Grok利用人工智能创造深度伪像。",
+          "url": "https://flash.jin10.com/detail/20260116044537613800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
           "title": "多平台公布涉“AI魔改”违规视频第二批处置结果",
           "url": "https://wallstreetcn.com/livenews/3038102",
           "source": "华尔街见闻-快讯",
@@ -271,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "消息人士：人工智能编程初创公司Replit接近完成融资，估值达90亿美元。",
+          "url": "https://flash.jin10.com/detail/20260116043600126800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     },
@@ -286,19 +322,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时17分]"
         },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时30分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[02时30分 ~ 05时17分]"
         }
       ]
     }
