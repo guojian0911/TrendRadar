@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T12:37:16.059545+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-01-15T13:22:56.417996+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -43,11 +43,12 @@
             12,
             11,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时27分 ~ 12时37分]"
+          "appearance_count": 14,
+          "time_info": "[02时27分 ~ 13时22分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -86,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 12时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 13时22分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -96,11 +97,12 @@
           "ranks": [
             10,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 12时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 13时22分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -133,8 +135,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 12时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 13时22分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -147,6 +149,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时24分 ~ 07时15分]"
+        },
+        {
+          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
+          "url": "https://www.cls.cn/detail/2258255",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 13时22分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -163,27 +178,16 @@
           "time_info": "[01时24分 ~ 07时15分]"
         },
         {
-          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
-          "url": "https://www.cls.cn/detail/2258255",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 12时37分]"
-        },
-        {
           "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
           "url": "https://www.cls.cn/detail/2258421",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 13时22分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -213,11 +217,59 @@
           "url": "https://www.cls.cn/detail/2258223",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 13时22分]"
+        },
+        {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 13时22分]"
+        },
+        {
+          "title": "于正秀腹肌被判定AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%A7%80%E8%85%B9%E8%82%8C%E8%A2%AB%E5%88%A4%E5%AE%9AAI%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 13时22分]"
+        },
+        {
+          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
+          "url": "https://www.zhihu.com/question/1994356851211515794",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 13时22分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-15）",
+          "url": "https://flash.jin10.com/detail/20260115120106452800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "time_info": "[12时37分 ~ 13时22分]"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
@@ -256,39 +308,6 @@
           "time_info": "[05时18分 ~ 06时18分]"
         },
         {
-          "title": "于正秀腹肌被判定AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%A7%80%E8%85%B9%E8%82%8C%E8%A2%AB%E5%88%A4%E5%AE%9AAI%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
-          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
-          "url": "https://www.zhihu.com/question/1994356851211515794",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
           "url": "https://wallstreetcn.com/livenews/3037229",
           "source": "华尔街见闻-快讯",
@@ -301,6 +320,18 @@
           "time_info": "[02时27分 ~ 03时17分]"
         },
         {
+          "title": "千问App接入支付宝，上线AI付款",
+          "url": "https://wallstreetcn.com/livenews/3037516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时22分]"
+        },
+        {
           "title": "AI点的第一杯奶茶",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%82%B9%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -310,6 +341,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 12时37分]"
+        },
+        {
+          "title": "1月15日午间收评：创业板指半日跌超1%，商业航天、AI应用集体退潮",
+          "url": "https://wallstreetcn.com/livenews/3037508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时22分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -334,17 +377,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-15）",
-          "url": "https://flash.jin10.com/detail/20260115120106452800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
           "title": "OpenAI与Cerebras达成百亿美元算力合作",
           "url": "https://flash.jin10.com/detail/20260115045202393800",
           "source": "金十数据",
@@ -354,17 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "千问App接入支付宝，上线AI付款",
-          "url": "https://wallstreetcn.com/livenews/3037516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
         },
         {
           "title": "美联储卡什卡利：目前大多数企业的AI应用仍处于实验阶段，尚未导致裁员。",
@@ -387,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "千问AI打电话订餐厅",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AEAI%E6%89%93%E7%94%B5%E8%AF%9D%E8%AE%A2%E9%A4%90%E5%8E%85%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "据华尔街日报：OpenAI与初创公司Cerebras达成计算合作，OpenAI将使用Cerebras设计的芯片为ChatGPT提供动力。OpenAI与Cerebras的交易价值超过100亿美元。",
@@ -431,17 +463,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
-        },
-        {
-          "title": "1月15日午间收评：创业板指半日跌超1%，商业航天、AI应用集体退潮",
-          "url": "https://wallstreetcn.com/livenews/3037508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
         },
         {
           "title": "美国加州州长纽森：呼吁司法部长立即调查xAI并追究其责任。",
@@ -546,8 +567,19 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价上涨 银行保管箱“一箱难求”",
+          "url": "https://www.toutiao.com/trending/7595232648327495722/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
         {
           "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
           "url": "https://flash.jin10.com/detail/20260115110344751800",
