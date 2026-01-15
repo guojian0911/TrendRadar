@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T05:17:54.488390+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-01-16T06:18:44.332862+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
@@ -53,11 +53,12 @@
             10,
             7,
             4,
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -69,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -80,11 +81,12 @@
             10,
             22,
             21,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -93,11 +95,12 @@
           "ranks": [
             16,
             17,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -108,8 +111,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -123,8 +126,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
@@ -199,6 +202,18 @@
           "time_info": "[02时31分 ~ 04时20分]"
         },
         {
+          "title": "AI编程初创公司Replit接近按90亿美元估值融资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3038201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
           "title": "报告：AI推动半导体行业营收在2026年首次突破1万亿美元",
           "url": "https://flash.jin10.com/detail/20260115234252489800",
           "source": "金十数据",
@@ -243,6 +258,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。",
+          "url": "https://flash.jin10.com/detail/20260116053652696800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "华尔街六大行裁员创十年新高 AI转型与效率至上成主旋律",
           "url": "https://flash.jin10.com/detail/20260116004856986800",
           "source": "金十数据",
@@ -254,24 +280,13 @@
           "time_info": "01时28分"
         },
         {
-          "title": "AI编程初创公司Replit接近按90亿美元估值融资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3038201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
           "title": "据华尔街日报：与马斯克生子的网红Ashley St. Clair因Grok聊天机器人照片起诉xAI，寻求禁令防止Grok利用人工智能创造深度伪像。",
           "url": "https://flash.jin10.com/detail/20260116044537613800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -304,7 +319,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
@@ -322,8 +337,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时18分]"
         },
         {
           "title": "金价",
@@ -334,8 +349,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时30分 ~ 05时17分]"
+          "appearance_count": 6,
+          "time_info": "[02时30分 ~ 06时18分]"
         }
       ]
     }
