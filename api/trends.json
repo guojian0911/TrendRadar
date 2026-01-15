@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T18:19:33.304466+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2026-01-15T19:17:20.955084+08:00",
+  "total_titles_processed": 1841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时36分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[12时36分 ~ 19时17分]"
         },
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -92,6 +92,21 @@
           "time_info": "[00时24分 ~ 11时27分]"
         },
         {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时36分 ~ 19时17分]"
+        },
+        {
           "title": "AI查贪官准确率相当高",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%9F%A5%E8%B4%AA%E5%AE%98%E5%87%86%E7%A1%AE%E7%8E%87%E7%9B%B8%E5%BD%93%E9%AB%98%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -119,19 +134,22 @@
           "time_info": "[00时24分 ~ 15时22分]"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
           "ranks": [
+            12,
+            10,
+            14,
             8,
-            7,
-            6,
-            5,
+            19,
+            16,
+            15,
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时36分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[12时36分 ~ 19时17分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -144,11 +162,12 @@
             18,
             19,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 18时19分]"
+          "appearance_count": 24,
+          "time_info": "[00时24分 ~ 19时17分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -180,11 +199,12 @@
             15,
             17,
             30,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 17时24分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 19时17分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -199,21 +219,18 @@
           "time_info": "[01时24分 ~ 07时15分]"
         },
         {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            14,
-            8,
-            19,
-            16,
-            15
+            13,
+            7,
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时36分 ~ 18时19分]"
+          "appearance_count": 8,
+          "time_info": "[14时26分 ~ 19时17分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -230,20 +247,6 @@
           "time_info": "[01时24分 ~ 07时15分]"
         },
         {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时26分 ~ 18时19分]"
-        },
-        {
           "title": "美国政府将批准向中国出售H200人工智能芯片 外交部回应",
           "url": "https://www.cls.cn/detail/2258750",
           "source": "财联社热门",
@@ -253,8 +256,31 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时17分]"
+        },
+        {
+          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
+          "url": "https://www.zhihu.com/question/1993756665422509304",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时19分]"
+          "time_info": "[18时19分 ~ 19时17分]"
+        },
+        {
+          "title": "英伟达投资数学人工智能初创公司Harmonic",
+          "url": "https://flash.jin10.com/detail/20260115190545902800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -268,15 +294,15 @@
           "time_info": "04时17分"
         },
         {
-          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
-          "url": "https://www.zhihu.com/question/1993756665422509304",
-          "source": "知乎",
+          "title": "英伟达投资数学人工智能初创公司Harmonic。",
+          "url": "https://flash.jin10.com/detail/20260115190159507800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "19时17分"
         },
         {
           "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
@@ -300,6 +326,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时18分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
+          "url": "https://www.cls.cn/detail/2259059",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时17分]"
         },
         {
           "title": "于正秀腹肌被判定AI",
@@ -442,17 +480,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
-          "url": "https://www.cls.cn/detail/2259059",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "OpenAI与Cerebras达成百亿美元算力合作",
           "url": "https://flash.jin10.com/detail/20260115045202393800",
           "source": "金十数据",
@@ -470,7 +497,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -525,7 +552,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -660,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "李斌开年内部讲话：预计2025年第四季度盈利目标可实现，推动AI在全业务链条落地",
+          "url": "https://wallstreetcn.com/livenews/3037912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "马斯克旗下xAI遭加州调查 Grok涉嫌生成违规图像",
