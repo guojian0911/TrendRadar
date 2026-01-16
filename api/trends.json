@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T17:23:04.731619+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-01-16T18:19:36.679392+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -101,8 +101,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时37分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[12时37分 ~ 18时19分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -129,8 +129,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时37分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[12时37分 ~ 18时19分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -212,27 +212,17 @@
           "time_info": "[11时26分 ~ 15时21分]"
         },
         {
-          "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
-          "url": "https://flash.jin10.com/detail/20260116015614451800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
           "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
           "url": "https://www.cls.cn/detail/2259986",
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 17时23分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 18时19分]"
         },
         {
           "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
@@ -243,8 +233,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 17时23分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 18时19分]"
+        },
+        {
+          "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
+          "url": "https://flash.jin10.com/detail/20260116015614451800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
@@ -376,6 +377,18 @@
           "time_info": "[13时21分 ~ 13时22分]"
         },
         {
+          "title": "理想万里晖建成面向太空的超薄柔性HJT电池AI示范线",
+          "url": "https://wallstreetcn.com/livenews/3038644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时19分]"
+        },
+        {
           "title": "AI编程初创公司Replit接近按90亿美元估值融资。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3038201",
           "source": "华尔街见闻-快讯",
@@ -433,6 +446,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
+          "url": "https://www.cls.cn/detail/2260348",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
           "url": "https://flash.jin10.com/detail/20260116013602991800",
           "source": "金十数据",
@@ -486,17 +510,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
-        },
-        {
-          "title": "理想万里晖建成面向太空的超薄柔性HJT电池AI示范线",
-          "url": "https://wallstreetcn.com/livenews/3038644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
         },
         {
           "title": "华尔街六大行裁员创十年新高 AI转型与效率至上成主旋律",
@@ -574,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "马斯克儿子的妈妈起诉马斯克AI公司",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%84%BF%E5%AD%90%E7%9A%84%E5%A6%88%E5%A6%88%E8%B5%B7%E8%AF%89%E9%A9%AC%E6%96%AF%E5%85%8BAI%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "从能源到育种 我国人工智能企业数量已超6200家",
