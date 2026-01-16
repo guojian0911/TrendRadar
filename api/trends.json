@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T14:28:11.802159+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-01-16T15:21:53.013891+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -65,18 +65,6 @@
           "time_info": "[00时29分 ~ 07时17分]"
         },
         {
-          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2259656",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 13时22分]"
-        },
-        {
           "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
           "url": "https://www.cls.cn/detail/2259727",
           "source": "财联社热门",
@@ -87,8 +75,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时17分 ~ 15时21分]"
+        },
+        {
+          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2259656",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时17分 ~ 14时28分]"
+          "time_info": "[07时16分 ~ 13时22分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -147,11 +147,12 @@
             25,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 14时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 15时21分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -174,22 +175,26 @@
           "ranks": [
             8,
             10,
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 15时21分]"
+        },
+        {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时26分 ~ 14时28分]"
-        },
-        {
-          "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
-          "url": "https://flash.jin10.com/detail/20260116015614451800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "[12时37分 ~ 15时21分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -201,21 +206,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时37分 ~ 15时21分]"
         },
         {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
+          "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
+          "url": "https://flash.jin10.com/detail/20260116015614451800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            9,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 14时28分]"
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
@@ -399,9 +402,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
@@ -437,6 +451,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
+          "url": "https://www.cls.cn/detail/2259812",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。",
           "url": "https://flash.jin10.com/detail/20260116053652696800",
           "source": "金十数据",
@@ -468,6 +493,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "三菱公司高管：到2030年，美国天然气需求预计将比2025年水平增长18%，主要受人工智能、数据中心和液化天然气出口的推动。",
+          "url": "https://flash.jin10.com/detail/20260116144322115800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "韩国财长：将聚焦于在人工智能、芯片、生物和食品等领域提升经济基本面，以应对外汇市场动荡。",
+          "url": "https://flash.jin10.com/detail/20260116143750836800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "据华尔街日报：与马斯克生子的网红Ashley St. Clair因Grok聊天机器人照片起诉xAI，寻求禁令防止Grok利用人工智能创造深度伪像。",
@@ -514,6 +561,17 @@
           "time_info": "11时26分"
         },
         {
+          "title": "从能源到育种 我国人工智能企业数量已超6200家",
+          "url": "https://wallstreetcn.com/livenews/3038541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "消息人士：人工智能编程初创公司Replit接近完成融资，估值达90亿美元。",
           "url": "https://flash.jin10.com/detail/20260116043600126800",
           "source": "金十数据",
@@ -528,7 +586,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -576,6 +634,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "分析师：伊朗局势放缓及降息预期减弱令黄金价格有所回落",
+          "url": "https://flash.jin10.com/detail/20260116144201337800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "智谱华为合作模型开源后登顶全球第一",
