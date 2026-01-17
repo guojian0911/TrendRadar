@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T09:14:40.774331+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-01-17T11:20:03.764550+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 09时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 11时20分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -62,11 +63,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时17分 ~ 09时14分]"
+          "appearance_count": 5,
+          "time_info": "[05时17分 ~ 11时20分]"
         },
         {
           "title": "FTC严查AI领域“人才收购” 欲堵死硅谷巨头反垄断漏洞",
@@ -78,17 +80,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        },
-        {
-          "title": "美政府推动科技巨头为AI用电买单",
-          "url": "https://flash.jin10.com/detail/20260117082311101800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -143,6 +134,18 @@
           "time_info": "[02时26分 ~ 04时19分]"
         },
         {
+          "title": "美政府推动科技巨头为AI用电买单",
+          "url": "https://flash.jin10.com/detail/20260117082311101800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 11时20分]"
+        },
+        {
           "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
           "url": "https://flash.jin10.com/detail/20260117043322271800",
           "source": "金十数据",
@@ -153,6 +156,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时17分 ~ 09时14分]"
+        },
+        {
+          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 11时20分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -168,6 +182,30 @@
           "time_info": "[02时26分 ~ 04时19分]"
         },
         {
+          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
+          "url": "https://wallstreetcn.com/livenews/3039057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 11时20分]"
+        },
+        {
+          "title": "字节跳动发布SeedFold，蛋白质结构预测相关多任务超越谷歌AlphaFold 3，揭示大模型缩放新秘诀",
+          "url": "https://wallstreetcn.com/livenews/3039053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 11时20分]"
+        },
+        {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
           "url": "https://flash.jin10.com/detail/20260117021136642800",
           "source": "金十数据",
@@ -178,6 +216,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时19分]"
+        },
+        {
+          "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
+          "url": "https://wallstreetcn.com/livenews/3039052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 11时20分]"
         },
         {
           "title": "博主：AI应用将成2026年投资新风口",
@@ -191,26 +241,15 @@
           "time_info": "00时22分"
         },
         {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
+          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
+          "url": "https://wallstreetcn.com/livenews/3039069",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
-          "url": "https://wallstreetcn.com/livenews/3039057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "time_info": "11时20分"
         },
         {
           "title": "AI初创公司ElevenLabs洽谈按110亿美元估值融资。（英国金融时报）",
@@ -222,28 +261,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
-        },
-        {
-          "title": "字节跳动发布SeedFold，蛋白质结构预测相关多任务超越谷歌AlphaFold 3，揭示大模型缩放新秘诀",
-          "url": "https://wallstreetcn.com/livenews/3039053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
-          "url": "https://wallstreetcn.com/livenews/3039052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时14分"
         },
         {
           "title": "世界人工智能大会首次在港举办",
@@ -277,6 +294,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
         }
       ]
     }
