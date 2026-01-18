@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T03:13:23.043150+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-01-19T04:18:32.734299+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "没有商业模式--DeepSeek最坚固的“护城河”",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
@@ -49,8 +49,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 04时18分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -89,8 +89,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 04时18分]"
         }
       ]
     }
