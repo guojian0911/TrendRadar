@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T05:15:07.893808+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-01-19T06:16:10.835933+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "没有商业模式--DeepSeek最坚固的“护城河”",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -53,6 +53,18 @@
           "time_info": "[02时22分 ~ 04时18分]"
         },
         {
+          "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
+          "url": "https://flash.jin10.com/detail/20260119042408235800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
           "title": "翁家翌谈OpenAI模型跃迁",
           "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
           "source": "bilibili 热搜",
@@ -63,17 +75,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 03时13分]"
-        },
-        {
-          "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
-          "url": "https://flash.jin10.com/detail/20260119042408235800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
         },
         {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
@@ -100,8 +101,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时16分]"
         }
       ]
     }
