@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T22:26:36.271397+08:00",
-  "total_titles_processed": 2072,
+  "generated_at": "2026-01-21T23:27:43.384178+08:00",
+  "total_titles_processed": 2173,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -53,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时31分 ~ 22时26分]"
+          "appearance_count": 14,
+          "time_info": "[11时31分 ~ 23时27分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -69,11 +69,12 @@
             9,
             12,
             11,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时40分 ~ 22时26分]"
+          "appearance_count": 13,
+          "time_info": "[12时40分 ~ 23时27分]"
         },
         {
           "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
@@ -91,6 +92,20 @@
           "time_info": "[12时40分 ~ 17时29分]"
         },
         {
+          "title": "图灵的猫回应预测韩服AI疑云",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时26分 ~ 23时27分]"
+        },
+        {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
           "url": "https://news.ifeng.com/c/8q5mosOf4dU",
           "source": "凤凰网",
@@ -102,18 +117,18 @@
           "time_info": "[12时40分 ~ 19时21分]"
         },
         {
-          "title": "图灵的猫回应预测韩服AI疑云",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
-          "source": "bilibili 热搜",
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            7,
+            12,
+            9,
             8,
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时26分 ~ 22时26分]"
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 23时27分]"
         },
         {
           "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
@@ -160,17 +175,18 @@
           "time_info": "14时29分"
         },
         {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            9,
-            8
+            3,
+            29,
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时27分]"
         },
         {
           "title": "俄罗斯积雪9层楼高视频系AI生成",
@@ -183,19 +199,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时38分 ~ 21时42分]"
-        },
-        {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 22时26分]"
         },
         {
           "title": "美国总统特朗普：允许人工智能公司自行发电。 用关税收入取代所得税是一个选项。",
@@ -281,6 +284,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 17时29分]"
+        },
+        {
+          "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
+          "url": "https://www.cls.cn/detail/2265088",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 23时27分]"
+        },
+        {
+          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时27分]"
         },
         {
           "title": "郑钦文粉丝把AI天赋点满了",
@@ -405,17 +431,6 @@
           "time_info": "11时31分"
         },
         {
-          "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
-          "url": "https://www.cls.cn/detail/2265088",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时38分"
-        },
-        {
           "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
           "url": "https://wallstreetcn.com/livenews/3040577",
           "source": "华尔街见闻-快讯",
@@ -515,17 +530,6 @@
           "time_info": "12时40分"
         },
         {
-          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
           "title": "OpenAI：年龄预测功能正面向全球推广，欧盟将在未来几周跟进。",
           "url": "https://flash.jin10.com/detail/20260121030605835800",
           "source": "金十数据",
@@ -568,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "美国总统特朗普：人工智能公司自行建设发电设备非常好。",
+          "url": "https://flash.jin10.com/detail/20260121225922736800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
@@ -634,6 +649,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "黄仁勋谈过去一年AI模型的三大突破",
+          "url": "https://wallstreetcn.com/livenews/3041362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "学科带头人称老师要把AI当成对手",
@@ -764,8 +790,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时24分 ~ 22时26分]"
+          "appearance_count": 10,
+          "time_info": "[15时24分 ~ 23时27分]"
         },
         {
           "title": "金价",
@@ -865,7 +891,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
