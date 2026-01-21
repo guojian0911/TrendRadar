@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T03:23:33.177823+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-01-22T04:26:31.176214+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时26分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时26分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -39,8 +39,35 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时26分]"
+        },
+        {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            16,
+            13,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时26分]"
+        },
+        {
+          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时26分]"
         },
         {
           "title": "白宫人工智能报告：研究估计人工智能可使GDP增长1%至45%以上。",
@@ -54,32 +81,6 @@
           "time_info": "00时37分"
         },
         {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            16,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时23分]"
-        },
-        {
-          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时23分]"
-        },
-        {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
           "url": "https://wallstreetcn.com/livenews/3041411",
           "source": "华尔街见闻-快讯",
@@ -89,6 +90,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "据The Information：苹果(AAPL.O)计划在2027年首次推出可穿戴人工智能别针，初期产量高达2000万枚。",
+          "url": "https://flash.jin10.com/detail/20260122040302119800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "苹果公司正开发AI可穿戴设备PIN。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3041492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "白宫“人工智能沙皇”萨克斯：我们必须意识到其中一些负面影响，且不能假装让孩子们永远不使用人工智能是件好事。",
@@ -109,8 +132,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 04时26分]"
+        },
+        {
+          "title": "UP主带你玩转全球顶级AI现场",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时36分 ~ 03时23分]"
+          "time_info": "[01时51分 ~ 04时26分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
@@ -122,18 +157,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 01时51分]"
-        },
-        {
-          "title": "UP主带你玩转全球顶级AI现场",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 03时23分]"
         },
         {
           "title": "黄仁勋称AI时代蓝领更吃香，水管工、电工能拿六位数薪水",
@@ -190,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "市场消息：苹果计划改造Siri，将其打造成iPhone和Mac的内置聊天机器人，以与OpenAI抗衡。",
+          "url": "https://flash.jin10.com/detail/20260122035053941800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "白宫“人工智能沙皇”萨克斯：认为美国仍在人工智能竞赛中处于领先地位。",
@@ -283,7 +317,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
@@ -294,8 +328,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 04时26分]"
         },
         {
           "title": "Anthropic的收入在2025年年底超过90亿美元。",
@@ -304,7 +338,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -318,6 +352,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "Anthropic年化收入突破90亿美元，风险投资蜂拥而至",
+          "url": "https://wallstreetcn.com/livenews/3041479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "知情人士称，Anthropic的年化营收自去年夏天以来已翻倍，截至2025年底已超过90亿美元。",
+          "url": "https://flash.jin10.com/detail/20260122031919898800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     }
