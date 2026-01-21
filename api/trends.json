@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T12:40:56.304506+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-01-21T13:26:17.994103+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
@@ -29,20 +29,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "UP主带你玩转全球顶级AI现场",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时26分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -53,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时26分]"
         },
         {
           "title": "美国总统特朗普：允许人工智能公司自行发电。 用关税收入取代所得税是一个选项。",
@@ -69,6 +58,18 @@
           "time_info": "[11时31分 ~ 12时40分]"
         },
         {
+          "title": "UP主带你玩转全球顶级AI现场",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时26分]"
+        },
+        {
           "title": "上海中小学开设AI课程",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
           "source": "百度热搜",
@@ -80,6 +81,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 07时18分]"
+        },
+        {
+          "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
+          "url": "https://www.cls.cn/detail/2264608",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时26分]"
         },
         {
           "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
@@ -106,6 +119,29 @@
           "time_info": "[04时09分 ~ 05时17分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-21）",
+          "url": "https://flash.jin10.com/detail/20260121115736289800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时26分]"
+        },
+        {
+          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
+          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时26分]"
+        },
+        {
           "title": "ServiceNow 与OpenAI 达成合作 为期三年",
           "url": "https://flash.jin10.com/detail/20260121010536923800",
           "source": "金十数据",
@@ -117,28 +153,6 @@
           "time_info": "01时25分"
         },
         {
-          "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
-          "url": "https://www.cls.cn/detail/2264608",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-21）",
-          "url": "https://flash.jin10.com/detail/20260121115736289800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
           "title": "惠誉评级：美国良性信贷背景面临人工智能、消费者和贸易风险。",
           "url": "https://flash.jin10.com/detail/20260121005712780800",
           "source": "金十数据",
@@ -148,17 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
-          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
         },
         {
           "title": "微软CEO纳德拉：能源成本将决定哪些国家能赢得AI竞赛",
@@ -233,7 +236,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -266,7 +269,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -291,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "学科带头人称老师要把AI当成对手",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%A7%91%E5%B8%A6%E5%A4%B4%E4%BA%BA%E7%A7%B0%E8%80%81%E5%B8%88%E8%A6%81%E6%8A%8AAI%E5%BD%93%E6%88%90%E5%AF%B9%E6%89%8B%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "DeepSeek新模型MODEL1曝光 代码预示新架构",
@@ -321,7 +335,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         }
@@ -373,7 +387,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -408,19 +422,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时26分]"
         },
         {
           "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
           "url": "https://www.zhihu.com/question/1996636704929502107",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时26分]"
         }
       ]
     },
@@ -450,11 +465,12 @@
           "url": "https://flash.jin10.com/detail/20260121115138760800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时26分]"
         }
       ]
     }
