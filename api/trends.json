@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T07:21:30.119188+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2026-01-22T09:19:35.098096+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 09时19分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -27,11 +27,12 @@
           "ranks": [
             3,
             9,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 09时19分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -55,11 +56,12 @@
             13,
             15,
             19,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 09时19分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -86,6 +88,20 @@
           "time_info": "[02时36分 ~ 07时21分]"
         },
         {
+          "title": "UP主带你玩转全球顶级AI现场",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            29,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 09时19分]"
+        },
+        {
           "title": "白宫人工智能报告：研究估计人工智能可使GDP增长1%至45%以上。",
           "url": "https://flash.jin10.com/detail/20260122000753956800",
           "source": "金十数据",
@@ -108,19 +124,6 @@
           "time_info": "00时37分"
         },
         {
-          "title": "UP主带你玩转全球顶级AI现场",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            29,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时51分 ~ 07时21分]"
-        },
-        {
           "title": "据The Information：苹果(AAPL.O)计划在2027年首次推出可穿戴人工智能别针，初期产量高达2000万枚。",
           "url": "https://flash.jin10.com/detail/20260122040302119800",
           "source": "金十数据",
@@ -141,6 +144,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时19分]"
         },
         {
           "title": "苹果公司正开发AI可穿戴设备PIN。（The Information）",
@@ -223,15 +238,26 @@
           "time_info": "00时37分"
         },
         {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
+          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
+          "url": "https://www.cls.cn/detail/2265674",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "09时19分"
+        },
+        {
+          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
+          "url": "https://wallstreetcn.com/articles/3763828",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "OpenAI创始人奥特曼亲赴中东洽谈500亿美元新融资",
@@ -240,7 +266,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -251,7 +277,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -278,6 +304,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
+          "url": "https://www.cls.cn/detail/2265632",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "白宫“人工智能沙皇”萨克斯：认为美国仍在人工智能竞赛中处于领先地位。",
           "url": "https://flash.jin10.com/detail/20260121235423435800",
           "source": "金十数据",
@@ -295,7 +332,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -353,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "AI需求助推市场飙升 韩国股指首破5000点大关",
+          "url": "https://flash.jin10.com/detail/20260122082451321800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "白宫“人工智能沙皇”萨克斯：特朗普希望为人工智能监管建立单一的联邦框架。",
@@ -437,7 +485,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
