@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T12:53:13.976383+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-01-26T13:31:44.358325+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
@@ -33,19 +33,6 @@
           "time_info": "[00时20分 ~ 09时23分]"
         },
         {
-          "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
-          "url": "https://www.cls.cn/detail/2268686",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 09时23分]"
-        },
-        {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
           "url": "https://www.zhihu.com/question/1998457273891120214",
           "source": "知乎",
@@ -55,6 +42,19 @@
             12,
             13,
             17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 13时31分]"
+        },
+        {
+          "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
+          "url": "https://www.cls.cn/detail/2268686",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -101,6 +101,17 @@
           "time_info": "[00时20分 ~ 05时15分]"
         },
         {
+          "title": "银河通用成为2026春晚指定具身大模型机器人",
+          "url": "https://www.cls.cn/detail/2268904",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 13时31分]"
+        },
+        {
           "title": "人工智能引发的内存短缺迫使汽车制造商重新设计半导体",
           "url": "https://flash.jin10.com/detail/20260126051356994800",
           "source": "金十数据",
@@ -113,26 +124,16 @@
           "time_info": "[06时16分 ~ 07时17分]"
         },
         {
-          "title": "银河通用成为2026春晚指定具身大模型机器人",
-          "url": "https://www.cls.cn/detail/2268904",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 12时53分]"
-        },
-        {
           "title": "你怎么看iPhone Air降价",
           "url": "https://www.toutiao.com/trending/7599137251189800969/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 13时31分]"
         },
         {
           "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
@@ -142,8 +143,31 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 13时31分]"
+        },
+        {
+          "title": "网友刚买iPhoneAir第二天就降价2000元",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%88%9A%E4%B9%B0iPhoneAir%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%B0%B1%E9%99%8D%E4%BB%B72000%E5%85%83%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 13时31分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-26）",
+          "url": "https://flash.jin10.com/detail/20260126115143717800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
+          "time_info": "[12时53分 ~ 13时31分]"
         },
         {
           "title": "Anthropic据悉曾与苹果就为其重建Siri人工智能助手提供模型展开谈判，但这项或价值数十亿美元的交易因双方在财务条款方面存在分歧，最终未能达成协议。（The Information）",
@@ -168,28 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 12时53分]"
-        },
-        {
-          "title": "网友刚买iPhoneAir第二天就降价2000元",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%88%9A%E4%B9%B0iPhoneAir%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%B0%B1%E9%99%8D%E4%BB%B72000%E5%85%83%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-26）",
-          "url": "https://flash.jin10.com/detail/20260126115143717800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
         },
         {
           "title": "据TheInformation：Anthropic据悉曾与苹果(AAPL.O)就为其重建Siri人工智能助手提供模型展开谈判，但这项或价值数十亿美元的交易因双方在财务条款方面存在分歧，谈判最终未能达成一致。",
@@ -224,11 +226,12 @@
           "url": "https://www.toutiao.com/trending/7599480136756366899/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 13时31分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -238,8 +241,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 12时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时31分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -249,8 +252,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 13时31分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -261,8 +264,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 13时31分]"
         },
         {
           "title": "分析师：金价或继续受益于美元走弱",
@@ -271,7 +274,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
