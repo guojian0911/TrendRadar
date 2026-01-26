@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T09:23:57.702199+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-01-26T11:53:47.318896+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -68,11 +68,12 @@
             19,
             20,
             18,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 09时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 11时53分]"
         },
         {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
@@ -112,13 +113,57 @@
           "time_info": "[06时16分 ~ 07时17分]"
         },
         {
+          "title": "银河通用成为2026春晚指定具身大模型机器人",
+          "url": "https://www.cls.cn/detail/2268904",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "据TheInformation：Anthropic据悉曾与苹果(AAPL.O)就为其重建Siri人工智能助手提供模型展开谈判，但这项或价值数十亿美元的交易因双方在财务条款方面存在分歧，谈判最终未能达成一致。",
+          "url": "https://flash.jin10.com/detail/20260126111427809800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "Anthropic据悉曾与苹果就为其重建Siri人工智能助手提供模型展开谈判，但这项或价值数十亿美元的交易因双方在财务条款方面存在分歧，最终未能达成协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3043632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "腾讯元宝内测“元宝派”，探索社交AI新形态",
+          "url": "https://wallstreetcn.com/livenews/3043628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
           "title": "马来西亚林吉特升至2018年以来最强 受经济增长、AI乐观情绪所提振",
           "url": "https://wallstreetcn.com/livenews/3043493",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         }
@@ -126,7 +171,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际金价突破5000美元关口",
@@ -135,9 +180,42 @@
           "ranks": [
             21
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 11时53分]"
+        },
+        {
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "11时53分"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）上海金早盘价为1138.96元/克，较国际金价(1133.69元/克)，高5.27元/克",
+          "url": "https://flash.jin10.com/detail/20260126110251702800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         }
       ]
     },
