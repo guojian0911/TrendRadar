@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T03:24:28.039022+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-01-29T04:24:33.125990+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -49,11 +49,24 @@
             17,
             13,
             9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
+          "title": "马云谈AI时代教育",
+          "url": "https://www.toutiao.com/trending/7600274916425351187/",
+          "source": "今日头条",
+          "ranks": [
+            16,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "刘强东给老家建了间AI教室",
@@ -63,19 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
-        },
-        {
-          "title": "马云谈AI时代教育",
-          "url": "https://www.toutiao.com/trending/7600274916425351187/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -106,7 +108,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -117,7 +119,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         }
@@ -135,8 +137,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -147,8 +149,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -160,8 +162,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -171,8 +173,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -184,8 +186,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "金价波动",
@@ -196,8 +198,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时24分]"
         }
       ]
     }
