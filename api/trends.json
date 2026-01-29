@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T05:23:06.293181+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-01-30T06:23:25.123429+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -15,19 +15,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时23分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
           "url": "https://wallstreetcn.com/articles/3764410",
           "source": "华尔街见闻",
           "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时23分]"
+        },
+        {
+          "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
+          "url": "https://wallstreetcn.com/articles/3764497",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时23分]"
         },
         {
           "title": "谷歌DeepMind登Nature封面",
@@ -40,8 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时23分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -52,20 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 05时23分]"
-        },
-        {
-          "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
-          "url": "https://wallstreetcn.com/articles/3764497",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时23分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -76,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时23分]"
         },
         {
           "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
@@ -86,20 +88,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
         {
-          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
-          "url": "https://wallstreetcn.com/livenews/3046688",
+          "title": "据知情人士透露，马斯克旗下SpaceX考虑与特斯拉合并，或者与xAI合并。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3046720",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "06时23分"
         },
         {
           "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
@@ -139,6 +141,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时34分 ~ 03时28分]"
+        },
+        {
+          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
+          "url": "https://wallstreetcn.com/livenews/3046688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时23分]"
         },
         {
           "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
@@ -196,9 +210,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：AirPods Pro 3第一季度供应受限。",
+          "url": "https://flash.jin10.com/detail/20260130053408045800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：谷歌技术将改进Siri，今年晚些时候将推出更新。",
+          "url": "https://flash.jin10.com/detail/20260130053331911800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
@@ -207,9 +243,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "铠侠（Kioxia）与Sandisk将Yokkaichi合资协议延长至2034年。",
+          "url": "https://wallstreetcn.com/livenews/3046700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "消息人士称，美国国防部与Anthropic公司在人工智能模型军事用途的安全保障方面存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260130051543942800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "新兴市场股票、外汇指数走低，微软业绩报告加重投资者对AI的顾虑。",
@@ -234,13 +292,24 @@
           "time_info": "01时34分"
         },
         {
+          "title": "Sandisk第二财季营收30.3亿美元，增幅31%，高于公司原来所给指引区间。 数据中心营收增长64%，受AI基础设施建设方等强劲应用的驱动。 预计第三财季营收44亿-48亿美元。 Sandisk美股盘后涨13%。",
+          "url": "https://wallstreetcn.com/livenews/3046691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "报道：SpaceX在潜在上市前与xAI讨论合并",
           "url": "https://wallstreetcn.com/livenews/3046654",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         }
@@ -248,7 +317,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -259,8 +328,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时23分]"
         },
         {
           "title": "金价",
@@ -273,8 +342,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时23分]"
         },
         {
           "title": "金价上涨打金店2天亏5万",
@@ -287,8 +356,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时23分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -298,8 +367,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时23分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -309,8 +378,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时23分]"
         },
         {
           "title": "金价暴涨第一批受害者出现",
@@ -321,8 +390,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时23分]"
         },
         {
           "title": "一口气看懂金价涨跌的底层逻辑",
@@ -331,11 +400,12 @@
           "ranks": [
             18,
             21,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时23分]"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -347,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "高盛：上调今明两年金价预测",
+          "url": "https://www.toutiao.com/trending/7600254146813558827/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         }
       ]
     },
@@ -364,8 +445,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时23分]"
         }
       ]
     },
