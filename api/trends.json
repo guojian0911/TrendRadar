@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T21:53:22.757067+08:00",
-  "total_titles_processed": 2015,
+  "generated_at": "2026-01-30T22:33:06.562856+08:00",
+  "total_titles_processed": 2088,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时28分 ~ 21时53分]"
+          "appearance_count": 18,
+          "time_info": "[09时28分 ~ 22时33分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -61,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时42分 ~ 21时53分]"
+          "appearance_count": 16,
+          "time_info": "[13时42分 ~ 22时33分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -108,11 +108,12 @@
             17,
             18,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时38分 ~ 21时53分]"
+          "appearance_count": 30,
+          "time_info": "[00时38分 ~ 22时33分]"
         },
         {
           "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
@@ -363,6 +364,18 @@
           "time_info": "[03时28分 ~ 05时23分]"
         },
         {
+          "title": "AI股民在股市里会如何表现",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%82%A1%E6%B0%91%E5%9C%A8%E8%82%A1%E5%B8%82%E9%87%8C%E4%BC%9A%E5%A6%82%E4%BD%95%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 22时33分]"
+        },
+        {
           "title": "被称为「跨境电商版 Sora」的 AI 营销视频智能体「Hilight」发布了，有哪些亮点信息值得关注？",
           "url": "https://www.zhihu.com/question/1999485506963075471",
           "source": "知乎",
@@ -454,6 +467,17 @@
           "time_info": "15时38分"
         },
         {
+          "title": "据AXIOS网站：OpenAI总裁布罗克曼与风险投资公司A16Z向支持人工智能的超级政治行动委员会（Pro-AI Super PAC）捐款。",
+          "url": "https://flash.jin10.com/detail/20260130220348095800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "苹果CEO：将思考与谷歌公司（关于大模型Gemini）的合作。 苹果将继续独立地“开发一些自己的东西”。",
           "url": "https://wallstreetcn.com/livenews/3046736",
           "source": "华尔街见闻-快讯",
@@ -496,17 +520,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        },
-        {
-          "title": "AI股民在股市里会如何表现",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%82%A1%E6%B0%91%E5%9C%A8%E8%82%A1%E5%B8%82%E9%87%8C%E4%BC%9A%E5%A6%82%E4%BD%95%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
         },
         {
           "title": "苹果公司：要不是Airpods（供应）短缺的话，可穿戴设备本来应该实现增长的。",
@@ -633,7 +646,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -898,6 +911,17 @@
           "time_info": "[18时28分 ~ 18时29分]"
         },
         {
+          "title": "新闻分析：国际金价持续上升，原因几何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32492182",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 22时33分]"
+        },
+        {
           "title": "金价跌幅扩大至5%。",
           "url": "https://wallstreetcn.com/livenews/3046584",
           "source": "华尔街见闻-快讯",
@@ -926,7 +950,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
