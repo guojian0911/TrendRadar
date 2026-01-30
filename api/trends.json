@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-30T16:32:58.412597+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2026-01-30T17:34:17.727740+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 17时34分]"
+        },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
           "url": "https://wallstreetcn.com/articles/3764410",
@@ -33,19 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时38分 ~ 16时32分]"
-        },
-        {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时28分 ~ 16时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 17时34分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -86,11 +86,25 @@
             11,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时38分 ~ 16时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 17时34分]"
+        },
+        {
+          "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
+          "url": "https://wallstreetcn.com/articles/3764501",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 17时34分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -105,19 +119,6 @@
           "time_info": "[00时38分 ~ 07时23分]"
         },
         {
-          "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
-          "url": "https://wallstreetcn.com/articles/3764501",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时28分 ~ 16时32分]"
-        },
-        {
           "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
           "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
           "source": "澎湃新闻",
@@ -128,8 +129,36 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 17时34分]"
+        },
+        {
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时05分 ~ 17时34分]"
+        },
+        {
+          "title": "我的马耶这春晚AI做的",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E9%A9%AC%E8%80%B6%E8%BF%99%E6%98%A5%E6%99%9AAI%E5%81%9A%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 17时34分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -141,20 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 07时23分]"
-        },
-        {
-          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时05分 ~ 16时32分]"
         },
         {
           "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
@@ -170,17 +185,29 @@
           "time_info": "[09时28分 ~ 14时42分]"
         },
         {
-          "title": "我的马耶这春晚AI做的",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E9%A9%AC%E8%80%B6%E8%BF%99%E6%98%A5%E6%99%9AAI%E5%81%9A%E7%9A%84",
-          "source": "bilibili 热搜",
+          "title": "SpaceX被曝拟合并xAI",
+          "url": "https://www.douyin.com/hot/2383918",
+          "source": "抖音",
           "ranks": [
-            5,
-            16,
-            10
+            10,
+            11,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 16时32分]"
+          "appearance_count": 6,
+          "time_info": "[14时41分 ~ 17时34分]"
+        },
+        {
+          "title": "SpaceX或与xAI合并",
+          "url": "https://search.bilibili.com/all?keyword=SpaceX%E6%88%96%E4%B8%8ExAI%E5%90%88%E5%B9%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
         },
         {
           "title": "微软市值单日蒸发3600亿美元，AI支出多到投资者不安",
@@ -290,19 +317,6 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
-          "title": "SpaceX被曝拟合并xAI",
-          "url": "https://www.douyin.com/hot/2383918",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时41分 ~ 16时32分]"
-        },
-        {
           "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
           "url": "https://wallstreetcn.com/livenews/3046652",
           "source": "华尔街见闻-快讯",
@@ -314,6 +328,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时28分 ~ 05时23分]"
+        },
+        {
+          "title": "被称为「跨境电商版 Sora」的 AI 营销视频智能体「Hilight」发布了，有哪些亮点信息值得关注？",
+          "url": "https://www.zhihu.com/question/1999485506963075471",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 17时34分]"
         },
         {
           "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
@@ -462,17 +487,6 @@
           "time_info": "09时28分"
         },
         {
-          "title": "被称为「跨境电商版 Sora」的 AI 营销视频智能体「Hilight」发布了，有哪些亮点信息值得关注？",
-          "url": "https://www.zhihu.com/question/1999485506963075471",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
           "title": "铠侠（Kioxia）与Sandisk将Yokkaichi合资协议延长至2034年。",
           "url": "https://wallstreetcn.com/livenews/3046700",
           "source": "华尔街见闻-快讯",
@@ -564,7 +578,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -579,8 +593,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时38分 ~ 16时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 17时34分]"
         },
         {
           "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
@@ -704,6 +718,19 @@
           "time_info": "[09时28分 ~ 14时42分]"
         },
         {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时41分 ~ 17时34分]"
+        },
+        {
           "title": "黄金价格暴跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -718,16 +745,29 @@
           "time_info": "[12时05分 ~ 15时38分]"
         },
         {
-          "title": "黄金价格回调开始了吗",
-          "url": "https://www.toutiao.com/trending/7600951694344405055/",
-          "source": "今日头条",
+          "title": "市场聚焦新美联储主席，美元走强美债下跌，商品市场遭遇黑色星期五，银价跌9%、金价跌5%",
+          "url": "https://wallstreetcn.com/articles/3764541",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            21
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 17时34分]"
+        },
+        {
+          "title": "金价28分钟内暴跌380美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时41分 ~ 16时32分]"
+          "time_info": "[15时38分 ~ 17时34分]"
         },
         {
           "title": "Anthropic CEO 发布万字长文《技术的青春期》，有哪些信息值得关注？",
@@ -742,27 +782,15 @@
           "time_info": "[15时38分 ~ 16时32分]"
         },
         {
-          "title": "金价28分钟内暴跌380美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B728%E5%88%86%E9%92%9F%E5%86%85%E6%9A%B4%E8%B7%8C380%E7%BE%8E%E5%85%83%23&t=31&band_rank=22&Refer=top",
+          "title": "金价跌破5100美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B45100%E7%BE%8E%E5%85%83%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            22,
-            23
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时38分 ~ 16时32分]"
-        },
-        {
-          "title": "市场聚焦新美联储主席，美元走强美债下跌，商品市场遭遇黑色星期五，银价跌9%、金价跌5%",
-          "url": "https://wallstreetcn.com/articles/3764541",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "[17时33分 ~ 17时34分]"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -793,7 +821,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -841,11 +869,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 17时34分]"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
