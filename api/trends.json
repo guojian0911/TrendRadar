@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T07:18:33.708527+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-02-01T09:52:51.956990+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时52分]"
         },
         {
           "title": "UP体验谷歌最新世界模型",
@@ -30,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时52分]"
         },
         {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
@@ -43,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时52分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -54,11 +55,12 @@
             7,
             8,
             9,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 09时52分]"
         },
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -136,15 +138,27 @@
           "time_info": "[00时22分 ~ 05时17分]"
         },
         {
+          "title": "揭秘OpenAI掌门人的上位史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98OpenAI%E6%8E%8C%E9%97%A8%E4%BA%BA%E7%9A%84%E4%B8%8A%E4%BD%8D%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
           "url": "https://wallstreetcn.com/articles/3764643",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时20分 ~ 07时18分]"
+          "appearance_count": 5,
+          "time_info": "[04时20分 ~ 09时52分]"
         },
         {
           "title": "男子被AI诊断梅毒医生否认却不信",
@@ -164,7 +178,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         }
@@ -172,7 +186,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -180,11 +194,12 @@
           "source": "微博",
           "ranks": [
             5,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时52分]"
         },
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -195,8 +210,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 07时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 09时52分]"
         },
         {
           "title": "金价波动",
@@ -279,6 +294,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时20分]"
+        },
+        {
+          "title": "金价大跌 男子斥资20多万买入200克",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E7%94%B7%E5%AD%90%E6%96%A5%E8%B5%8420%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%85%A5200%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "金价巨震 有人昨天赚5万今天倒亏4万",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%B7%A8%E9%9C%87+%E6%9C%89%E4%BA%BA%E6%98%A8%E5%A4%A9%E8%B5%9A5%E4%B8%87%E4%BB%8A%E5%A4%A9%E5%80%92%E4%BA%8F4%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         }
       ]
     }
