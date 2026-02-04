@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T15:41:39.563670+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-02-04T16:35:37.433473+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 66,
+      "match_count": 70,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -38,11 +38,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 15时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 16时35分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -55,6 +56,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时45分 ~ 07时25分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 16时35分]"
         },
         {
           "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
@@ -93,17 +106,6 @@
           "time_info": "[00时45分 ~ 07时25分]"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 15时41分]"
-        },
-        {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
           "url": "https://www.cls.cn/detail/2279188",
           "source": "财联社热门",
@@ -136,8 +138,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 15时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 16时35分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -195,6 +197,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 16时35分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -316,17 +330,6 @@
           "time_info": "[13时44分 ~ 15时41分]"
         },
         {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 15时41分]"
-        },
-        {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
           "url": "https://wallstreetcn.com/livenews/3049304",
           "source": "华尔街见闻-快讯",
@@ -360,6 +363,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时49分 ~ 02时50分]"
+        },
+        {
+          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
+          "url": "https://www.cls.cn/detail/2280058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时35分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -420,6 +435,17 @@
           "time_info": "05时30分"
         },
         {
+          "title": "广东：加快建设国家人工智能应用中试基地，积极布局省级中试平台",
+          "url": "https://wallstreetcn.com/livenews/3049725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "CenterView高管Blair Effron：在（并购/M&A）交易方面，我们的确面临大量的尾部风险。 经济、受抑的需求、监管都帮助推进并购。",
           "url": "https://wallstreetcn.com/livenews/3049303",
           "source": "华尔街见闻-快讯",
@@ -451,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
@@ -541,17 +578,6 @@
           "time_info": "09时28分"
         },
         {
-          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
-          "url": "https://www.cls.cn/detail/2280058",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
           "title": "AMD第四财季来自中国的MI308 AI芯片销售额为3.9亿美元。 剔除MI380的中国销售为98亿美元。",
           "url": "https://wallstreetcn.com/livenews/3049341",
           "source": "华尔街见闻-快讯",
@@ -616,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "中国人工智能产业发展联盟：突破算力芯片、工业大模型等关键技术 做优应用生态",
+          "url": "https://wallstreetcn.com/livenews/3049706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "最近刷屏的 AI 助手 ClawdBot，爆火的原因是什么？",
@@ -739,6 +776,17 @@
           "time_info": "01时50分"
         },
         {
+          "title": "“人工智能+电影虚拟拍摄融合创新实验室”揭牌",
+          "url": "https://wallstreetcn.com/livenews/3049685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
           "url": "https://flash.jin10.com/detail/20260204015701016800",
           "source": "金十数据",
@@ -764,7 +812,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -806,8 +854,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 15时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 16时35分]"
         },
         {
           "title": "Anthropic PBC：苹果公司的xCode现在支持Claude Agent SDK。",
@@ -822,6 +870,29 @@
           "time_info": "[02时50分 ~ 03时43分]"
         },
         {
+          "title": "金价暴力反弹重上5000美元",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时35分]"
+        },
+        {
+          "title": "富达国际明星基金经理放话：金价再跌5%-7%将大举抄底",
+          "url": "https://flash.jin10.com/detail/20260204161737425800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "精准逃顶后拟反手做多 富达基金经理看好金价回调买入机会",
           "url": "https://flash.jin10.com/detail/20260204141709898800",
           "source": "金十数据",
@@ -833,6 +904,17 @@
           "time_info": "14时44分"
         },
         {
+          "title": "金价创2009年以来最大单日涨幅",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2009%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "市场消息：Anthropic计划以3500亿美元估值进行员工股权要约收购。",
           "url": "https://flash.jin10.com/detail/20260204084223933800",
           "source": "金十数据",
@@ -842,17 +924,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "金价暴力反弹重上5000美元",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时41分"
         }
       ]
     }
