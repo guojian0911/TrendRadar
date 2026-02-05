@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T22:03:48.541874+08:00",
-  "total_titles_processed": 1987,
+  "generated_at": "2026-02-05T23:37:41.009114+08:00",
+  "total_titles_processed": 2110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时22分 ~ 22时03分]"
+          "appearance_count": 17,
+          "time_info": "[07时22分 ~ 23时37分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时29分 ~ 22时03分]"
+          "appearance_count": 15,
+          "time_info": "[09时29分 ~ 23时37分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -114,6 +114,20 @@
           "time_info": "[00时41分 ~ 05时29分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时46分 ~ 23时37分]"
+        },
+        {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
           "url": "https://www.cls.cn/detail/2281205",
           "source": "财联社热门",
@@ -154,19 +168,6 @@
           "time_info": "[09时29分 ~ 16时38分]"
         },
         {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时46分 ~ 22时03分]"
-        },
-        {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
           "url": "https://news.ifeng.com/c/8qTccGGdcdv",
           "source": "凤凰网",
@@ -198,8 +199,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 22时03分]"
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 23时37分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-05）",
@@ -334,6 +335,18 @@
           "time_info": "[18时36分 ~ 20时50分]"
         },
         {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时37分]"
+        },
+        {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
           "url": "https://wallstreetcn.com/livenews/3050117",
           "source": "华尔街见闻-快讯",
@@ -418,17 +431,6 @@
           "time_info": "[05时29分 ~ 06时22分]"
         },
         {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
           "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
           "url": "https://wallstreetcn.com/livenews/3050126",
           "source": "华尔街见闻-快讯",
@@ -440,6 +442,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
+          "url": "https://wallstreetcn.com/articles/3765006",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
           "url": "https://wallstreetcn.com/livenews/3050124",
           "source": "华尔街见闻-快讯",
@@ -449,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
+          "url": "https://www.cls.cn/detail/2281879",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "市场消息：人工智能芯片制造商Cerebras Systems以230亿美元的估值完成10亿美元的H轮融资。",
@@ -528,6 +552,28 @@
           "time_info": "07时23分"
         },
         {
+          "title": "Gemini跌5%，该公司计划裁员，关闭多地的账号。",
+          "url": "https://wallstreetcn.com/livenews/3050752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "谷歌母公司Alphabet跌7%，创5月7日以来最差盘中表现。 该公司出现历史性财务里程碑：年营收首破4000亿美元大关。季度合并营收同比增长18%，全年营收同比增长15%。预计2026年资本支出将进一步扩大至1750亿-1850亿美元，同比翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3050751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "工信部等八部门：运用人工智能、大数据等新一代信息技术 构建特色方剂知识图谱和图神经网络",
           "url": "https://wallstreetcn.com/livenews/3050530",
           "source": "华尔街见闻-快讯",
@@ -545,7 +591,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -625,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "Gemini Space Station Inc.（GEMI）计划裁员至多200人，在全球员工总数占比大约25%。 预计将发生大约0.11亿美元费用。 将继续在美国和新加坡运营。 将退出欧洲和澳大利亚市场。",
+          "url": "https://wallstreetcn.com/livenews/3050744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "特朗普：AI将成为最大的就业、军事和医疗生产者。",
