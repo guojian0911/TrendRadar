@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T18:36:43.996723+08:00",
-  "total_titles_processed": 1644,
+  "generated_at": "2026-02-05T19:32:31.963288+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时22分 ~ 18时36分]"
+          "appearance_count": 14,
+          "time_info": "[07时22分 ~ 19时32分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时29分 ~ 18时36分]"
+          "appearance_count": 12,
+          "time_info": "[09时29分 ~ 19时32分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 18时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时41分 ~ 19时32分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -85,6 +85,46 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时41分 ~ 05时29分]"
+        },
+        {
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时46分 ~ 19时32分]"
+        },
+        {
+          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
+          "url": "https://www.cls.cn/detail/2281407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时46分 ~ 19时32分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时52分 ~ 19时32分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -100,20 +140,6 @@
           "time_info": "[12时10分 ~ 16时38分]"
         },
         {
-          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
-          "url": "https://www.cls.cn/detail/2281373",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时46分 ~ 18时36分]"
-        },
-        {
           "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
           "url": "https://www.cls.cn/detail/2281019",
           "source": "财联社热门",
@@ -126,32 +152,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时29分 ~ 16时38分]"
-        },
-        {
-          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
-          "url": "https://www.cls.cn/detail/2281407",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时46分 ~ 18时36分]"
-        },
-        {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时52分 ~ 18时36分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -177,6 +177,17 @@
           "time_info": "[01时42分 ~ 09时29分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时46分 ~ 19时32分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-05）",
           "url": "https://flash.jin10.com/detail/20260205115645206800",
           "source": "金十数据",
@@ -186,17 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时46分 ~ 18时36分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -282,6 +282,17 @@
           "time_info": "[06时22分 ~ 07时23分]"
         },
         {
+          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 19时32分]"
+        },
+        {
           "title": "谷歌营收业绩超预期，2026年资本开支超预期",
           "url": "https://wallstreetcn.com/livenews/3050103",
           "source": "华尔街见闻-快讯",
@@ -293,17 +304,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时23分]"
-        },
-        {
-          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 15时47分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -364,6 +364,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时23分]"
+        },
+        {
+          "title": "如何评价李开复「AI 领域里手机是绝对错误的设备」的观点？为何他不看好 AI 手机？",
+          "url": "https://www.zhihu.com/question/2002683972233159732",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 19时32分]"
         },
         {
           "title": "德国财政部长：AI中心将增强数字主权",
@@ -487,17 +499,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "如何评价李开复「AI 领域里手机是绝对错误的设备」的观点？为何他不看好 AI 手机？",
-          "url": "https://www.zhihu.com/question/2002683972233159732",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
         },
         {
           "title": "工信部等八部门：运用人工智能、大数据等新一代信息技术 构建特色方剂知识图谱和图神经网络",
