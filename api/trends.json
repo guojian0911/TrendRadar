@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T14:47:17.268578+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-02-06T15:43:20.838343+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
             2,
             7,
             19,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 14时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时49分 ~ 15时43分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -93,8 +94,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 14时47分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 15时43分]"
         },
         {
           "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
@@ -104,8 +105,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 15时43分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -121,17 +122,6 @@
           "time_info": "[00时49分 ~ 06时22分]"
         },
         {
-          "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
           "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
           "url": "https://www.cls.cn/detail/2282228",
           "source": "财联社热门",
@@ -140,19 +130,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 14时47分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-06）",
-          "url": "https://flash.jin10.com/detail/20260206115422296800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 15时43分]"
         },
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
@@ -164,8 +143,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 15时43分]"
+        },
+        {
+          "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-06）",
+          "url": "https://flash.jin10.com/detail/20260206115422296800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "唐宫奇案剧宣闯入ai赛道",
@@ -375,7 +376,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -430,7 +431,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -460,8 +461,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 15时43分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
