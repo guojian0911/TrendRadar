@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T15:43:20.838343+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-02-06T16:36:19.319947+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 15时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 16时36分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -86,6 +86,18 @@
           "time_info": "[00时45分 ~ 09时29分]"
         },
         {
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 16时36分]"
+        },
+        {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
           "url": "https://www.cls.cn/detail/2282247",
           "source": "财联社热门",
@@ -98,15 +110,17 @@
           "time_info": "[07时20分 ~ 15时43分]"
         },
         {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时50分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 16时36分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -128,19 +142,6 @@
           "ranks": [
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 15时43分]"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -461,8 +462,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 16时36分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
