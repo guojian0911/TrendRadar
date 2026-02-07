@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T12:05:00.881711+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-02-07T13:38:51.939587+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 12时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 13时38分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -29,11 +29,12 @@
           "ranks": [
             17,
             19,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 12时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 13时38分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
@@ -105,6 +106,17 @@
           "time_info": "[00时38分 ~ 07时21分]"
         },
         {
+          "title": "UP主联合自制AI春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
           "url": "https://wallstreetcn.com/livenews/3051623",
           "source": "华尔街见闻-快讯",
@@ -114,17 +126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        },
-        {
-          "title": "全球首个南海海-气双向耦合智能大模型发布，台风预报更精准",
-          "url": "https://wallstreetcn.com/livenews/3051682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -160,6 +161,18 @@
           "time_info": "05时27分"
         },
         {
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 13时38分]"
+        },
+        {
           "title": "UP主们用AI办了场春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
@@ -174,16 +187,29 @@
           "time_info": "[00时38分 ~ 03时35分]"
         },
         {
+          "title": "全球首个南海海-气双向耦合智能大模型发布，台风预报更精准",
+          "url": "https://wallstreetcn.com/livenews/3051682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时38分]"
+        },
+        {
           "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
           "url": "https://wallstreetcn.com/livenews/3051663",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 13时38分]"
         },
         {
           "title": "我国首次明确培育三类数据流通服务机构，助力“人工智能+”行动",
@@ -191,11 +217,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 13时38分]"
+        },
+        {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 13时38分]"
+        },
+        {
+          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
+          "url": "https://www.cls.cn/detail/2283577",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 13时38分]"
         },
         {
           "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
@@ -244,27 +295,29 @@
           "time_info": "[04时28分 ~ 07时21分]"
         },
         {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时05分]"
-        },
-        {
-          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
-          "url": "https://www.cls.cn/detail/2283577",
+          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
+          "url": "https://www.cls.cn/detail/2283603",
           "source": "财联社热门",
           "ranks": [
-            9
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时05分]"
+          "time_info": "[12时04分 ~ 13时38分]"
+        },
+        {
+          "title": "景林资产四季度减持英伟达超150万股，进一步增仓拼多多，重仓谷歌A、Meta、拼多多",
+          "url": "https://wallstreetcn.com/livenews/3051649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 13时38分]"
         },
         {
           "title": "美国银行：从轻资产模式转向重资产模式意味着所谓美股科技七巨头的主导地位面临“重大威胁”。 今年大型科技公司在人工智能领域的资本开支预计约为6700亿美元，相当于其现金流的96%，而2023年这一比例仅为40%。 不再是拥有最佳资产负债表的公司，也不再是进行大规模股票回购的公司。",
@@ -291,38 +344,16 @@
           "time_info": "[01时38分 ~ 02时41分]"
         },
         {
-          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
-          "url": "https://www.cls.cn/detail/2283350",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
-        },
-        {
-          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
-          "url": "https://www.cls.cn/detail/2283603",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
-        },
-        {
-          "title": "景林资产四季度减持英伟达超150万股，进一步增仓拼多多，重仓谷歌A、Meta、拼多多",
-          "url": "https://wallstreetcn.com/livenews/3051649",
+          "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
+          "url": "https://wallstreetcn.com/livenews/3051672",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            25
+            9,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时28分 ~ 12时05分]"
+          "time_info": "[12时05分 ~ 13时38分]"
         },
         {
           "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
@@ -360,17 +391,6 @@
           "time_info": "[12时04分 ~ 12时05分]"
         },
         {
-          "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
-          "url": "https://wallstreetcn.com/livenews/3051672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
           "title": "Gen Digital首席执行官：在人工智能威胁之下，消费者既需要网络安全工具，也需要个人理财工具。",
           "url": "https://flash.jin10.com/detail/20260207023122582800",
           "source": "金十数据",
@@ -402,6 +422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "阿里如何用AI重新定义自己",
+          "url": "https://www.toutiao.com/trending/7603783138296204806/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "美联储副主席杰斐逊：无法说明当前生产率中有多少可归因于人工智能。",
@@ -573,22 +604,24 @@
           "url": "https://flash.jin10.com/detail/20260207093512214800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时38分]"
         },
         {
           "title": "市场消息 :Anthropic逾200亿美元融资最快下周完成。",
           "url": "https://flash.jin10.com/detail/20260207091527019800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时38分]"
         }
       ]
     },
