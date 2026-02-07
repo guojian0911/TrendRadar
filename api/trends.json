@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T15:29:09.240163+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-02-07T16:25:36.323678+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -19,8 +19,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 15时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 16时25分]"
+        },
+        {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 16时25分]"
+        },
+        {
+          "title": "UP主联合自制AI春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 16时25分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -32,11 +57,12 @@
             13,
             12,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 15时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 16时25分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
@@ -51,6 +77,19 @@
           "time_info": "[00时38分 ~ 09时28分]"
         },
         {
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 16时25分]"
+        },
+        {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3765100",
           "source": "华尔街见闻",
@@ -63,30 +102,6 @@
           "time_info": "[00时38分 ~ 06时19分]"
         },
         {
-          "title": "UP主联合自制AI春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 15时29分]"
-        },
-        {
-          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
-          "url": "https://www.cls.cn/detail/2283350",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 15时29分]"
-        },
-        {
           "title": "苹果计划允许第三方语音控制AI聊天机器人接入CarPlay",
           "url": "https://flash.jin10.com/detail/20260207040949574800",
           "source": "金十数据",
@@ -96,19 +111,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 07时21分]"
-        },
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 15时29分]"
         },
         {
           "title": "Gravity AI：拟申请在纳斯达克资本市场上市，正提交IPO申请，拟发行375万股，每股发行价格暂定为4.00美元，处于4.00美元至5.00美元发行区间低端。",
@@ -143,8 +145,21 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 16时25分]"
+        },
+        {
+          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
+          "url": "https://www.cls.cn/detail/2283603",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时28分 ~ 15时29分]"
+          "time_info": "[12时04分 ~ 16时25分]"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -159,17 +174,19 @@
           "time_info": "[00时38分 ~ 07时21分]"
         },
         {
-          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
-          "url": "https://www.cls.cn/detail/2283603",
-          "source": "财联社热门",
+          "title": "全球首个南海海-气双向耦合智能大模型发布，台风预报更精准",
+          "url": "https://wallstreetcn.com/livenews/3051682",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
+            3,
+            7,
+            9,
             12,
-            13
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 16时25分]"
         },
         {
           "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
@@ -213,6 +230,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
+          "url": "https://wallstreetcn.com/livenews/3051701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
           "url": "https://www.cls.cn/detail/2282989",
           "source": "财联社热门",
@@ -235,20 +263,6 @@
           "time_info": "01时38分"
         },
         {
-          "title": "全球首个南海海-气双向耦合智能大模型发布，台风预报更精准",
-          "url": "https://wallstreetcn.com/livenews/3051682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 15时29分]"
-        },
-        {
           "title": "本周，标普累跌约0.2%，道指累涨约2.5%，纳指累跌1.6%，半导体指数累涨0.8%，科技七巨头指数累跌3.2%、超大市值科技股指数累跌4.6%，银行指数累涨5.2%，生物科技指数累涨2.2%，小盘股指累涨2.1%。 标普500指数初步收涨2%，科技板块涨4.2%，工业板块涨2.8%，能源板块涨1.9%。 纳斯达克100指数初步收涨2.2%，成分股中，Strategy涨25.8%，Arm控股涨11.6%，西部数据涨8.7%，英伟达涨8.1%，谷歌A跌2.4%，亚马逊跌5.3%。 卡特彼勒初步收涨7%，安进、3M、高盛涨超4%，和英伟达领跑道指成分股，亚马逊表现最差。",
           "url": "https://wallstreetcn.com/livenews/3051618",
           "source": "华尔街见闻-快讯",
@@ -258,6 +272,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
+          "url": "https://wallstreetcn.com/livenews/3051672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13,
+            15,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 16时25分]"
         },
         {
           "title": "UP主们用AI办了场春晚",
@@ -274,18 +303,17 @@
           "time_info": "[00时38分 ~ 03时35分]"
         },
         {
-          "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
-          "url": "https://wallstreetcn.com/livenews/3051672",
-          "source": "华尔街见闻-快讯",
+          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
+          "url": "https://wallstreetcn.com/articles/3765209",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            13,
-            15,
-            18
+            10,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时05分 ~ 15时29分]"
+          "time_info": "[14时36分 ~ 16时25分]"
         },
         {
           "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
@@ -332,18 +360,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 07时21分]"
-        },
-        {
-          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
-          "url": "https://wallstreetcn.com/articles/3765209",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 15时29分]"
         },
         {
           "title": "景林资产四季度减持英伟达超150万股，进一步增仓拼多多，重仓谷歌A、Meta、拼多多",
@@ -438,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "你认为AI会替代软件开发吗",
+          "url": "https://www.toutiao.com/trending/7603910615171301402/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "英伟达CEO黄仁勋：与OpenAI并无矛盾。他们需要我公司的新一代芯片。",
