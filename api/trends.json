@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T22:15:22.422981+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2026-02-09T23:52:02.955678+08:00",
+  "total_titles_processed": 1825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时47分 ~ 22时15分]"
+          "appearance_count": 18,
+          "time_info": "[09时47分 ~ 23时52分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -80,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时04分 ~ 22时15分]"
+          "appearance_count": 14,
+          "time_info": "[14时04分 ~ 23时52分]"
         },
         {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
@@ -90,11 +90,12 @@
           "ranks": [
             9,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时54分 ~ 22时15分]"
+          "appearance_count": 12,
+          "time_info": "[15时54分 ~ 23时52分]"
         },
         {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
@@ -108,8 +109,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时23分 ~ 22时15分]"
+          "appearance_count": 16,
+          "time_info": "[12时23分 ~ 23时52分]"
+        },
+        {
+          "title": "AIGC整活新春联欢会",
+          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            1,
+            2,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时58分 ~ 23时52分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -149,20 +165,6 @@
           "time_info": "[00时24分 ~ 09时48分]"
         },
         {
-          "title": "AIGC整活新春联欢会",
-          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            1,
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时58分 ~ 22时15分]"
-        },
-        {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
@@ -176,6 +178,19 @@
           "time_info": "[00时24分 ~ 12时24分]"
         },
         {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时58分 ~ 23时52分]"
+        },
+        {
           "title": "OpenClaw走红，个人AI代理时代真的来了",
           "url": "https://wallstreetcn.com/articles/3765254",
           "source": "华尔街见闻",
@@ -187,6 +202,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[09时47分 ~ 19时43分]"
+        },
+        {
+          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
+          "url": "https://www.cls.cn/detail/2284846",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时42分 ~ 23时52分]"
         },
         {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
@@ -231,6 +259,19 @@
           "time_info": "[00时24分 ~ 07时26分]"
         },
         {
+          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
+          "url": "https://www.cls.cn/detail/2284689",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时58分 ~ 23时52分]"
+        },
+        {
           "title": "UP主用AI做影游融合沉浸式科普",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
           "source": "bilibili 热搜",
@@ -244,43 +285,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时24分 ~ 09时48分]"
-        },
-        {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时58分 ~ 22时15分]"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
-          "url": "https://www.cls.cn/detail/2284689",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时58分 ~ 22时15分]"
-        },
-        {
-          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
-          "url": "https://www.cls.cn/detail/2284846",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时42分 ~ 22时15分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -313,7 +317,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -466,6 +470,17 @@
           "time_info": "[09时47分 ~ 09时48分]"
         },
         {
+          "title": "不要对AI说谢谢",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
+        },
+        {
           "title": "千家人AI购物实录",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%AE%B6%E4%BA%BAAI%E8%B4%AD%E7%89%A9%E5%AE%9E%E5%BD%95%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -516,7 +531,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -571,7 +586,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -604,7 +619,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -637,7 +652,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -648,9 +663,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
+        },
+        {
+          "title": "中科曙光：拟发行可转债募资不超80亿元，用于面向人工智能的先进算力集群系统等项目",
+          "url": "https://wallstreetcn.com/livenews/3052400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "道达尔能源公司将为谷歌(GOOG.O)在得州的数据中心提供1吉瓦太阳能电力，协议期限为15年。建设计划于二季度启动。",
@@ -670,7 +696,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -751,7 +777,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         }
