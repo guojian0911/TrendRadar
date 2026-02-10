@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T14:10:30.932825+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-02-10T15:57:36.210303+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -68,8 +68,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时47分 ~ 14时10分]"
+          "appearance_count": 13,
+          "time_info": "[01时47分 ~ 15时57分]"
         },
         {
           "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -97,11 +97,12 @@
             26,
             18,
             20,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时47分 ~ 14时10分]"
+          "appearance_count": 13,
+          "time_info": "[01时47分 ~ 15时57分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -114,6 +115,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时47分 ~ 07时34分]"
+        },
+        {
+          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
+          "url": "https://www.cls.cn/detail/2285532",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时57分]"
         },
         {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
@@ -134,7 +147,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -150,6 +163,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时58分 ~ 14时10分]"
+        },
+        {
+          "title": "Seedance2.0 对AI应用意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765320",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 15时57分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-10）",
@@ -191,21 +216,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
         {
-          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
-          "url": "https://www.cls.cn/detail/2285532",
-          "source": "财联社热门",
+          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
+          "url": "https://wallstreetcn.com/articles/3765297",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            5
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 15时57分]"
         },
         {
           "title": "AI工具引发颠覆担忧 美国保险经纪股周一遭重挫",
@@ -220,15 +245,16 @@
           "time_info": "[06时32分 ~ 07时34分]"
         },
         {
-          "title": "Seedance2.0 对AI应用意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765320",
-          "source": "华尔街见闻",
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时58分 ~ 14时10分]"
+          "time_info": "[12时31分 ~ 15时57分]"
         },
         {
           "title": "OpenAI推出首个在网络安全方面设定为高等级的模型GPT-5.3-Codex",
@@ -243,17 +269,6 @@
           "time_info": "[04时01分 ~ 04时50分]"
         },
         {
-          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
-          "url": "https://wallstreetcn.com/articles/3765297",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 14时10分]"
-        },
-        {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
           "url": "https://www.cls.cn/detail/2285182",
           "source": "财联社热门",
@@ -264,17 +279,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时58分 ~ 14时10分]"
-        },
-        {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时10分]"
         },
         {
           "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
@@ -299,6 +303,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时36分]"
+        },
+        {
+          "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
+          "url": "https://www.cls.cn/detail/2285290",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 15时57分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -342,7 +357,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -369,15 +384,15 @@
           "time_info": "01时47分"
         },
         {
-          "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
-          "url": "https://www.cls.cn/detail/2285290",
-          "source": "财联社热门",
+          "title": "哈萨克斯坦能源部与李开复就人工智能赋能能源领域合作签署备忘录",
+          "url": "https://wallstreetcn.com/livenews/3052827",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时10分"
+          "time_info": "15时57分"
         },
         {
           "title": "AI 恐怖",
@@ -408,7 +423,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -446,13 +461,24 @@
           "time_info": "07时34分"
         },
         {
+          "title": "百度加速出海，百度百科推出国际版BaiduWiki",
+          "url": "https://wallstreetcn.com/livenews/3052813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "千问APP接入大麦 测试AI买电影票能力",
           "url": "https://wallstreetcn.com/livenews/3052722",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -471,7 +497,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Anthropic的CEO Amodei将于周二会见美国参议院民主党成员Warren。",
@@ -518,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
+          "url": "https://flash.jin10.com/detail/20260210150158914800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "亿万富翁投资者托马斯·卡普兰：货币贬值和高全球债务支撑了黄金进一步走强的呼声，预计金价将创下新高。认为黄金是一种货币，而非大宗商品。",
