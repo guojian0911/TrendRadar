@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T09:54:29.296886+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-02-11T12:27:55.862631+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -32,6 +32,20 @@
           "time_info": "[00时03分 ~ 07时34分]"
         },
         {
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 12时27分]"
+        },
+        {
           "title": "AI周星驰视频大量传播 经纪人质疑",
           "url": "https://www.baidu.com/s?wd=AI%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A7%86%E9%A2%91%E5%A4%A7%E9%87%8F%E4%BC%A0%E6%92%AD+%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A8%E7%96%91",
           "source": "百度热搜",
@@ -48,19 +62,6 @@
           "time_info": "[00时03分 ~ 09时54分]"
         },
         {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 09时54分]"
-        },
-        {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
           "url": "https://www.zhihu.com/question/2004524090598323141",
           "source": "知乎",
@@ -69,11 +70,12 @@
             14,
             17,
             20,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 09时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时58分 ~ 12时27分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -86,6 +88,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时03分 ~ 06时35分]"
+        },
+        {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时27分]"
+        },
+        {
+          "title": "国产AI降维打击,老外酸了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "美联储洛根：人工智能数据中心建设对电力的需求很大，但并没有想象中那么大。",
@@ -105,7 +130,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -174,20 +199,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
         {
-          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
-          "url": "https://wallstreetcn.com/articles/3765438",
-          "source": "华尔街见闻",
+          "title": "阿里千问、飞猪宣布与全球超40家旅行品牌达成AI合作",
+          "url": "https://wallstreetcn.com/livenews/3053432",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "12时27分"
         },
         {
           "title": "美国商务部长卢特尼克：美国对人工智能芯片需求巨大，我们不希望采取任何阻碍其发展的措施。",
@@ -207,7 +232,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -238,6 +263,18 @@
           "time_info": "[01时58分 ~ 04时39分]"
         },
         {
+          "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
+          "url": "https://www.cls.cn/detail/2286559",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时27分]"
+        },
+        {
           "title": "AI制图骗局",
           "url": "https://s.weibo.com/weibo?q=AI%E5%88%B6%E5%9B%BE%E9%AA%97%E5%B1%80&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -248,6 +285,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时38分]"
+        },
+        {
+          "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
+          "url": "https://www.cls.cn/detail/2286616",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时27分]"
         },
         {
           "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
@@ -285,15 +334,15 @@
           "time_info": "01时58分"
         },
         {
-          "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
-          "url": "https://www.cls.cn/detail/2286559",
-          "source": "财联社热门",
+          "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
+          "url": "https://wallstreetcn.com/livenews/3053429",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "12时27分"
         },
         {
           "title": "美国商务部长卢特尼克：美国对人工智能芯片需求巨大，我们不希望采取任何阻碍其发展的措施。",
@@ -305,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-11）",
+          "url": "https://flash.jin10.com/detail/20260211114707238800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "报道：Alphabet有望筹资320亿美元，AI军备竞赛进入白热化阶段",
@@ -346,20 +406,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
         {
-          "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
-          "url": "https://www.cls.cn/detail/2286616",
+          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
+          "url": "https://www.cls.cn/detail/2286740",
           "source": "财联社热门",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "12时27分"
+        },
+        {
+          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
+          "url": "https://www.zhihu.com/question/2004629058894389561",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "LG电子股价上涨7%，此前分析师因其在人工智能领域的竞争力而上调目标价。",
@@ -368,9 +439,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "阶跃星辰把刚发布的大模型命名为 Flash，你怎么看？",
+          "url": "https://www.zhihu.com/question/2004487775068647845",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "谷歌：Fitbit的个人健康教练现将在更多国家推出，包括英国、加拿大、澳大利亚、新西兰和新加坡。",
@@ -412,7 +494,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -434,7 +516,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -453,7 +535,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
@@ -467,6 +549,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时03分 ~ 09时54分]"
+        },
+        {
+          "title": "Anthropic最新2026趋势报告：人类最大一次编程革命势不可挡",
+          "url": "https://wallstreetcn.com/articles/3765425",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时27分]"
         },
         {
           "title": "据知情人士透露，阿布扎比MGX接近达成一份协议，将参与Anthropic本轮200亿美元规模的融资。（彭博）",
@@ -492,17 +586,6 @@
           "time_info": "07时34分"
         },
         {
-          "title": "Anthropic最新2026趋势报告：人类最大一次编程革命势不可挡",
-          "url": "https://wallstreetcn.com/articles/3765425",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
           "title": "报道：黑石参投Anthropic融资轮，持股规模升至10亿美元",
           "url": "https://wallstreetcn.com/livenews/3053227",
           "source": "华尔街见闻-快讯",
@@ -523,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     }
