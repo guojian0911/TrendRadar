@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T05:31:58.375228+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-02-19T06:28:54.942052+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时28分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时28分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时28分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -64,8 +64,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时28分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时28分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -88,8 +88,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时28分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -100,8 +100,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时28分]"
         },
         {
           "title": "目前大模型与人类意识的差别在哪里?",
@@ -136,6 +136,43 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
+          "url": "https://wallstreetcn.com/livenews/3056505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
+          "url": "https://wallstreetcn.com/articles/3765833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时46分 ~ 06时28分]"
+        },
+        {
+          "title": "AI 编程会替代程序员吗?",
+          "url": "https://www.zhihu.com/question/1960623371101398549",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            13,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时46分 ~ 06时28分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -175,31 +212,6 @@
           "time_info": "[01时53分 ~ 02时46分]"
         },
         {
-          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
-          "url": "https://wallstreetcn.com/articles/3765833",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时46分 ~ 05时31分]"
-        },
-        {
-          "title": "AI 编程会替代程序员吗?",
-          "url": "https://www.zhihu.com/question/1960623371101398549",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时46分 ~ 05时31分]"
-        },
-        {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
           "url": "https://wallstreetcn.com/livenews/3056432",
           "source": "华尔街见闻-快讯",
@@ -211,6 +223,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时46分 ~ 04时34分]"
+        },
+        {
+          "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
+          "url": "https://flash.jin10.com/detail/20260219051053365800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "据华尔街日报：Meta公司加大在得州和伊利诺伊州的竞选活动，增加对人工智能政治行动委员会的支出。",
+          "url": "https://flash.jin10.com/detail/20260219050647385800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时28分]"
         },
         {
           "title": "爱尔兰财政部：AI应用已冲击爱尔兰毕业生就业市场",
@@ -225,6 +261,30 @@
           "time_info": "[01时53分 ~ 02时46分]"
         },
         {
+          "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
+          "url": "https://wallstreetcn.com/livenews/3056487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
           "title": "北欧音乐流媒体公司Spotify涨幅收窄至3.5%，此前一度涨5.3%。 谷歌公司增添音乐生成功能到Gemini APP。",
           "url": "https://wallstreetcn.com/livenews/3056396",
           "source": "华尔街见闻-快讯",
@@ -235,6 +295,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时53分]"
+        },
+        {
+          "title": "Meta启动两份超级协议，来帮助应对人工智能（AI）勒索。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3056483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时28分]"
         },
         {
           "title": "谷歌：Lyria 3已在美国上线，并正向其他国家的YouTube创作者推广。",
@@ -297,37 +369,26 @@
           "time_info": "[03时45分 ~ 04时34分]"
         },
         {
-          "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
-          "url": "https://flash.jin10.com/detail/20260219051053365800",
+          "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
+          "url": "https://flash.jin10.com/detail/20260219054611726800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "06时28分"
         },
         {
-          "title": "据华尔街日报：Meta公司加大在得州和伊利诺伊州的竞选活动，增加对人工智能政治行动委员会的支出。",
-          "url": "https://flash.jin10.com/detail/20260219050647385800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056488",
+          "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
+          "url": "https://wallstreetcn.com/livenews/3056499",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "06时28分"
         },
         {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
@@ -339,17 +400,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
-        },
-        {
-          "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
-          "url": "https://wallstreetcn.com/livenews/3056487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
         },
         {
           "title": "美国财政部宣布关于加强AI网络安全和风险管理的倡议",
@@ -383,17 +433,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
-        },
-        {
-          "title": "Meta启动两份超级协议，来帮助应对人工智能（AI）勒索。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3056483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
         },
         {
           "title": "谷歌公司增添音乐生成功能到Gemini APP。",
@@ -432,7 +471,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Anthropic又“踢馆”！Sonnet 4.6操作电脑接近人类，性能堪比旗舰模型、定价仅1/5",
@@ -444,6 +483,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 01时53分]"
+        },
+        {
+          "title": "金价涨约2%，白银涨约5%",
+          "url": "https://wallstreetcn.com/livenews/3056504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         }
       ]
     }
