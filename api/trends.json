@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T19:36:12.515227+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2026-02-18T20:53:56.267043+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 80,
+      "match_count": 86,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 19时36分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 20时53分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时47分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[09时47分 ~ 20时53分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 19时36分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 20时53分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时17分 ~ 19时36分]"
+          "appearance_count": 12,
+          "time_info": "[12时17分 ~ 20时53分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -80,11 +80,26 @@
             6,
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 19时36分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 20时53分]"
+        },
+        {
+          "title": "AI大战:鹅厂阿里双双出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时56分 ~ 20时53分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -97,21 +112,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 19时36分]"
-        },
-        {
-          "title": "AI大战:鹅厂阿里双双出局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时56分 ~ 19时36分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 20时53分]"
         },
         {
           "title": "AI眼中的二十四节气",
@@ -174,6 +176,18 @@
           "time_info": "[15时01分 ~ 19时36分]"
         },
         {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时41分 ~ 20时53分]"
+        },
+        {
           "title": "美国旧金山联储主席戴利：官员们应该等待关于AI影响的迹象。",
           "url": "https://wallstreetcn.com/livenews/3056106",
           "source": "华尔街见闻-快讯",
@@ -186,16 +200,15 @@
           "time_info": "[03时52分 ~ 04时32分]"
         },
         {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
+          "title": "沙特Humain公司向xAI公司投资30亿美元",
+          "url": "https://flash.jin10.com/detail/20260218204955691800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时41分 ~ 19时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -418,6 +431,17 @@
           "time_info": "[12时17分 ~ 15时01分]"
         },
         {
+          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
+          "url": "https://wallstreetcn.com/articles/3765833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 20时53分]"
+        },
+        {
           "title": "千问3.5引爆全球AI产业链，英伟达、华为昇腾、AMD、苹果等第一时间适配",
           "url": "https://wallstreetcn.com/livenews/3056241",
           "source": "华尔街见闻-快讯",
@@ -492,6 +516,18 @@
           "time_info": "[02时51分 ~ 03时52分]"
         },
         {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3056294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时53分]"
+        },
+        {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
           "url": "https://wallstreetcn.com/livenews/3056047",
           "source": "华尔街见闻-快讯",
@@ -513,17 +549,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 03时52分]"
-        },
-        {
-          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
-          "url": "https://wallstreetcn.com/articles/3765833",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
         },
         {
           "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
@@ -620,6 +645,17 @@
           "time_info": "18时40分"
         },
         {
+          "title": "市场消息：印度和法国在新德里全印度医学科学研究所成立印法人工智能医疗中心。",
+          "url": "https://flash.jin10.com/detail/20260218203912916800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "美国副总统万斯：对AI监控、隐私、政治倾向感到忧心忡忡。",
           "url": "https://wallstreetcn.com/livenews/3056118",
           "source": "华尔街见闻-快讯",
@@ -629,17 +665,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
-        },
-        {
-          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
-          "url": "https://wallstreetcn.com/livenews/3056294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
         },
         {
           "title": "美联储理事巴尔：迄今为止，几乎没有证据表明人工智能正在推高失业率。",
@@ -664,6 +689,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "沙特AI公司Humain向xAI的E轮融资投资30亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3056311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "股价还能再涨55%！英国对冲基金押注：全球最大马桶制造商TOTO将是AI芯片隐形赢家",
           "url": "https://wallstreetcn.com/articles/3765811",
           "source": "华尔街见闻",
@@ -684,6 +720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "SharonAI宣布将IPO定价为每股30美元，登陆纳斯达克，募资1.25亿美元。",
+          "url": "https://flash.jin10.com/detail/20260218203336484800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "OpenAI与印度多所大学合作，培养具备AI技能的人才。（彭博）",
@@ -818,6 +865,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "市场消息：Humain所持XAI控股股份将转换为SpaceX股票。",
+          "url": "https://flash.jin10.com/detail/20260218201510866800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "美联储戴利在关于人工智能的准备发言中未提及近期利率制定和经济前景。",
           "url": "https://flash.jin10.com/detail/20260218034830084800",
           "source": "金十数据",
@@ -838,6 +896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "市场消息：沙特人工智能企业Humain以30亿美元支持XAI投资。",
+          "url": "https://flash.jin10.com/detail/20260218201426477800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "美国旧金山联储主席戴利：达到中性利率之前，我们大约还有75个基点的空间。 官员们应该等待关于人工智能（AI）影响的信号。 美联储在研究中使用AI技术，但在做FOMC货币政策决定时不会。",
@@ -945,7 +1014,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         }
@@ -966,8 +1035,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时47分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[09时47分 ~ 20时53分]"
         },
         {
           "title": "金价",
