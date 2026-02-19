@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T19:36:07.551790+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2026-02-19T20:54:03.665775+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 62,
+      "match_count": 67,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -52,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时16分 ~ 19时36分]"
+          "appearance_count": 12,
+          "time_info": "[12时16分 ~ 20时54分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -79,8 +79,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时57分 ~ 19时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时57分 ~ 20时54分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -96,8 +96,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时46分 ~ 19时36分]"
+          "appearance_count": 14,
+          "time_info": "[09时46分 ~ 20时54分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -126,8 +126,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时57分 ~ 19时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时57分 ~ 20时54分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -145,8 +145,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时57分 ~ 19时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时57分 ~ 20时54分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -218,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "ServiceNow首席运营官Amit Zavery：如果一些软件公司未能为采用人工智能而进行业务转型，那么行业内可能会出现整合。",
+          "url": "https://wallstreetcn.com/livenews/3056641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
@@ -323,6 +334,17 @@
           "time_info": "[01时53分 ~ 02时46分]"
         },
         {
+          "title": "什么样的软件会被AI淘汰？",
+          "url": "https://wallstreetcn.com/articles/3765860",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 20时54分]"
+        },
+        {
           "title": "AI先驱李飞飞的初创公司World Labs融资10亿美元，英伟达参投",
           "url": "https://wallstreetcn.com/livenews/3056417",
           "source": "华尔街见闻-快讯",
@@ -361,6 +383,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时16分 ~ 15时47分]"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 20时54分]"
         },
         {
           "title": "印度首富承诺最高投资1100亿美元建AI基础设施",
@@ -463,17 +496,6 @@
           "time_info": "[01时53分 ~ 02时46分]"
         },
         {
-          "title": "什么样的软件会被AI淘汰？",
-          "url": "https://wallstreetcn.com/articles/3765860",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
-        },
-        {
           "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
           "url": "https://wallstreetcn.com/livenews/3056487",
           "source": "华尔街见闻-快讯",
@@ -484,17 +506,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时28分]"
-        },
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 19时36分]"
         },
         {
           "title": "北欧音乐流媒体公司Spotify涨幅收窄至3.5%，此前一度涨5.3%。 谷歌公司增添音乐生成功能到Gemini APP。",
@@ -519,6 +530,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "美国两大人工智能巨头CEO拒绝牵手",
+          "url": "https://www.toutiao.com/trending/7608479654936674347/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "谷歌：Lyria 3已在美国上线，并正向其他国家的YouTube创作者推广。",
@@ -592,6 +614,17 @@
           "time_info": "[09时46分 ~ 09时47分]"
         },
         {
+          "title": "美国大模型“双雄”当众拒绝握手",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E2%80%9C%E5%8F%8C%E9%9B%84%E2%80%9D%E5%BD%93%E4%BC%97%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
           "url": "https://wallstreetcn.com/livenews/3056499",
           "source": "华尔街见闻-快讯",
@@ -642,7 +675,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -755,6 +788,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "印度总理莫迪：人工智能平台必须保持其安全规则清晰透明。",
+          "url": "https://flash.jin10.com/detail/20260219194230368800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "印度总理莫迪：必须建立人工智能训练的数据框架。",
+          "url": "https://flash.jin10.com/detail/20260219194221042800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "印度总理莫迪：AI深度伪造和虚假内容正在破坏开放的社会。水印和明确的来源标准变得越来越必要。我们还必须更加关注儿童的安全。",
