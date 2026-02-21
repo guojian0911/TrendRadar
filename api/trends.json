@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T22:22:31.752568+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2026-02-21T23:20:59.685502+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时33分 ~ 22时22分]"
+          "appearance_count": 29,
+          "time_info": "[00时33分 ~ 23时20分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
@@ -59,8 +59,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时03分 ~ 22时22分]"
+          "appearance_count": 16,
+          "time_info": "[12时03分 ~ 23时20分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -91,6 +91,19 @@
           "time_info": "[00时33分 ~ 15时29分]"
         },
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时19分 ~ 23时20分]"
+        },
+        {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
           "url": "https://www.cls.cn/detail/2291896",
           "source": "财联社热门",
@@ -101,8 +114,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时33分 ~ 22时22分]"
+          "appearance_count": 29,
+          "time_info": "[00时33分 ~ 23时20分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -167,8 +180,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时33分 ~ 22时22分]"
+          "appearance_count": 29,
+          "time_info": "[00时33分 ~ 23时20分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -184,19 +197,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时33分 ~ 17时26分]"
-        },
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时19分 ~ 22时22分]"
         },
         {
           "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
@@ -233,8 +233,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 22时22分]"
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 23时20分]"
         },
         {
           "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
@@ -458,7 +458,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价银价大涨",
@@ -488,6 +488,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时36分 ~ 19时19分]"
+        },
+        {
+          "title": "智谱就GLM Coding Plan问题致歉并公布补偿方案",
+          "url": "https://flash.jin10.com/detail/20260221222935593800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "网络安全股重挫，Anthropic发布Claude安全工具",
