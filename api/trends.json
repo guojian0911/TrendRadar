@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T16:24:49.215935+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-02-21T17:26:16.808689+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 16时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 17时26分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
@@ -57,8 +57,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时20分 ~ 16时24分]"
+          "appearance_count": 13,
+          "time_info": "[06时20分 ~ 17时26分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -85,8 +85,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 16时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 17时26分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -148,8 +148,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 16时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 17时26分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -163,8 +163,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 16时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 17时26分]"
         },
         {
           "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
@@ -191,6 +191,19 @@
           "time_info": "[00时33分 ~ 06时21分]"
         },
         {
+          "title": "实测Gemini 3.1 Pro",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时03分 ~ 17时26分]"
+        },
+        {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3057138",
           "source": "华尔街见闻-快讯",
@@ -205,19 +218,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时25分 ~ 15时29分]"
-        },
-        {
-          "title": "实测Gemini 3.1 Pro",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时03分 ~ 16时24分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -375,6 +375,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 17时26分]"
+        },
+        {
           "title": "网络安全股重挫，Anthropic发布Claude安全工具",
           "url": "https://wallstreetcn.com/livenews/3057110",
           "source": "华尔街见闻-快讯",
@@ -388,18 +401,6 @@
           "time_info": "[05时20分 ~ 07时25分]"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 16时24分]"
-        },
-        {
           "title": "金价银价大涨",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E6%B6%A8",
           "source": "百度热搜",
@@ -407,8 +408,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 16时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 17时26分]"
         },
         {
           "title": "金价震荡后回升，关税风波叠加俄罗斯售金",
