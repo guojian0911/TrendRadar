@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T01:21:51.557151+08:00",
-  "total_titles_processed": 339,
+  "generated_at": "2026-02-22T02:27:51.325538+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -35,11 +35,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -49,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "中信建投：原生多模态与世界模型技术共同演进将重塑多个产业格局",
@@ -60,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时27分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -89,8 +90,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时27分]"
         }
       ]
     }
