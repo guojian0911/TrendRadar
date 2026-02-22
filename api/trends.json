@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T22:22:42.860184+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-02-22T23:21:01.271375+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时22分 ~ 22时22分]"
+          "appearance_count": 29,
+          "time_info": "[00时22分 ~ 23时21分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时22分 ~ 22时22分]"
+          "appearance_count": 29,
+          "time_info": "[00时22分 ~ 23时21分]"
         },
         {
           "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
@@ -45,8 +45,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时12分 ~ 22时22分]"
+          "appearance_count": 16,
+          "time_info": "[12时12分 ~ 23时21分]"
+        },
+        {
+          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
+          "url": "https://wallstreetcn.com/articles/3765948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时26分 ~ 23时21分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -59,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时33分 ~ 22时22分]"
+          "appearance_count": 12,
+          "time_info": "[15时33分 ~ 23时21分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -80,26 +95,25 @@
             17,
             24,
             27,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时22分 ~ 22时22分]"
+          "appearance_count": 29,
+          "time_info": "[00时22分 ~ 23时21分]"
         },
         {
-          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
-          "url": "https://wallstreetcn.com/articles/3765948",
+          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
+          "url": "https://wallstreetcn.com/articles/3765949",
           "source": "华尔街见闻",
           "ranks": [
             9,
             8,
-            7,
-            6,
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时26分 ~ 22时22分]"
+          "appearance_count": 10,
+          "time_info": "[17时26分 ~ 23时21分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -140,8 +154,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时12分 ~ 22时22分]"
+          "appearance_count": 16,
+          "time_info": "[12时12分 ~ 23时21分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -158,8 +172,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时44分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[09时44分 ~ 23时21分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -171,8 +185,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时26分 ~ 22时22分]"
+          "appearance_count": 11,
+          "time_info": "[16时26分 ~ 23时21分]"
         },
         {
           "title": "中信建投：原生多模态与世界模型技术共同演进将重塑多个产业格局",
@@ -186,19 +200,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 09时45分]"
-        },
-        {
-          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
-          "url": "https://wallstreetcn.com/articles/3765949",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时26分 ~ 22时22分]"
         },
         {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
@@ -227,6 +228,19 @@
           "time_info": "[14时41分 ~ 18时21分]"
         },
         {
+          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2008005974397576586",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时40分 ~ 23时21分]"
+        },
+        {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
           "url": "https://wallstreetcn.com/articles/3765936",
           "source": "华尔街见闻",
@@ -237,18 +251,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时47分 ~ 15时33分]"
-        },
-        {
-          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2008005974397576586",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时22分]"
         },
         {
           "title": "央视军事最新AI大片发布",
@@ -313,8 +315,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时47分 ~ 22时22分]"
+          "appearance_count": 15,
+          "time_info": "[13时47分 ~ 23时21分]"
         },
         {
           "title": "智谱就GLM Coding Plan问题致歉并公布补偿方案",
@@ -354,11 +356,25 @@
             5,
             10,
             11,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 22时22分]"
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 23时21分]"
+        },
+        {
+          "title": "智谱发布GLM-5技术细节：工程级智能，适配国产算力",
+          "url": "https://wallstreetcn.com/articles/3765961",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时40分 ~ 23时21分]"
         },
         {
           "title": "智谱就GLM Coding Plan问题致歉并公布补偿方案",
@@ -385,18 +401,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时41分 ~ 17时26分]"
-        },
-        {
-          "title": "智谱发布GLM-5技术细节：工程级智能，适配国产算力",
-          "url": "https://wallstreetcn.com/articles/3765961",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时22分]"
         }
       ]
     }
