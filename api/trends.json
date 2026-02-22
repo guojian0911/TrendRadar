@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T16:26:27.708201+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-02-22T17:26:22.346737+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 16时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 17时26分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 16时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 17时26分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -44,11 +44,12 @@
             8,
             5,
             14,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 16时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 17时26分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -61,8 +62,54 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 16时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 17时26分]"
+        },
+        {
+          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
+          "url": "https://www.zhihu.com/question/2004982651719812885",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6,
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 17时26分]"
+        },
+        {
+          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
+          "url": "https://wallstreetcn.com/articles/3765938",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 17时26分]"
+        },
+        {
+          "title": "Seedance2.0重写全球AI版图",
+          "url": "https://www.douyin.com/hot/2407569",
+          "source": "抖音",
+          "ranks": [
+            13,
+            11,
+            15,
+            16,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 17时26分]"
         },
         {
           "title": "中信建投：原生多模态与世界模型技术共同演进将重塑多个产业格局",
@@ -78,47 +125,16 @@
           "time_info": "[00时23分 ~ 09时45分]"
         },
         {
-          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
-          "url": "https://www.zhihu.com/question/2004982651719812885",
-          "source": "知乎",
+          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
+          "url": "https://www.cls.cn/detail/2292342",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 16时26分]"
-        },
-        {
-          "title": "Seedance2.0重写全球AI版图",
-          "url": "https://www.douyin.com/hot/2407569",
-          "source": "抖音",
-          "ranks": [
-            13,
             11,
-            15,
-            16,
-            22
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时44分 ~ 16时26分]"
-        },
-        {
-          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
-          "url": "https://wallstreetcn.com/articles/3765938",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 17时26分]"
         },
         {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
@@ -134,18 +150,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时45分 ~ 15时33分]"
-        },
-        {
-          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
-          "url": "https://www.cls.cn/detail/2292342",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 16时26分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -167,8 +171,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 17时26分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -176,11 +180,35 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 17时26分]"
+        },
+        {
+          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
+          "url": "https://wallstreetcn.com/articles/3765948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时33分 ~ 16时26分]"
+          "time_info": "[16时26分 ~ 17时26分]"
+        },
+        {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时26分]"
         },
         {
           "title": "央视军事最新AI大片发布",
@@ -216,26 +244,15 @@
           "time_info": "12时12分"
         },
         {
-          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
-          "url": "https://wallstreetcn.com/articles/3765948",
+          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
+          "url": "https://wallstreetcn.com/articles/3765949",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "17时26分"
         },
         {
           "title": "印度AI峰会为何引发全球群嘲",
@@ -275,11 +292,12 @@
             8,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[13时47分 ~ 17时26分]"
         },
         {
           "title": "阿里云Coding Plan支持千问3.5、GLM-4.7、Kimi-K2.5等模型",
@@ -290,11 +308,12 @@
             9,
             11,
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时12分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[12时12分 ~ 17时26分]"
         },
         {
           "title": "智谱就GLM Coding Plan问题致歉并公布补偿方案",
@@ -315,11 +334,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 17时26分]"
         }
       ]
     }
