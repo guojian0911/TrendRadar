@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T14:03:14.434256+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-02-23T15:52:26.916675+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 14时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 15时52分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -91,8 +91,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 14时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 15时52分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -104,8 +104,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 14时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 15时52分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -123,6 +123,19 @@
           "time_info": "[00时24分 ~ 06时19分]"
         },
         {
+          "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
+          "url": "https://wallstreetcn.com/articles/3765955",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 15时52分]"
+        },
+        {
           "title": "在你的专业领域，大模型目前最难跨越的一道「门坎」是什么？",
           "url": "https://www.zhihu.com/question/2003062708547843506",
           "source": "知乎",
@@ -135,19 +148,6 @@
           "time_info": "[06时19分 ~ 07时21分]"
         },
         {
-          "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
-          "url": "https://wallstreetcn.com/articles/3765955",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时03分]"
-        },
-        {
           "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
           "url": "https://flash.jin10.com/detail/20260223064004274800",
           "source": "金十数据",
@@ -157,6 +157,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
+          "url": "https://wallstreetcn.com/articles/3765968",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 15时52分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克暗示，苹果的下一个重大突破是视觉人工智能。",
@@ -172,16 +185,16 @@
           "time_info": "[05时19分 ~ 07时21分]"
         },
         {
-          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
-          "url": "https://wallstreetcn.com/articles/3765968",
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时20分 ~ 14时03分]"
+          "time_info": "[14时02分 ~ 15时52分]"
         },
         {
           "title": "2026 大模型春节档陆续更新发布，你的使用体验如何？",
@@ -194,17 +207,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时20分 ~ 14时03分]"
-        },
-        {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时03分]"
         },
         {
           "title": "蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿",
@@ -230,6 +232,17 @@
           "time_info": "09时45分"
         },
         {
+          "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
+          "url": "https://www.zhihu.com/question/2008217541886043272",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "恒生科技指数日内涨幅扩大至3%，美团涨超5%，华虹半导体、中芯国际涨超4%。 港股大模型概念跌幅扩大，智谱跌超17%，MINIMAX跌超11%。",
           "url": "https://wallstreetcn.com/livenews/3057331",
           "source": "华尔街见闻-快讯",
@@ -247,7 +260,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -269,7 +282,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         }
@@ -301,8 +314,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 14时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 15时52分]"
         },
         {
           "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
@@ -315,8 +328,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时28分 ~ 14时03分]"
+          "appearance_count": 13,
+          "time_info": "[02时28分 ~ 15时52分]"
         },
         {
           "title": "智谱发布GLM-5技术报告，技术细节全公开",
