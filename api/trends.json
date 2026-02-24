@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T08:03:39.514121+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-02-24T09:31:14.651989+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 08时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时31分]"
         },
         {
           "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
           "url": "https://wallstreetcn.com/articles/3765968",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 08时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时31分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -41,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 08时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时31分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -50,11 +51,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 08时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时31分]"
         },
         {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
@@ -66,8 +68,33 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 08时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 09时31分]"
+        },
+        {
+          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
+          "url": "https://www.cls.cn/detail/2292870",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时58分 ~ 09时31分]"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 09时31分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -81,17 +108,26 @@
           "time_info": "[06时37分 ~ 08时03分]"
         },
         {
-          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
-          "url": "https://www.cls.cn/detail/2292870",
-          "source": "财联社热门",
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            12,
-            11
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 08时03分]"
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "Hirai为何当选韩国亚运会LOL队教练",
+          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
         },
         {
           "title": "xAI与五角大楼达成协议，将在涉密系统中启用Grok。（Axios）",
@@ -100,18 +136,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -122,9 +147,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时40分 ~ 09时31分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -199,16 +236,26 @@
           "time_info": "[00时50分 ~ 03时04分]"
         },
         {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时40分 ~ 08时03分]"
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "贸易战画风突变，一个AI向我道歉，一个还在嘴硬",
+          "url": "https://news.ifeng.com/c/8qzuXxwgvLV",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
         },
         {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
@@ -240,7 +287,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -251,7 +298,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -311,6 +358,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "中信证券：国内脑机接口行业将迎来DeepSeek时刻",
+          "url": "https://wallstreetcn.com/livenews/3057725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
           "url": "https://flash.jin10.com/detail/20260224031211079800",
           "source": "金十数据",
@@ -347,7 +405,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
@@ -380,7 +438,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -391,7 +449,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -416,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "消息人士：Anthropic 公司正向部分现任和前任员工提供出售公司股份的机会，公司估值约为3500亿美元，这将使他们能够从近期300亿美元的融资活动中获利。",
+          "url": "https://flash.jin10.com/detail/20260224082107536800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
