@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T19:38:08.881541+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-02-24T20:54:33.179511+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 62,
+      "match_count": 71,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时30分 ~ 19时38分]"
+          "appearance_count": 13,
+          "time_info": "[09时30分 ~ 20时54分]"
         },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -68,22 +68,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时30分 ~ 19时38分]"
-        },
-        {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[05时40分 ~ 19时38分]"
+          "appearance_count": 13,
+          "time_info": "[09时30分 ~ 20时54分]"
         },
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -95,8 +81,40 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时21分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 20时54分]"
+        },
+        {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[05时40分 ~ 20时54分]"
+        },
+        {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时56分 ~ 20时54分]"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -125,22 +143,6 @@
           "time_info": "[00时50分 ~ 09时31分]"
         },
         {
-          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
-          "url": "https://www.cls.cn/detail/2293346",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时56分 ~ 19时38分]"
-        },
-        {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
           "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
           "source": "澎湃新闻",
@@ -165,6 +167,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时40分 ~ 19时38分]"
+        },
+        {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时55分 ~ 20时54分]"
         },
         {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
@@ -195,19 +210,6 @@
           "time_info": "[09时30分 ~ 16时41分]"
         },
         {
-          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
-          "url": "https://www.cls.cn/detail/2293343",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时55分 ~ 19时38分]"
-        },
-        {
           "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
           "url": "https://www.zhihu.com/question/2009566964868150665",
           "source": "知乎",
@@ -217,8 +219,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时21分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 20时54分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -230,6 +232,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 08时03分]"
+        },
+        {
+          "title": "Arini创始人：无需颠覆真正发生 对AI的忧虑便足以引发软件公司违约",
+          "url": "https://wallstreetcn.com/livenews/3058136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-24）",
@@ -254,17 +278,6 @@
           "time_info": "08时03分"
         },
         {
-          "title": "马斯克设想从月球电磁弹射AI卫星",
-          "url": "https://wallstreetcn.com/livenews/3058106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
           "title": "据AXIOS网站：马斯克的xAI与美国国防部达成协议，可在机密系统中使用GROK。",
           "url": "https://flash.jin10.com/detail/20260224073815581800",
           "source": "金十数据",
@@ -274,6 +287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "如何看待 Anthropic 指控 DeepSeek 、 Kimi 和 MiniMax 「蒸馏攻击」其模型?",
+          "url": "https://www.zhihu.com/question/2009538062087123054",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "全球AI恐慌交易中亚洲有望成结构性赢家 Citrini报告中已埋有伏笔",
@@ -337,6 +361,18 @@
           "time_info": "[04时40分 ~ 05时40分]"
         },
         {
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://wallstreetcn.com/livenews/3058106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时54分]"
+        },
+        {
           "title": "欧洲央行行长拉加德：欧洲仍可从人工智能中获益。",
           "url": "https://flash.jin10.com/detail/20260224013414442800",
           "source": "金十数据",
@@ -359,6 +395,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时40分]"
+        },
+        {
+          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
+          "url": "https://www.cls.cn/detail/2293574",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时43分 ~ 20时54分]"
         },
         {
           "title": "人工智能真的会让程序员在 5 年内失业吗？",
@@ -384,18 +432,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时46分 ~ 19时38分]"
-        },
-        {
-          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
-          "url": "https://www.cls.cn/detail/2293574",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时43分 ~ 19时38分]"
         },
         {
           "title": "受Citrini人工智能恐慌报告影响，印度Nifty IT指数下跌2.9%。",
@@ -456,6 +492,17 @@
           "time_info": "[12时46分 ~ 13时56分]"
         },
         {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 20时54分]"
+        },
+        {
           "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
           "url": "https://wallstreetcn.com/livenews/3057967",
           "source": "华尔街见闻-快讯",
@@ -512,6 +559,17 @@
           "time_info": "08时03分"
         },
         {
+          "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
+          "url": "https://wallstreetcn.com/livenews/3058124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "美债黄金携手大涨！市场直面三大风暴眼：特朗普关税、AI恐慌、伊朗局势",
           "url": "https://www.cls.cn/detail/2293144",
           "source": "财联社热门",
@@ -554,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "META与AMD签署巨额协议，将购买后者AI设备。META将获得认股权证，可分阶段购买不超1.6亿股AMD股票。META将在AMD设备上花费每吉瓦数百亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3058122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "新加坡电信与英伟达将在新加坡推出应用人工智能中心，与英伟达合作设计数据中心，以兼容新款英伟达GPU。",
@@ -606,7 +675,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -633,15 +702,15 @@
           "time_info": "12时46分"
         },
         {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
+          "title": "AMD宣布与Meta扩大战略合作 将向Meta部署6吉瓦定制AI芯片",
+          "url": "https://flash.jin10.com/detail/20260224200932075800",
+          "source": "金十数据",
           "ranks": [
-            18
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时43分"
+          "time_info": "20时54分"
         },
         {
           "title": "美联储博斯蒂克：向人工智能的过渡可能令美联储难以理解。",
@@ -650,9 +719,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "AMD(AMD.O)美股盘前涨幅扩大至15%，此前与META达成AI设备和股份交易协议。",
+          "url": "https://flash.jin10.com/detail/20260224200638377800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "苹果(AAPL.O)：休斯顿人工智能服务器的生产提前完成。",
@@ -661,7 +741,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -710,6 +790,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "AMD(AMD.O)盘前大涨10.9%，此前该公司同意五年内向Meta公司出售价值高达600亿美元的AI芯片。",
+          "url": "https://flash.jin10.com/detail/20260224200259353800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "加拿大政府：在应对OpenAI时“所有选项都摆在桌面上”。",
           "url": "https://flash.jin10.com/detail/20260224030646410800",
           "source": "金十数据",
@@ -719,6 +810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "市场消息：Meta Platforms(META.O)与AMD(AMD.O)达成重磅协议，斥资数十亿美元采购人工智能设备。",
+          "url": "https://flash.jin10.com/detail/20260224200244367800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "港股大模型概念股走高，智谱涨14.5%，MINIMAX涨6.9%。",
@@ -758,8 +860,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时46分 ~ 19时38分]"
+          "appearance_count": 11,
+          "time_info": "[12时46分 ~ 20时54分]"
         },
         {
           "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
@@ -781,8 +883,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时46分 ~ 19时38分]"
+          "appearance_count": 5,
+          "time_info": "[17时46分 ~ 20时54分]"
         },
         {
           "title": "马斯克：Anthropic公司大规模窃取训练数据，并为此支付了数十亿美元的赔偿金。这是不争的事实。",
@@ -815,8 +917,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 20时54分]"
         },
         {
           "title": "瑞银：美联储降息及地缘政治风险加剧的背景下 金价将升至6200美元",
