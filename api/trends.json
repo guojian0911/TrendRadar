@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T21:33:41.523455+08:00",
-  "total_titles_processed": 1727,
+  "generated_at": "2026-02-25T22:09:29.105144+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 76,
+      "match_count": 78,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时46分 ~ 21时33分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 22时09分]"
         },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时55分 ~ 21时33分]"
+          "appearance_count": 18,
+          "time_info": "[02时55分 ~ 22时09分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -117,8 +117,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时16分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 22时09分]"
         },
         {
           "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
@@ -217,6 +217,17 @@
           "time_info": "[09时46分 ~ 16时42分]"
         },
         {
+          "title": "市场消息：墨西哥选举改革将要求在竞选活动中对人工智能生成内容进行标识。",
+          "url": "https://flash.jin10.com/detail/20260225220244476800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
           "url": "https://wallstreetcn.com/livenews/3058389",
           "source": "华尔街见闻-快讯",
@@ -237,17 +248,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "城堡证券反驳Citrini报告 认为人工智能不太可能引发大规模失业",
-          "url": "https://wallstreetcn.com/livenews/3058897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
@@ -295,6 +295,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 04时30分]"
+        },
+        {
+          "title": "城堡证券反驳Citrini报告 认为人工智能不太可能引发大规模失业",
+          "url": "https://wallstreetcn.com/livenews/3058897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时09分]"
         },
         {
           "title": "据The Information：一份关于Anthropic员工提出的涵盖近50个研究项目的备忘录显示，其关注重点在于恶意AI代理与欺骗性模型。",
@@ -506,6 +518,18 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
+          "title": "德银与高盛寻求借助人工智能“盯防”交易员不当行为",
+          "url": "https://wallstreetcn.com/livenews/3058893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时09分]"
+        },
+        {
           "title": "美联储理事沃勒：美国央行正推进AI的系统性部署",
           "url": "https://wallstreetcn.com/livenews/3058261",
           "source": "华尔街见闻-快讯",
@@ -552,6 +576,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 03时47分]"
+        },
+        {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时09分]"
         },
         {
           "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
@@ -613,6 +648,18 @@
           "time_info": "[05时30分 ~ 06时28分]"
         },
         {
+          "title": "债市交易员押注美联储明年将继续降息 AI对就业的影响促使市场重估",
+          "url": "https://wallstreetcn.com/livenews/3058865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时09分]"
+        },
+        {
           "title": "AI助盲眼镜成出行神器",
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%8A%A9%E7%9B%B2%E7%9C%BC%E9%95%9C%E6%88%90%E5%87%BA%E8%A1%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -646,17 +693,6 @@
           "time_info": "16时42分"
         },
         {
-          "title": "德银与高盛寻求借助人工智能“盯防”交易员不当行为",
-          "url": "https://wallstreetcn.com/livenews/3058893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
           "url": "https://flash.jin10.com/detail/20260225033807828800",
           "source": "金十数据",
@@ -679,6 +715,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "荷兰国际：逃离人工智能动荡的投资者可能转向欧元债券",
+          "url": "https://flash.jin10.com/detail/20260225214840051800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "惠普(HPQ.N)CFO：第一季度搭载人工智能技术的个人电脑占总出货量的35%，高于上一季度的30%。",
           "url": "https://flash.jin10.com/detail/20260225064530677800",
           "source": "金十数据",
@@ -688,17 +735,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "韩女子用AI精密策划诱杀致2死1伤",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "据塔斯社：谷歌(GOOG.O)被俄罗斯当局罚款超过2200万卢布。",
@@ -861,7 +897,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -886,17 +922,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        },
-        {
-          "title": "债市交易员押注美联储明年将继续降息 AI对就业的影响促使市场重估",
-          "url": "https://wallstreetcn.com/livenews/3058865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "研究机构：AI代理正掏空白领市场",
@@ -994,6 +1019,18 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时09分]"
+        },
+        {
           "title": "美国国防部长Hegseth与Anthropic的CEO摊牌，威胁要将该公司踢出五角大楼的供应链。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3058298",
           "source": "华尔街见闻-快讯",
@@ -1004,17 +1041,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时47分 ~ 04时30分]"
-        },
-        {
-          "title": "金价高的已经推出红绳戒指了",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "Anthropic发布第三版负责任扩展政策。",
