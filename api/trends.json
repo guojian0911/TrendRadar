@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T03:51:23.621902+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-02-26T04:31:11.702845+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 04时31分]"
         },
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 04时31分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 04时31分]"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
@@ -51,8 +52,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 04时31分]"
         },
         {
           "title": "AI短片 马上好",
@@ -60,11 +61,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 04时31分]"
         },
         {
           "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
@@ -72,11 +74,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时51分]"
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 04时31分]"
         },
         {
           "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
@@ -84,11 +87,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时51分]"
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 04时31分]"
         },
         {
           "title": "若AI取代人类工作社会会变成什么样",
@@ -248,8 +252,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 03时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 04时31分]"
         },
         {
           "title": "美国白宫将召集Meta等科技公司开会，讨论电力成本问题。 Anthropic、微软将于3月份前往白宫。（路透）",
