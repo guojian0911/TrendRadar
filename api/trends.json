@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T01:21:11.598468+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-26T02:59:16.333409+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 20,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 02时59分]"
         },
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
           "url": "https://www.zhihu.com/question/2009666916382421190",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 02时59分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -37,30 +38,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 02时59分]"
         },
         {
           "title": "AI短片 马上好",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 02时59分]"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 02时59分]"
         },
         {
           "title": "若AI取代人类工作社会会变成什么样",
@@ -74,15 +77,70 @@
           "time_info": "[01时20分 ~ 01时21分]"
         },
         {
+          "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "谷歌：谷歌Pixel设备上的电话诈骗检测功能现已在美国、澳大利亚、加拿大、印度、爱尔兰和英国上线。",
+          "url": "https://flash.jin10.com/detail/20260226020343871800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "谷歌：将扩大在三星电子设备上的通话诈骗检测功能。",
+          "url": "https://flash.jin10.com/detail/20260226020309815800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3059009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
           "title": "印度总理莫迪：印度与以色列在人工智能（AI）与量子科技领域存在协同协议。",
           "url": "https://wallstreetcn.com/livenews/3058977",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "三星高管：三星新款Galaxy S26手机融合云端与端侧AI，由自研Gauss引擎驱动。",
+          "url": "https://flash.jin10.com/detail/20260226020155815800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：房利美和房地美（两房）欢迎人工智能（AI）和一切创新。",
@@ -91,9 +149,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "三星高管：预计智能手机将成为消费者接入人工智能的主要途径。",
+          "url": "https://flash.jin10.com/detail/20260226020142368800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "美国里士满联储主席Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
@@ -102,9 +171,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "据福克斯新闻：亚马逊(AMZN.O)、谷歌(GOOG.O)、Meta Platforms(META.O)、微软(MSFT.O)、xAI、甲骨文(ORCL.N)和OpenAI将签署协议，为人工智能数据中心建设自己的电力供应。",
+          "url": "https://flash.jin10.com/detail/20260226015415624800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "消息人士：在欧盟提出反垄断指控后，谷歌(GOOG.O)将测试搜索引擎结果的调整。新提案将提升搜索结果中竞争对手的曝光度。新提案即将在欧洲推出，最初将适用于住宿搜索。",
+          "url": "https://flash.jin10.com/detail/20260226015315151800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
@@ -113,26 +204,60 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3059000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "据福克斯新闻：亚马逊(AMZN.O)、谷歌(GOOG.O)、甲骨文(ORCL.N)将签署数据中心协议。",
+          "url": "https://flash.jin10.com/detail/20260226014721010800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价高的已经推出红绳戒指了",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 02时59分]"
+        },
+        {
+          "title": "美国白宫将召集Meta等科技公司开会，讨论电力成本问题。 Anthropic、微软将于3月份前往白宫。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3058999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     }
