@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T19:37:06.550233+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2026-02-26T20:54:26.550312+08:00",
+  "total_titles_processed": 1776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 66,
+      "match_count": 71,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时14分 ~ 19时37分]"
+          "appearance_count": 13,
+          "time_info": "[12时14分 ~ 20时54分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -57,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时14分 ~ 19时37分]"
+          "appearance_count": 13,
+          "time_info": "[12时14分 ~ 20时54分]"
         },
         {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
@@ -149,11 +149,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 19时37分]"
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 20时54分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -178,8 +179,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 20时54分]"
         },
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
@@ -202,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
+          "url": "https://www.cls.cn/detail/2296230",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-26）",
@@ -251,6 +263,17 @@
           "time_info": "[16时40分 ~ 17时43分]"
         },
         {
+          "title": "高盛首次覆盖MiniMax：全球化最强的中国大模型！",
+          "url": "https://wallstreetcn.com/articles/3766190",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 20时54分]"
+        },
+        {
           "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
           "url": "https://www.cls.cn/detail/2295271",
           "source": "财联社热门",
@@ -262,17 +285,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时54分 ~ 16时40分]"
-        },
-        {
-          "title": "高盛首次覆盖MiniMax：全球化最强的中国大模型！",
-          "url": "https://wallstreetcn.com/articles/3766190",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 19时37分]"
         },
         {
           "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
@@ -401,6 +413,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "中国AI调用量首次超过美国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "百度四季度AI业务收入占比43% 超预期",
           "url": "https://wallstreetcn.com/livenews/3059468",
           "source": "华尔街见闻-快讯",
@@ -418,7 +441,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -484,7 +507,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -506,7 +529,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -597,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "湖南：加快数字化升级改造 深入实施“人工智能+”“智赋万企”行动",
+          "url": "https://wallstreetcn.com/livenews/3059550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "三星高管：预计智能手机将成为消费者接入人工智能的主要途径。",
@@ -698,6 +732,17 @@
           "time_info": "17时43分"
         },
         {
+          "title": "中国AI调用量首超美国，四款大模型霸榜全球前五",
+          "url": "https://wallstreetcn.com/livenews/3059542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "消息人士：在欧盟提出反垄断指控后，谷歌(GOOG.O)将测试搜索引擎结果的调整。新提案将提升搜索结果中竞争对手的曝光度。新提案即将在欧洲推出，最初将适用于住宿搜索。",
           "url": "https://flash.jin10.com/detail/20260226015315151800",
           "source": "金十数据",
@@ -729,6 +774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "浙江：建强中德合作平台 在汽车、机械制造、化工及人工智能、绿色低碳等领域加强双向投资",
+          "url": "https://wallstreetcn.com/livenews/3059541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "据福克斯新闻：亚马逊(AMZN.O)、谷歌(GOOG.O)、甲骨文(ORCL.N)将签署数据中心协议。",
@@ -912,7 +968,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -923,7 +979,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         }
