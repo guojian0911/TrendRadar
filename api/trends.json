@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T15:43:21.828781+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-02-27T16:36:04.143804+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -44,6 +44,18 @@
           "time_info": "[00时53分 ~ 07时25分]"
         },
         {
+          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
+          "url": "https://wallstreetcn.com/articles/3766301",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 16时36分]"
+        },
+        {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3766259",
           "source": "华尔街见闻",
@@ -51,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 15时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 16时36分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -65,11 +77,12 @@
             18,
             14,
             21,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时53分 ~ 15时43分]"
+          "appearance_count": 22,
+          "time_info": "[00时53分 ~ 16时36分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -87,16 +100,82 @@
           "time_info": "[00时53分 ~ 07时25分]"
         },
         {
-          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
-          "url": "https://wallstreetcn.com/articles/3766301",
-          "source": "华尔街见闻",
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            3
+            8,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 16时36分]"
+        },
+        {
+          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
+          "url": "https://wallstreetcn.com/articles/3766280",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 16时36分]"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 16时36分]"
+        },
+        {
+          "title": "演员王劲松发文怒斥被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            5,
+            17,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 16时36分]"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 16时36分]"
+        },
+        {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 16时36分]"
         },
         {
           "title": "如何评价消息称 DeepSeek V4 打破常规优先适配华为，冷落英伟达 AMD？会带来什么影响？",
@@ -110,67 +189,42 @@
           "time_info": "[12时09分 ~ 12时10分]"
         },
         {
-          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
-          "url": "https://www.cls.cn/detail/2296619",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时43分]"
-        },
-        {
-          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
-          "url": "https://wallstreetcn.com/articles/3766280",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时43分]"
-        },
-        {
-          "title": "演员王劲松发文怒斥被AI盗用",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
           "source": "百度热搜",
           "ranks": [
-            26,
+            20,
             5,
-            17,
-            18
+            26
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时09分 ~ 15时43分]"
+          "time_info": "[13时48分 ~ 16时36分]"
         },
         {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660481",
           "source": "澎湃新闻",
           "ranks": [
             18,
-            15,
-            19,
-            14
+            17,
+            16,
+            15
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时43分]"
+          "time_info": "[12时09分 ~ 16时36分]"
         },
         {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
+          "title": "阿里回应：夸克AI眼镜和千问AI眼镜是同一个团队推出的不同系列",
+          "url": "https://wallstreetcn.com/livenews/3060005",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "16时36分"
         },
         {
           "title": "谷歌推出最新图像模型Nano Banana 2",
@@ -191,19 +245,6 @@
             10,
             7,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 15时43分]"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -258,19 +299,6 @@
           "time_info": "[13时48分 ~ 14时45分]"
         },
         {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 15时43分]"
-        },
-        {
           "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
           "url": "https://wallstreetcn.com/livenews/3059680",
           "source": "华尔街见闻-快讯",
@@ -306,19 +334,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时09分 ~ 14时45分]"
-        },
-        {
-          "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660481",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 15时43分]"
         },
         {
           "title": "Meta持续投资AI，用于监测Cloaking。",
@@ -431,6 +446,17 @@
           "time_info": "[06时29分 ~ 07时25分]"
         },
         {
+          "title": "融资额大增130% AI制药能否照进现实",
+          "url": "https://www.cls.cn/detail/2296887",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
           "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
           "url": "https://wallstreetcn.com/livenews/3059781",
           "source": "华尔街见闻-快讯",
@@ -539,7 +565,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -575,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "恒生指数收盘涨0.95%，能源、资源、AI以及创新药板块不同程度反弹",
+          "url": "https://wallstreetcn.com/livenews/3060118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "谷歌：谷歌翻译App在美国和印度上线AI驱动的新功能，网页版也将很快推出。",
