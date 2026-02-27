@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-02-28T06:19:03.052696+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-02-28T07:20:32.541962+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
+          "url": "https://wallstreetcn.com/articles/3766301",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时20分]"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时20分]"
+        },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
           "url": "https://wallstreetcn.com/articles/3766324",
@@ -14,28 +38,6 @@
           "ranks": [
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时19分]"
-        },
-        {
-          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
-          "url": "https://wallstreetcn.com/articles/3766301",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时19分]"
-        },
-        {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -50,8 +52,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时20分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -62,8 +64,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时20分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -71,11 +73,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时20分]"
         },
         {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
@@ -86,8 +89,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时20分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -98,11 +101,12 @@
             19,
             22,
             21,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时20分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -117,15 +121,28 @@
           "time_info": "[00时35分 ~ 05时25分]"
         },
         {
-          "title": "美国总统特朗普：就赚钱而言，相比众多人工智能（AI）工厂、我更喜欢石油。 就打压美国价格而言，降低能源成本是最重要的事情之一。",
-          "url": "https://wallstreetcn.com/livenews/3060531",
+          "title": "摩根大通：高达1500亿美元CLO贷款面临来自人工智能（AI）的风险。",
+          "url": "https://wallstreetcn.com/livenews/3060551",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
+        },
+        {
+          "title": "中国AI调用量超越美国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时23分 ~ 07时20分]"
         },
         {
           "title": "美国参议院要求五角大楼与Anthropic解决（与人工智能/AI权限相关的）争端。（Axios）",
@@ -141,6 +158,19 @@
           "time_info": "[02时35分 ~ 04时23分]"
         },
         {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时25分 ~ 07时20分]"
+        },
+        {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3060477",
           "source": "华尔街见闻-快讯",
@@ -153,28 +183,16 @@
           "time_info": "[03时31分 ~ 04时23分]"
         },
         {
-          "title": "中国AI调用量超越美国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普：就赚钱而言，相比众多人工智能（AI）工厂、我更喜欢石油。 就打压美国价格而言，降低能源成本是最重要的事情之一。",
+          "url": "https://wallstreetcn.com/livenews/3060531",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            23
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时23分 ~ 06时19分]"
-        },
-        {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 06时19分]"
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
         },
         {
           "title": "消息人士：布鲁克菲尔德旗下新的人工智能部门Radiant在与英国初创公司Ori合并后，估值达到13亿美元。",
@@ -217,11 +235,34 @@
           "url": "https://wallstreetcn.com/livenews/3060521",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
+        },
+        {
+          "title": "美国总统特朗普：不知为何，我更喜欢通过石油而不是人工智能工厂来赚钱。",
+          "url": "https://flash.jin10.com/detail/20260228060327470800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "微软考虑为Microsoft 365推出人工智能（AI）软件组合。 该公司可能会宣布大改软件组合。 微软可能会对用户收取高达99美元的月费。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3060540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "美国民主党参议员凯利：（谈Anthropic）国会必须采取行动监管人工智能，保护美国民众。",
@@ -274,7 +315,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
@@ -282,7 +323,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国国防部宣布：Anthropic构成供应链风险。",
@@ -291,7 +332,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -322,11 +363,12 @@
           "url": "https://flash.jin10.com/detail/20260228053841622800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
         },
         {
           "title": "特朗普下令：所有联邦政府机构将立即停用Anthropic",
@@ -334,11 +376,23 @@
           "source": "金十数据",
           "ranks": [
             6,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时19分]"
+          "appearance_count": 3,
+          "time_info": "[05时25分 ~ 07时20分]"
+        },
+        {
+          "title": "美国国防部长：自即日起，任何与美国军方有业务往来的承包商、供应商或合作伙伴不得与Anthropic开展任何商业活动。",
+          "url": "https://flash.jin10.com/detail/20260228062022598800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "特朗普：Anthropic做错了，要求所有部门停止采用Anthropic的技术",
@@ -361,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "美国五角大楼宣布Anthropic构成供应链风险。 国防部长海格塞斯称，任何承包商不得与该公司从事活动。",
+          "url": "https://wallstreetcn.com/livenews/3060535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     }
