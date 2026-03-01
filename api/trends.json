@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T13:48:38.973285+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-03-01T14:40:03.091375+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 13时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 14时40分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -44,11 +44,24 @@
             19,
             10,
             9,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 13时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 14时40分]"
+        },
+        {
+          "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
+          "url": "https://www.zhihu.com/question/1950611259528549544",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 14时40分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -64,18 +77,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时16分 ~ 07时18分]"
-        },
-        {
-          "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
-          "url": "https://www.zhihu.com/question/1950611259528549544",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时48分]"
         },
         {
           "title": "如果百度当年梭哈 ai，现在的市值能达到腾讯、阿里的水平吗？",
@@ -136,6 +137,19 @@
           "time_info": "09时51分"
         },
         {
+          "title": "美政府罕见封杀本国AI企业Anthropic",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%BD%95%E8%A7%81%E5%B0%81%E6%9D%80%E6%9C%AC%E5%9B%BDAI%E4%BC%81%E4%B8%9AAnthropic",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 14时40分]"
+        },
+        {
           "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
           "url": "https://www.zhihu.com/question/2011015637259028204",
           "source": "知乎",
@@ -157,18 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "美政府罕见封杀本国AI企业Anthropic",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%BD%95%E8%A7%81%E5%B0%81%E6%9D%80%E6%9C%AC%E5%9B%BDAI%E4%BC%81%E4%B8%9AAnthropic",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时48分]"
         },
         {
           "title": "美国五角大楼“拉黑”AI巨头Anthropic，双方争议焦点：核战争",
@@ -202,6 +204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "马斯克：我一点也不信任OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260301141148179800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
