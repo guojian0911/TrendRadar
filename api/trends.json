@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T12:19:14.613701+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-03-01T13:48:38.973285+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 12时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时48分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -46,8 +47,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 12时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时48分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -69,11 +70,12 @@
           "url": "https://www.zhihu.com/question/1950611259528549544",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 12时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 13时48分]"
         },
         {
           "title": "如果百度当年梭哈 ai，现在的市值能达到腾讯、阿里的水平吗？",
@@ -93,7 +95,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -161,11 +163,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%BD%95%E8%A7%81%E5%B0%81%E6%9D%80%E6%9C%AC%E5%9B%BDAI%E4%BC%81%E4%B8%9AAnthropic",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 12时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 13时48分]"
         },
         {
           "title": "美国五角大楼“拉黑”AI巨头Anthropic，双方争议焦点：核战争",
@@ -262,7 +265,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -273,7 +276,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
