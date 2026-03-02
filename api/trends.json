@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T03:34:17.578288+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-03-03T04:31:27.397704+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -19,17 +19,6 @@
           "time_info": "[00时38分 ~ 01时40分]"
         },
         {
-          "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
-          "url": "https://wallstreetcn.com/livenews/3062119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
           "url": "https://www.cls.cn/detail/2300009",
           "source": "财联社热门",
@@ -38,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -51,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -62,30 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时34分]"
-        },
-        {
-          "title": "摩根大通CEO戴蒙：人工智能可能将工作周缩短至四天，呼吁政府为人工智能时代重新培训工人。",
-          "url": "https://flash.jin10.com/detail/20260303032802983800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "摩根大通CEO戴蒙：人工智能的推动不会是赢家通吃的局面。",
-          "url": "https://flash.jin10.com/detail/20260303032754746800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -95,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
@@ -109,6 +76,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时39分]"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
+          "url": "https://wallstreetcn.com/livenews/3062119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时31分]"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：人工智能可能将工作周缩短至四天，呼吁政府为人工智能时代重新培训工人。",
+          "url": "https://flash.jin10.com/detail/20260303032802983800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时31分]"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：人工智能的推动不会是赢家通吃的局面。",
+          "url": "https://flash.jin10.com/detail/20260303032754746800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时31分]"
         },
         {
           "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
@@ -147,6 +150,18 @@
           "time_info": "[01时40分 ~ 02时39分]"
         },
         {
+          "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
+          "url": "https://www.zhihu.com/question/2011927999839172012",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 04时31分]"
+        },
+        {
           "title": "iPadAir 没高刷",
           "url": "https://s.weibo.com/weibo?q=iPadAir%20%E6%B2%A1%E9%AB%98%E5%88%B7&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -167,6 +182,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "安永针对销售平台推出EY.ai，由Snowflake和Canva提供支持。",
+          "url": "https://wallstreetcn.com/livenews/3062126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
@@ -191,17 +228,6 @@
           "time_info": "02时39分"
         },
         {
-          "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
-          "url": "https://www.zhihu.com/question/2011927999839172012",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
           "title": "爱立信CEO Borje Ekholm：欧洲是科技领域的“博物馆”。 如果不加速开发自己的网络，将在人工智能（AI）领域落后。",
           "url": "https://wallstreetcn.com/livenews/3062029",
           "source": "华尔街见闻-快讯",
@@ -219,7 +245,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
         },
@@ -230,7 +256,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
         }
