@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T15:45:53.855328+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-03-02T16:38:44.165759+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -49,6 +49,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "剑星AI作图抄袭,反手拉黑原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
           "url": "https://wallstreetcn.com/livenews/3061282",
           "source": "华尔街见闻-快讯",
@@ -75,6 +86,17 @@
           "time_info": "[09时31分 ~ 12时10分]"
         },
         {
+          "title": "flydubai（迪拜航空）暂停所有迪拜航班，直至当地时间周二下午3点。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3061710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "DeepSeek V4下周上线？原生多模态架构 技术报告同步开放",
           "url": "https://www.cls.cn/detail/2298837",
           "source": "财联社热门",
@@ -86,6 +108,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "英伟达发布通信网络基建联盟倡议 探索6G与人工智能深度融合",
+          "url": "https://www.cls.cn/detail/2299025",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "千问AI眼镜开启预约",
           "url": "https://www.toutiao.com/trending/7612431152581967913/",
           "source": "今日头条",
@@ -95,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
+          "url": "https://www.zhihu.com/question/2011307404294365414",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "刘美含吐槽5家AI答案不一样",
@@ -158,7 +202,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -188,7 +232,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "本周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
@@ -200,8 +244,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 16时38分]"
         },
         {
           "title": "下周重磅日程：中国两会、美国非农、伊朗局势进展、MiniMax京东B站财报",
@@ -229,6 +273,19 @@
           "time_info": "[00时22分 ~ 07时19分]"
         },
         {
+          "title": "中东战火“燃爆”避险情绪，国际金价有望再创新高？一文读懂",
+          "url": "https://www.cls.cn/detail/2299381",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 16时38分]"
+        },
+        {
           "title": "油价金价大涨",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -238,18 +295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "中东战火“燃爆”避险情绪，国际金价有望再创新高？一文读懂",
-          "url": "https://www.cls.cn/detail/2299381",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 15时45分]"
         },
         {
           "title": "金价",
@@ -283,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "随着中东冲突推高金价，矿业公司Hochschild Mining股价上涨5.4%。",
+          "url": "https://flash.jin10.com/detail/20260302160945059800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     },
