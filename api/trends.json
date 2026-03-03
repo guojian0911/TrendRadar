@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T17:37:04.387050+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2026-03-03T18:34:25.060657+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,19 @@
           "time_info": "[00时38分 ~ 13时45分]"
         },
         {
+          "title": "AI参战对伊空袭",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时44分 ~ 18时34分]"
+        },
+        {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
           "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
           "source": "华尔街见闻",
@@ -47,18 +60,6 @@
           "time_info": "[00时38分 ~ 07时21分]"
         },
         {
-          "title": "AI参战对伊空袭",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时44分 ~ 17时37分]"
-        },
-        {
           "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
           "url": "https://wallstreetcn.com/articles/3766555",
           "source": "华尔街见闻",
@@ -68,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时45分 ~ 17时37分]"
+          "appearance_count": 11,
+          "time_info": "[09时45分 ~ 18时34分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -184,6 +185,18 @@
           "time_info": "15时39分"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 18时34分]"
+        },
+        {
           "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
           "url": "https://www.zhihu.com/question/2011932852577650327",
           "source": "知乎",
@@ -232,18 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时39分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 17时37分]"
         },
         {
           "title": "摩根大通CEO戴蒙：人工智能可能将工作周缩短至四天，呼吁政府为人工智能时代重新培训工人。",
@@ -319,6 +320,17 @@
           "time_info": "[13时44分 ~ 14时43分]"
         },
         {
+          "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
+          "url": "https://wallstreetcn.com/articles/3766588",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时34分]"
+        },
+        {
           "title": "财晓得丨播放量暴涨181倍！AI漫剧狂飙背后：资本涌入和版权争议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32659631",
           "source": "澎湃新闻",
@@ -364,17 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时28分]"
-        },
-        {
-          "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
-          "url": "https://wallstreetcn.com/articles/3766588",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
         },
         {
           "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
