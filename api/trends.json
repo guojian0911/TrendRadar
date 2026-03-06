@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T09:45:06.758450+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-03-06T12:06:01.341547+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -30,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时59分 ~ 09时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时59分 ~ 12时06分]"
         },
         {
           "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
@@ -39,11 +39,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时59分 ~ 09时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时59分 ~ 12时06分]"
         },
         {
           "title": "有数｜今年的政府工作报告，大模型读到了这些新词和热词",
@@ -52,11 +53,12 @@
           "ranks": [
             16,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时59分 ~ 09时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时59分 ~ 12时06分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -73,6 +75,18 @@
           "time_info": "[01时59分 ~ 09时45分]"
         },
         {
+          "title": "阿里否认大模型核心团队集体离职：团队稳定，服务正常，未设置商业化KPI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32707241",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时06分]"
+        },
+        {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
           "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
           "source": "凤凰网",
@@ -84,6 +98,17 @@
           "time_info": "[01时59分 ~ 07时48分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-06）",
+          "url": "https://flash.jin10.com/detail/20260306115316980800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
           "url": "https://flash.jin10.com/detail/20260306025523028800",
           "source": "金十数据",
@@ -93,6 +118,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时06分]"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -131,28 +168,6 @@
           "time_info": "[06时27分 ~ 07时48分]"
         },
         {
-          "title": "阿里否认大模型核心团队集体离职：团队稳定，服务正常，未设置商业化KPI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32707241",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
-        },
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
-        },
-        {
           "title": "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
           "url": "https://wallstreetcn.com/livenews/3064651",
           "source": "华尔街见闻-快讯",
@@ -163,6 +178,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
+          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
+          "url": "https://www.cls.cn/detail/2304544",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -210,6 +236,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "详解OpenAI新模型GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
         },
         {
           "title": "忍住AI让我把食欲忍住",
@@ -268,6 +306,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "Meta开放AI竞争者使用WhatsApp一年，以避免欧盟采取行动",
+          "url": "https://wallstreetcn.com/livenews/3064824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "美国证交会与孙宇晨就民事欺诈案件达成和解协议，孙宇晨旗下公司Rainberry将支付1000万美元的民事罚款。",
           "url": "https://flash.jin10.com/detail/20260306060013613800",
           "source": "金十数据",
@@ -315,7 +364,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "根据CNBC：微软(MSFT.O)确认其客户可以访问Anthropic产品。",
@@ -324,7 +373,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -340,13 +389,24 @@
           "time_info": "03时19分"
         },
         {
+          "title": "美国国防部高级官员Emil Michael：五角大楼目前并未与Anthropic进行任何实质性谈判。",
+          "url": "https://wallstreetcn.com/livenews/3064826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "Anthropic：别无选择，只能在法庭上挑战五角大楼",
           "url": "https://wallstreetcn.com/livenews/3064730",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -357,7 +417,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         }
