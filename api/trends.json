@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T05:25:55.453765+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-03-07T06:23:33.579602+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时23分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时23分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时23分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时23分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -65,8 +65,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时23分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -76,19 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时25分]"
-        },
-        {
-          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
-          "url": "https://www.zhihu.com/question/2013292943084058316",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时23分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -96,7 +85,19 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时23分]"
+        },
+        {
+          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2013292943084058316",
+          "source": "知乎",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -215,7 +216,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -252,11 +253,12 @@
           "url": "https://www.zhihu.com/question/2013221026566202540",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时23分]"
         },
         {
           "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
@@ -266,8 +268,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时23分]"
         },
         {
           "title": "在研究编程 Agent，Agent 核心就几十行代码，那剩下的几万行到底在解决什么问题？",
