@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T12:06:01.341547+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-03-06T13:42:20.947825+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -30,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时59分 ~ 12时06分]"
+          "appearance_count": 11,
+          "time_info": "[01时59分 ~ 13时42分]"
         },
         {
           "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
@@ -40,11 +40,12 @@
           "ranks": [
             14,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时59分 ~ 12时06分]"
+          "appearance_count": 11,
+          "time_info": "[01时59分 ~ 13时42分]"
         },
         {
           "title": "有数｜今年的政府工作报告，大模型读到了这些新词和热词",
@@ -57,8 +58,21 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时59分 ~ 12时06分]"
+          "appearance_count": 11,
+          "time_info": "[01时59分 ~ 13时42分]"
+        },
+        {
+          "title": "阿里否认大模型核心团队集体离职：团队稳定，服务正常，未设置商业化KPI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32707241",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 13时42分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -73,18 +87,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时59分 ~ 09时45分]"
-        },
-        {
-          "title": "阿里否认大模型核心团队集体离职：团队稳定，服务正常，未设置商业化KPI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32707241",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 12时06分]"
         },
         {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
@@ -104,9 +106,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 13时42分]"
         },
         {
           "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
@@ -118,18 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 12时06分]"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -166,6 +169,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时48分]"
+        },
+        {
+          "title": "详解OpenAI新模型GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时05分 ~ 13时42分]"
+        },
+        {
+          "title": "忍住AI让我把食欲忍住",
+          "url": "https://www.douyin.com/hot/2420009",
+          "source": "抖音",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时42分]"
         },
         {
           "title": "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
@@ -238,30 +266,6 @@
           "time_info": "[09时44分 ~ 09时45分]"
         },
         {
-          "title": "详解OpenAI新模型GPT-5.4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 12时06分]"
-        },
-        {
-          "title": "忍住AI让我把食欲忍住",
-          "url": "https://www.douyin.com/hot/2420009",
-          "source": "抖音",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
-        },
-        {
           "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
           "url": "https://flash.jin10.com/detail/20260306050651902800",
           "source": "金十数据",
@@ -295,6 +299,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3064881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "市场消息：美国起草规则，要求全球范围内AI芯片出口需持有许可证。",
           "url": "https://flash.jin10.com/detail/20260306013029699800",
           "source": "金十数据",
@@ -312,7 +327,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -326,6 +341,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "两会你我他聊AI发电",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E4%BC%9A%E4%BD%A0%E6%88%91%E4%BB%96%E8%81%8AAI%E5%8F%91%E7%94%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "债务交易平台运营方MarketAxess表示，约25%的固定收益交易员预计，未来12至18个月内，其所在公司将大幅扩大人工智能的使用。",
+          "url": "https://wallstreetcn.com/livenews/3064865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "甲骨文计划裁减数千名员工 以应对AI发展导致的资金短缺",
@@ -359,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "软银寻求高达400亿美元的创纪录贷款，用于收购OpenAI股份。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3064859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     },
@@ -395,7 +443,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
