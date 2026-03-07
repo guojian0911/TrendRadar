@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T14:33:58.799316+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-03-07T15:26:04.059290+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -27,11 +27,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 14时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 15时26分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -79,6 +80,18 @@
           "time_info": "[00时34分 ~ 14时33分]"
         },
         {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 15时26分]"
+        },
+        {
           "title": "破5亿播放AI短剧成本仅3000",
           "url": "https://www.baidu.com/s?wd=%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000",
           "source": "百度热搜",
@@ -105,16 +118,17 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
-          "title": "养龙虾，今年最大AI风暴",
-          "url": "https://wallstreetcn.com/articles/3766910",
-          "source": "华尔街见闻",
+          "title": "破5亿播放AI短剧成本仅3000元",
+          "url": "https://www.toutiao.com/trending/7614214812960034340/",
+          "source": "今日头条",
           "ranks": [
             7,
-            5
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 15时26分]"
         },
         {
           "title": "AI短剧霍去病持续刷屏",
@@ -130,6 +144,18 @@
           "time_info": "[00时34分 ~ 14时33分]"
         },
         {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 15时26分]"
+        },
+        {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
           "url": "https://www.zhihu.com/question/2013292943084058316",
           "source": "知乎",
@@ -141,18 +167,6 @@
           "time_info": "[00时34分 ~ 05时25分]"
         },
         {
-          "title": "破5亿播放AI短剧成本仅3000元",
-          "url": "https://www.toutiao.com/trending/7614214812960034340/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 14时33分]"
-        },
-        {
           "title": "英媒：与Anthropic“对峙”之际，美国起草严格新民用AI指导方针",
           "url": "https://flash.jin10.com/detail/20260307085433321800",
           "source": "金十数据",
@@ -162,18 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
-        },
-        {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 14时33分]"
         },
         {
           "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
@@ -275,6 +277,17 @@
           "time_info": "[03时31分 ~ 04时26分]"
         },
         {
+          "title": "AI时代人的创作还有意义吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E4%BA%BA%E7%9A%84%E5%88%9B%E4%BD%9C%E8%BF%98%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
           "title": "TES上报Naiyou不正当行为",
           "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -285,6 +298,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时31分]"
+        },
+        {
+          "title": "委员谈OpenClaw“养龙虾”火出AI圈",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E8%B0%88OpenClaw%E2%80%9C%E5%85%BB%E9%BE%99%E8%99%BE%E2%80%9D%E7%81%AB%E5%87%BAAI%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
         },
         {
           "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
