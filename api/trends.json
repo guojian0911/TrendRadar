@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T22:20:21.642162+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2026-03-07T23:18:57.907572+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时56分 ~ 22时20分]"
+          "appearance_count": 17,
+          "time_info": "[11时56分 ~ 23时18分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -73,11 +73,12 @@
             8,
             7,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时34分 ~ 22时20分]"
+          "appearance_count": 26,
+          "time_info": "[00时34分 ~ 23时18分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -110,6 +111,21 @@
           "time_info": "[00时34分 ~ 14时33分]"
         },
         {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时24分 ~ 23时18分]"
+        },
+        {
           "title": "AI短剧霍去病持续刷屏",
           "url": "https://www.douyin.com/hot/2421579",
           "source": "抖音",
@@ -134,21 +150,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 09时25分]"
-        },
-        {
-          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
-          "url": "https://www.zhihu.com/question/2004583095244911914",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17,
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时24分 ~ 22时20分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -191,6 +192,45 @@
           "time_info": "[09时25分 ~ 15时26分]"
         },
         {
+          "title": "在AI的加速时代，我们到底在害怕错过什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时16分 ~ 23时18分]"
+        },
+        {
+          "title": "用AI动画片求婚谁不心动啊",
+          "url": "https://www.douyin.com/hot/2422221",
+          "source": "抖音",
+          "ranks": [
+            20,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时16分 ~ 23时18分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时35分 ~ 23时18分]"
+        },
+        {
           "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
           "url": "https://wallstreetcn.com/articles/3766935",
           "source": "华尔街见闻",
@@ -211,42 +251,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 05时25分]"
-        },
-        {
-          "title": "在AI的加速时代，我们到底在害怕错过什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时16分 ~ 22时20分]"
-        },
-        {
-          "title": "用AI动画片求婚谁不心动啊",
-          "url": "https://www.douyin.com/hot/2422221",
-          "source": "抖音",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时16分 ~ 22时20分]"
-        },
-        {
-          "title": "TES主教练谈naiyou事件",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时35分 ~ 22时20分]"
         },
         {
           "title": "英媒：与Anthropic“对峙”之际，美国起草严格新民用AI指导方针",
@@ -286,6 +290,43 @@
           "time_info": "[02时37分 ~ 04时26分]"
         },
         {
+          "title": "3人48小时做出5亿播放量AI短剧",
+          "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时18分]"
+        },
+        {
+          "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2013275268022757071",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时35分 ~ 23时18分]"
+        },
+        {
+          "title": "马上评｜AI时代，更要让孩子“身上有汗眼里有光”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32722000",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时35分 ~ 23时18分]"
+        },
+        {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
           "url": "https://wallstreetcn.com/articles/3766836",
           "source": "华尔街见闻",
@@ -296,18 +337,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 02时37分]"
-        },
-        {
-          "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2013275268022757071",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 22时20分]"
         },
         {
           "title": "AI眼镜助失明姑娘独立出行",
@@ -334,17 +363,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 13时38分]"
-        },
-        {
-          "title": "马上评｜AI时代，更要让孩子“身上有汗眼里有光”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32722000",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 22时20分]"
         },
         {
           "title": "TESnaiyou 假赛",
@@ -460,17 +478,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "3人48小时做出5亿播放量AI短剧",
-          "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "美国起草了新的政府关于人工智能合同的指导方针，美国希望人工智能公司允许“任何合法”的使用方式来应用人工智能模型。（英国金融时报）",
