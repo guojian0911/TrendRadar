@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T09:25:53.400005+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-03-07T11:56:26.711056+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -13,22 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 09时25分]"
-        },
-        {
-          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
-          "url": "https://www.cls.cn/detail/2305626",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 09时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 11时56分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -43,6 +33,29 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 09时25分]"
+        },
+        {
+          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
+          "url": "https://www.cls.cn/detail/2305626",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 11时56分]"
+        },
+        {
+          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
+          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 11时56分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -67,17 +80,6 @@
             17,
             20,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 09时25分]"
-        },
-        {
-          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
-          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
-          "source": "凤凰网",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -115,7 +117,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -131,6 +133,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 04时26分]"
+        },
+        {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 11时56分]"
         },
         {
           "title": "AI短剧霍去病持续刷屏",
@@ -156,6 +170,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "破5亿播放AI短剧成本仅3000元",
+          "url": "https://www.toutiao.com/trending/7614214812960034340/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 11时56分]"
+        },
+        {
+          "title": "TESnaiyou 假赛",
+          "url": "https://s.weibo.com/weibo?q=TESnaiyou%20%E5%81%87%E8%B5%9B&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 11时56分]"
         },
         {
           "title": "在 AI 能秒答一切的时代，人的核心竞争力到底是什么？",
@@ -194,6 +231,17 @@
           "time_info": "[00时34分 ~ 01时31分]"
         },
         {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
           "url": "https://flash.jin10.com/detail/20260307021349560800",
           "source": "金十数据",
@@ -205,37 +253,15 @@
           "time_info": "02时37分"
         },
         {
-          "title": "破5亿播放AI短剧成本仅3000元",
-          "url": "https://www.toutiao.com/trending/7614214812960034340/",
-          "source": "今日头条",
+          "title": "俄研究机构训练人工智能识别早期乳腺癌",
+          "url": "https://wallstreetcn.com/livenews/3065585",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "养龙虾，今年最大AI风暴",
-          "url": "https://wallstreetcn.com/articles/3766910",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "TESnaiyou 假赛",
-          "url": "https://s.weibo.com/weibo?q=TESnaiyou%20%E5%81%87%E8%B5%9B&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "11时56分"
         },
         {
           "title": "市场消息：OpenAI推出了一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
@@ -249,13 +275,24 @@
           "time_info": "02时37分"
         },
         {
+          "title": "解读刷爆外网的AI危机预言",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%88%B7%E7%88%86%E5%A4%96%E7%BD%91%E7%9A%84AI%E5%8D%B1%E6%9C%BA%E9%A2%84%E8%A8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "美国起草了新的政府关于人工智能合同的指导方针，美国希望人工智能公司允许“任何合法”的使用方式来应用人工智能模型。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3065520",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -288,7 +325,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -299,7 +336,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -321,7 +358,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -351,7 +388,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "小米新发布移动端 Agent 产品「Xiaomi miclaw」，开启小范围封测，对此你怎么看？",
@@ -388,6 +425,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时31分]"
+        },
+        {
+          "title": "美国总务管理局：已终止与Anthropic公司签订的OneGov协议。",
+          "url": "https://flash.jin10.com/detail/20260307103902700800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         }
       ]
     }
