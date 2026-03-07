@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T19:16:39.610383+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-03-07T20:36:02.295012+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "养龙虾，今年最大AI风暴",
@@ -41,11 +41,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时56分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时56分 ~ 20时36分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -74,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时34分 ~ 19时16分]"
+          "appearance_count": 22,
+          "time_info": "[00时34分 ~ 20时36分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -120,6 +121,20 @@
           "time_info": "[00时34分 ~ 09时25分]"
         },
         {
+          "title": "AI短剧霍去病持续刷屏",
+          "url": "https://www.douyin.com/hot/2421579",
+          "source": "抖音",
+          "ranks": [
+            24,
+            28,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 20时36分]"
+        },
+        {
           "title": "Naiyou Jiaqi",
           "url": "https://s.weibo.com/weibo?q=Naiyou%20Jiaqi&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -147,19 +162,6 @@
           "time_info": "[09时25分 ~ 15时26分]"
         },
         {
-          "title": "AI短剧霍去病持续刷屏",
-          "url": "https://www.douyin.com/hot/2421579",
-          "source": "抖音",
-          "ranks": [
-            24,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 14时33分]"
-        },
-        {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
           "url": "https://www.zhihu.com/question/2013292943084058316",
           "source": "知乎",
@@ -169,6 +171,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 05时25分]"
+        },
+        {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 20时36分]"
         },
         {
           "title": "英媒：与Anthropic“对峙”之际，美国起草严格新民用AI指导方针",
@@ -186,11 +202,12 @@
           "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时36分]"
         },
         {
           "title": "全国人大代表、传化集团董事长徐冠巨：大力推进AI+制造业行动，加快培育发展智能产业生态",
@@ -217,19 +234,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 04时26分]"
-        },
-        {
-          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
-          "url": "https://www.zhihu.com/question/2004583095244911914",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
@@ -268,6 +272,51 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 13时38分]"
+        },
+        {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时36分]"
+        },
+        {
+          "title": "在AI的加速时代，我们到底在害怕错过什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时36分]"
+        },
+        {
+          "title": "用AI动画片求婚谁不心动啊",
+          "url": "https://www.douyin.com/hot/2422221",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时36分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 20时36分]"
         },
         {
           "title": "TESnaiyou 假赛",
@@ -341,6 +390,17 @@
           "time_info": "[00时34分 ~ 01时31分]"
         },
         {
+          "title": "周鸿祎：中国AI智能体正在快速落地",
+          "url": "https://www.toutiao.com/trending/7614453399253159465/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 20时36分]"
+        },
+        {
           "title": "委员谈OpenClaw“养龙虾”火出AI圈",
           "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E8%B0%88OpenClaw%E2%80%9C%E5%85%BB%E9%BE%99%E8%99%BE%E2%80%9D%E7%81%AB%E5%87%BAAI%E5%9C%88",
           "source": "百度热搜",
@@ -372,17 +432,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "url": "https://wallstreetcn.com/articles/3766935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "美国起草了新的政府关于人工智能合同的指导方针，美国希望人工智能公司允许“任何合法”的使用方式来应用人工智能模型。（英国金融时报）",
@@ -451,17 +500,6 @@
           "time_info": "05时25分"
         },
         {
-          "title": "在AI的加速时代，我们到底在害怕错过什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
           "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
           "url": "https://flash.jin10.com/detail/20260307080857687800",
           "source": "金十数据",
@@ -471,17 +509,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
-        },
-        {
-          "title": "用AI动画片求婚谁不心动啊",
-          "url": "https://www.douyin.com/hot/2422221",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
