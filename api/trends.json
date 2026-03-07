@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T21:36:10.033292+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-03-07T22:20:21.642162+08:00",
+  "total_titles_processed": 1679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "养龙虾，今年最大AI风暴",
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时56分 ~ 21时36分]"
+          "appearance_count": 16,
+          "time_info": "[11时56分 ~ 22时20分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -72,11 +72,12 @@
             6,
             8,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时34分 ~ 21时36分]"
+          "appearance_count": 25,
+          "time_info": "[00时34分 ~ 22时20分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -119,8 +120,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 21时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 22时20分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -146,8 +147,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 21时36分]"
+          "appearance_count": 9,
+          "time_info": "[16时24分 ~ 22时20分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -164,6 +165,19 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
+          "title": "TES教练 Naiyou说季后赛输的都是假赛",
+          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 22时20分]"
+        },
+        {
           "title": "破5亿播放AI短剧成本仅3000元",
           "url": "https://www.toutiao.com/trending/7614214812960034340/",
           "source": "今日头条",
@@ -177,16 +191,15 @@
           "time_info": "[09时25分 ~ 15时26分]"
         },
         {
-          "title": "TES教练 Naiyou说季后赛输的都是假赛",
-          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            15
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 21时36分]"
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 22时20分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -200,28 +213,6 @@
           "time_info": "[00时34分 ~ 05时25分]"
         },
         {
-          "title": "英媒：与Anthropic“对峙”之际，美国起草严格新民用AI指导方针",
-          "url": "https://flash.jin10.com/detail/20260307085433321800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "url": "https://wallstreetcn.com/articles/3766935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 21时36分]"
-        },
-        {
           "title": "在AI的加速时代，我们到底在害怕错过什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
           "source": "澎湃新闻",
@@ -231,8 +222,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 21时36分]"
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 22时20分]"
         },
         {
           "title": "用AI动画片求婚谁不心动啊",
@@ -243,8 +234,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 21时36分]"
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 22时20分]"
         },
         {
           "title": "TES主教练谈naiyou事件",
@@ -254,8 +245,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 21时36分]"
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 22时20分]"
+        },
+        {
+          "title": "英媒：与Anthropic“对峙”之际，美国起草严格新民用AI指导方针",
+          "url": "https://flash.jin10.com/detail/20260307085433321800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "全国人大代表、传化集团董事长徐冠巨：大力推进AI+制造业行动，加快培育发展智能产业生态",
@@ -296,6 +298,18 @@
           "time_info": "[00时34分 ~ 02时37分]"
         },
         {
+          "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2013275268022757071",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时20分]"
+        },
+        {
           "title": "AI眼镜助失明姑娘独立出行",
           "url": "https://www.toutiao.com/trending/7614054710404317238/",
           "source": "今日头条",
@@ -322,6 +336,17 @@
           "time_info": "[11时56分 ~ 13时38分]"
         },
         {
+          "title": "马上评｜AI时代，更要让孩子“身上有汗眼里有光”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32722000",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时20分]"
+        },
+        {
           "title": "TESnaiyou 假赛",
           "url": "https://s.weibo.com/weibo?q=TESnaiyou%20%E5%81%87%E8%B5%9B&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -346,17 +371,6 @@
           "time_info": "[07时24分 ~ 09时25分]"
         },
         {
-          "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2013275268022757071",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
-        },
-        {
           "title": "解读刷爆外网的AI危机预言",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E5%88%B7%E7%88%86%E5%A4%96%E7%BD%91%E7%9A%84AI%E5%8D%B1%E6%9C%BA%E9%A2%84%E8%A8%80",
           "source": "bilibili 热搜",
@@ -379,17 +393,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时31分 ~ 04时26分]"
-        },
-        {
-          "title": "马上评｜AI时代，更要让孩子“身上有汗眼里有光”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32722000",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "AI时代人的创作还有意义吗",
@@ -457,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "3人48小时做出5亿播放量AI短剧",
+          "url": "https://s.weibo.com/weibo?q=%233%E4%BA%BA48%E5%B0%8F%E6%97%B6%E5%81%9A%E5%87%BA5%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8FAI%E7%9F%AD%E5%89%A7%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美国起草了新的政府关于人工智能合同的指导方针，美国希望人工智能公司允许“任何合法”的使用方式来应用人工智能模型。（英国金融时报）",
