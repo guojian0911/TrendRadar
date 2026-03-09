@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-03-10T06:23:46.124890+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-03-10T07:23:31.858241+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时23分]"
+        },
         {
           "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
           "url": "https://www.cls.cn/detail/2307537",
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时23分]"
-        },
-        {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时23分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -37,11 +39,12 @@
           "ranks": [
             2,
             3,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时23分]"
         },
         {
           "title": "yilai加入BLG无畏契约",
@@ -68,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时23分]"
         },
         {
           "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
@@ -84,8 +87,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时23分]"
         },
         {
           "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
@@ -146,6 +149,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时23分]"
+        },
+        {
+          "title": "AH股低开高走，“龙虾”概念股爆发，油气股涨幅收窄，恒科指逼近翻红，大模型股MINIMAX暴涨超23%",
+          "url": "https://wallstreetcn.com/articles/3767001",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "OpenAI：企业用户和教育用户面临的沟通错误偏高。",
