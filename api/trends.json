@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T20:52:07.129883+08:00",
-  "total_titles_processed": 1720,
+  "generated_at": "2026-03-09T22:03:35.408140+08:00",
+  "total_titles_processed": 1828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -81,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时12分 ~ 20时52分]"
+          "appearance_count": 16,
+          "time_info": "[12时12分 ~ 22时03分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -116,8 +116,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时12分 ~ 20时52分]"
+          "appearance_count": 16,
+          "time_info": "[12时12分 ~ 22时03分]"
         },
         {
           "title": "AI对老师的影响",
@@ -195,22 +195,35 @@
           "ranks": [
             4,
             23,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时40分 ~ 20时52分]"
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 22时03分]"
         },
         {
-          "title": "arxiv 新论文解释语言模型产生幻觉的原因，为什么 LLM 宁可瞎编也不说我不知道？",
-          "url": "https://www.zhihu.com/question/2012526323764000694",
-          "source": "知乎",
+          "title": "AH股低开高走，“龙虾”概念股爆发，油气股涨幅收窄，恒科指逼近翻红，大模型股MINIMAX暴涨超23%",
+          "url": "https://wallstreetcn.com/articles/3767001",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 22时03分]"
+        },
+        {
+          "title": "yilai加入BLG无畏契约",
+          "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "网易“龙虾”LobsterAI 发布新版，接入企业微信、QQ、飞书、钉钉",
@@ -219,7 +232,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -233,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
+          "url": "https://www.zhihu.com/question/2014268583652320290",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "AI焦虑症",
@@ -259,16 +283,16 @@
           "time_info": "[17时43分 ~ 19时32分]"
         },
         {
-          "title": "AH股低开高走，“龙虾”概念股爆发，油气股涨幅收窄，恒科指逼近翻红，大模型股MINIMAX暴涨超23%",
-          "url": "https://wallstreetcn.com/articles/3767001",
-          "source": "华尔街见闻",
+          "title": "arxiv 新论文解释语言模型产生幻觉的原因，为什么 LLM 宁可瞎编也不说我不知道？",
+          "url": "https://www.zhihu.com/question/2012526323764000694",
+          "source": "知乎",
           "ranks": [
-            9,
-            8
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时40分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时03分]"
         },
         {
           "title": "如何评价知乎创始人周源 2026 年的提案《AI 漫剧侵权速度远超维权，应建立快速处置绿色通道》？",
@@ -316,6 +340,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 03时20分]"
+        },
+        {
+          "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
+          "url": "https://www.cls.cn/detail/2307537",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "微博AI发文称，微博接入KimiClaw，用户关注@微博龙虾助手并发送私信，即可远程连接与控制AI智能体。",
@@ -387,7 +422,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价会变但肌肉不会骗你",
@@ -421,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "金价震荡下的危险游戏",
+          "url": "https://www.toutiao.com/trending/7614491185377230891/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     }
