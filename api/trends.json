@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T05:26:13.077016+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-03-11T06:24:22.561701+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时24分]"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时24分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时24分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时24分]"
         },
         {
           "title": "代表委员热聊新质生产力：大模型读到这些高频词",
@@ -60,8 +60,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 05时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时24分]"
+        },
+        {
+          "title": "建议不允许青少年用AI做作业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时32分 ~ 06时24分]"
         },
         {
           "title": "加拿大皇家银行首席执行官麦凯：人工智能正在对银行业产生深远的影响。加拿大在液化天然气和矿产方面拥有巨大的机遇。",
@@ -75,17 +87,6 @@
           "time_info": "00时53分"
         },
         {
-          "title": "OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。",
-          "url": "https://flash.jin10.com/detail/20260311050854133800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
           "title": "brahma AI与谷歌云构建合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3067459",
           "source": "华尔街见闻-快讯",
@@ -95,6 +96,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 06时24分]"
         },
         {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
@@ -109,27 +123,28 @@
           "time_info": "[03时35分 ~ 04时33分]"
         },
         {
-          "title": "建议不允许青少年用AI做作业",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。",
+          "url": "https://flash.jin10.com/detail/20260311050854133800",
+          "source": "金十数据",
           "ranks": [
-            10
+            3,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时32分 ~ 05时26分]"
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时24分]"
         },
         {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
+          "title": "包括OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3067569",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            12
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 03时35分]"
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时24分]"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -144,6 +159,29 @@
           "time_info": "[01时43分 ~ 02时41分]"
         },
         {
+          "title": "美国投资级公司债券市场迎来历史上最繁忙的一天，历史上最近一个最大单日销售额出现在2013年。 亚马逊发售370亿美元债券，对此功不可没。 与此同时，Honeywell Aerospace Inc.募资160亿美元，还有一笔与收购Air Lease Corp.相关的40亿美元债券交易。",
+          "url": "https://wallstreetcn.com/livenews/3067564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时24分]"
+        },
+        {
+          "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
           "title": "谷歌公司发布Gemini Embedding 2。",
           "url": "https://wallstreetcn.com/livenews/3067453",
           "source": "华尔街见闻-快讯",
@@ -155,26 +193,15 @@
           "time_info": "00时53分"
         },
         {
-          "title": "包括OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3067569",
-          "source": "华尔街见闻-快讯",
+          "title": "豆包限制AI成毅",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "美国投资级公司债券市场迎来历史上最繁忙的一天，历史上最近一个最大单日销售额出现在2013年。 亚马逊发售370亿美元债券，对此功不可没。 与此同时，Honeywell Aerospace Inc.募资160亿美元，还有一笔与收购Air Lease Corp.相关的40亿美元债券交易。",
-          "url": "https://wallstreetcn.com/livenews/3067564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "06时24分"
         },
         {
           "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
@@ -224,7 +251,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -244,11 +271,12 @@
           "url": "https://wallstreetcn.com/livenews/3067571",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时24分]"
         },
         {
           "title": "Anthropic有望在未来一年内启动IPO。（CNBC）",
@@ -260,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "据CNBC：微软(MSFT.O)表示，法院应暂时阻止五角大楼对Anthropic公司的“黑名单”认定。",
+          "url": "https://flash.jin10.com/detail/20260311051752234800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         }
       ]
     }
