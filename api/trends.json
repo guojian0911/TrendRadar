@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T20:47:13.022659+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2026-03-10T21:59:28.754621+08:00",
+  "total_titles_processed": 1984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 43,
+      "match_count": 50,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -41,11 +41,12 @@
             2,
             4,
             9,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时26分 ~ 20时47分]"
+          "appearance_count": 13,
+          "time_info": "[09时26分 ~ 21时59分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -118,6 +119,29 @@
           "time_info": "[17时39分 ~ 18时34分]"
         },
         {
+          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
+          "url": "https://www.cls.cn/detail/2308421",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时34分 ~ 21时59分]"
+        },
+        {
+          "title": "工业富联董事长郑弘孟：AI算力基础设施将成为未来多年最具确定性的核心发展领域之一",
+          "url": "https://wallstreetcn.com/livenews/3067361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "清华经管院长谈AI“龙虾”",
           "url": "https://www.douyin.com/hot/2424946",
           "source": "抖音",
@@ -127,18 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        },
-        {
-          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
-          "url": "https://www.cls.cn/detail/2308421",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时34分 ~ 20时47分]"
         },
         {
           "title": "AI初创公司KAI完成1.25亿美元种子轮及A轮融资。",
@@ -163,6 +175,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时44分]"
+        },
+        {
+          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
+          "url": "https://wallstreetcn.com/articles/3767089",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时59分]"
+        },
+        {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时59分]"
         },
         {
           "title": "AI龙虾为何那么“生猛”",
@@ -201,17 +237,6 @@
           "time_info": "[07时23分 ~ 15时38分]"
         },
         {
-          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
-          "url": "https://wallstreetcn.com/articles/3767089",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
-        },
-        {
           "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
           "url": "https://wallstreetcn.com/livenews/3067229",
           "source": "华尔街见闻-快讯",
@@ -234,17 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 04时29分]"
-        },
-        {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
         },
         {
           "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
@@ -281,6 +295,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时23分]"
+        },
+        {
+          "title": "Meta收购AI社交网络平台Moltbook。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3067356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "两会现场 我问了AI这样一个问题",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E6%88%91%E9%97%AE%E4%BA%86AI%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "恒生指数收盘涨2.17%，AIGC概念领涨，腾讯控股涨超7%",
@@ -355,7 +391,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -380,6 +416,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "伊朗的战火，可能烧掉美国的AI梦？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260310213156918800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "代表委员热聊新质生产力：大模型读到这些高频词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733353",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "假如 LLM 无限上下文了，RAG 还有意义吗？",
@@ -454,7 +512,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -468,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "英伟达宣布对AI企业Thinking Machines Lab进行新一轮投资，并将向该初创公司提供芯片，用于训练和运行其AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3067332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "据英国《金融时报》：亚马逊在人工智能相关宕机事件后召开工程会议。",
@@ -509,9 +578,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
+        },
+        {
+          "title": "一项由谷歌和特斯拉等公司组成的新联盟将通过利用电网闲置容量来解决能源可负担性问题。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3067324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     },
