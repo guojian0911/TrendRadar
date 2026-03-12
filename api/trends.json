@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T16:37:02.429154+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-03-12T17:38:21.939947+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -30,6 +30,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时44分 ~ 07时21分]"
+        },
+        {
+          "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
+          "url": "https://www.cls.cn/detail/2310365",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时09分 ~ 17时38分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -74,8 +88,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 16时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 17时38分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
@@ -102,17 +116,17 @@
           "time_info": "[00时44分 ~ 09时26分]"
         },
         {
-          "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
-          "url": "https://www.cls.cn/detail/2310365",
-          "source": "财联社热门",
+          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
+          "url": "https://www.zhihu.com/question/2015022862625415833",
+          "source": "知乎",
           "ranks": [
-            13,
-            11,
-            4
+            18,
+            10,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 16时37分]"
+          "appearance_count": 5,
+          "time_info": "[14时47分 ~ 17时38分]"
         },
         {
           "title": "美国国防部：我们将继续加快人工智能的部署。",
@@ -126,26 +140,13 @@
           "time_info": "01时45分"
         },
         {
-          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
-          "url": "https://www.zhihu.com/question/2015022862625415833",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时47分 ~ 16时37分]"
-        },
-        {
           "title": "港口运营商APM Terminals Bahrain：将立即暂停哈利法·本·萨勒曼港的港口运营，包括泊位和闸口的作业。此次停业措施将于3月12日和13日继续生效。",
           "url": "https://flash.jin10.com/detail/20260312162011551800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -159,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "德施曼推出全新AI智能锁产品矩阵",
+          "url": "https://wallstreetcn.com/livenews/3068797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
@@ -184,6 +196,19 @@
           "time_info": "[12时10分 ~ 13时47分]"
         },
         {
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 17时38分]"
+        },
+        {
           "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
           "url": "https://wallstreetcn.com/articles/3767211",
           "source": "华尔街见闻",
@@ -196,27 +221,28 @@
           "time_info": "[00时44分 ~ 09时26分]"
         },
         {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 16时37分]"
-        },
-        {
           "title": "SkillHub上线 腾讯推出“中国专供”的AI Skills社区",
           "url": "https://www.cls.cn/detail/2310349",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时38分]"
+        },
+        {
+          "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
+          "url": "https://www.zhihu.com/question/2015067278698312603",
+          "source": "知乎",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时38分]"
         },
         {
           "title": "Salesforce 250亿美元发债需求疲软，折射AI焦虑",
@@ -229,17 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时21分]"
-        },
-        {
-          "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
-          "url": "https://www.zhihu.com/question/2015067278698312603",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
         },
         {
           "title": "谷歌和特斯拉组建“电网利用联盟” AI缺电逻辑有望持续演绎",
@@ -292,7 +307,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -319,6 +334,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "AI生产一台大屏电视只需20秒",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%94%9F%E4%BA%A7%E4%B8%80%E5%8F%B0%E5%A4%A7%E5%B1%8F%E7%94%B5%E8%A7%86%E5%8F%AA%E9%9C%8020%E7%A7%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "贝莱德斥资1亿美元培训电工等技术工人 未来10年预计美国需新增30多万名电工以满足AI建设需求",
           "url": "https://wallstreetcn.com/livenews/3068608",
           "source": "华尔街见闻-快讯",
@@ -328,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
+        },
+        {
+          "title": "老板电器发布全球首款AI烹饪眼镜",
+          "url": "https://wallstreetcn.com/livenews/3068770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
@@ -347,7 +384,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
