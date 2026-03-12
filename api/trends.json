@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-13T03:39:49.694696+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-03-13T04:30:25.941573+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
-          "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3069122",
-          "source": "华尔街见闻-快讯",
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
           "ranks": [
-            1
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时30分]"
         },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -32,28 +32,30 @@
           "time_info": "[00时56分 ~ 03时39分]"
         },
         {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时39分]"
-        },
-        {
           "title": "沉迷AI的领导belike",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
           "source": "bilibili 热搜",
           "ranks": [
             26,
             22,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时30分]"
+        },
+        {
+          "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3069122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时30分]"
         },
         {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
@@ -114,13 +116,35 @@
           "time_info": "02时45分"
         },
         {
+          "title": "马斯克表示欢迎Jason Ginsberg、Andrew Milich加入xAI。",
+          "url": "https://flash.jin10.com/detail/20260313034321354800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "xAI正在招聘Cursor公司的两位高级主管Andrew Milich和Jason Ginsberg。",
+          "url": "https://flash.jin10.com/detail/20260313033613430800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
           "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
           "url": "https://flash.jin10.com/detail/20260313023700863800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
         }
@@ -136,11 +160,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时39分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时30分]"
         },
         {
           "title": "市场消息：Anthropic将于今年晚些时候推出首个Claude技术认证。",
@@ -149,7 +174,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
         }
