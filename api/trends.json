@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T07:31:17.397420+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-03-13T09:31:33.335949+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 09时31分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -30,8 +30,30 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 09时31分]"
+        },
+        {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "大模型的 token 究竟是什么？",
+          "url": "https://www.zhihu.com/question/1662306083",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
         },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -83,6 +105,28 @@
           "time_info": "[06时21分 ~ 07时31分]"
         },
         {
+          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
+          "url": "https://www.cls.cn/detail/2311468",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "今年加快研究人工智能立法",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8A%A0%E5%BF%AB%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AB%8B%E6%B3%95%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
           "url": "https://wallstreetcn.com/livenews/3069055",
           "source": "华尔街见闻-快讯",
@@ -93,6 +137,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时46分]"
+        },
+        {
+          "title": "马斯克最新访谈：“擎天柱3”要来了，AI“自我改进”已经发生，AI奇点后“钱将不再重要”",
+          "url": "https://wallstreetcn.com/articles/3767302",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
         },
         {
           "title": "xAI联合创始人ZiHang Dai已于本周稍早离职。（Business Insider）",
@@ -117,6 +172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时39分]"
+        },
+        {
+          "title": "马斯克：AI奇点后“钱将不再重要”",
+          "url": "https://www.toutiao.com/trending/7615104402223038506/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
         },
         {
           "title": "周四（3月12日），存储芯片与硬件供应链指数跌4.03%，报104.12点，跳空低开之后，整体低位震荡。 北美科技软件股指数ETF收跌0.87%。 信息科技指数跌2.70%，人工智能（AI）赢家指数跌2.55%，AI软件先驱指数跌1.00%。",
@@ -184,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "软银股价一度下跌5.8%，此前Jefferies因OpenAI投资风险上升而将软银评级从“持有”下调至“弱于大盘”。",
+          "url": "https://wallstreetcn.com/livenews/3069234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
