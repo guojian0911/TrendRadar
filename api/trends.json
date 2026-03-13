@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-03-14T01:31:58.645471+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-03-14T02:34:48.077824+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "马斯克誓言重建 xAI，又一联合创始人离职",
           "url": "https://wallstreetcn.com/livenews/3069962",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "欧盟理事会推动简化AI监管规则，禁止AI用于生成色情内容",
-          "url": "https://wallstreetcn.com/livenews/3069958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时34分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -37,8 +27,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
+        },
+        {
+          "title": "欧盟理事会推动简化AI监管规则，禁止AI用于生成色情内容",
+          "url": "https://wallstreetcn.com/livenews/3069958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时34分]"
         },
         {
           "title": "DeepSeek V4 为什么还不发布？",
@@ -48,8 +50,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -57,11 +59,34 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            27
+            27,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
+        },
+        {
+          "title": "微软(MSFT.O)CEO：我们是首家部署英伟达Vera Rubin NVL72系统进行验证的云服务提供商，这是与英伟达(NVDA.O)合作构建下一代AI基础设施的又一重要里程碑。",
+          "url": "https://flash.jin10.com/detail/20260314015342167800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "张颂文硬气回应AI冲击影视行业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E7%A1%AC%E6%B0%94%E5%9B%9E%E5%BA%94AI%E5%86%B2%E5%87%BB%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
