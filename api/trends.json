@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T07:23:31.239277+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-03-14T09:28:40.914742+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "DeepSeek V4 为什么还不发布？",
@@ -14,22 +14,24 @@
           "ranks": [
             11,
             3,
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时28分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时28分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -41,11 +43,12 @@
             16,
             23,
             26,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 09时28分]"
         },
         {
           "title": "张颂文硬气回应AI冲击影视行业",
@@ -60,6 +63,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时34分 ~ 07时23分]"
+        },
+        {
+          "title": "据《白鲸实验室》报道，DeepSeek V4和姚顺雨领衔操刀的混元新模型，均预计将于下个月（2026年4月）发布。",
+          "url": "https://wallstreetcn.com/livenews/3070070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "马斯克誓言重建 xAI，又一联合创始人离职",
@@ -99,6 +113,18 @@
           "time_info": "[05时29分 ~ 07时23分]"
         },
         {
+          "title": "亚马逊计划利用Cerebras Systems Inc.的芯片搭配自家Trainium处理器来改善人工智能（AI）软件/模型的运行效果。",
+          "url": "https://wallstreetcn.com/livenews/3070039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时28分]"
+        },
+        {
           "title": "Mosaic股价跌幅扩大至5.9%。",
           "url": "https://wallstreetcn.com/livenews/3069973",
           "source": "华尔街见闻-快讯",
@@ -123,6 +149,28 @@
           "time_info": "[05时29分 ~ 06时24分]"
         },
         {
+          "title": "你是在哪一刻感觉到 AI 时代真的到来了？",
+          "url": "https://www.zhihu.com/question/6607255010",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3070061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "微软(MSFT.O)CEO：我们是首家部署英伟达Vera Rubin NVL72系统进行验证的云服务提供商，这是与英伟达(NVDA.O)合作构建下一代AI基础设施的又一重要里程碑。",
           "url": "https://flash.jin10.com/detail/20260314015342167800",
           "source": "金十数据",
@@ -134,15 +182,15 @@
           "time_info": "02时34分"
         },
         {
-          "title": "亚马逊计划利用Cerebras Systems Inc.的芯片搭配自家Trainium处理器来改善人工智能（AI）软件/模型的运行效果。",
-          "url": "https://wallstreetcn.com/livenews/3070039",
+          "title": "报道：Meta计划因AI成本攀升而实施大规模裁员",
+          "url": "https://wallstreetcn.com/livenews/3070059",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "09时28分"
         },
         {
           "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
@@ -165,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "市场消息：目击者称，卡塔尔当局于周六清晨疏散了多哈的Msheireb部分区域，该区域包括政府办公机构和谷歌办公室。",
+          "url": "https://flash.jin10.com/detail/20260314081810552800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     }
