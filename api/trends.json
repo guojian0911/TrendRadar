@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T01:23:24.701420+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-03-15T02:31:50.115307+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -36,11 +36,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -50,8 +51,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
+        },
+        {
+          "title": "GLM5 、 Kimi 2.5 、 Minimax M2.5 、千问、豆包，国产大模型选哪个？",
+          "url": "https://www.zhihu.com/question/2007181043678077214",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -61,20 +75,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时23分]"
-        },
-        {
-          "title": "GLM5 、 Kimi 2.5 、 Minimax M2.5 、千问、豆包，国产大模型选哪个？",
-          "url": "https://www.zhihu.com/question/2007181043678077214",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         }
       ]
     }
