@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T04:22:37.320543+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-03-15T05:23:04.689177+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时23分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时23分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时23分]"
         },
         {
           "title": "GLM5 、 Kimi 2.5 、 Minimax M2.5 、千问、豆包，国产大模型选哪个？",
@@ -49,11 +49,12 @@
           "ranks": [
             20,
             13,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时23分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -63,8 +64,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时23分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
