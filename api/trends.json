@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T18:22:58.816930+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-03-14T19:20:24.379752+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "DeepSeek V4 为什么还不发布？",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时07分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时07分 ~ 19时20分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -45,11 +45,12 @@
             14,
             17,
             18,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 18时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时34分 ~ 19时20分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -67,8 +68,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 15时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 19时20分]"
         },
         {
           "title": "鹅厂抄袭AI龙虾,创始人开喷",
@@ -80,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时39分 ~ 18时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时39分 ~ 19时20分]"
         },
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -92,11 +93,12 @@
             17,
             11,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时41分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 19时20分]"
         },
         {
           "title": "张颂文硬气回应AI冲击影视行业",
@@ -180,6 +182,18 @@
           "time_info": "[09时28分 ~ 13时42分]"
         },
         {
+          "title": "十五五要新建新型研究型大学，超常规布局人工智能等急需学科，加强基础学科等本硕博衔接培养，释放哪些信号？",
+          "url": "https://www.zhihu.com/question/2015916136630281791",
+          "source": "知乎",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时20分]"
+        },
+        {
           "title": "美国官员：自与伊朗开战以来，军方已向中东部署近10,000架人工智能无人机。",
           "url": "https://flash.jin10.com/detail/20260314041906690800",
           "source": "金十数据",
@@ -189,6 +203,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时23分]"
+        },
+        {
+          "title": "AI时代青少年该掌握哪些能力",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B0%91%E5%B9%B4%E8%AF%A5%E6%8E%8C%E6%8F%A1%E5%93%AA%E4%BA%9B%E8%83%BD%E5%8A%9B%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时20分]"
         },
         {
           "title": "美国商务部撤回拟议的AI芯片出口管制新规",
@@ -201,18 +226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时29分 ~ 17时27分]"
-        },
-        {
-          "title": "十五五要新建新型研究型大学，超常规布局人工智能等急需学科，加强基础学科等本硕博衔接培养，释放哪些信号？",
-          "url": "https://www.zhihu.com/question/2015916136630281791",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时22分]"
         },
         {
           "title": "亚马逊计划利用Cerebras Systems Inc.的芯片搭配自家Trainium处理器来改善人工智能（AI）软件/模型的运行效果。",
@@ -263,17 +276,6 @@
           "time_info": "[05时29分 ~ 06时24分]"
         },
         {
-          "title": "AI时代青少年该掌握哪些能力",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B0%91%E5%B9%B4%E8%AF%A5%E6%8E%8C%E6%8F%A1%E5%93%AA%E4%BA%9B%E8%83%BD%E5%8A%9B%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
           "title": "你是在哪一刻感觉到 AI 时代真的到来了？",
           "url": "https://www.zhihu.com/question/6607255010",
           "source": "知乎",
@@ -307,6 +309,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "xAI联创团队几乎全跑了！马斯克致歉并放话“数字擎天柱”半年上线",
+          "url": "https://www.cls.cn/detail/2312736",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "海尔AI科技真的懂生活",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%B0%94AI%E7%A7%91%E6%8A%80%E7%9C%9F%E7%9A%84%E6%87%82%E7%94%9F%E6%B4%BB%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -324,7 +337,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
