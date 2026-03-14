@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-14T19:20:24.379752+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-03-14T20:39:00.920713+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
+          "url": "https://www.cls.cn/detail/2312637",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 20时39分]"
+        },
         {
           "title": "DeepSeek V4 为什么还不发布？",
           "url": "https://www.zhihu.com/question/2014783631814580088",
@@ -22,17 +35,21 @@
           "time_info": "[00时34分 ~ 09时28分]"
         },
         {
-          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
-          "url": "https://www.cls.cn/detail/2312637",
-          "source": "财联社热门",
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
           "ranks": [
+            18,
+            17,
+            11,
             9,
-            5,
+            8,
+            7,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时07分 ~ 19时20分]"
+          "appearance_count": 10,
+          "time_info": "[13时41分 ~ 20时39分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -49,8 +66,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时34分 ~ 19时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时34分 ~ 20时39分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -85,22 +102,6 @@
           "time_info": "[14时39分 ~ 19时20分]"
         },
         {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            11,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时41分 ~ 19时20分]"
-        },
-        {
           "title": "张颂文硬气回应AI冲击影视行业",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E7%A1%AC%E6%B0%94%E5%9B%9E%E5%BA%94AI%E5%86%B2%E5%87%BB%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -128,6 +129,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时28分 ~ 15时33分]"
+        },
+        {
+          "title": "十五五要新建新型研究型大学，超常规布局人工智能等急需学科，加强基础学科等本硕博衔接培养，释放哪些信号？",
+          "url": "https://www.zhihu.com/question/2015916136630281791",
+          "source": "知乎",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时39分]"
         },
         {
           "title": "马斯克誓言重建 xAI，又一联合创始人离职",
@@ -180,18 +193,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时28分 ~ 13时42分]"
-        },
-        {
-          "title": "十五五要新建新型研究型大学，超常规布局人工智能等急需学科，加强基础学科等本硕博衔接培养，释放哪些信号？",
-          "url": "https://www.zhihu.com/question/2015916136630281791",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时20分]"
         },
         {
           "title": "美国官员：自与伊朗开战以来，军方已向中东部署近10,000架人工智能无人机。",
@@ -276,6 +277,17 @@
           "time_info": "[05时29分 ~ 06时24分]"
         },
         {
+          "title": "人工智能替代了大部分工作后，我们该做什么？",
+          "url": "https://www.zhihu.com/question/60274282",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
+        },
+        {
           "title": "你是在哪一刻感觉到 AI 时代真的到来了？",
           "url": "https://www.zhihu.com/question/6607255010",
           "source": "知乎",
@@ -315,7 +327,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
