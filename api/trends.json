@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T00:10:58.562086+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-03-18T01:11:45.384152+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -15,19 +15,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时11分]"
         },
         {
           "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
           "url": "https://www.zhihu.com/question/1977057445844109122",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时11分]"
+        },
+        {
+          "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
+          "url": "https://www.zhihu.com/question/2016981407864414269",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时11分]"
         },
         {
           "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
@@ -37,30 +50,53 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
-          "url": "https://www.zhihu.com/question/2016981407864414269",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时11分]"
         },
         {
           "title": "于谦说怕AI偷看相册",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时11分]"
+        },
+        {
+          "title": "超微电脑加入英伟达BlueField-4 STX首发阵营，旨在通过存储服务器提升AI推理性能",
+          "url": "https://wallstreetcn.com/livenews/3071813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "01时11分"
+        },
+        {
+          "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
+          "url": "https://www.zhihu.com/question/2016992148197750088",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
+          "url": "https://wallstreetcn.com/livenews/3071811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850486&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/WjvjpqNlCKyb04k5cTDna.jpg/lite\" height=\"120\" /></a>",
@@ -105,6 +141,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "报道称：谷歌来华考察液冷设备",
+          "url": "https://wallstreetcn.com/livenews/3071795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "德国央行行长：AI创造的就业有望多于被取缔的岗位",
+          "url": "https://wallstreetcn.com/livenews/3071794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         }
       ]
     },
@@ -117,11 +175,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%87%AA%E7%A0%94%E7%9A%84Agent%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时11分]"
         }
       ]
     }
