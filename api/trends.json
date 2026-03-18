@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T19:42:25.324342+08:00",
-  "total_titles_processed": 1680,
+  "generated_at": "2026-03-18T20:59:13.250624+08:00",
+  "total_titles_processed": 1792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 81,
+      "match_count": 83,
       "titles": [
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -17,11 +17,12 @@
             7,
             9,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 19时42分]"
+          "appearance_count": 12,
+          "time_info": "[12时21分 ~ 20时59分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -50,11 +51,12 @@
             14,
             16,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时10分 ~ 19时42分]"
+          "appearance_count": 23,
+          "time_info": "[00时10分 ~ 20时59分]"
         },
         {
           "title": "官方辟谣“AI安全治理3年计划”",
@@ -110,6 +112,33 @@
           "time_info": "[00时10分 ~ 12时22分]"
         },
         {
+          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
+          "url": "https://www.zhihu.com/question/2017541603019940502",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时08分 ~ 20时59分]"
+        },
+        {
+          "title": "短剧演员谈被AI替代",
+          "url": "https://www.douyin.com/hot/2434994",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时47分 ~ 20时59分]"
+        },
+        {
           "title": "男二以下 AI演员",
           "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -136,6 +165,19 @@
           "time_info": "[12时21分 ~ 18时46分]"
         },
         {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时42分 ~ 20时59分]"
+        },
+        {
           "title": "如何看待 2026 EWC 官方因 Xiaohai 更换战队而取消其《街霸 6》卫冕冠军直邀资格的行为？",
           "url": "https://www.zhihu.com/question/2016967278948787751",
           "source": "知乎",
@@ -146,32 +188,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时21分 ~ 14时02分]"
-        },
-        {
-          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
-          "url": "https://www.zhihu.com/question/2017541603019940502",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 19时42分]"
-        },
-        {
-          "title": "短剧演员谈被AI替代",
-          "url": "https://www.douyin.com/hot/2434994",
-          "source": "抖音",
-          "ranks": [
-            6,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 19时42分]"
         },
         {
           "title": "七部门发AI安全治理3年计划？谣言",
@@ -185,17 +201,15 @@
           "time_info": "[09时48分 ~ 16时42分]"
         },
         {
-          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
-          "url": "https://www.cls.cn/detail/2316633",
-          "source": "财联社热门",
+          "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
+          "url": "https://www.zhihu.com/question/2017627475413262735",
+          "source": "知乎",
           "ranks": [
-            8,
-            6,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 19时42分]"
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "网传“男二以下用AI演员” 于正发声",
@@ -327,6 +341,19 @@
           "time_info": "[06时28分 ~ 07时28分]"
         },
         {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时46分 ~ 20时59分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)首席执行官：到2036年，人工智能将使亚马逊云服务销售额翻倍至6000亿美元（此前预计为3000亿美元）。",
           "url": "https://flash.jin10.com/detail/20260318024011419800",
           "source": "金十数据",
@@ -363,6 +390,42 @@
           "time_info": "[07时28分 ~ 09时48分]"
         },
         {
+          "title": "耀客AI演员 赵今麦翟子路",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%80%E5%AE%A2AI%E6%BC%94%E5%91%98%20%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BF%9F%E5%AD%90%E8%B7%AF&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时46分 ~ 20时59分]"
+        },
+        {
+          "title": "易小星参加B站AI创作大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时42分 ~ 20时59分]"
+        },
+        {
+          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
+          "url": "https://www.zhihu.com/question/2017543464514974274",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时42分 ~ 20时59分]"
+        },
+        {
           "title": "报道：亚马逊预计AI将推动AWS销售额于2036年达到6000亿美元",
           "url": "https://wallstreetcn.com/livenews/3071871",
           "source": "华尔街见闻-快讯",
@@ -375,16 +438,15 @@
           "time_info": "[03时53分 ~ 04时59分]"
         },
         {
-          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
-          "url": "https://www.cls.cn/detail/2316793",
-          "source": "财联社热门",
+          "title": "腾讯电话会：核心业务在AI时代具备强大韧性，“养虾”可结合微信去中心化理念，今年AI投资至少翻倍",
+          "url": "https://wallstreetcn.com/articles/3767836",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时42分]"
+          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
@@ -408,17 +470,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时47分 ~ 17时48分]"
-        },
-        {
-          "title": "耀客AI演员 赵今麦翟子路",
-          "url": "https://s.weibo.com/weibo?q=%E8%80%80%E5%AE%A2AI%E6%BC%94%E5%91%98%20%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BF%9F%E5%AD%90%E8%B7%AF&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时42分]"
         },
         {
           "title": "为何游戏大厂都在聊AI",
@@ -460,18 +511,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "易小星参加B站AI创作大赛",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -630,17 +670,6 @@
           "time_info": "00时10分"
         },
         {
-          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
-          "url": "https://www.zhihu.com/question/2017543464514974274",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
           "url": "https://flash.jin10.com/detail/20260318044954930800",
           "source": "金十数据",
@@ -768,7 +797,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -979,8 +1008,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[16时42分 ~ 20时59分]"
         },
         {
           "title": "金价继续持稳于5000美元整数位心理关口附近",
