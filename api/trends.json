@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T17:48:14.869020+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-03-18T18:46:30.829090+08:00",
+  "total_titles_processed": 1583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 73,
+      "match_count": 77,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -16,11 +16,12 @@
             9,
             12,
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时10分 ~ 17时48分]"
+          "appearance_count": 20,
+          "time_info": "[00时10分 ~ 18时46分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -37,6 +38,34 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时10分 ~ 07时28分]"
+        },
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6,
+            7,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 18时46分]"
+        },
+        {
+          "title": "官方辟谣“AI安全治理3年计划”",
+          "url": "https://www.douyin.com/hot/2434741",
+          "source": "抖音",
+          "ranks": [
+            5,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时00分 ~ 18时46分]"
         },
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
@@ -79,20 +108,6 @@
           "time_info": "[00时10分 ~ 12时22分]"
         },
         {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 17时48分]"
-        },
-        {
           "title": "男二以下 AI演员",
           "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -107,17 +122,16 @@
           "time_info": "[09时48分 ~ 16时42分]"
         },
         {
-          "title": "官方辟谣“AI安全治理3年计划”",
-          "url": "https://www.douyin.com/hot/2434741",
-          "source": "抖音",
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
           "ranks": [
-            5,
-            3,
-            7
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时00分 ~ 17时48分]"
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 18时46分]"
         },
         {
           "title": "如何看待 2026 EWC 官方因 Xiaohai 更换战队而取消其《街霸 6》卫冕冠军直邀资格的行为？",
@@ -132,17 +146,6 @@
           "time_info": "[12时21分 ~ 14时02分]"
         },
         {
-          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
-          "url": "https://www.zhihu.com/question/2016095792616744489",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 17时48分]"
-        },
-        {
           "title": "七部门发AI安全治理3年计划？谣言",
           "url": "https://www.toutiao.com/trending/7618388030847700530/",
           "source": "今日头条",
@@ -152,6 +155,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时48分 ~ 16时42分]"
+        },
+        {
+          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
+          "url": "https://www.zhihu.com/question/2017541603019940502",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时08分 ~ 18时46分]"
         },
         {
           "title": "网传“男二以下用AI演员” 于正发声",
@@ -189,17 +205,29 @@
           "time_info": "[12时21分 ~ 16时42分]"
         },
         {
-          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
-          "url": "https://www.zhihu.com/question/2017541603019940502",
-          "source": "知乎",
+          "title": "短剧演员谈被AI替代",
+          "url": "https://www.douyin.com/hot/2434994",
+          "source": "抖音",
           "ranks": [
-            5,
             6,
-            7
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 18时46分]"
+        },
+        {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时08分 ~ 17时48分]"
+          "time_info": "[16时42分 ~ 18时46分]"
         },
         {
           "title": "腾讯：腾讯云实现规模化盈利，受益于企业AI需求的上升，领先市场的PaaS及SaaS产品贡献的增长，以及供应链的优化。",
@@ -219,7 +247,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -332,29 +360,6 @@
           "time_info": "[07时28分 ~ 09时48分]"
         },
         {
-          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
-          "url": "https://www.cls.cn/detail/2316633",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 17时48分]"
-        },
-        {
-          "title": "短剧演员谈被AI替代",
-          "url": "https://www.douyin.com/hot/2434994",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
-        },
-        {
           "title": "报道：亚马逊预计AI将推动AWS销售额于2036年达到6000亿美元",
           "url": "https://wallstreetcn.com/livenews/3071871",
           "source": "华尔街见闻-快讯",
@@ -429,7 +434,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -440,7 +445,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -465,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "摩根大通：上调哔哩哔哩评级至超配并建议抄底 公司AI投资战略正确",
@@ -500,13 +516,24 @@
           "time_info": "07时28分"
         },
         {
+          "title": "腾讯2025年游戏营收同比增长22%，游戏AI应用成关键驱动力之一",
+          "url": "https://wallstreetcn.com/livenews/3072356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "腾讯：2025年第四季资本开支付款224亿元 主要用于支持AI业务发展",
           "url": "https://wallstreetcn.com/livenews/3072288",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -660,7 +687,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -685,6 +712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "耀客AI演员 赵今麦翟子路",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%80%E5%AE%A2AI%E6%BC%94%E5%91%98%20%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BF%9F%E5%AD%90%E8%B7%AF&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "德国央行行长：AI创造的就业有望多于被取缔的岗位",
@@ -841,6 +879,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "北京：对重点领域“人工智能+”示范项目，按有关政策给予不超过5000万元支持",
+          "url": "https://wallstreetcn.com/livenews/3072337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "阿里巴巴2027届校招正式启动，新增七类AI岗位，AI相关岗位占比超八成。",
           "url": "https://wallstreetcn.com/livenews/3072118",
           "source": "华尔街见闻-快讯",
@@ -882,8 +931,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 17时48分]"
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 18时46分]"
         },
         {
           "title": "金价继续持稳于5000美元整数位心理关口附近",
