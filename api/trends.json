@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T07:27:48.154573+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-03-19T09:49:32.304076+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 25,
+      "match_count": 34,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -36,23 +36,24 @@
           "time_info": "[00时06分 ~ 07时27分]"
         },
         {
-          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
-          "url": "https://www.cls.cn/detail/2316633",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时27分]"
-        },
-        {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
           "url": "https://wallstreetcn.com/articles/3767836",
           "source": "华尔街见闻",
           "ranks": [
             7,
             8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 09时49分]"
+        },
+        {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
             6
           ],
           "is_new": false,
@@ -79,8 +80,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 09时49分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -90,8 +91,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 09时49分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -118,8 +119,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时32分 ~ 07时27分]"
+          "appearance_count": 8,
+          "time_info": "[02时32分 ~ 09时49分]"
         },
         {
           "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
@@ -128,7 +129,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -138,11 +139,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 09时49分]"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
@@ -169,6 +171,28 @@
           "time_info": "[04时31分 ~ 05时35分]"
         },
         {
+          "title": "大胜达涨停，公司拟5.5亿元投资高性能图形处理器公司芯瞳半导体，标的公司AI系统可打造内部闭环的养虾生态。",
+          "url": "https://flash.jin10.com/detail/20260319093220958800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "小米大模型",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "美联储主席鲍威尔：人工智能投资也可能会提高中性利率。",
           "url": "https://flash.jin10.com/detail/20260319031755717800",
           "source": "金十数据",
@@ -180,13 +204,24 @@
           "time_info": "03时47分"
         },
         {
+          "title": "马斯克称，SpaceX AI与特斯拉预计将继续大规模订购英伟达芯片。",
+          "url": "https://wallstreetcn.com/livenews/3072811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
           "url": "https://flash.jin10.com/detail/20260319065232382800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -219,7 +254,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -235,6 +270,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "港股伊登软件(01147.HK)涨超49%，公司附属与超聚变进行战略合作，推动算力与企业AI落地场景的结合。",
+          "url": "https://flash.jin10.com/detail/20260319093034610800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
           "title": "美联储主席鲍威尔：尚未开始看到人工智能带来的生产率效应。",
           "url": "https://flash.jin10.com/detail/20260319031658732800",
           "source": "金十数据",
@@ -244,6 +290,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
+          "url": "https://www.zhihu.com/question/2016065149123970133",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美联储主席鲍威尔：迄今为止，生产率的提高并非源于生成式人工智能，可能是因为疫情期间的调整。",
@@ -266,6 +334,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "马斯克：SpaceX AI和特斯拉(TSLA.O)预计将大规模持续订购英伟达(NVDA.O)芯片。",
+          "url": "https://flash.jin10.com/detail/20260319092539484800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "Coinbase为AI智能体支付酝酿基础设施。（The Information）",
@@ -299,12 +389,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "摩根士丹利：下调腾讯港股目标价，重申超配评级，AI领域投资短期料拖累利润率",
+          "url": "https://wallstreetcn.com/livenews/3072785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         }
       ]
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价",
@@ -334,11 +435,34 @@
           "url": "https://www.cls.cn/detail/2317196",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时35分 ~ 07时27分]"
+          "appearance_count": 4,
+          "time_info": "[05时35分 ~ 09时49分]"
+        },
+        {
+          "title": "金价大跌 有银行金条1秒售罄",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%9C%89%E9%93%B6%E8%A1%8C%E9%87%91%E6%9D%A11%E7%A7%92%E5%94%AE%E7%BD%84",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "港股OpenClaw概念回调，迅策(03317.HK)跌超6%，MINIMAX-W(00100.HK)跌超5%，智谱(02513.HK)跌超4%，腾讯控股(00700.HK)、阿里巴巴(09988.HK)、金山云(03896.HK)、网易-S(09999.HK)、百度(09888.HK)等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260319092407283800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         }
       ]
     },
