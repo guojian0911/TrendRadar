@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T05:31:34.526362+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-03-20T06:23:22.651899+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时23分]"
         },
         {
           "title": "让大模型学会选择性记忆",
@@ -30,8 +30,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 06时23分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -41,19 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 05时31分]"
-        },
-        {
-          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时23分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -64,22 +53,24 @@
             21,
             17,
             16,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时23分]"
         },
         {
-          "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3073578",
-          "source": "华尔街见闻-快讯",
+          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            14,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时23分]"
         },
         {
           "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
@@ -92,6 +83,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时31分]"
+        },
+        {
+          "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3073578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时23分]"
         },
         {
           "title": "Gemini SpaceX Station四季度营收6030万美元，分析师预期5570万美元。",
@@ -141,6 +144,50 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美国白宫计划周五推出人工智能（AI）框架。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3073585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "黄仁勋：AI风险需提醒，但不应引发公众恐慌",
+          "url": "https://flash.jin10.com/detail/20260320052711190800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "英伟达黄仁勋敦促AI领导者避免散布恐慌",
+          "url": "https://wallstreetcn.com/livenews/3073582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "据Punchbowl：白宫计划发布人工智能监管框架。",
+          "url": "https://flash.jin10.com/detail/20260320052330041800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
           "title": "据Business Insider：谷歌告诉员工，公司正“更加倾向于”承接人工智能领域的国家安全业务。",
           "url": "https://flash.jin10.com/detail/20260320020259710800",
           "source": "金十数据",
@@ -166,7 +213,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价暴跌抄底7天越买越套",
@@ -179,8 +226,41 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时23分]"
+        },
+        {
+          "title": "Anthropic PBC周三会见美国白宫的国土安全委员会。 Anthropic高管Jack Clark与特朗普政府的一个委员会讨论出口管制问题。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3073591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "杰富瑞集团（Jefferies LLC）分析师Christopher Lafemina在给客户的报告中写道：目前，投资者的注意力集中在利润率上，以及金价下跌和能源/消耗品成本上升这‘双重打击’的潜在风险。 在冲突长期化的情境下，更高的利率预期和更强的美元可能会对黄金施加更多压力。",
+          "url": "https://wallstreetcn.com/livenews/3073589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "金价矿业股抹去2026年涨幅，因降息预期随伊朗战争升温而消退",
+          "url": "https://wallstreetcn.com/livenews/3073588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "金价跌到看不懂",
