@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T06:23:22.651899+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-03-20T07:26:34.745833+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "让大模型学会选择性记忆",
@@ -27,22 +27,12 @@
             7,
             5,
             9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 06时23分]"
-        },
-        {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
+            14,
+            3
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "time_info": "[02时01分 ~ 07时26分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -54,11 +44,24 @@
             17,
             16,
             14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
+        },
+        {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
@@ -66,11 +69,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
@@ -109,6 +113,20 @@
           "time_info": "[04时31分 ~ 05时31分]"
         },
         {
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.toutiao.com/trending/7618387888183836715/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            30,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时57分 ~ 07时26分]"
+        },
+        {
           "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
           "url": "https://www.cls.cn/detail/2318157",
           "source": "财联社热门",
@@ -118,19 +136,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 02时02分]"
-        },
-        {
-          "title": "央视AI短片《流金谷恩仇录》爆火",
-          "url": "https://www.toutiao.com/trending/7618387888183836715/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            30,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 05时31分]"
         },
         {
           "title": "微软(MSFT.O)CEO：我们的新图像生成器MAI-Image-2发布了，现在可以在MAIPlayground上使用，从逼真的现实主义到详细的信息图表应有尽有，现在我们已经跻身顶尖模型之列。",
@@ -144,13 +149,46 @@
           "time_info": "02时02分"
         },
         {
+          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
+          "url": "https://wallstreetcn.com/articles/3767932",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
+          "url": "https://flash.jin10.com/detail/20260320063632572800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
+          "url": "https://flash.jin10.com/detail/20260320063627057800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
           "title": "美国白宫计划周五推出人工智能（AI）框架。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3073585",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -161,7 +199,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -172,7 +210,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -183,9 +221,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "OpenAI计划推出桌面“SupperAPP”。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3073607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "据Business Insider：谷歌告诉员工，公司正“更加倾向于”承接人工智能领域的国家安全业务。",
@@ -208,12 +268,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "白宫拟于周五向国会提交AI监管框架",
+          "url": "https://flash.jin10.com/detail/20260320060446066800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         }
       ]
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价暴跌抄底7天越买越套",
@@ -226,8 +297,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时26分]"
         },
         {
           "title": "Anthropic PBC周三会见美国白宫的国土安全委员会。 Anthropic高管Jack Clark与特朗普政府的一个委员会讨论出口管制问题。（Axios）",
@@ -236,9 +307,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "Claude Code核心工程师Thariq：刚刚发布了Claude Code渠道（Claude Code channels），可以通过指定的MCP控制Claude Code会话，首批支持Telegram和Discord。使用这个功能可以直接从手机给Claude Code发消息。",
+          "url": "https://flash.jin10.com/detail/20260320063934981800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "杰富瑞集团（Jefferies LLC）分析师Christopher Lafemina在给客户的报告中写道：目前，投资者的注意力集中在利润率上，以及金价下跌和能源/消耗品成本上升这‘双重打击’的潜在风险。 在冲突长期化的情境下，更高的利率预期和更强的美元可能会对黄金施加更多压力。",
@@ -247,7 +329,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -258,9 +340,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "据AXIOS网站：Anthropic与国土安全部在闭门会议中会面。双方讨论主要集中在模型蒸馏以及出口管制等问题，与五角大楼的争端并非讨论的核心。",
+          "url": "https://flash.jin10.com/detail/20260320060515495800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "金价跌到看不懂",
@@ -283,6 +376,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         }
       ]
     }
