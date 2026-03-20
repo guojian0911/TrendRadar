@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T18:34:00.388780+08:00",
-  "total_titles_processed": 1624,
+  "generated_at": "2026-03-20T19:28:13.507205+08:00",
+  "total_titles_processed": 1721,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时43分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[09时43分 ~ 19时28分]"
+        },
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时42分 ~ 19时28分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -52,18 +64,6 @@
           "time_info": "[02时01分 ~ 13时48分]"
         },
         {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 18时34分]"
-        },
-        {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
           "url": "https://wallstreetcn.com/articles/3767932",
           "source": "华尔街见闻",
@@ -73,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时26分 ~ 18时34分]"
+          "appearance_count": 13,
+          "time_info": "[07时26分 ~ 19时28分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -111,8 +111,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时53分 ~ 18时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时53分 ~ 19时28分]"
         },
         {
           "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
@@ -142,6 +142,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时10分 ~ 15时43分]"
+        },
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时33分 ~ 19时28分]"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -288,17 +300,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时43分 ~ 13时48分]"
-        },
-        {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 18时34分]"
         },
         {
           "title": "曝AI短剧使用杨紫的脸",
@@ -462,7 +463,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -506,7 +507,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -539,7 +540,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -558,7 +559,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金价暴跌抄底7天越买越套",
@@ -586,8 +587,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 19时28分]"
         },
         {
           "title": "金价持续下跌",
@@ -627,6 +628,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时43分 ~ 14时47分]"
+        },
+        {
+          "title": "金价还要跌多久",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%98%E8%A6%81%E8%B7%8C%E5%A4%9A%E4%B9%85%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
         },
         {
           "title": "金价大跌金店迎新人五金抄底小高峰",
@@ -720,7 +732,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国内金饰价格继续下探 老庙黄金领跌",
@@ -732,6 +744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "黄金白银价格为何双双暴跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
         },
         {
           "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
