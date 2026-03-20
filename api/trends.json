@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T15:43:10.934115+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-03-20T16:35:49.180743+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时53分 ~ 09时43分]"
+        },
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 16时35分]"
         },
         {
           "title": "让大模型学会选择性记忆",
@@ -36,19 +49,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时01分 ~ 13时48分]"
-        },
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 15时43分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -80,11 +80,12 @@
             12,
             14,
             19,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 15时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 16时35分]"
         },
         {
           "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
@@ -111,8 +112,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时26分 ~ 15时43分]"
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 16时35分]"
+        },
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 16时35分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -127,28 +140,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时10分 ~ 15时43分]"
-        },
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 15时43分]"
-        },
-        {
-          "title": "字节超60亿美元出售沐瞳科技，进一步聚焦AI战略",
-          "url": "https://wallstreetcn.com/livenews/3073900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -209,6 +200,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时23分]"
+        },
+        {
+          "title": "字节超60亿美元出售沐瞳科技，进一步聚焦AI战略",
+          "url": "https://wallstreetcn.com/livenews/3073900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时35分]"
         },
         {
           "title": "Gemini SpaceX Station四季度营收6030万美元，分析师预期5570万美元。",
@@ -351,6 +354,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "曝AI短剧使用杨紫的脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DAI%E7%9F%AD%E5%89%A7%E4%BD%BF%E7%94%A8%E6%9D%A8%E7%B4%AB%E7%9A%84%E8%84%B8%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "黄仁勋：AI风险需提醒，但不应引发公众恐慌",
           "url": "https://flash.jin10.com/detail/20260320052711190800",
           "source": "金十数据",
@@ -404,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "上万条大厂春招要求的背后，非技术岗位也要求“会AI”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "华安鑫创成立智能科技公司 含AI及机器人业务",
@@ -504,17 +529,6 @@
           "time_info": "[00时53分 ~ 09时43分]"
         },
         {
-          "title": "摩根士丹利：给予MINIMAX增持评级 目标价990港元",
-          "url": "https://flash.jin10.com/detail/20260320131938591800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
           "title": "金价暴跌 有金店一天狂卖3斤黄金",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E9%87%91%E5%BA%97%E4%B8%80%E5%A4%A9%E7%8B%82%E5%8D%963%E6%96%A4%E9%BB%84%E9%87%91",
           "source": "百度热搜",
@@ -525,8 +539,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 16时35分]"
+        },
+        {
+          "title": "摩根士丹利：给予MINIMAX增持评级 目标价990港元",
+          "url": "https://flash.jin10.com/detail/20260320131938591800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "金价持续下跌",
