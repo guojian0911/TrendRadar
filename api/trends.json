@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T07:25:31.294942+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-03-21T09:27:11.256671+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 09时27分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -35,11 +36,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 09时27分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -50,11 +52,12 @@
             12,
             10,
             13,
-            18
+            18,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 09时27分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -65,11 +68,12 @@
             23,
             18,
             14,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 09时27分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -79,11 +83,12 @@
             13,
             15,
             14,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 09时27分]"
         },
         {
           "title": "普通人如何防范AI投毒",
@@ -188,7 +193,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "实探金价暴跌后的北京菜百商场",
@@ -203,6 +208,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时45分 ~ 07时25分]"
+        },
+        {
+          "title": "从 vibe coding 到如今的 agent，作为大学生几乎丧失手搓代码的能力，需要焦虑吗？",
+          "url": "https://www.zhihu.com/question/2017031352093013210",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
         },
         {
           "title": "强美元与增兵传闻双重夹击 现货金价失守4500大关",
@@ -232,8 +248,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时40分 ~ 07时25分]"
+          "appearance_count": 8,
+          "time_info": "[02时40分 ~ 09时27分]"
         }
       ]
     },
