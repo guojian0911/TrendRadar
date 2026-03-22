@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T22:23:43.701361+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2026-03-22T23:21:32.290381+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时48分 ~ 22时23分]"
+          "appearance_count": 16,
+          "time_info": "[09时48分 ~ 23时21分]"
         },
         {
           "title": "季冠霖发文抵制AI",
@@ -68,8 +68,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时23分 ~ 22时23分]"
+          "appearance_count": 26,
+          "time_info": "[00时23分 ~ 23时21分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -94,11 +94,12 @@
             26,
             27,
             28,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时23分 ~ 22时23分]"
+          "appearance_count": 26,
+          "time_info": "[00时23分 ~ 23时21分]"
         },
         {
           "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
@@ -137,6 +138,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时36分 ~ 19时20分]"
+        },
+        {
+          "title": "跑马拉松护航的民警居然是AI机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时40分 ~ 23时21分]"
         },
         {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
@@ -220,15 +233,15 @@
           "time_info": "[12时15分 ~ 14时43分]"
         },
         {
-          "title": "跑马拉松护航的民警居然是AI机器人",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
+          "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
+          "url": "https://www.cls.cn/detail/2320476",
+          "source": "财联社热门",
           "ranks": [
-            23
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时23分]"
+          "time_info": "[21时40分 ~ 23时21分]"
         },
         {
           "title": "能否使用 RAG 技术来解决大模型的长期记忆问题？",
@@ -241,17 +254,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时40分 ~ 22时23分]"
-        },
-        {
-          "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
-          "url": "https://www.cls.cn/detail/2320476",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "渣打集团行政总裁：希望进一步深入了解DeepSeek",
@@ -324,7 +326,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金价",
@@ -362,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "国际金价连续八个交易日下跌",
+          "url": "https://www.douyin.com/hot/2439701",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "金价八连跌消费者还是不敢买",
