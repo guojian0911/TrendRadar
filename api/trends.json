@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T04:22:02.636327+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-03-23T05:22:21.331776+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 05时22分]"
         },
         {
           "title": "AI演员为啥遭网友抵制",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 05时22分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -39,8 +39,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 05时22分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -51,8 +51,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 05时22分]"
         },
         {
           "title": "AI智能体加速落地，业内：商业保险迎补位时刻",
@@ -60,11 +60,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时22分]"
         },
         {
           "title": "世界周刊之当AI决定扣动扳机",
@@ -89,11 +90,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时22分]"
         }
       ]
     }
