@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T05:32:14.382547+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-03-24T06:27:30.977107+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 06时27分]"
         },
         {
           "title": "DeepSeek郭达雅被曝离职",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时54分 ~ 04时34分]"
+        },
+        {
+          "title": "据航空新闻资讯平台The Air Current：波音(BA.N)已获得美国联邦航空管理局的批准，推出787-9和787-10远程宽体客机的新型增重最大起飞重量型号。",
+          "url": "https://flash.jin10.com/detail/20260324052732928800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
@@ -147,8 +158,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 06时27分]"
         },
         {
           "title": "金价急跌原因",
@@ -158,8 +169,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 06时27分]"
         },
         {
           "title": "金价接连失守4500、4400、4300、4200、4100美元，避险功能为何“失灵”？",
@@ -171,19 +182,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 06时27分]"
         },
         {
           "title": "金价大跌后还会回升吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E5%9B%9E%E5%8D%87%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 02时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 06时27分]"
         }
       ]
     }
