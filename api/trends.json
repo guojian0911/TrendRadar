@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T05:34:02.540854+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-03-25T06:28:31.139271+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "AI骗老美,虚拟女兵狂捞金",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
@@ -52,8 +52,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -63,8 +63,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "DeepSeek郭达雅被曝离职",
@@ -75,8 +75,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -85,11 +85,12 @@
           "ranks": [
             23,
             20,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时28分]"
         },
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -141,11 +142,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时34分]"
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时28分]"
         },
         {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
@@ -153,11 +155,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时34分]"
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时28分]"
         },
         {
           "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
@@ -349,6 +352,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "如何看待 Ai 音乐创作这个趋势？",
+          "url": "https://www.zhihu.com/question/1937236067859306429",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
           "title": "据华尔街日报：OpenAI也将停止提供面向开发者的Sora版本，并且不会在ChatGPT中支持视频功能。",
           "url": "https://flash.jin10.com/detail/20260325035809155800",
           "source": "金十数据",
@@ -462,8 +476,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 06时28分]"
         },
         {
           "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
@@ -473,19 +487,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时36分 ~ 05时34分]"
+          "appearance_count": 4,
+          "time_info": "[04时36分 ~ 06时28分]"
         },
         {
           "title": "金价美股盘后拉升，投资者紧盯中东局势",
           "url": "https://wallstreetcn.com/livenews/3076199",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时28分]"
         },
         {
           "title": "Anthropic：Claude现已具备权限判定能力，安全防护系统可在操作执行前进行监控。团队版现已开放研究预览，企业版及API用户将在未来数日内推出。",
