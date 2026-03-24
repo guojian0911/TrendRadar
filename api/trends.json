@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T06:28:31.139271+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-03-25T07:28:02.468253+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 40,
+      "match_count": 47,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -36,11 +36,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
@@ -52,8 +53,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -63,8 +64,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "DeepSeek郭达雅被曝离职",
@@ -75,8 +76,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -86,11 +87,12 @@
             23,
             20,
             26,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -113,6 +115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "卡塔尔液化天然气田受损后，Airgas化工产品公司限制氦气订单。",
+          "url": "https://flash.jin10.com/detail/20260325071304352800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "京东开源基础大模型JoyAI-LLM Flash的Instruct版本，适配近期火爆的“龙虾”",
@@ -163,6 +176,28 @@
           "time_info": "[04时36分 ~ 06时28分]"
         },
         {
+          "title": "如何看待 Ai 音乐创作这个趋势？",
+          "url": "https://www.zhihu.com/question/1937236067859306429",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
+          "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
+          "url": "https://wallstreetcn.com/articles/3768225",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
           "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3076139",
           "source": "华尔街见闻-快讯",
@@ -173,6 +208,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时52分]"
+        },
+        {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
         },
         {
           "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
@@ -251,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "Anduril、Palantir向美国总统特朗普提倡的“金穹”反导系统提供软件支持。 这两家公司是“金穹”软件团体的一部分。 谷歌公司参与投资的Aalyria Tech和Scale AI也对此有贡献。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3076237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "市场消息：OpenAI拟从MGX、Coatue、Thrive处筹集约100亿美元。",
@@ -352,15 +409,15 @@
           "time_info": "02时56分"
         },
         {
-          "title": "如何看待 Ai 音乐创作这个趋势？",
-          "url": "https://www.zhihu.com/question/1937236067859306429",
-          "source": "知乎",
+          "title": "OpenAI首席财务官：本轮融资总额达1200亿美元",
+          "url": "https://flash.jin10.com/detail/20260325064051929800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "07时28分"
         },
         {
           "title": "据华尔街日报：OpenAI也将停止提供面向开发者的Sora版本，并且不会在ChatGPT中支持视频功能。",
@@ -372,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "OpenAI首席财务官弗里尔：我们必须打造一家为上市做好准备的公司，此轮融资是为了降低相关风险。",
+          "url": "https://flash.jin10.com/detail/20260325063733355800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "据华尔街日报 ：此举是OpenAI在今年第四季度可能进行首次公开募股之前，为重新聚焦于商业和编程业务而采取的众多措施之一。",
@@ -394,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "OpenAI将停止Sora AI视频生成服务，精简产品线",
+          "url": "https://wallstreetcn.com/livenews/3076223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "据华尔街日报 ：OpenAI公司表示，计划停止其Sora视频平台的应用程序。该产品去年发布时曾风光一时，但此后便从公众视野中淡出。",
@@ -465,7 +544,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Claude刚刚杀死了OpenClaw！",
@@ -473,11 +552,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时52分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[01时52分 ~ 07时28分]"
         },
         {
           "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
@@ -501,6 +581,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时28分]"
+        },
+        {
+          "title": "金价大跌金饰店不再人山人海",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%87%91%E9%A5%B0%E5%BA%97%E4%B8%8D%E5%86%8D%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
         },
         {
           "title": "Anthropic：Claude现已具备权限判定能力，安全防护系统可在操作执行前进行监控。团队版现已开放研究预览，企业版及API用户将在未来数日内推出。",
