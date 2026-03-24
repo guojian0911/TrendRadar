@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T04:36:46.278164+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-03-25T05:34:02.540854+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,80 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
+        },
+        {
+          "title": "AI骗老美,虚拟女兵狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
+        },
+        {
+          "title": "报告称AI将全面取代这六大岗位",
+          "url": "https://www.toutiao.com/trending/7620795844911959606/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
+        },
+        {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
+        },
+        {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
+        },
+        {
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
+        },
+        {
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -37,81 +109,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        },
-        {
-          "title": "AI骗老美,虚拟女兵狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时36分]"
-        },
-        {
-          "title": "报告称AI将全面取代这六大岗位",
-          "url": "https://www.toutiao.com/trending/7620795844911959606/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时36分]"
-        },
-        {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时36分]"
-        },
-        {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时36分]"
-        },
-        {
-          "title": "DeepSeek郭达雅被曝离职",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时36分]"
-        },
-        {
-          "title": "给AI龙虾装上双手打游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时36分]"
         },
         {
           "title": "京东开源基础大模型JoyAI-LLM Flash的Instruct版本，适配近期火爆的“龙虾”",
@@ -140,11 +140,24 @@
           "url": "https://wallstreetcn.com/livenews/3076186",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时34分]"
+        },
+        {
+          "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
+          "url": "https://wallstreetcn.com/livenews/3076185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时34分]"
         },
         {
           "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
@@ -171,24 +184,13 @@
           "time_info": "[02时56分 ~ 03时52分]"
         },
         {
-          "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
-          "url": "https://wallstreetcn.com/livenews/3076185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
           "url": "https://flash.jin10.com/detail/20260325041357943800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -287,7 +289,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -298,7 +300,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -320,7 +322,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -353,7 +355,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -364,7 +366,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -386,7 +388,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -408,7 +410,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -449,7 +451,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Claude刚刚杀死了OpenClaw！",
@@ -460,8 +462,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 05时34分]"
         },
         {
           "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
@@ -470,9 +472,20 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 05时34分]"
+        },
+        {
+          "title": "金价美股盘后拉升，投资者紧盯中东局势",
+          "url": "https://wallstreetcn.com/livenews/3076199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时34分"
         },
         {
           "title": "Anthropic：Claude现已具备权限判定能力，安全防护系统可在操作执行前进行监控。团队版现已开放研究预览，企业版及API用户将在未来数日内推出。",
