@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T07:28:02.468253+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-03-25T09:47:29.062322+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 47,
+      "match_count": 55,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -24,11 +24,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时47分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -53,19 +54,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时47分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时47分]"
         },
         {
           "title": "DeepSeek郭达雅被曝离职",
@@ -88,11 +90,12 @@
             20,
             26,
             27,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时47分]"
         },
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -117,13 +120,24 @@
           "time_info": "04时36分"
         },
         {
+          "title": "AI时代最离谱的KPI",
+          "url": "https://www.douyin.com/hot/2442005",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "卡塔尔液化天然气田受损后，Airgas化工产品公司限制氦气订单。",
           "url": "https://flash.jin10.com/detail/20260325071304352800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -148,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -176,6 +201,18 @@
           "time_info": "[04时36分 ~ 06时28分]"
         },
         {
+          "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
+          "url": "https://wallstreetcn.com/articles/3768225",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 09时47分]"
+        },
+        {
           "title": "如何看待 Ai 音乐创作这个趋势？",
           "url": "https://www.zhihu.com/question/1937236067859306429",
           "source": "知乎",
@@ -185,17 +222,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时28分 ~ 07时28分]"
-        },
-        {
-          "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
-          "url": "https://wallstreetcn.com/articles/3768225",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
         },
         {
           "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
@@ -233,6 +259,17 @@
           "time_info": "[02时56分 ~ 03时52分]"
         },
         {
+          "title": "“七巨头”集体熄火！华尔街惊呼：AI最大赢家已换人",
+          "url": "https://www.cls.cn/detail/2323532",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
           "url": "https://flash.jin10.com/detail/20260325041357943800",
           "source": "金十数据",
@@ -255,6 +292,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "OpenAI 计划从MGX、Coatue和Thrive等公司融资约100亿美元",
           "url": "https://flash.jin10.com/detail/20260325021945780800",
           "source": "金十数据",
@@ -275,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
+          "url": "https://www.cls.cn/detail/2323553",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "微软将租用美国得州被甲骨文和OpenAI抛弃的数据中心。 微软和英伟达宣布，就核能展开AI合作。",
@@ -305,7 +364,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -398,6 +457,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "短剧撞脸迪丽热巴别甩锅AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%92%9E%E8%84%B8%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%88%AB%E7%94%A9%E9%94%85AI%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "Anthropic宣布，大模型Claude现在可以自主做出权限决策。 为Claude Code推出“自动模式”（Auto Model）。 安全防护机制将在操作执行前进行预监测。 现已作为“研究预览版”面向团队版（Team Plan）用户开放。 将在未来几天内推送到企业版（Enterprise Plan）和API用户。",
           "url": "https://wallstreetcn.com/livenews/3076129",
           "source": "华尔街见闻-快讯",
@@ -415,7 +485,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -437,7 +507,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -470,7 +540,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -506,6 +576,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "SK海力士：得益于AI，存储需求预计将在中长期内持续扩大。 2026年，HBM预计将继续成为存储市场增长的核心驱动力。",
+          "url": "https://wallstreetcn.com/livenews/3076282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "SK海力士：得益于人工智能，内存需求预计将在中长期内扩大。",
+          "url": "https://flash.jin10.com/detail/20260325085413773800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "美国白宫AI事务主管David Sacks在华盛顿特区科技论坛上讲话，为总统特朗普“允许向海湾地区多个国家出口销售芯片”的计划辩解。",
@@ -544,7 +636,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "Claude刚刚杀死了OpenClaw！",
@@ -553,11 +645,23 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时52分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[01时52分 ~ 09时47分]"
+        },
+        {
+          "title": "道明证券解析金价困局：央行对通胀的反应，才是黄金真正的“杀手”",
+          "url": "https://flash.jin10.com/detail/20260325091340921800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
@@ -592,6 +696,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "Anthropic：Claude现已具备权限判定能力，安全防护系统可在操作执行前进行监控。团队版现已开放研究预览，企业版及API用户将在未来数日内推出。",
