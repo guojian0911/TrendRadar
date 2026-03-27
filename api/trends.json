@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T02:50:08.460540+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-03-28T03:39:34.673724+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
-        },
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "中国人工智能走在世界前列",
@@ -39,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -50,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -61,8 +48,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -83,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
@@ -96,8 +97,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -109,8 +110,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "小米大模型负责人谈未来竞争",
@@ -121,8 +122,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -130,11 +131,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -146,8 +148,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -156,11 +158,12 @@
           "ranks": [
             20,
             17,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -172,8 +175,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -181,22 +184,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "Science 封面论文称「人工智能的谄媚影响人的思维方式」，这种「谄媚」还会产生哪些其他影响？",
           "url": "https://www.zhihu.com/question/2020941462666305824",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时49分 ~ 03时39分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -205,7 +210,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         }
@@ -222,11 +227,12 @@
           "ranks": [
             21,
             17,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
@@ -237,8 +243,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
           "title": "智谱正式开放GLM-5.1",
