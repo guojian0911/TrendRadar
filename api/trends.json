@@ -1,237 +1,22 @@
 {
-  "generated_at": "2026-03-27T23:48:07.260395+08:00",
-  "total_titles_processed": 2088,
+  "generated_at": "2026-03-28T00:48:41.486745+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 58,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "AI短剧冲击横店 第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%86%B2%E5%87%BB%E6%A8%AA%E5%BA%97+%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时27分]"
-        },
-        {
-          "title": "假赛挨重拳,naiyou终身禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时49分 ~ 23时48分]"
-        },
-        {
-          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
-          "url": "https://www.cls.cn/detail/2326528",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时31分 ~ 19时38分]"
-        },
-        {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时27分]"
-        },
         {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
           "url": "https://www.zhihu.com/question/2017224899635142906",
           "source": "知乎",
           "ranks": [
-            20,
-            10,
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时14分 ~ 23时48分]"
-        },
-        {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5,
-            2,
-            16,
-            15,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时31分 ~ 23时48分]"
-        },
-        {
-          "title": "内存股大跌与谷歌论文有关吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            12,
-            20,
-            13,
-            17,
-            11,
-            19,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时53分 ~ 23时48分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            7,
-            12,
-            13,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时57分 ~ 23时48分]"
-        },
-        {
-          "title": "湘女多情AI陶喆版",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            18,
-            13,
-            26,
-            27,
-            23,
-            25,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时31分 ~ 23时48分]"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时27分]"
-        },
-        {
-          "title": "Token AI时代的新KPI",
-          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 09时53分]"
-        },
-        {
-          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
-          "url": "https://news.ifeng.com/c/8rpvER227kd",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时49分 ~ 23时48分]"
-        },
-        {
-          "title": "小米大模型负责人谈未来竞争",
-          "url": "https://www.douyin.com/hot/2445480",
-          "source": "抖音",
-          "ranks": [
-            15,
-            18,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时49分 ~ 23时48分]"
-        },
-        {
-          "title": "LPL宣布naiyou假赛被终身禁赛",
-          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时53分 ~ 23时48分]"
-        },
-        {
-          "title": "Naiyou终身禁赛",
-          "url": "https://s.weibo.com/weibo?q=%23Naiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            6,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时57分 ~ 18时43分]"
-        },
-        {
-          "title": "大模型输出答案前在思考什么",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BE%93%E5%87%BA%E7%AD%94%E6%A1%88%E5%89%8D%E5%9C%A8%E6%80%9D%E8%80%83%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            9,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时31分 ~ 17时50分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -241,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时09分 ~ 23时48分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "中国人工智能走在世界前列",
@@ -252,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时09分 ~ 23时48分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -263,144 +48,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时09分 ~ 23时48分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
-          "url": "https://www.zhihu.com/question/2020423157757028308",
-          "source": "知乎",
+          "title": "假赛挨重拳,naiyou终身禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
           "ranks": [
-            11,
-            8,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 16时53分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
-          "url": "https://wallstreetcn.com/articles/3768419",
-          "source": "华尔街见闻",
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
           "ranks": [
-            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "小米大模型负责人谈未来竞争",
+          "url": "https://www.douyin.com/hot/2445480",
+          "source": "抖音",
+          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 07时27分]"
-        },
-        {
-          "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
-          "url": "https://www.zhihu.com/question/2015379461017659100",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            9,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时24分 ~ 14时14分]"
-        },
-        {
-          "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
-          "url": "https://www.zhihu.com/question/2020472799739814121",
-          "source": "知乎",
-          "ranks": [
-            10,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 16时53分]"
-        },
-        {
-          "title": "Anthropic赢得法院支持，以阻止特朗普对其AI工具使用的禁令。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3077736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "AI复刻周杰伦2000万MV",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%8D%E5%88%BB%E5%91%A8%E6%9D%B0%E4%BC%A62000%E4%B8%87MV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
-          "url": "https://www.cls.cn/detail/2326397",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 18时43分]"
-        },
-        {
-          "title": "Naiyou 假赛被罚终身禁赛，LPL 打野为什么多次出现假赛风波？电竞选手的「假赛」又是如何调查定性的？",
-          "url": "https://www.zhihu.com/question/2020885312767881505",
-          "source": "知乎",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时09分 ~ 23时48分]"
-        },
-        {
-          "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
-          "url": "https://www.cls.cn/detail/2326356",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时57分 ~ 16时53分]"
-        },
-        {
-          "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3077691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时24分]"
-        },
-        {
-          "title": "交通银行首席信息官钱斌：持续推动人工智能应用场景落地",
-          "url": "https://wallstreetcn.com/livenews/3078193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 20时54分]"
+          "time_info": "00时48分"
         },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
@@ -410,491 +92,113 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
-        },
-        {
-          "title": "美联储理事库克：人工智能对劳动力市场具有变革性作用。",
-          "url": "https://flash.jin10.com/detail/20260327045347252800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时24分]"
-        },
-        {
-          "title": "美联储理事库克：我们正在密切关注人工智能和就业市场的相关数据。",
-          "url": "https://flash.jin10.com/detail/20260327045346272800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时24分]"
-        },
-        {
-          "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3077682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时24分]"
-        },
-        {
-          "title": "苹果据悉计划向竞争对手的人工智能助手开放Siri",
-          "url": "https://flash.jin10.com/detail/20260327023101386800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "00时48分"
         },
         {
-          "title": "美团开源原生多模态大模型LongCat-Next",
-          "url": "https://wallstreetcn.com/livenews/3077909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
-          "url": "https://wallstreetcn.com/livenews/3077637",
-          "source": "华尔街见闻-快讯",
+          "title": "湘女多情AI陶喆版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
+          "source": "bilibili 热搜",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "00时48分"
         },
         {
-          "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
-          "url": "https://flash.jin10.com/detail/20260327045344271800",
-          "source": "金十数据",
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "00时48分"
         },
         {
-          "title": "据 The Information：OpenAI广告试点的年化收入突破1亿美元。",
-          "url": "https://flash.jin10.com/detail/20260327045343835800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "谷歌公司Fiber更名为GFiber。",
-          "url": "https://wallstreetcn.com/livenews/3077578",
-          "source": "华尔街见闻-快讯",
+          "title": "内存股大跌与谷歌论文有关吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "00时48分"
         },
         {
-          "title": "苹果公司将在策略转向中向竞争对手的AI助理开放Siri。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3077634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "市场消息：苹果进行战略转型，将向竞品人工智能助手开放Siri。",
-          "url": "https://flash.jin10.com/detail/20260327020953242800",
-          "source": "金十数据",
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "00时48分"
         },
         {
-          "title": "美联储巴尔金：人工智能领域变革的步伐和不确定性，让许多美联储官员感到不安。",
-          "url": "https://flash.jin10.com/detail/20260327230033275800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "阿里QoderWork打通钉钉、微信、飞书，手机端可直接召唤桌面AI助手",
-          "url": "https://wallstreetcn.com/livenews/3077893",
-          "source": "华尔街见闻-快讯",
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时32分"
+          "time_info": "00时48分"
         },
         {
-          "title": "加拿大央行高级副行长罗杰斯：贸易紧张局势、移民规模缩减以及人工智能的广泛应用将永久性地改变格局。",
-          "url": "https://flash.jin10.com/detail/20260327011340513800",
-          "source": "金十数据",
+          "title": "Naiyou终身禁赛",
+          "url": "https://www.douyin.com/hot/2446027",
+          "source": "抖音",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "据The Verge：维基百科已禁止使用人工智能撰写或重写条目。",
-          "url": "https://flash.jin10.com/detail/20260327043654407800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "白宫顾问戴维·萨克斯：美国国会可在数月内通过两党人工智能立法。",
-          "url": "https://flash.jin10.com/detail/20260327034051169800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。 在全球推广Search Live。 向那些已经存在人工智能（AI）模型的地方推广Search Live。",
-          "url": "https://wallstreetcn.com/livenews/3077571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "Xero与Anthropic达成多年合作伙伴关系，Xero称，合作将把Claude的人工智能直接接入Xero，并把Xero的财务数据和工具引入Claude.ai。",
-          "url": "https://flash.jin10.com/detail/20260326235712389800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-03-27）",
-          "url": "https://flash.jin10.com/detail/20260327115446579800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3077656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "腾讯云公布2026年AI演进路线，首发Agent产品全景图",
-          "url": "https://wallstreetcn.com/livenews/3078089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时50分"
-        },
-        {
-          "title": "谷歌：用户可以将其他AI应用的记忆转移到Gemini。",
-          "url": "https://flash.jin10.com/detail/20260327032315760800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "美团开源原生多模态大模型LongCat-Next",
-          "url": "https://flash.jin10.com/detail/20260327115131728800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "报道：苹果向iPhone设计师发放罕见奖金，应对AI企业挖角",
-          "url": "https://wallstreetcn.com/livenews/3077683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "科威特称无人机袭击Shuwaikh港 造成破坏",
-          "url": "https://wallstreetcn.com/livenews/3077989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "马斯克：AI将在3年后超过人类智能",
-          "url": "https://www.toutiao.com/trending/7620905418260611108/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "AI对战争有什么影响",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%88%98%E4%BA%89%E6%9C%89%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "00时48分"
         }
       ]
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "金价为何反常下跌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8,
-            12,
-            3,
-            15,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时31分 ~ 23时48分]"
-        },
-        {
-          "title": "德商银行：铂金价格预计到年中将达到每金衡盎司2,100美元，到年底将达到2,300美元。",
-          "url": "https://flash.jin10.com/detail/20260327193219234800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "金价还会猛跌吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%98%E4%BC%9A%E7%8C%9B%E8%B7%8C%E5%90%97%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 17时50分]"
-        },
         {
           "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32841691",
           "source": "澎湃新闻",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "钉钉CLI开源，首批开放10项核心产品能力，原生支持ClaudeCode、Cursor、Qoder",
-          "url": "https://wallstreetcn.com/livenews/3078231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "00时48分"
         },
         {
-          "title": "德商银行：将今年年底的金价预测上调至5000美元/盎司，将明年年底的金价预测上调至5200美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260327192835713800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "智谱：GLM-5.1已面向所有Coding Plan用户开放",
-          "url": "https://flash.jin10.com/detail/20260327192633175800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "国际金价暴跌到4099时，敢闭眼抄底的“人”是谁？",
-          "url": "https://flash.jin10.com/detail/20260327120146281800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "智谱：GLM-5.1现已面向GLM Coding Plan全部用户（Lite/Pro/Max）开放。",
-          "url": "https://wallstreetcn.com/livenews/3078216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "Anthropic讨论最快四季度IPO。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3077716",
-          "source": "华尔街见闻-快讯",
+          "title": "金价为何反常下跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
+          "source": "bilibili 热搜",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "00时48分"
         },
         {
-          "title": "特朗普再度宣布推迟打击伊朗能源设施，油价短线大跌，金价大涨。",
-          "url": "https://flash.jin10.com/detail/20260327041512908800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "智谱正式开源GLM-5.1",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%BA%90GLM-5.1",
+          "title": "智谱正式开放GLM-5.1",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BEGLM-5.1",
           "source": "bilibili 热搜",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "报道：Anthropic考虑最早10月进行IPO",
-          "url": "https://wallstreetcn.com/livenews/3077802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "ChatGPT的心脏长什么样",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E7%9A%84%E5%BF%83%E8%84%8F%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "time_info": "00时48分"
         }
       ]
     }
