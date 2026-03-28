@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T19:25:11.245593+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-03-28T20:42:19.218381+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
             12,
             13,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时48分 ~ 19时25分]"
+          "appearance_count": 25,
+          "time_info": "[00时48分 ~ 20时42分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -58,25 +59,12 @@
             14,
             15,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时48分 ~ 19时25分]"
-        },
-        {
-          "title": "AI神游!原神现六指派蒙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时52分 ~ 19时25分]"
+          "appearance_count": 25,
+          "time_info": "[00时48分 ~ 20时42分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -90,8 +78,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时15分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[12时15分 ~ 20时42分]"
+        },
+        {
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时52分 ~ 20时42分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -152,8 +155,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时48分 ~ 19时25分]"
+          "appearance_count": 25,
+          "time_info": "[00时48分 ~ 20时42分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -173,8 +176,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时48分 ~ 19时25分]"
+          "appearance_count": 25,
+          "time_info": "[00时48分 ~ 20时42分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -188,11 +191,12 @@
             14,
             19,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时48分 ~ 19时25分]"
+          "appearance_count": 25,
+          "time_info": "[00时48分 ~ 20时42分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -255,6 +259,20 @@
           "time_info": "[12时15分 ~ 18时28分]"
         },
         {
+          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
+          "url": "https://www.zhihu.com/question/2020455049218712383",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 20时42分]"
+        },
+        {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
           "url": "https://flash.jin10.com/detail/20260328013224717800",
           "source": "金十数据",
@@ -278,19 +296,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时49分 ~ 05时29分]"
-        },
-        {
-          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
-          "url": "https://www.zhihu.com/question/2020455049218712383",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 19时25分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -426,22 +431,24 @@
           "source": "微博",
           "ranks": [
             10,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 20时42分]"
         },
         {
           "title": "金价大跌后迎抄底资金，分析师：结构性利好仍存",
           "url": "https://flash.jin10.com/detail/20260328184122077800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时42分]"
         },
         {
           "title": "Anthropic最强模型曝光，性能实现“代际跃迁”，全面碾压Opus！",
