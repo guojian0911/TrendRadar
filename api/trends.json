@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T16:33:40.792912+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-03-28T17:32:17.004535+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "中国人工智能走在世界前列",
@@ -38,11 +38,12 @@
             9,
             11,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 16时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时48分 ~ 17时32分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -54,11 +55,12 @@
             11,
             13,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 16时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时48分 ~ 17时32分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -118,8 +120,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 16时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时48分 ~ 17时32分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -137,8 +139,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 16时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时48分 ~ 17时32分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -155,8 +157,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 16时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时48分 ~ 17时32分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -173,6 +175,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时48分 ~ 07时28分]"
+        },
+        {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时15分 ~ 17时32分]"
         },
         {
           "title": "小米大模型负责人谈未来竞争",
@@ -202,17 +217,33 @@
           "time_info": "[00时48分 ~ 03时39分]"
         },
         {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
+          "title": "国家人工智能应用上海中试基地：发布五大核心创新成果",
+          "url": "https://wallstreetcn.com/livenews/3078534",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
+            3,
             9,
+            11,
+            14,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 17时32分]"
+        },
+        {
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[14时52分 ~ 17时32分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -240,21 +271,6 @@
           "time_info": "[02时49分 ~ 05时29分]"
         },
         {
-          "title": "国家人工智能应用上海中试基地：发布五大核心创新成果",
-          "url": "https://wallstreetcn.com/livenews/3078534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            11,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时33分]"
-        },
-        {
           "title": "Naiyou终身禁赛",
           "url": "https://www.douyin.com/hot/2446027",
           "source": "抖音",
@@ -269,18 +285,6 @@
           "time_info": "[00时48分 ~ 03时39分]"
         },
         {
-          "title": "AI神游!原神现六指派蒙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 16时33分]"
-        },
-        {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
           "url": "https://wallstreetcn.com/livenews/3078490",
           "source": "华尔街见闻-快讯",
@@ -291,6 +295,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时28分]"
+        },
+        {
+          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
+          "url": "https://www.zhihu.com/question/2020455049218712383",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "警惕AI“过度谄媚”",
