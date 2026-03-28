@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T21:48:01.517870+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2026-03-28T22:28:32.435350+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时48分 ~ 21时48分]"
+          "appearance_count": 28,
+          "time_info": "[00时48分 ~ 22时28分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -65,8 +65,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时48分 ~ 21时48分]"
+          "appearance_count": 28,
+          "time_info": "[00时48分 ~ 22时28分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -80,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时15分 ~ 21时48分]"
+          "appearance_count": 17,
+          "time_info": "[12时15分 ~ 22时28分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -107,8 +107,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时52分 ~ 21时48分]"
+          "appearance_count": 14,
+          "time_info": "[14时52分 ~ 22时28分]"
         },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
@@ -158,8 +158,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时48分 ~ 21时48分]"
+          "appearance_count": 28,
+          "time_info": "[00时48分 ~ 22时28分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -180,8 +180,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时48分 ~ 21时48分]"
+          "appearance_count": 28,
+          "time_info": "[00时48分 ~ 22时28分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -196,11 +196,12 @@
             19,
             16,
             22,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时48分 ~ 21时48分]"
+          "appearance_count": 28,
+          "time_info": "[00时48分 ~ 22时28分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -288,17 +289,6 @@
           "time_info": "01时45分"
         },
         {
-          "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
-          "url": "https://wallstreetcn.com/livenews/3078600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
           "title": "Science 封面论文称「人工智能的谄媚影响人的思维方式」，这种「谄媚」还会产生哪些其他影响？",
           "url": "https://www.zhihu.com/question/2020941462666305824",
           "source": "知乎",
@@ -327,6 +317,18 @@
           "time_info": "[00时48分 ~ 03时39分]"
         },
         {
+          "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
+          "url": "https://wallstreetcn.com/livenews/3078600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时28分]"
+        },
+        {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
           "url": "https://wallstreetcn.com/livenews/3078490",
           "source": "华尔街见闻-快讯",
@@ -339,6 +341,18 @@
           "time_info": "[05时29分 ~ 07时28分]"
         },
         {
+          "title": "郑纬民院士：AI产业核心已从模型服务转向Token服务",
+          "url": "https://wallstreetcn.com/livenews/3078594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时28分]"
+        },
+        {
           "title": "警惕AI“过度谄媚”",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95AI%E2%80%9C%E8%BF%87%E5%BA%A6%E8%B0%84%E5%AA%9A%E2%80%9D",
           "source": "百度热搜",
@@ -349,17 +363,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时27分]"
-        },
-        {
-          "title": "郑纬民院士：AI产业核心已从模型服务转向Token服务",
-          "url": "https://wallstreetcn.com/livenews/3078594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
         },
         {
           "title": "上海市人工智能行业协会：AI发展不能因噎废食 安全和风控要协同推进",
@@ -458,11 +461,23 @@
           "ranks": [
             10,
             5,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时27分 ~ 21时48分]"
+          "appearance_count": 8,
+          "time_info": "[18时27分 ~ 22时28分]"
+        },
+        {
+          "title": "智谱 GLM-5.1 面向所有 codingplan 用户开放，对开发者意味着什么？",
+          "url": "https://www.zhihu.com/question/2020954059209803141",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时28分]"
         },
         {
           "title": "金价大跌后迎抄底资金，分析师：结构性利好仍存",
@@ -475,17 +490,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时25分 ~ 20时42分]"
-        },
-        {
-          "title": "智谱 GLM-5.1 面向所有 codingplan 用户开放，对开发者意味着什么？",
-          "url": "https://www.zhihu.com/question/2020954059209803141",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
         },
         {
           "title": "Anthropic最强模型曝光，性能实现“代际跃迁”，全面碾压Opus！",
