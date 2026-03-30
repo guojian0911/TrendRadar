@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T18:13:06.019315+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-03-30T19:53:02.853883+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             8,
             9,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时29分 ~ 18时13分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 19时53分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -99,11 +100,12 @@
             18,
             21,
             22,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时29分 ~ 18时13分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 19时53分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -116,6 +118,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时26分 ~ 06时26分]"
+        },
+        {
+          "title": "DeepSeek宕机12小时后恢复服务",
+          "url": "https://www.toutiao.com/trending/7622849000173178419/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            16,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时46分 ~ 19时53分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -171,20 +188,6 @@
             12,
             10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 18时13分]"
-        },
-        {
-          "title": "DeepSeek宕机12小时后恢复服务",
-          "url": "https://www.toutiao.com/trending/7622849000173178419/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13,
-            16,
-            20
           ],
           "is_new": false,
           "appearance_count": 6,
