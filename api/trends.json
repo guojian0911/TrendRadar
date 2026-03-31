@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T16:06:24.325336+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-03-31T18:02:23.364344+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 16时06分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 18时02分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -72,11 +72,12 @@
           "ranks": [
             2,
             3,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 16时06分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 18时02分]"
         },
         {
           "title": "国行版苹果AI",
@@ -105,6 +106,28 @@
           "time_info": "[02时53分 ~ 04时40分]"
         },
         {
+          "title": "DeepSeek为何宕机7小时",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BD%95%E5%AE%95%E6%9C%BA7%E5%B0%8F%E6%97%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "B站AI创作产品“updream”已开启内测",
+          "url": "https://wallstreetcn.com/livenews/3080055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "AI短剧 偷脸",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E5%81%B7%E8%84%B8&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -123,11 +146,12 @@
           "ranks": [
             5,
             6,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 16时06分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 18时02分]"
         },
         {
           "title": "美联储威廉姆斯：人工智能应该创造大量就业岗位，应让人们为这些岗位做好准备。",
@@ -235,6 +259,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "报告：2025年中国线路板产业投资同比增长约3% AI算力PCB成增长核心引擎",
           "url": "https://wallstreetcn.com/livenews/3079868",
           "source": "华尔街见闻-快讯",
@@ -252,7 +287,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -279,6 +314,17 @@
           "time_info": "12时33分"
         },
         {
+          "title": "DeepSeek被做成清明节纸扎",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "瑞银：中国市场调整或已过度 优质AI股票迎来布局窗口",
           "url": "https://wallstreetcn.com/livenews/3079855",
           "source": "华尔街见闻-快讯",
@@ -296,7 +342,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -307,7 +353,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -340,7 +386,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         }
@@ -348,7 +394,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价下跌刚需客户下手了",
@@ -363,6 +409,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时53分 ~ 07时31分]"
+        },
+        {
+          "title": "智谱(02513.HK)：2025年经调整年内净亏损达人民币31.82亿元，同比增长29.1%。",
+          "url": "https://flash.jin10.com/detail/20260331173315291800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "智谱：2025年净亏损47.18亿元，上年同期净亏损29.58亿元",
+          "url": "https://wallstreetcn.com/livenews/3080046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "鲍威尔暂时压制失控预期，金价这次反抽成色如何？",
