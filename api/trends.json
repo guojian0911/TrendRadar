@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T18:02:23.364344+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-03-31T19:02:39.242490+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
@@ -22,6 +22,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时08分 ~ 09时55分]"
+        },
+        {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 19时02分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -54,18 +66,6 @@
           "time_info": "[00时08分 ~ 14时14分]"
         },
         {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 18时02分]"
-        },
-        {
           "title": "凌晨3点上班,AI卷疯打工人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
           "source": "贴吧",
@@ -73,11 +73,12 @@
             2,
             3,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 19时02分]"
         },
         {
           "title": "国行版苹果AI",
@@ -92,6 +93,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时54分 ~ 16时06分]"
+        },
+        {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            9,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 19时02分]"
         },
         {
           "title": "AI 会让年轻人的机会变多还是变少？",
@@ -112,7 +128,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -123,7 +139,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -140,20 +156,6 @@
           "time_info": "[09时54分 ~ 12时33分]"
         },
         {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 18时02分]"
-        },
-        {
           "title": "美联储威廉姆斯：人工智能应该创造大量就业岗位，应让人们为这些岗位做好准备。",
           "url": "https://flash.jin10.com/detail/20260331042636136800",
           "source": "金十数据",
@@ -164,6 +166,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时37分]"
+        },
+        {
+          "title": "DeepSeek被做成清明节纸扎",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -259,13 +273,35 @@
           "time_info": "05时37分"
         },
         {
+          "title": "苹果国行AI体验如何",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%9B%BD%E8%A1%8CAI%E4%BD%93%E9%AA%8C%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "DeepSeek服务中断一小时后恢复",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E6%81%A2%E5%A4%8D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "DeepSeek崩了",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -314,17 +350,6 @@
           "time_info": "12时33分"
         },
         {
-          "title": "DeepSeek被做成清明节纸扎",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "瑞银：中国市场调整或已过度 优质AI股票迎来布局窗口",
           "url": "https://wallstreetcn.com/livenews/3079855",
           "source": "华尔街见闻-快讯",
@@ -336,6 +361,17 @@
           "time_info": "14时14分"
         },
         {
+          "title": "DeepSeek服务中断一小时后恢复",
+          "url": "https://wallstreetcn.com/livenews/3080079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "客服回应“苹果AI国行上线”：未发布",
           "url": "https://www.baidu.com/s?wd=%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E2%80%9C%E8%8B%B9%E6%9E%9CAI%E5%9B%BD%E8%A1%8C%E4%B8%8A%E7%BA%BF%E2%80%9D%EF%BC%9A%E6%9C%AA%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
@@ -345,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
+        },
+        {
+          "title": "DeepSeek服务中断一小时后恢复",
+          "url": "https://flash.jin10.com/detail/20260331181901102800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "机构：AI服务器需求支撑2026年第二季度存储器合约价上行 CSP借长期协议锁定供货",
@@ -394,7 +441,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价下跌刚需客户下手了",
@@ -417,9 +464,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "智谱(02513.HK) CEO：我相信软件行业及更广泛的IT领域将迎来一个全新的范式。",
+          "url": "https://flash.jin10.com/detail/20260331184151983800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "智谱(02513.HK) CEO：算力供应确实存在瓶颈和制约。",
+          "url": "https://flash.jin10.com/detail/20260331183752039800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "智谱：2025年净亏损47.18亿元，上年同期净亏损29.58亿元",
@@ -428,7 +497,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
