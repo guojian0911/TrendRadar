@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T19:48:33.103012+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2026-04-01T21:08:19.328572+08:00",
+  "total_titles_processed": 1772,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             19,
             23,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时04分 ~ 19时48分]"
+          "appearance_count": 20,
+          "time_info": "[00时04分 ~ 21时08分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -120,8 +121,20 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 21时08分]"
+        },
+        {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时48分]"
+          "time_info": "[19时48分 ~ 21时08分]"
         },
         {
           "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
@@ -264,18 +277,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
-          "url": "https://www.cls.cn/detail/2332176",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -352,7 +354,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -363,7 +365,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -429,7 +431,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -448,7 +450,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
@@ -474,8 +476,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时31分 ~ 19时48分]"
+          "appearance_count": 9,
+          "time_info": "[07时31分 ~ 21时08分]"
         },
         {
           "title": "Claude Code源码意外泄露",
@@ -516,6 +518,20 @@
           "time_info": "[10时03分 ~ 13时20分]"
         },
         {
+          "title": "ClaudeCode源码泄露",
+          "url": "https://www.douyin.com/hot/2451216",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 21时08分]"
+        },
+        {
           "title": "港股智谱(02513.HK)持续走高，现涨超25%。消息面上，公司2025年营收暴增132%，云服务收入增近3倍。",
           "url": "https://flash.jin10.com/detail/20260401093752768800",
           "source": "金十数据",
@@ -527,30 +543,30 @@
           "time_info": "10时03分"
         },
         {
-          "title": "ClaudeCode源码泄露",
-          "url": "https://www.douyin.com/hot/2451216",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 19时48分]"
-        },
-        {
           "title": "UP主复现Claude Code代码漏洞",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
           "source": "bilibili 热搜",
           "ranks": [
             8,
             4,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 21时08分]"
+        },
+        {
+          "title": "Claude Code源码分析与复刻实现",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时08分]"
         },
         {
           "title": "金价急跌急涨",
@@ -564,15 +580,15 @@
           "time_info": "[15时13分 ~ 15时14分]"
         },
         {
-          "title": "Claude Code源码分析与复刻实现",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
+          "title": "从泄露源码扒出Claude隐藏彩蛋",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
           "source": "bilibili 热搜",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时48分"
+          "time_info": "21时08分"
         },
         {
           "title": "分析师：金价日线现看涨信号 均线压制与多头动能展开博弈",
