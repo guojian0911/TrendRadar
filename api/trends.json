@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T04:31:16.023647+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-04-03T05:32:47.798116+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时32分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时32分]"
         },
         {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
@@ -118,7 +118,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -129,7 +129,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         }
@@ -147,8 +147,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时32分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -157,11 +157,12 @@
           "ranks": [
             19,
             14,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时32分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -171,11 +172,12 @@
             16,
             18,
             15,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时32分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -184,11 +186,12 @@
           "ranks": [
             17,
             20,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时32分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -198,11 +201,12 @@
             18,
             22,
             19,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时32分]"
         }
       ]
     }
