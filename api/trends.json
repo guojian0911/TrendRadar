@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T22:24:36.565246+08:00",
-  "total_titles_processed": 1892,
+  "generated_at": "2026-04-02T23:56:32.557006+08:00",
+  "total_titles_processed": 1988,
   "failed_sources": [],
   "trends": [
     {
@@ -83,6 +83,20 @@
           "time_info": "21时01分"
         },
         {
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时57分 ~ 23时56分]"
+        },
+        {
           "title": "商务部：持续深化中国与东盟国家在云基础设施、人工智能、绿色电源等前沿领域合作",
           "url": "https://wallstreetcn.com/livenews/3081438",
           "source": "华尔街见闻-快讯",
@@ -125,19 +139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
-        },
-        {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时57分 ~ 22时24分]"
         },
         {
           "title": "行业组织发布声明严禁AI换脸合成",
@@ -212,6 +213,17 @@
           "time_info": "[02时54分 ~ 05时38分]"
         },
         {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时56分]"
+        },
+        {
           "title": "图解OpenAI债务危机",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E8%A7%A3OpenAI%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA",
           "source": "bilibili 热搜",
@@ -229,7 +241,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -243,17 +255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
-        },
-        {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "可灵AI全球用户规模领先，成Sora关停后最受关注视频模型",
@@ -443,11 +444,12 @@
             20,
             26,
             25,
-            23
+            23,
+            15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时09分 ~ 22时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时09分 ~ 23时56分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -468,8 +470,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时09分 ~ 22时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时09分 ~ 23时56分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -486,11 +488,12 @@
             29,
             26,
             25,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时09分 ~ 22时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时09分 ~ 23时56分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -511,8 +514,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时09分 ~ 22时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时09分 ~ 23时56分]"
         },
         {
           "title": "金价急速上涨",
@@ -568,6 +571,17 @@
           "time_info": "[09时51分 ~ 12时27分]"
         },
         {
+          "title": "用Claude Code源码自制客户端",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Claude%20Code%E6%BA%90%E7%A0%81%E8%87%AA%E5%88%B6%E5%AE%A2%E6%88%B7%E7%AB%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时56分]"
+        },
+        {
           "title": "ClaudeCode里到底藏了什么",
           "url": "https://search.bilibili.com/all?keyword=ClaudeCode%E9%87%8C%E5%88%B0%E5%BA%95%E8%97%8F%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -578,17 +592,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时03分 ~ 17时57分]"
-        },
-        {
-          "title": "用Claude Code源码自制客户端",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Claude%20Code%E6%BA%90%E7%A0%81%E8%87%AA%E5%88%B6%E5%AE%A2%E6%88%B7%E7%AB%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "特朗普再“变脸”，金价反弹要中道崩阻？",
@@ -608,7 +611,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -663,7 +666,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
