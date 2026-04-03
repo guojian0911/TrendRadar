@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T19:35:35.928920+08:00",
-  "total_titles_processed": 1615,
+  "generated_at": "2026-04-03T20:53:26.085897+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,27 @@
             16,
             19,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时52分 ~ 19时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时52分 ~ 20时53分]"
+        },
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            10,
+            4,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时00分 ~ 20时53分]"
         },
         {
           "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
@@ -46,20 +62,6 @@
             8,
             6,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时00分 ~ 19时35分]"
-        },
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            10,
-            4,
-            16
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -83,7 +85,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -379,7 +381,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -496,11 +498,12 @@
             10,
             13,
             21,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时00分 ~ 19时35分]"
+          "appearance_count": 7,
+          "time_info": "[16时00分 ~ 20时53分]"
         },
         {
           "title": "国内三大编程模型（Kimi K2.5, GLM 5, Minimax M2.7）我应该选择哪个？",
