@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T20:53:26.085897+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2026-04-03T22:02:05.905699+08:00",
+  "total_titles_processed": 1844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -35,8 +35,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时52分 ~ 20时53分]"
+          "appearance_count": 23,
+          "time_info": "[00时52分 ~ 22时02分]"
         },
         {
           "title": "谷歌官方发布最新模型Gemma4",
@@ -47,11 +47,12 @@
             10,
             4,
             16,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时00分 ~ 20时53分]"
+          "appearance_count": 9,
+          "time_info": "[16时00分 ~ 22时02分]"
         },
         {
           "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时00分 ~ 19时35分]"
+        },
+        {
+          "title": "Claude源码能否让全球AI工具大升级",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -502,8 +514,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时00分 ~ 20时53分]"
+          "appearance_count": 9,
+          "time_info": "[16时00分 ~ 22时02分]"
         },
         {
           "title": "国内三大编程模型（Kimi K2.5, GLM 5, Minimax M2.7）我应该选择哪个？",
