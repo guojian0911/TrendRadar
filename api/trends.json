@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T14:10:20.554936+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-04-03T16:01:18.807132+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -27,22 +27,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 14时10分]"
-        },
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 14时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 16时01分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -54,6 +44,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            3,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 16时01分]"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
@@ -102,6 +105,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时45分]"
+        },
+        {
+          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2023359161887450046",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
         },
         {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
@@ -262,7 +288,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "用Claude Code源码自制客户端",
@@ -287,11 +313,12 @@
             26,
             20,
             29,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 12时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 16时01分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -339,6 +366,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时52分 ~ 07时32分]"
+        },
+        {
+          "title": "Anthropic误删数千GitHub仓库",
+          "url": "https://search.bilibili.com/all?keyword=Anthropic%20GitHub%E4%BB%93%E5%BA%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
         },
         {
           "title": "国内三大编程模型（Kimi K2.5, GLM 5, Minimax M2.7）我应该选择哪个？",
