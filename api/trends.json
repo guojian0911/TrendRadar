@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T17:02:20.256097+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-04-03T18:39:01.802830+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -29,11 +29,39 @@
             11,
             12,
             16,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 17时02分]"
+          "appearance_count": 19,
+          "time_info": "[00时52分 ~ 18时39分]"
+        },
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时00分 ~ 18时39分]"
+        },
+        {
+          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2023359161887450046",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时00分 ~ 18时39分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -60,26 +88,15 @@
           "time_info": "[12时27分 ~ 16时01分]"
         },
         {
-          "title": "十部门：人工智能产品和服务应采取充分措施确保隐私数据得到有效保护",
-          "url": "https://wallstreetcn.com/livenews/3082106",
+          "title": "沐曦股份：联合上海人工智能实验室发布高性能GPU算子生成系统Kernel-Smith",
+          "url": "https://wallstreetcn.com/livenews/3082144",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "十部门：开展人工智能科技活动应将科技伦理要求贯穿全过程",
-          "url": "https://wallstreetcn.com/livenews/3082105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "time_info": "18时39分"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
@@ -118,6 +135,30 @@
           "time_info": "[01时45分 ~ 02时50分]"
         },
         {
+          "title": "十部门：人工智能产品和服务应采取充分措施确保隐私数据得到有效保护",
+          "url": "https://wallstreetcn.com/livenews/3082106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时39分]"
+        },
+        {
+          "title": "十部门：开展人工智能科技活动应将科技伦理要求贯穿全过程",
+          "url": "https://wallstreetcn.com/livenews/3082105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时39分]"
+        },
+        {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
           "url": "https://wallstreetcn.com/livenews/3081712",
           "source": "华尔街见闻-快讯",
@@ -128,31 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时45分]"
-        },
-        {
-          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
-          "url": "https://www.zhihu.com/question/2023359161887450046",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时00分 ~ 17时02分]"
-        },
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时00分 ~ 17时02分]"
         },
         {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
@@ -176,6 +192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "沐曦股份：联合上海人工智能实验室发布高性能GPU算子生成系统Kernel-Smith",
+          "url": "https://flash.jin10.com/detail/20260403180836014800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-04-03）",
@@ -206,7 +233,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -228,7 +255,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -239,7 +266,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -264,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "中基协发布《基金经营机构大模型技术应用规范》团体标准",
+          "url": "https://flash.jin10.com/detail/20260403175839844800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "智元将于4月7日开启 “智元AI发布周”",
@@ -431,11 +469,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时00分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时00分 ~ 18时39分]"
         },
         {
           "title": "国内三大编程模型（Kimi K2.5, GLM 5, Minimax M2.7）我应该选择哪个？",
