@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T02:35:05.494711+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-04-05T03:28:17.677840+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时28分]"
+        },
+        {
+          "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
+          "url": "https://www.zhihu.com/question/2023363667584927528",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时28分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -29,20 +42,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时35分]"
-        },
-        {
-          "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
-          "url": "https://www.zhihu.com/question/2023363667584927528",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时28分]"
         },
         {
           "title": "广东鸡煲店老板累瘫照系AI生成",
@@ -50,11 +51,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 03时28分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -64,8 +66,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时28分]"
         },
         {
           "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
@@ -91,11 +93,12 @@
           "ranks": [
             11,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时28分]"
         }
       ]
     }
