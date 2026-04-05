@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T17:35:20.469242+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-04-05T18:29:19.514192+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 17时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 18时29分]"
+        },
+        {
+          "title": "腾讯AI闯祸,拿唐山地震玩梗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352804&amp;topic_name=%E8%85%BE%E8%AE%AFAI%E9%97%AF%E7%A5%B8%2C%E6%8B%BF%E5%94%90%E5%B1%B1%E5%9C%B0%E9%9C%87%E7%8E%A9%E6%A2%97",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时29分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -60,17 +72,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时27分]"
-        },
-        {
-          "title": "腾讯AI闯祸,拿唐山地震玩梗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352804&amp;topic_name=%E8%85%BE%E8%AE%AFAI%E9%97%AF%E7%A5%B8%2C%E6%8B%BF%E5%94%90%E5%B1%B1%E5%9C%B0%E9%9C%87%E7%8E%A9%E6%A2%97",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时35分]"
         },
         {
           "title": "夫妻AI写公众号年赚200万",
@@ -103,11 +104,12 @@
           "ranks": [
             3,
             10,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 18时29分]"
         },
         {
           "title": "据科威特国家通讯社：无人机袭击后，舒韦赫（Shuwaikh）石油工业区发生火灾，暂无人员伤亡报告。",
@@ -140,11 +142,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 18时29分]"
         },
         {
           "title": "米哈游刘伟、蔡浩宇、罗宇皓向母校上海交大捐资设立“AI未来基石”基金",
@@ -158,6 +161,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时53分 ~ 17时35分]"
+        },
+        {
+          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
+          "url": "https://www.zhihu.com/question/2022702768251564692",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时29分]"
         },
         {
           "title": "新型AI模型可通过血检识别多种神经退行性疾病",
@@ -192,17 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
-        },
-        {
-          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
-          "url": "https://www.zhihu.com/question/2022702768251564692",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "当下的 AI 是不是被过度神化了？",
@@ -263,7 +267,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Claude禁止OpenClaw接入",
@@ -276,8 +280,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 17时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 18时29分]"
         },
         {
           "title": "英媒：英国寻求吸引Anthropic扩大在英业务",
@@ -301,6 +305,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时53分 ~ 16时38分]"
+        },
+        {
+          "title": "金价卷到老祖宗那边了吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8D%B7%E5%88%B0%E8%80%81%E7%A5%96%E5%AE%97%E9%82%A3%E8%BE%B9%E4%BA%86%E5%90%97%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     }
