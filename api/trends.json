@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T04:33:36.538372+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-04-07T05:34:17.063202+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -15,8 +15,49 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 05时34分]"
+        },
+        {
+          "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 05时34分]"
+        },
+        {
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            19,
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 05时34分]"
+        },
+        {
+          "title": "如何看软著申请严查AI新规",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%A5%E6%9F%A5AI%E6%96%B0%E8%A7%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            28,
+            13,
+            7,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时40分 ~ 04时33分]"
+          "time_info": "[01时40分 ~ 05时34分]"
         },
         {
           "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
@@ -32,56 +73,29 @@
           "time_info": "[00时40分 ~ 03时49分]"
         },
         {
-          "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 04时33分]"
-        },
-        {
-          "title": "母亲不知儿子去世跟AI儿子聊了1年",
-          "url": "https://www.toutiao.com/trending/7625239644062023743/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 04时33分]"
-        },
-        {
-          "title": "如何看软著申请严查AI新规",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%A5%E6%9F%A5AI%E6%96%B0%E8%A7%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            28,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时40分 ~ 04时33分]"
-        },
-        {
           "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
           "url": "https://www.zhihu.com/question/2024406743845794724",
           "source": "知乎",
           "ranks": [
             20,
             16,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时40分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 05时34分]"
+        },
+        {
+          "title": "博通(AVGO.O)公司与谷歌(GOOG.O)达成至2031年的长期TPU和网络供应协议。",
+          "url": "https://flash.jin10.com/detail/20260407052400392800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         },
         {
           "title": "报道：OpenAI计划最早今年四季度IPO",
