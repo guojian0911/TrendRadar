@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T03:56:26.518759+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-04-08T04:42:08.361352+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时42分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -26,8 +26,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时42分]"
+        },
+        {
+          "title": "芭比大战AI偶像",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%AD%E6%AF%94%E5%A4%A7%E6%88%98AI%E5%81%B6%E5%83%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时42分]"
         },
         {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
@@ -55,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时42分]"
         },
         {
           "title": "央行抛售引发金价地震",
@@ -67,8 +78,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 04时42分]"
         }
       ]
     },
@@ -87,8 +98,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时42分]"
         }
       ]
     },
@@ -103,7 +114,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         }
