@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T09:55:48.663004+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2026-04-07T12:32:09.540943+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -42,11 +42,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 09时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 12时32分]"
         },
         {
           "title": "母亲不知儿子去世跟AI儿子聊了1年",
@@ -92,6 +93,17 @@
           "time_info": "[00时40分 ~ 03时49分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-04-07）",
+          "url": "https://flash.jin10.com/detail/20260407120149593800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "博通(AVGO.O)公司与谷歌(GOOG.O)达成至2031年的长期TPU和网络供应协议。",
           "url": "https://flash.jin10.com/detail/20260407052400392800",
           "source": "金十数据",
@@ -114,6 +126,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时41分]"
+        },
+        {
+          "title": "中国AI大模型调用量连续五周超美国",
+          "url": "https://www.toutiao.com/trending/7625463207994179611/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时32分]"
+        },
+        {
+          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
+          "url": "https://www.zhihu.com/question/667901263",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时32分]"
         },
         {
           "title": "美媒：Meta将发布其下一代AI模型的开源版本",
@@ -216,18 +251,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
-          "url": "https://www.zhihu.com/question/667901263",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -263,17 +287,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "中国AI大模型调用量连续五周超美国",
-          "url": "https://www.toutiao.com/trending/7625463207994179611/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
         },
         {
           "title": "博通公司：与谷歌、Anthropic扩大合作；Anthropic将从2027年起接入3.5吉瓦的TPU人工智能算力。",
