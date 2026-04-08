@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T02:04:57.072862+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-04-09T03:56:30.414064+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时56分]"
         },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
@@ -26,8 +26,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时56分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -37,8 +37,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时56分]"
         },
         {
           "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
@@ -69,7 +69,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         }
@@ -85,11 +85,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时56分]"
         },
         {
           "title": "Anthropic推出由Claude管理的智能体。 推出组合式APIs套件。 这些APIs用于打造和部署云上智能体。",
@@ -98,7 +99,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         }
@@ -117,8 +118,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时56分]"
         }
       ]
     }
