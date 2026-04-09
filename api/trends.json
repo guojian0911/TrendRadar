@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-09T09:48:56.808378+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-04-09T12:31:47.698008+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "员工离职变AI,上班不能停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 09时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 12时31分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -36,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -47,7 +48,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -75,6 +76,17 @@
           "time_info": "[05时38分 ~ 06时34分]"
         },
         {
+          "title": "两人用AI洗稿编造车企谣言被抓",
+          "url": "https://www.toutiao.com/trending/7625974933612773417/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时31分]"
+        },
+        {
           "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
           "url": "https://wallstreetcn.com/livenews/3084479",
           "source": "华尔街见闻-快讯",
@@ -97,15 +109,26 @@
           "time_info": "00时57分"
         },
         {
-          "title": "两人用AI洗稿编造车企谣言被抓",
-          "url": "https://www.toutiao.com/trending/7625974933612773417/",
-          "source": "今日头条",
+          "title": "工业和信息化部办公厅关于公布面向人工智能赋能的高质量行业数据集建设先行先试联合体名单的通知",
+          "url": "https://flash.jin10.com/detail/20260409114931811800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "12时31分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-04-09）",
+          "url": "https://flash.jin10.com/detail/20260409114852508800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "AI21 Labs曾在2025年讨论出售给英伟达。 Nebius洽谈收购AI初创公司AI21。（The Information）",
@@ -128,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "万斯称十点提案有多个版本 有些像是AI写的",
@@ -163,6 +197,28 @@
           "time_info": "06时34分"
         },
         {
+          "title": "港股大模型股走高，智谱涨近14%，MINIMAX涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3084734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "华为AI眼镜即将发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAAI%E7%9C%BC%E9%95%9C%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "日本央行前执行董事Masaaki Kaizuka称，日本央行本月可能会提高基准利率，以避免在控制通胀方面落后。",
           "url": "https://flash.jin10.com/detail/20260409051523248800",
           "source": "金十数据",
@@ -172,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "高盛资产管理：AI投资热持续 应布局半导体和相关“铲与镐”股",
+          "url": "https://wallstreetcn.com/livenews/3084724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "OpenAI首席财务官表示，OpenAI正筹备上市，将向散户投资者分配IPO股份。",
@@ -188,7 +255,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "Claude防话痨插件爆火",
@@ -200,22 +267,24 @@
             24,
             19,
             18,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 09时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 12时31分]"
         },
         {
           "title": "挑战用GLM-5.1实现全自动开发",
           "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%94%A8GLM-5.1%E5%AE%9E%E7%8E%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E5%BC%80%E5%8F%91",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时31分]"
         },
         {
           "title": "Anthropic针对美国国防部封杀的上诉失败",
@@ -239,6 +308,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "金价走势“先涨后疑”，市场又在重算什么？",
+          "url": "https://flash.jin10.com/detail/20260409115543509800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "MiniMax发布命令行工具MMX-CLI",
+          "url": "https://wallstreetcn.com/livenews/3084741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "Anthropic推出由Claude管理的智能体。 推出组合式APIs套件。 这些APIs用于打造和部署云上智能体。",
