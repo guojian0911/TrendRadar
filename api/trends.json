@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T05:42:23.185855+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-04-10T06:37:10.316217+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时37分]"
         },
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -27,8 +27,57 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时37分]"
+        },
+        {
+          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
+          "url": "https://www.cls.cn/detail/2339282",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时37分]"
+        },
+        {
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
+          "ranks": [
+            25,
+            15,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时37分]"
+        },
+        {
+          "title": "玩具也要闯闯AI赛道",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时37分]"
+        },
+        {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时37分]"
         },
         {
           "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
@@ -53,59 +102,11 @@
           "time_info": "04时02分"
         },
         {
-          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
-          "url": "https://www.cls.cn/detail/2339282",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时42分]"
-        },
-        {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
           "url": "https://www.cls.cn/detail/2338824",
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时42分]"
-        },
-        {
-          "title": "Wait清唱挑战",
-          "url": "https://www.douyin.com/hot/2460968",
-          "source": "抖音",
-          "ranks": [
-            25,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时42分]"
-        },
-        {
-          "title": "玩具也要闯闯AI赛道",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时42分]"
-        },
-        {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -177,7 +178,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -188,7 +189,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -199,7 +200,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -210,7 +211,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         }
@@ -221,24 +222,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "挑战用GLM-5.1实现全自动开发",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%94%A8GLM-5.1%E5%AE%9E%E7%8E%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E5%BC%80%E5%8F%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时37分]"
+        },
+        {
           "title": "美伊停火协议难止冲突，纳指涨0.06%，标普跌0.05%，油价强势反弹，金价4720美元震荡",
           "url": "https://wallstreetcn.com/articles/3769555",
           "source": "华尔街见闻",
           "ranks": [
             7,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时42分]"
-        },
-        {
-          "title": "挑战用GLM-5.1实现全自动开发",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E7%94%A8GLM-5.1%E5%AE%9E%E7%8E%B0%E5%85%A8%E8%87%AA%E5%8A%A8%E5%BC%80%E5%8F%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            20
           ],
           "is_new": false,
           "appearance_count": 4,
