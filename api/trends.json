@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T00:56:46.247580+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-11T01:44:12.398094+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时44分]"
         },
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时44分]"
         },
         {
           "title": "人工智能将纳入教师资格考试",
           "url": "https://www.douyin.com/hot/2461467",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时44分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
@@ -65,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时44分]"
         },
         {
           "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
@@ -76,8 +77,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时44分]"
         }
       ]
     }
