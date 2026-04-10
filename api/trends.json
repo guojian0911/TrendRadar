@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T20:59:07.209072+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2026-04-10T22:18:22.595221+08:00",
+  "total_titles_processed": 1799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "字节发布全双工语音大模型Seeduplex",
@@ -48,6 +48,36 @@
           "time_info": "[02时57分 ~ 16时20分]"
         },
         {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            6,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 22时18分]"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6,
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 22时18分]"
+        },
+        {
           "title": "Wait清唱挑战",
           "url": "https://www.douyin.com/hot/2460968",
           "source": "抖音",
@@ -81,35 +111,6 @@
           "time_info": "[01时02分 ~ 12时53分]"
         },
         {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5,
-            6,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时52分 ~ 20时59分]"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试和认证内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时52分 ~ 20时59分]"
-        },
-        {
           "title": "员工离职变AI,上班不能停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
           "source": "贴吧",
@@ -140,11 +141,12 @@
             17,
             7,
             29,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时52分 ~ 20时59分]"
+          "appearance_count": 7,
+          "time_info": "[14时52分 ~ 22时18分]"
         },
         {
           "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
@@ -250,6 +252,18 @@
           "time_info": "[12时52分 ~ 14时52分]"
         },
         {
+          "title": "王自如聊中美AI模型上新",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%81%8A%E4%B8%AD%E7%BE%8EAI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时18分]"
+        },
+        {
           "title": "神秘AI视频模型 “欢乐马”屠榜！背后团队来自阿里 预计一周后发布",
           "url": "https://www.cls.cn/detail/2340102",
           "source": "财联社热门",
@@ -330,17 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 18时05分]"
-        },
-        {
-          "title": "王自如聊中美AI模型上新",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%81%8A%E4%B8%AD%E7%BE%8EAI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%96%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "工信部：加快构建高效统一的人工智能芯片计算互联生态",
@@ -541,6 +544,17 @@
           "time_info": "19时43分"
         },
         {
+          "title": "交通运输部：推动交通运输绿色低碳转型，深入实施“人工智能+交通运输”行动",
+          "url": "https://wallstreetcn.com/livenews/3085943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "OpenAI声称其算力比Anthropic更有优势",
           "url": "https://flash.jin10.com/detail/20260410043705456800",
           "source": "金十数据",
@@ -610,7 +624,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "贝森特与鲍威尔召集华尔街紧急开会：Claude新模型对金融业有巨大风险",
@@ -619,11 +633,12 @@
           "ranks": [
             6,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 20时59分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 22时18分]"
         },
         {
           "title": "挑战用GLM-5.1实现全自动开发",
@@ -671,9 +686,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
+        },
+        {
+          "title": "百度伐谋Agent 2.0登顶MLE-Bench",
+          "url": "https://wallstreetcn.com/livenews/3085972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美伊停火协议难止冲突，纳指涨0.06%，标普跌0.05%，油价强势反弹，金价4720美元震荡",
