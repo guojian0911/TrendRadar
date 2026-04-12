@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T13:19:32.678840+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-04-12T15:08:02.304870+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -27,11 +27,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 13时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 15时08分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -73,11 +74,25 @@
             22,
             29,
             27,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 15时08分]"
+        },
+        {
+          "title": "顶尖大模型“能力突变”，算力需求“系统性超越供给”--大摩：“市场乐观的程度可能还不够”",
+          "url": "https://wallstreetcn.com/articles/3769750",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 15时08分]"
         },
         {
           "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
@@ -91,50 +106,15 @@
           "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260412130705252800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」词元，将如何影响市场格局？",
           "url": "https://www.zhihu.com/question/2025491195443311364",
           "source": "知乎",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        },
-        {
-          "title": "顶尖大模型“能力突变”，算力需求“系统性超越供给”--大摩：“市场乐观的程度可能还不够”",
-          "url": "https://wallstreetcn.com/articles/3769750",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 13时19分]"
-        },
-        {
-          "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
-          "url": "https://wallstreetcn.com/livenews/3086308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 13时19分]"
         },
         {
           "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
@@ -142,11 +122,37 @@
           "source": "知乎",
           "ranks": [
             20,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 15时08分]"
+        },
+        {
+          "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
+          "url": "https://wallstreetcn.com/livenews/3086308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时02分 ~ 13时19分]"
+          "time_info": "[10时03分 ~ 15时08分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260412130705252800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 15时08分]"
         },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
@@ -160,6 +166,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时37分]"
+        },
+        {
+          "title": "让AI与AI互相聊天会聊出什么",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E4%B8%8EAI%E4%BA%92%E7%9B%B8%E8%81%8A%E5%A4%A9%E4%BC%9A%E8%81%8A%E5%87%BA%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时08分]"
+        },
+        {
+          "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」token，将如何影响市场格局？",
+          "url": "https://www.zhihu.com/question/2025491195443311364",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 15时08分]"
         },
         {
           "title": "法律角度解析AI炼化真人",
@@ -193,17 +222,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "让AI与AI互相聊天会聊出什么",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E4%B8%8EAI%E4%BA%92%E7%9B%B8%E8%81%8A%E5%A4%A9%E4%BC%9A%E8%81%8A%E5%87%BA%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
         }
       ]
     }
