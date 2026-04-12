@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T21:58:10.660074+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-04-12T22:39:30.894637+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -33,8 +33,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 21时58分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 22时39分]"
         },
         {
           "title": "顶尖大模型“能力突变”，算力需求“系统性超越供给”--大摩：“市场乐观的程度可能还不够”",
@@ -49,6 +49,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时02分 ~ 19时31分]"
+        },
+        {
+          "title": "国产AI模型为何大多免费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%A4%9A%E5%85%8D%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            9,
+            5,
+            3,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时41分 ~ 22时39分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -80,8 +96,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 21时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 22时39分]"
         },
         {
           "title": "人工智能卖瓜",
@@ -103,21 +119,6 @@
           "time_info": "[00时31分 ~ 21时58分]"
         },
         {
-          "title": "国产AI模型为何大多免费",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%A4%9A%E5%85%8D%E8%B4%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9,
-            5,
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时41分 ~ 21时58分]"
-        },
-        {
           "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2025695905764962890",
           "source": "知乎",
@@ -133,6 +134,18 @@
           "time_info": "[10时02分 ~ 18时34分]"
         },
         {
+          "title": "央视曝光AI造黄产业链",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时39分]"
+        },
+        {
           "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
           "url": "https://www.zhihu.com/question/2025885699283382999",
           "source": "知乎",
@@ -142,17 +155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 10时03分]"
-        },
-        {
-          "title": "央视曝光AI造黄产业链",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」token，将如何影响市场格局？",
@@ -309,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "央视曝光AI“造黄”产业链",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E2%80%9C%E9%80%A0%E9%BB%84%E2%80%9D%E4%BA%A7%E4%B8%9A%E9%93%BE",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "彭博社汇总的数据显示，随着人工智能（AI）的发展和伊朗战争给低迷的退出市场带来巨大压力，今年的私募股权出售交易量已下降超过三分之一。",
