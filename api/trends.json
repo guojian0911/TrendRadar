@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T07:39:13.213834+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-04-14T10:10:13.610240+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -16,8 +16,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 07时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时10分]"
+        },
+        {
+          "title": "马上评｜谁来斩断AI“造黄”产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时10分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -28,20 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 07时39分]"
-        },
-        {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 07时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时10分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -85,7 +86,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -154,13 +155,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "港股人工智能板块走高，金蝶国际(00268.HK)涨超8%，金山软件(03888.HK)涨7.7%，百度(09888.HK)、金山云(03896.HK)、汇量科技(01860.HK)涨超5%，联想集团(00992.HK)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260414093623849800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
+          "url": "https://wallstreetcn.com/articles/3769838",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
         {
           "title": "Anthropic联合创始人：与美国政府就Mythos模型展开讨论",
           "url": "https://flash.jin10.com/detail/20260414031208030800",
