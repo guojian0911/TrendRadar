@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T07:39:03.784805+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-04-15T09:59:37.104714+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "月薪3万，去内蒙草原给DeepSeek守机房",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时39分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 09时59分]"
         },
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -28,11 +29,36 @@
             14,
             15,
             16,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时39分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 09时59分]"
+        },
+        {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 09时59分]"
+        },
+        {
+          "title": "央视重锤!AI造黄产业链被扒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 09时59分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -41,28 +67,6 @@
           "ranks": [
             20,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时39分]"
-        },
-        {
-          "title": "守护未成年,AI伴侣全禁售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时39分]"
-        },
-        {
-          "title": "央视重锤!AI造黄产业链被扒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
-          "source": "贴吧",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -111,8 +115,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时45分 ~ 07时39分]"
+          "appearance_count": 6,
+          "time_info": "[05时45分 ~ 09时59分]"
         },
         {
           "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
@@ -125,6 +129,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时41分]"
+        },
+        {
+          "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
+          "url": "https://www.cls.cn/detail/2344176",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 09时59分]"
         },
         {
           "title": "Meta与博通就定制款AI芯片签署协议",
@@ -149,17 +165,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时41分]"
-        },
-        {
-          "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
-          "url": "https://www.cls.cn/detail/2344176",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
         },
         {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
@@ -194,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "A股量子科技概念股大面积高开，神州信息涨停，纬德信息涨超10%，格尔软件、科大国创、国盾量子、富士达、吉大正元跟涨，消息面上，英伟达推出全球首个开源量子人工智能模型“ISING”。",
+          "url": "https://wallstreetcn.com/livenews/3088081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
@@ -342,7 +358,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "英国央行行长贝利谈及Anthropic，称：所有人都在研究这个问题的意义。",
@@ -412,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "美联储将迎来最富掌门人 Anthropic最快本周发布Opus 4.7 | 环球市场",
+          "url": "https://www.cls.cn/detail/2344256",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     }
