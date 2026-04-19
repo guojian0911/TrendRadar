@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T03:38:48.861329+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-04-20T04:32:04.018292+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时32分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -28,11 +28,12 @@
           "ranks": [
             14,
             15,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时32分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -42,8 +43,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时32分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -53,8 +54,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时32分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -64,8 +65,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时32分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -75,8 +76,32 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时32分]"
+        },
+        {
+          "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
+          "url": "https://www.zhihu.com/question/659215909",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时38分]"
+          "time_info": "[02时40分 ~ 04时32分]"
+        },
+        {
+          "title": "我们要不要向AI说谢谢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 04时32分]"
         },
         {
           "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
@@ -90,16 +115,16 @@
           "time_info": "[00时34分 ~ 02时40分]"
         },
         {
-          "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
-          "url": "https://www.zhihu.com/question/659215909",
-          "source": "知乎",
+          "title": "美媒：尽管被指存在风险，美国安局仍在使用Anthropic旗下Mythos大模型",
+          "url": "https://flash.jin10.com/detail/20260420021231153800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            16
+            17,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时38分]"
+          "time_info": "[03时38分 ~ 04时32分]"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
@@ -112,28 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时32分]"
-        },
-        {
-          "title": "美媒：尽管被指存在风险，美国安局仍在使用Anthropic旗下Mythos大模型",
-          "url": "https://flash.jin10.com/detail/20260420021231153800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "我们要不要向AI说谢谢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时38分"
         },
         {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
@@ -158,11 +161,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时32分]"
         },
         {
           "title": "Codex大更新实测",
@@ -172,22 +176,24 @@
             23,
             26,
             20,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时32分]"
         },
         {
           "title": "据AXIOS网站：尽管被列入黑名单，美国国家安全局仍在使用Anthropic的Mythos模型。",
           "url": "https://flash.jin10.com/detail/20260420020540780800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时32分]"
         }
       ]
     }
