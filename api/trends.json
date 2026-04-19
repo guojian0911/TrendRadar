@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T17:42:49.332779+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-04-19T18:35:40.100210+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             7,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 17时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 18时35分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -73,11 +74,12 @@
             11,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 17时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 18时35分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -90,8 +92,32 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 17时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 18时35分]"
+        },
+        {
+          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2028616808370849247",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 18时35分]"
+        },
+        {
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.douyin.com/hot/2470868",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 18时35分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -107,30 +133,6 @@
           "time_info": "[13时24分 ~ 17时42分]"
         },
         {
-          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2028616808370849247",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 17时42分]"
-        },
-        {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.douyin.com/hot/2470868",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 17时42分]"
-        },
-        {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
           "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
           "source": "澎湃新闻",
@@ -139,11 +141,12 @@
             12,
             11,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 17时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 18时35分]"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
@@ -181,6 +184,19 @@
           "time_info": "[00时33分 ~ 03时38分]"
         },
         {
+          "title": "力源信息：第一季度净利润同比增长241% AI业务如光模块、液冷等因下游需求持续爆发而大幅增加",
+          "url": "https://flash.jin10.com/detail/20260419155228082800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 18时35分]"
+        },
+        {
           "title": "AI让人越来越累",
           "url": "https://s.weibo.com/weibo?q=AI%E8%AE%A9%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%B4%AF&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -204,6 +220,19 @@
           "time_info": "[13时24分 ~ 15时12分]"
         },
         {
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 18时35分]"
+        },
+        {
           "title": "AI烧钱无底洞？高盛给出回本路径：自动驾驶将引爆万亿利润池",
           "url": "https://wallstreetcn.com/articles/3770318",
           "source": "华尔街见闻",
@@ -213,30 +242,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "力源信息：第一季度净利润同比增长241% AI业务如光模块、液冷等因下游需求持续爆发而大幅增加",
-          "url": "https://flash.jin10.com/detail/20260419155228082800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时42分]"
-        },
-        {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时42分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -267,8 +272,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 17时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 18时35分]"
         },
         {
           "title": "Codex大更新实测",
@@ -286,8 +291,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 17时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 18时35分]"
         },
         {
           "title": "实测Claude Opus 4.7",
