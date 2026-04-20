@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T07:32:09.628475+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-04-20T10:08:23.082745+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek V4 即将发布并提出「去 CUDA 化」？",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 10时08分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -45,8 +45,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 10时08分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -56,8 +56,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 10时08分]"
+        },
+        {
+          "title": "AI入侵产业,2D国漫公司倒闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 10时08分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -71,27 +82,28 @@
           "time_info": "[00时34分 ~ 07时32分]"
         },
         {
-          "title": "AI入侵产业,2D国漫公司倒闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时32分]"
-        },
-        {
           "title": "我们要不要向AI说谢谢？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时38分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[03时38分 ~ 10时08分]"
+        },
+        {
+          "title": "中石油天然气集团等成立数科科技公司，含AI业务",
+          "url": "https://flash.jin10.com/detail/20260420094913700800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
@@ -142,6 +154,17 @@
           "time_info": "[00时34分 ~ 01时32分]"
         },
         {
+          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
+          "url": "https://www.zhihu.com/question/2027490615500313080",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "AI初创公司Cursor正在洽谈筹集20亿美元的融资，估值超过500亿美元。",
           "url": "https://flash.jin10.com/detail/20260420053324061800",
           "source": "金十数据",
@@ -151,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "中国AI大模型周调用量环比降23.8%，美国近两个月来首次反超，阿里Qwen3.6 Plus由榜首跌出前十",
+          "url": "https://flash.jin10.com/detail/20260420093401358800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
