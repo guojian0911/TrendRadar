@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T17:20:49.648107+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-04-21T19:02:30.288285+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -71,11 +71,12 @@
             10,
             17,
             16,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时00分 ~ 17时20分]"
+          "appearance_count": 16,
+          "time_info": "[01时00分 ~ 19时02分]"
         },
         {
           "title": "女子酒窝超大被网友怀疑是AI",
@@ -184,6 +185,17 @@
           "time_info": "[02时01分 ~ 05时42分]"
         },
         {
+          "title": "你每天用的AI 可能被“投毒”了",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%9A%84AI+%E5%8F%AF%E8%83%BD%E8%A2%AB%E2%80%9C%E6%8A%95%E6%AF%92%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "拆解AI艺人库背后野心",
           "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
           "source": "bilibili 热搜",
@@ -232,6 +244,20 @@
           "time_info": "[01时01分 ~ 02时02分]"
         },
         {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 19时02分]"
+        },
+        {
           "title": "曝王楚然早就融了AI",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -251,19 +277,6 @@
             7,
             18,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 17时20分]"
-        },
-        {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -334,7 +347,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -345,7 +358,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -359,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "远东股份：拟定增募资不超20亿元，用于AIDC用全合成光纤预制棒制造等项目",
+          "url": "https://flash.jin10.com/detail/20260421184919195800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "我国自主量子计算机“本源悟空”形成搭载人工智能运算能力",
@@ -378,7 +402,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -411,7 +435,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -449,6 +473,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "2026福布斯AI 50榜单发布",
+          "url": "https://wallstreetcn.com/livenews/3091749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "阿里巴巴支持的视频AI初创公司PIXVERSE据悉计划香港IPO。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3091591",
           "source": "华尔街见闻-快讯",
@@ -466,7 +501,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -488,7 +523,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         }
