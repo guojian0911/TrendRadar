@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T04:48:44.877627+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-04-23T05:46:54.842671+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 04时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 05时46分]"
         },
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -28,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 05时46分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -41,19 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时48分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：正在扩大制造范围，包括在人工智能推理计算中进行半导体制造。",
-          "url": "https://flash.jin10.com/detail/20260423040735598800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 05时46分]"
         },
         {
           "title": "用AI办了场车展",
@@ -64,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 05时46分]"
         },
         {
           "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
@@ -76,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 05时46分]"
         },
         {
           "title": "核心拒绝AI,异环美术光速滑跪",
@@ -87,8 +77,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 05时46分]"
+        },
+        {
+          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
+          "url": "https://www.cls.cn/detail/2352731",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时48分]"
+          "time_info": "[01时57分 ~ 05时46分]"
         },
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
@@ -103,15 +105,16 @@
           "time_info": "[01时57分 ~ 03时09分]"
         },
         {
-          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
-          "url": "https://www.cls.cn/detail/2352731",
-          "source": "财联社热门",
+          "title": "特斯拉(TSLA.O)：正在扩大制造范围，包括在人工智能推理计算中进行半导体制造。",
+          "url": "https://flash.jin10.com/detail/20260423040735598800",
+          "source": "金十数据",
           "ranks": [
+            5,
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 04时48分]"
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时46分]"
         },
         {
           "title": "微软：与Anthropic和行业合作伙伴们密切合作。 我们正在测试Anthropic旗下Claude AI模型Mythos的概览。 利用CTI-Realm评估Mythos。 将在安全开发生命周期内应用Mythos。",
@@ -126,6 +129,18 @@
           "time_info": "[01时57分 ~ 03时09分]"
         },
         {
+          "title": "ServiceNOW一季度营收37.7亿美元，分析师预期37.4亿美元。 一季度剩余待偿还债务126.4亿美元，预计将在二季度增长19%。 公司与谷歌云在AI Agents（AI智能体）领域合作。 预计全年订阅营收157.4亿-157.8亿美元，分析师预期155.4亿美元。 预计二季度订阅用户营收38.2亿美元左右，分析师预期37.5亿美元。 ServiceNOW（NOW）美股盘后重挫12.9%。",
+          "url": "https://wallstreetcn.com/livenews/3092834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时46分]"
+        },
+        {
           "title": "阿里等巨头洽谈投资DeepSeek",
           "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E7%AD%89%E5%B7%A8%E5%A4%B4%E6%B4%BD%E8%B0%88%E6%8A%95%E8%B5%84DeepSeek",
           "source": "百度热搜",
@@ -137,15 +152,26 @@
           "time_info": "[03时08分 ~ 03时09分]"
         },
         {
-          "title": "ServiceNOW一季度营收37.7亿美元，分析师预期37.4亿美元。 一季度剩余待偿还债务126.4亿美元，预计将在二季度增长19%。 公司与谷歌云在AI Agents（AI智能体）领域合作。 预计全年订阅营收157.4亿-157.8亿美元，分析师预期155.4亿美元。 预计二季度订阅用户营收38.2亿美元左右，分析师预期37.5亿美元。 ServiceNOW（NOW）美股盘后重挫12.9%。",
-          "url": "https://wallstreetcn.com/livenews/3092834",
-          "source": "华尔街见闻-快讯",
+          "title": "GE Vernova第一季度订单狂飙 AI时代能源新周期全面爆发",
+          "url": "https://www.cls.cn/detail/2352711",
+          "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "05时46分"
+        },
+        {
+          "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
+          "url": "https://wallstreetcn.com/livenews/3092846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "甲骨文(ORCL.N)：随着公司为满足日益增长的客户需求而扩展人工智能基础设施，位于阿比林等地的设施已投入运营，同时新园区项目仍在按计划推进。",
@@ -176,7 +202,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -209,7 +235,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
