@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-04-22T07:32:07.688176+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-04-22T10:02:22.029474+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 28,
+      "match_count": 35,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
           "url": "https://www.cls.cn/detail/2350762",
           "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时32分]"
-        },
-        {
-          "title": "灵魂摆渡电影全AI生成",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
           "ranks": [
             1
           ],
@@ -42,6 +31,29 @@
           "time_info": "[00时54分 ~ 07时32分]"
         },
         {
+          "title": "灵魂摆渡电影全AI生成",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时02分]"
+        },
+        {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时02分]"
+        },
+        {
           "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
           "url": "https://www.zhihu.com/question/2027797621893244826",
           "source": "知乎",
@@ -50,17 +62,6 @@
             10,
             17,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时32分]"
-        },
-        {
-          "title": "AI围剿影视圈,演员签卖身契",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
-          "source": "贴吧",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -79,6 +80,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时54分 ~ 07时32分]"
+        },
+        {
+          "title": "AI创造营",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%88%9B%E9%80%A0%E8%90%A5&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "尼日利亚总统任命泰沃·奥耶德莱（Taiwo Oyedele）为财政部长，接替瓦莱·埃敦（Wale Edun）。",
@@ -109,9 +121,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "Meta计划监控员工鼠标与按键 用内部操作训练AI模型",
+          "url": "https://flash.jin10.com/detail/20260422095050937800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "SpaceX文件显示，关于轨道AI数据中心以及月球和火星基础设施的计划涉及尚未验证的技术，并且可能在商业上不可行。（路透）",
@@ -134,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
+          "url": "https://www.cls.cn/detail/2351466",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "唐诡导演 真人能演为啥让AI演",
@@ -184,6 +218,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
+          "url": "https://www.zhihu.com/question/2029861890638045761",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "美联储主席提名人沃什：对人工智能将改善产出更有信心，而对其对劳动力市场的影响则不那么确定。",
           "url": "https://flash.jin10.com/detail/20260422003435028800",
           "source": "金十数据",
@@ -215,6 +260,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "《灵魂摆渡》电影全AI生成",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E3%80%8B%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "港股AI概念股盘初走低，范式智能(06682.HK)跌10.38%，金山云(03896.HK)跌4.67%，群核科技(00068.HK)跌2.54%。",
+          "url": "https://flash.jin10.com/detail/20260422093556176800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "奥多比宣布250亿美元股票回购计划，此前AI颠覆担忧拖累股价",
@@ -256,7 +323,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -305,6 +372,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "AI版灵魂摆渡监制是唐诡导演",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%89%88%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E7%9B%91%E5%88%B6%E6%98%AF%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "OpenAI推出ChatGPT Images2.0图像模型。",
           "url": "https://wallstreetcn.com/livenews/3092057",
           "source": "华尔街见闻-快讯",
@@ -330,8 +408,19 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "市场消息：日本财务大臣将会晤银行界，商讨Anthropic旗下Mythos模型的威胁。",
+          "url": "https://flash.jin10.com/detail/20260422095229673800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
         {
           "title": "市场消息：Anthropic旗下Mythos模型遭未授权用户入侵访问。Anthropic表示暂无证据表明此次非法访问对其系统造成影响。",
           "url": "https://flash.jin10.com/detail/20260422054255024800",
@@ -350,7 +439,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         }
