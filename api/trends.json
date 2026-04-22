@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T14:09:55.526066+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-04-22T15:25:29.204665+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -68,6 +68,18 @@
           "time_info": "[00时54分 ~ 07时32分]"
         },
         {
+          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
+          "url": "https://www.cls.cn/detail/2351466",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 15时25分]"
+        },
+        {
           "title": "王健林与梁文锋的双重焦虑",
           "url": "https://www.toutiao.com/trending/7631211289410276905/",
           "source": "今日头条",
@@ -80,18 +92,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时54分 ~ 07时32分]"
-        },
-        {
-          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
-          "url": "https://www.cls.cn/detail/2351466",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 14时09分]"
         },
         {
           "title": "AI创造营",
@@ -184,6 +184,18 @@
           "time_info": "[04时44分 ~ 07时32分]"
         },
         {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 15时25分]"
+        },
+        {
           "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
           "url": "https://wallstreetcn.com/livenews/3092028",
           "source": "华尔街见闻-快讯",
@@ -212,11 +224,24 @@
           "url": "https://www.zhihu.com/question/2029861890638045761",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 15时25分]"
+        },
+        {
+          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
+          "url": "https://www.zhihu.com/question/1984557341190873580",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时02分 ~ 14时09分]"
+          "time_info": "[14时09分 ~ 15时25分]"
         },
         {
           "title": "《灵魂摆渡》电影全AI生成",
@@ -229,6 +254,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 14时09分]"
+        },
+        {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 15时25分]"
         },
         {
           "title": "美联储主席提名人沃什：从经济改善到产出显现之间的时间差，以及人工智能对劳动力市场的影响，必须成为美联储思考的核心问题。",
@@ -253,15 +290,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
+          "title": "深度剖析2026斯坦福AI报告",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%902026%E6%96%AF%E5%9D%A6%E7%A6%8FAI%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "15时25分"
         },
         {
           "title": "若干未经授权的用户接入Anthropic的AI模型Mythos。",
@@ -286,17 +323,6 @@
           "time_info": "04时44分"
         },
         {
-          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
-          "url": "https://www.zhihu.com/question/1984557341190873580",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
           "title": "港股AI概念股盘初走低，范式智能(06682.HK)跌10.38%，金山云(03896.HK)跌4.67%，群核科技(00068.HK)跌2.54%。",
           "url": "https://flash.jin10.com/detail/20260422093556176800",
           "source": "金十数据",
@@ -319,15 +345,15 @@
           "time_info": "05时41分"
         },
         {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
-          "source": "澎湃新闻",
+          "title": "寒武纪回应互联网大厂自研芯片影响：公司产品对各类人工智能技术具备较好普适性",
+          "url": "https://wallstreetcn.com/livenews/3092366",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "15时25分"
         },
         {
           "title": "内部备忘录显示，Meta Platforms(META.O)将安装追踪软件到美国员工的电脑上，以捕获工作流程数据用于人工智能训练。",
@@ -339,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "爱奇艺回应 AI 授权，称真人完成关键表演后将其数字化，未来减少对「顶流」的依赖，对影视行业是好事吗？",
+          "url": "https://www.zhihu.com/question/2029620355082335491",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "美联储主席提名人沃什：美联储应该更加深入地挖掘人工智能（AI）的生产力意义。 数据中心产能将把需求提高几个百分点。",
@@ -372,6 +409,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "抖音生活服务发布多条AIGC创作规范",
+          "url": "https://wallstreetcn.com/livenews/3092357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "千问AI眼镜持续位居线上市场第一",
+          "url": "https://wallstreetcn.com/livenews/3092355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "市场消息：文件显示，SpaceX表示其在轨人工智能数据中心、月球和火星基础设施的计划涉及未经验证的技术，可能无法实现商业可行性。",
@@ -443,7 +502,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场消息：日本财务大臣将会晤银行界，商讨Anthropic旗下Mythos模型的威胁。",
@@ -477,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "金十图示：2026年04月22日（周三）上海金午盘价为1048.93元/克，较国际金价(1046.45元/克)，高2.48元/克",
+          "url": "https://flash.jin10.com/detail/20260422150936230800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
@@ -491,7 +561,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         }
