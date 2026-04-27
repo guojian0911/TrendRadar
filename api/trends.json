@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T13:49:33.408462+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-04-27T16:13:18.550362+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -25,11 +25,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 13时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 16时13分]"
         },
         {
           "title": "龙虾官宣接入DeepSeekV4",
@@ -67,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 13时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 16时13分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -143,8 +144,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 13时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 16时13分]"
         },
         {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
@@ -189,20 +190,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 13时49分]"
-        },
-        {
-          "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
-          "url": "https://www.zhihu.com/question/2031001231607296969",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 13时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 16时13分]"
         },
         {
           "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
@@ -211,6 +200,18 @@
           "ranks": [
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 16时13分]"
+        },
+        {
+          "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
+          "url": "https://www.zhihu.com/question/2031001231607296969",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -230,6 +231,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时35分 ~ 05时34分]"
+        },
+        {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "壁仞科技率先完成中国移动九天35B大模型预适配",
@@ -255,6 +267,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时33分 ~ 10时12分]"
+        },
+        {
+          "title": "歌手 AI海报",
+          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "A股AI芯片板块震荡走高，摩尔线程-U涨超11%，禾盛新材涨超9%，澜起科技涨超8%，铂科新材、海光信息、沐曦股份-U、景嘉微等个股跟涨。",
@@ -286,55 +309,93 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 13时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 16时13分]"
         },
         {
           "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
           "url": "https://www.cls.cn/detail/2356166",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 16时13分]"
         },
         {
           "title": "深入解读DeepSeek V1-V4",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%85%A5%E8%A7%A3%E8%AF%BBDeepSeek%20V1-V4",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 16时13分]"
         },
         {
           "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 16时13分]"
         },
         {
           "title": "LEMAIRE被指辱华后致歉：未能充分考虑文化差异与敏感性",
           "url": "https://m.thepaper.cn/newsDetail_forward_33058387",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 16时13分]"
+        },
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时49分"
+          "time_info": "16时13分"
+        },
+        {
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "在 AI 一键生成代码的时代，程序员还有必要坚持手写「古法编程」吗？",
+          "url": "https://www.zhihu.com/question/2030599879777572198",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -346,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "紫光展锐联合华阳通用发布新一代AI座舱平台",
+          "url": "https://flash.jin10.com/detail/20260427154532397800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "当AI跑进县城医院当“实习医生”",
@@ -365,7 +437,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
