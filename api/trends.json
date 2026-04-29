@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T20:15:11.468160+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-04-29T23:08:46.188093+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时51分 ~ 20时15分]"
+          "appearance_count": 9,
+          "time_info": "[07时51分 ~ 23时08分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时52分 ~ 20时15分]"
+          "appearance_count": 10,
+          "time_info": "[06时52分 ~ 23时08分]"
         },
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
@@ -91,6 +92,20 @@
           "time_info": "[10时28分 ~ 16时08分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 23时08分]"
+        },
+        {
           "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
           "url": "https://www.zhihu.com/question/2030222424457703714",
           "source": "知乎",
@@ -103,6 +118,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时28分 ~ 20时15分]"
+        },
+        {
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            2,
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 23时08分]"
         },
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -142,33 +172,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时52分 ~ 13时50分]"
-        },
-        {
-          "title": "从硅谷视角看DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            2,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时50分 ~ 20时15分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时50分 ~ 20时15分]"
         },
         {
           "title": "谷歌突然退出美国国防部无人机蜂群技术竞标",
@@ -221,7 +224,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -237,6 +240,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时07分 ~ 20时15分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "谷歌公司签署协议，允许该公司技术被应用到（美国战争部那些）机密的军事工作。",
@@ -275,6 +289,18 @@
           "time_info": "[01时44分 ~ 03时26分]"
         },
         {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 23时08分]"
+        },
+        {
           "title": "岗位被AI替代怎么办？杭州发布指引",
           "url": "https://www.baidu.com/s?wd=%E5%B2%97%E4%BD%8D%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E6%9D%AD%E5%B7%9E%E5%8F%91%E5%B8%83%E6%8C%87%E5%BC%95",
           "source": "百度热搜",
@@ -288,15 +314,16 @@
           "time_info": "[01时43分 ~ 10时28分]"
         },
         {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
           "ranks": [
-            10
+            20,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时51分 ~ 20时15分]"
+          "time_info": "[20时14分 ~ 23时08分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年4月28日",
@@ -451,17 +478,6 @@
           "time_info": "[20时14分 ~ 20时15分]"
         },
         {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
-        },
-        {
           "title": "在异环中演奏See you again",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%BC%82%E7%8E%AF%E4%B8%AD%E6%BC%94%E5%A5%8FSee%20you%20again",
           "source": "bilibili 热搜",
@@ -495,6 +511,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "加拿大央行行长麦克勒姆：人工智能目前对我们的政策决策没有产生重大影响。",
+          "url": "https://flash.jin10.com/detail/20260429224617669800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "中美AI竞争的本质差距在哪",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8EAI%E7%AB%9E%E4%BA%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B7%AE%E8%B7%9D%E5%9C%A8%E5%93%AA",
           "source": "bilibili 热搜",
@@ -504,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
+        },
+        {
+          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2360001",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
@@ -633,7 +671,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
