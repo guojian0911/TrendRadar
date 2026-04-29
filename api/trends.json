@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-29T16:08:08.161954+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-04-29T18:51:23.220130+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时51分 ~ 18时51分]"
+        },
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
           "url": "https://wallstreetcn.com/articles/3771068",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时43分 ~ 16时08分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 16时08分]"
         },
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
@@ -52,6 +52,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 05时03分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时52分 ~ 18时51分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -104,19 +117,6 @@
           "time_info": "[01时43分 ~ 07时51分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时52分 ~ 16时08分]"
-        },
-        {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2358855",
           "source": "财联社热门",
@@ -135,11 +135,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时28分 ~ 16时08分]"
+          "appearance_count": 5,
+          "time_info": "[10时28分 ~ 18时51分]"
         },
         {
           "title": "谷歌突然退出美国国防部无人机蜂群技术竞标",
@@ -191,11 +192,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 16时08分]"
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 18时51分]"
         },
         {
           "title": "谷歌公司签署协议，允许该公司技术被应用到（美国战争部那些）机密的军事工作。",
@@ -220,6 +222,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时43分 ~ 07时51分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 18时51分]"
         },
         {
           "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
@@ -247,27 +262,16 @@
           "time_info": "[01时43分 ~ 10时28分]"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 16时08分]"
-        },
-        {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
           "url": "https://www.cls.cn/detail/2359433",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 16时08分]"
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 18时51分]"
         },
         {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
@@ -422,6 +426,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "中美AI竞争的本质差距在哪",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8EAI%E7%AB%9E%E4%BA%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B7%AE%E8%B7%9D%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
           "url": "https://flash.jin10.com/detail/20260429025003263800",
           "source": "金十数据",
@@ -455,6 +470,17 @@
           "time_info": "13时50分"
         },
         {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "英伟达发布多模态“全能模型” 智能体效率跃升至竞品9倍",
           "url": "https://www.cls.cn/detail/2358835",
           "source": "财联社热门",
@@ -486,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年4月28日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33072106",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "苹果(AAPL.O)计划在iOS 27和macOS 27中对照片编辑功能进行AI全面升级，旨在更好地与安卓展开竞争。新功能包括利用Apple Intelligence的设备端模型，对照片进行扩展、增强及重新构图。",
@@ -560,7 +597,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         }
@@ -603,8 +640,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 16时08分]"
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 18时51分]"
         },
         {
           "title": "美国白宫正在研讨重新引进Anthropic（参与相关项目）的计划。（Axios）",
@@ -635,7 +672,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
