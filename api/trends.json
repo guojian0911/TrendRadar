@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T06:44:31.118246+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-05-02T07:47:15.114210+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
@@ -16,8 +16,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时47分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时47分]"
         },
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -32,17 +43,6 @@
           "time_info": "[00时52分 ~ 06时44分]"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时44分]"
-        },
-        {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
           "url": "https://wallstreetcn.com/articles/3771451",
           "source": "华尔街见闻",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时47分]"
         },
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -62,8 +62,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时47分]"
         },
         {
           "title": "AI古代铠甲勇士完结篇",
@@ -76,8 +76,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时47分]"
+        },
+        {
+          "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗，那么真正的李白，底牌是什么？",
+          "url": "https://www.zhihu.com/question/2029888609017422176",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 07时47分]"
         },
         {
           "title": "女子被AI误导闯入毒蛇窝",
@@ -86,11 +97,60 @@
           "ranks": [
             20,
             9,
-            7
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时04分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[03时04分 ~ 07时47分]"
+        },
+        {
+          "title": "因AI热潮耗尽库存，苹果将Mac Mini起售价调高200美元",
+          "url": "https://wallstreetcn.com/livenews/3098058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时47分]"
+        },
+        {
+          "title": "报道：AI芯片制造商Cerebras的IPO目标融资高达40亿美元",
+          "url": "https://wallstreetcn.com/livenews/3098056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时47分]"
+        },
+        {
+          "title": "美国航空公司Spirit Airlines准备最早周六美东时间03:00停止营业。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3098052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时47分]"
+        },
+        {
+          "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3098051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时47分]"
         },
         {
           "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗。那么真正的李白，底牌是什么？",
@@ -105,48 +165,15 @@
           "time_info": "[05时48分 ~ 06时44分]"
         },
         {
-          "title": "因AI热潮耗尽库存，苹果将Mac Mini起售价调高200美元",
-          "url": "https://wallstreetcn.com/livenews/3098058",
-          "source": "华尔街见闻-快讯",
+          "title": "女子被AI误导闯入毒蛇窝，AI道歉承认“和送死没有区别”",
+          "url": "https://news.ifeng.com/c/8sn1WIx976g",
+          "source": "凤凰网",
           "ranks": [
-            17
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时44分]"
-        },
-        {
-          "title": "报道：AI芯片制造商Cerebras的IPO目标融资高达40亿美元",
-          "url": "https://wallstreetcn.com/livenews/3098056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时44分]"
-        },
-        {
-          "title": "美国航空公司Spirit Airlines准备最早周六美东时间03:00停止营业。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3098052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时44分]"
-        },
-        {
-          "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3098051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时44分]"
+          "time_info": "[07时46分 ~ 07时47分]"
         },
         {
           "title": "航空公司Spirit Airlines预计将于美东时间周六03:00左右停止运营。（华尔街日报）",
@@ -229,8 +256,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时47分]"
         }
       ]
     }
