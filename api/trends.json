@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T20:57:53.775784+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-05-03T22:11:18.955138+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -20,21 +20,6 @@
           "time_info": "[00时41分 ~ 10时26分]"
         },
         {
-          "title": "云南的水果像极了AI生成的",
-          "url": "https://www.douyin.com/hot/2486796",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            3,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时26分 ~ 20时57分]"
-        },
-        {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
           "url": "https://www.cls.cn/detail/2362027",
           "source": "财联社热门",
@@ -45,8 +30,24 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时41分 ~ 20时57分]"
+          "appearance_count": 22,
+          "time_info": "[00时41分 ~ 22时11分]"
+        },
+        {
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            3,
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时26分 ~ 22时11分]"
         },
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -58,20 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时54分 ~ 20时57分]"
-        },
-        {
-          "title": "湖南广电 AI播新闻",
-          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 20时57分]"
+          "appearance_count": 10,
+          "time_info": "[13时54分 ~ 22时11分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -99,6 +88,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时41分 ~ 07时38分]"
+        },
+        {
+          "title": "湖南广电 AI播新闻",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 22时11分]"
         },
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
@@ -136,11 +138,12 @@
             14,
             16,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时41分 ~ 20时57分]"
+          "appearance_count": 22,
+          "time_info": "[00时41分 ~ 22时11分]"
         },
         {
           "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
@@ -157,6 +160,44 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时41分 ~ 10时26分]"
+        },
+        {
+          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
+          "url": "https://wallstreetcn.com/articles/3771503",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时54分 ~ 22时11分]"
+        },
+        {
+          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
+          "url": "https://www.zhihu.com/question/2034241896516510290",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 22时11分]"
+        },
+        {
+          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
+          "url": "https://wallstreetcn.com/articles/3771505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时54分 ~ 22时11分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -215,44 +256,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时54分 ~ 19时39分]"
-        },
-        {
-          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
-          "url": "https://wallstreetcn.com/articles/3771503",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 20时57分]"
-        },
-        {
-          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
-          "url": "https://www.zhihu.com/question/2034241896516510290",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 20时57分]"
-        },
-        {
-          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
-          "url": "https://wallstreetcn.com/articles/3771505",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 20时57分]"
         },
         {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
@@ -315,11 +318,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 20时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时38分 ~ 22时11分]"
         },
         {
           "title": "AI踩平量化门槛，普通人入局机会在哪？",
