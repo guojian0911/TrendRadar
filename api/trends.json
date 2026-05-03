@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T15:55:04.584355+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-05-03T17:19:10.561381+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "SemiAnalysis：下游大模型公司已经爆赚，英伟达、台积电还能赚更多",
@@ -26,11 +26,25 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 15时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 17时19分]"
+        },
+        {
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 17时19分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -72,19 +86,6 @@
           "time_info": "[00时41分 ~ 10时26分]"
         },
         {
-          "title": "赛道挤爆,AI短剧收益不够电费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 15时55分]"
-        },
-        {
           "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
           "url": "https://wallstreetcn.com/livenews/3098174",
           "source": "华尔街见闻-快讯",
@@ -98,6 +99,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时41分 ~ 07时38分]"
+        },
+        {
+          "title": "赛道挤爆,AI短剧收益不够电费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            14,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 17时19分]"
         },
         {
           "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
@@ -161,19 +176,6 @@
           "time_info": "[00时41分 ~ 07时38分]"
         },
         {
-          "title": "云南的水果像极了AI生成的",
-          "url": "https://www.douyin.com/hot/2486796",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 15时55分]"
-        },
-        {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3098169",
           "source": "华尔街见闻-快讯",
@@ -203,6 +205,17 @@
           "time_info": "[04时37分 ~ 10时26分]"
         },
         {
+          "title": "湖南广电 AI播新闻",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
+        },
+        {
           "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
           "url": "https://flash.jin10.com/detail/20260503021929638800",
           "source": "金十数据",
@@ -222,35 +235,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
-        },
-        {
-          "title": "AI踩平量化门槛，普通人入局机会在哪？",
-          "url": "https://flash.jin10.com/detail/20260503120603824800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 15时55分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/VtW9z1ztEzuPtatCWeS0x.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260503120602300800",
-          "source": "金十数据",
-          "ranks": [
             5,
-            18
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 15时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 17时19分]"
         },
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -261,19 +251,46 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时54分 ~ 17时19分]"
+        },
+        {
+          "title": "AI踩平量化门槛，普通人入局机会在哪？",
+          "url": "https://flash.jin10.com/detail/20260503120603824800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时54分 ~ 15时55分]"
+          "time_info": "[13时54分 ~ 17时19分]"
         },
         {
           "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
           "url": "https://wallstreetcn.com/articles/3771503",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 17时19分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/VtW9z1ztEzuPtatCWeS0x.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260503120602300800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 17时19分]"
         },
         {
           "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
@@ -283,8 +300,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 17时19分]"
+        },
+        {
+          "title": "既承传亦求变：伯克希尔新掌门释放谨慎投资与AI新信号",
+          "url": "https://www.cls.cn/detail/2362207",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 17时19分]"
         },
         {
           "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
@@ -311,15 +339,15 @@
           "time_info": "[00时41分 ~ 01时40分]"
         },
         {
-          "title": "既承传亦求变：伯克希尔新掌门释放谨慎投资与AI新信号",
-          "url": "https://www.cls.cn/detail/2362207",
-          "source": "财联社热门",
+          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
+          "url": "https://www.zhihu.com/question/2034241896516510290",
+          "source": "知乎",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "不盲目跟风 伯克希尔谨慎推进AI策略并确立三大原则",
@@ -332,6 +360,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时40分]"
+        },
+        {
+          "title": "AI会取代人类工作吗",
+          "url": "https://www.toutiao.com/trending/7635085270475669546/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "日本首相高市早苗：与越共中央总书记苏林以及总理黎明兴举行了会谈。双方确认，将以能源、关键矿产、人工智能、半导体以及太空等经济安全保障领域作为日越合作的新优先方向，共同推进相关合作。",
@@ -355,6 +394,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时54分 ~ 15时55分]"
+        },
+        {
+          "title": "AI真正的意义",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%84%8F%E4%B9%89%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
         },
         {
           "title": "在 AI 时代，最重要的能力是什么？",
