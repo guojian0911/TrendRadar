@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T13:59:54.996647+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-05-04T16:34:24.094488+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -74,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时52分 ~ 13时59分]"
+          "appearance_count": 11,
+          "time_info": "[03时52分 ~ 16时34分]"
         },
         {
           "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
@@ -157,11 +157,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 13时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 16时34分]"
         },
         {
           "title": "美国财长贝森特：特朗普应该因英特尔投资获利而受到表扬。 人们应该担心人工智能可能对银行进行黑客攻击。",
@@ -195,6 +196,18 @@
           "time_info": "[00时42分 ~ 07时40分]"
         },
         {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 16时34分]"
+        },
+        {
           "title": "博主：美军早就开始用AI进行实战了",
           "url": "https://www.toutiao.com/trending/7635578022698946102/",
           "source": "今日头条",
@@ -208,37 +221,16 @@
           "time_info": "[00时42分 ~ 05时37分]"
         },
         {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "AI狂潮继续！亚太股市逼近历史新高，韩股暴涨4%，SK海力士一度涨14%，恒科指大涨近3%",
-          "url": "https://wallstreetcn.com/articles/3771519",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
           "title": "AI主播上电视,虚拟人抢饭碗?",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 16时34分]"
         },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
@@ -248,31 +240,42 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时35分 ~ 13时59分]"
+          "appearance_count": 6,
+          "time_info": "[06时35分 ~ 16时34分]"
         },
         {
-          "title": "公司引进AI后将员工降薪裁员",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%BC%95%E8%BF%9BAI%E5%90%8E%E5%B0%86%E5%91%98%E5%B7%A5%E9%99%8D%E8%96%AA%E8%A3%81%E5%91%98%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "AI狂潮继续！全球存储芯片大涨，SK海力士市值首破1000万亿韩元，布油涨2%，黄金失守4580美元",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            22
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "AI狂潮继续！亚太股市逼近历史新高，韩股暴涨4%，SK海力士一度涨14%，恒科指大涨近3%",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 13时59分]"
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
           "url": "https://www.zhihu.com/question/2032522089656230991",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时15分 ~ 16时34分]"
         },
         {
           "title": "DeepSeek员工为何不加班",
@@ -281,6 +284,18 @@
           "ranks": [
             21,
             20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时15分 ~ 16时34分]"
+        },
+        {
+          "title": "公司引进AI后将员工降薪裁员",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%BC%95%E8%BF%9BAI%E5%90%8E%E5%B0%86%E5%91%98%E5%B7%A5%E9%99%8D%E8%96%AA%E8%A3%81%E5%91%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -309,6 +324,17 @@
           "time_info": "[06时35分 ~ 06时36分]"
         },
         {
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "新西兰联储货币政策委员会成员Gai：当前经济条件支持超越传统框架的建议。",
           "url": "https://flash.jin10.com/detail/20260504094831597800",
           "source": "金十数据",
@@ -318,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "新西兰联储货币政策委员会成员Gai：只有当同步性高且协调机制有效运行时，先发制人的紧缩才是合理的。",
@@ -340,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "据知情人士消息，AI芯片制造商Cerebras计划于周一启动IPO路演，IPO定价区间为每股115至125美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3098425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     },
@@ -354,9 +402,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 16时34分]"
         }
       ]
     }
