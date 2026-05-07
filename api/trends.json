@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T19:06:43.114974+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-05-07T21:53:35.855703+08:00",
+  "total_titles_processed": 1514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -100,6 +100,19 @@
           "time_info": "[05时08分 ~ 13时57分]"
         },
         {
+          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
+          "url": "https://www.cls.cn/detail/2364810",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 21时53分]"
+        },
+        {
           "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
           "url": "https://wallstreetcn.com/articles/3771667",
           "source": "华尔街见闻",
@@ -186,6 +199,17 @@
           "time_info": "[13时57分 ~ 19时06分]"
         },
         {
+          "title": "“人工智能+”走向智能经济新形态",
+          "url": "https://www.toutiao.com/trending/7636674300020015155/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "OpenAI：我们推出B2B Signals，这是OpenAI Signals的商业扩展版。",
           "url": "https://flash.jin10.com/detail/20260507030831224800",
           "source": "金十数据",
@@ -206,18 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
-        },
-        {
-          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
-          "url": "https://www.cls.cn/detail/2364810",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 19时06分]"
         },
         {
           "title": "市场消息：由Meta支持的Scale AI公司获得了一份价值5亿美元的美国国防部合同。",
@@ -255,6 +267,18 @@
           "time_info": "[05时08分 ~ 06时53分]"
         },
         {
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 21时53分]"
+        },
+        {
           "title": "火到欧美的韩国棒球女神是AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E5%88%B0%E6%AC%A7%E7%BE%8E%E7%9A%84%E9%9F%A9%E5%9B%BD%E6%A3%92%E7%90%83%E5%A5%B3%E7%A5%9E%E6%98%AFAI%E7%94%9F%E6%88%90%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -266,17 +290,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时45分 ~ 05时08分]"
-        },
-        {
-          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
-          "url": "https://www.zhihu.com/question/2035667399110653049",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 19时06分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -370,6 +383,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "美股三大股指小幅高开，标普500指数涨0.09%，道指涨0.39%，纳指涨0.14%。ARM下跌7%，因AI芯片供应担忧盖过乐观业绩指引。美股AI应用软件股走强，Datadog涨超30%，Snowflake涨10%，MongoDB涨12%。光通信板块走低，Coherent跌超5%，Credo、Lumentum跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3100035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "比亚迪正式加入IATF AISBL",
           "url": "https://www.toutiao.com/trending/7636079480591106111/",
           "source": "今日头条",
@@ -398,7 +422,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -442,7 +466,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -568,6 +592,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "欧盟将禁止AI生成深度伪造色情内容",
+          "url": "https://wallstreetcn.com/livenews/3100010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "DeepSeek被曝投后估值或达450亿美元？消息人士：“双方确实在进行洽谈 但估值还未最终确认”",
           "url": "https://wallstreetcn.com/livenews/3099454",
           "source": "华尔街见闻-快讯",
@@ -577,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "AI时代三星怎么更猛了",
+          "url": "https://www.toutiao.com/trending/7637076739255963187/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "AI记账软件怼用户买的衣服像寿衣",
@@ -599,12 +645,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "深南电路：PCB业务受益于AI算力基础设施硬件相关产品需求增长，工厂产能利用率维持高位",
+          "url": "https://flash.jin10.com/detail/20260507205700422800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         }
       ]
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "从0开始了解Claude Code",
@@ -645,6 +702,17 @@
           "time_info": "[00时01分 ~ 07时44分]"
         },
         {
+          "title": "和平协议预期推动油价下跌 黄金价格升至两周高位",
+          "url": "https://flash.jin10.com/detail/20260507212019839800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "Anthropic自夸Q1年化收入暴涨80倍 日本疑似连续干预汇市 | 环球市场",
           "url": "https://www.cls.cn/detail/2364390",
           "source": "财联社热门",
@@ -669,6 +737,18 @@
           "time_info": "[05时08分 ~ 06时53分]"
         },
         {
+          "title": "Anthropic大手笔租下SpaceX顶级数据中心！深扒协议细节：22万块GPU是个什么水平？",
+          "url": "https://www.cls.cn/detail/2364674",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 21时53分]"
+        },
+        {
           "title": "Anthropic为何成了美国安全威胁",
           "url": "https://search.bilibili.com/all?keyword=Anthropic%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -679,17 +759,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时44分]"
-        },
-        {
-          "title": "Anthropic大手笔租下SpaceX顶级数据中心！深扒协议细节：22万块GPU是个什么水平？",
-          "url": "https://www.cls.cn/detail/2364674",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
         },
         {
           "title": "马斯克：上周与Anthropic团队的高管会面了很长时间。",
