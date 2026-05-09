@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T07:53:16.364085+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-05-09T10:26:20.628832+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -20,17 +20,6 @@
           "time_info": "[01时09分 ~ 06时52分]"
         },
         {
-          "title": "市场消息：人工智能芯片制造商Cerebras据称计划在下周一提高首次公开募股的定价，预计首次公开募股定价区间为每股125至135美元。",
-          "url": "https://flash.jin10.com/detail/20260509030054706800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
           "title": "私募和AI合体意味着什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -42,8 +31,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 10时26分]"
+        },
+        {
+          "title": "市场消息：人工智能芯片制造商Cerebras据称计划在下周一提高首次公开募股的定价，预计首次公开募股定价区间为每股125至135美元。",
+          "url": "https://flash.jin10.com/detail/20260509030054706800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
@@ -57,17 +57,6 @@
           "time_info": "03时11分"
         },
         {
-          "title": "周五（5月8日），美股AI软件先驱指数跌0.29%，报106.05点，跳空低开之后逐步收复失地，本周累涨6.36%。 成分股HubSpot收跌19.03%，ServiceNOW跌2.58%，Salesforce跌2.43%，Adobe跌1.35%，微软跌1.34%跌幅第五大，铿腾电子涨1.63%表现第五，MongoDB涨2.06%，新思科技涨2.23%，C3.ai涨3.03%，Datadog涨6.06%。",
-          "url": "https://wallstreetcn.com/livenews/3100961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
           "title": "谷歌(GOOG.O)旗下的Isomorphic Labs将筹集超过20亿美元的新资金。",
           "url": "https://flash.jin10.com/detail/20260509024606066800",
           "source": "金十数据",
@@ -79,15 +68,15 @@
           "time_info": "03时11分"
         },
         {
-          "title": "周五（5月8日），美股人工智能（AI）赢家指数收涨3.46%，报393.07点，创收盘历史新高，本周累计上涨8.09%。 成分股Fluence能源收涨27.36%，Sandisk涨16.60%，美光科技涨15.49%，戴尔科技涨13.11%，AMD涨11.44%表现第六，安费诺则收跌6.29%表现倒数第二，CoreWeave跌11.40%。",
-          "url": "https://wallstreetcn.com/livenews/3100960",
+          "title": "国家发改委主任郑栅洁赴上海人工智能实验室调研",
+          "url": "https://wallstreetcn.com/livenews/3100979",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "10时26分"
         },
         {
           "title": "报道：xAI上周裁员约10人，近期离职人员包括Mistral AI创始成员",
@@ -113,6 +102,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时53分]"
+        },
+        {
+          "title": "周五（5月8日），美股AI软件先驱指数跌0.29%，报106.05点，跳空低开之后逐步收复失地，本周累涨6.36%。 成分股HubSpot收跌19.03%，ServiceNOW跌2.58%，Salesforce跌2.43%，Adobe跌1.35%，微软跌1.34%跌幅第五大，铿腾电子涨1.63%表现第五，MongoDB涨2.06%，新思科技涨2.23%，C3.ai涨3.03%，Datadog涨6.06%。",
+          "url": "https://wallstreetcn.com/livenews/3100961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 10时26分]"
+        },
+        {
+          "title": "周五（5月8日），美股人工智能（AI）赢家指数收涨3.46%，报393.07点，创收盘历史新高，本周累计上涨8.09%。 成分股Fluence能源收涨27.36%，Sandisk涨16.60%，美光科技涨15.49%，戴尔科技涨13.11%，AMD涨11.44%表现第六，安费诺则收跌6.29%表现倒数第二，CoreWeave跌11.40%。",
+          "url": "https://wallstreetcn.com/livenews/3100960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 10时26分]"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
@@ -153,11 +166,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            30
+            30,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 06时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 10时26分]"
         },
         {
           "title": "Forward Air Corp.（FWRD）收跌43%，创1999年以来最差单日表现。",
@@ -196,6 +210,39 @@
           "time_info": "[04时54分 ~ 05时55分]"
         },
         {
+          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
+          "url": "https://wallstreetcn.com/articles/3771864",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
+          "url": "https://www.cls.cn/detail/2366653",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "郑栅洁主任赴上海人工智能实验室调研",
+          "url": "https://flash.jin10.com/detail/20260509094422079800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "Anthropic PBC与Akamai签署18亿美元计算协议。Akamai涨幅迅速扩大至28%。",
           "url": "https://wallstreetcn.com/livenews/3100869",
           "source": "华尔街见闻-快讯",
@@ -207,6 +254,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "AI算力的下一个瓶颈：涨价的CPU、抢不到的货",
           "url": "https://wallstreetcn.com/livenews/3100864",
           "source": "华尔街见闻-快讯",
@@ -216,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
