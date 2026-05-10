@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T06:41:39.851940+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-05-11T07:45:41.906202+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时45分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时45分]"
         },
         {
           "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
@@ -39,11 +39,12 @@
             7,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时45分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -54,36 +55,24 @@
             10,
             8,
             5,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时41分]"
-        },
-        {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时45分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
           "url": "https://www.cls.cn/detail/2367107",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时45分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -94,8 +83,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时45分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -110,8 +99,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时45分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -120,6 +109,20 @@
           "ranks": [
             23,
             24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时45分]"
+        },
+        {
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10,
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -151,6 +154,19 @@
           "time_info": "[01时45分 ~ 03时57分]"
         },
         {
+          "title": "AI正在污染我们的判断力",
+          "url": "https://www.toutiao.com/trending/7638257796718267946/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 07时45分]"
+        },
+        {
           "title": "乌克兰亚速旅称，该部队利用人工智能辅助无人机对俄控马里乌波尔纵深地区实施了打击，命中前线后方160公里处的目标。亚速旅表示，这是对该城的象征性“回归”。",
           "url": "https://flash.jin10.com/detail/20260511014908913800",
           "source": "金十数据",
@@ -173,18 +189,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 04时43分]"
-        },
-        {
-          "title": "AI正在污染我们的判断力",
-          "url": "https://www.toutiao.com/trending/7638257796718267946/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时45分]"
         },
         {
           "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
@@ -216,7 +220,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         }
