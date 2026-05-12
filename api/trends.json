@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T05:32:00.267522+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-05-13T06:56:21.807055+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 06时56分]"
         },
         {
           "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 06时56分]"
         },
         {
           "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 06时56分]"
         },
         {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
@@ -49,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 06时56分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -62,8 +63,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 06时56分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -72,11 +73,12 @@
           "ranks": [
             27,
             15,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 06时56分]"
         },
         {
           "title": "Ai 时代，现在还有人在坚持古法编程吗？",
@@ -95,11 +97,12 @@
           "url": "https://www.zhihu.com/question/2037128887558207003",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 06时56分]"
         },
         {
           "title": "全国首例AI代写“种草笔记”案宣判",
@@ -113,6 +116,61 @@
           "time_info": "[03时42分 ~ 03时43分]"
         },
         {
+          "title": "报道：AI芯片制造商Cerebras的IPO发行价将高于160美元",
+          "url": "https://wallstreetcn.com/livenews/3102540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "Anthropic洽谈至少按3亿美元收购开发者工具初创公司Stainless。 后者向Anthropic、OpenAI、谷歌等模型开发商销售软件。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3102535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "据The Information：Anthropic正在与开发工具初创公司Stainless进行深入洽谈，收购金额至少为3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260513060354837800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "据The Information：Anthropic正在洽谈收购开发工具初创公司Stainless，OpenAI和谷歌均使用该公司的产品。",
+          "url": "https://flash.jin10.com/detail/20260513060313265800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "据华尔街日报：YouTube借助人工智能帮助，正向各类广告主承诺全方位服务。",
+          "url": "https://flash.jin10.com/detail/20260513060227809800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "SpaceX与谷歌洽谈太空轨道的数据中心合作事宜，谷歌还与其他火箭发射公司接触。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3102418",
           "source": "华尔街见闻-快讯",
@@ -122,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，沃尔玛(WMT.N)计划裁员或调岗约1,000名企业员工。沃尔玛高管已审查公司内部架构，并决定精简部分团队。沃尔玛正寻求进一步整合其全球技术团队与人工智能产品团队。",
+          "url": "https://flash.jin10.com/detail/20260513060126996800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "汤森路透（Thomson Reuters）一度跌超过5%，该公司正将Anthropic的Claude整合至其人工智能法律工具CoCounsel Legal中。",
@@ -160,7 +229,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待 Anthropic 购买百万实体书，扫描蒸馏后销毁？法院为啥认定合理使用？该行为可能带来啥影响？",
@@ -168,11 +237,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 06时56分]"
         },
         {
           "title": "Anthropic进一步拓展法律行业，新工具可协助准备司法考试",
@@ -185,6 +255,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 05时32分]"
+        },
+        {
+          "title": "新一轮融资：Anthropic洽谈按9000亿美元估值融资300亿美元",
+          "url": "https://wallstreetcn.com/livenews/3102518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "据知情人士透露， Anthropic正与投资者进行初步洽谈，计划筹集至少300亿美元的新资金，这可能成为该公司迄今为止规模最大的一轮融资。 Anthropic正以超过9000亿美元的估值筹集新一轮资金。",
+          "url": "https://flash.jin10.com/detail/20260513051630845800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     }
