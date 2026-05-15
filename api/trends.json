@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T19:51:58.548318+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-05-15T21:54:13.120317+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -55,11 +55,25 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 19时51分]"
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 21时54分]"
+        },
+        {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 21时54分]"
         },
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
@@ -144,6 +158,19 @@
           "time_info": "[00时10分 ~ 06时06分]"
         },
         {
+          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
+          "url": "https://www.cls.cn/detail/2372257",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 21时54分]"
+        },
+        {
           "title": "法拉第未来(FFIE.O)公布2026年第一季度财务业绩。公司升级为一家“实体人工智能公司”，其EAI机器人已实现生态系统收入及毛利转正；公司将2026年机器人出货目标上调至1500台，并计划于6月初推出新款机器人。",
           "url": "https://flash.jin10.com/detail/20260515041632296800",
           "source": "金十数据",
@@ -166,19 +193,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 04时26分]"
-        },
-        {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 19时51分]"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -216,18 +230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 04时26分]"
-        },
-        {
-          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
-          "url": "https://www.cls.cn/detail/2372257",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 19时51分]"
         },
         {
           "title": "云南小伙用AI制作短片爆红",
@@ -274,6 +276,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
+          "url": "https://www.zhihu.com/question/2035685308566610183",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "我被AI短剧盗脸了",
@@ -337,7 +350,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -417,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "美股开盘，道指跌0.66%，标普500指数跌0.85%，纳指跌1.3%。AI芯片股普跌，英特尔(INTC.O)跌超5%，百度(BIDU.O)跌近4%，AMD(AMD.O)跌3.5%，英伟达(NVDA.O)跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260515213022273800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "氟化工概念开盘强势，滨化股份、中欣氟材一字涨停，中巨芯涨超15%，金石资源、多氟多、巨化股份、永和股份、三美股份纷纷高开，业内人士透露，韩国无水氢氟酸生产商包括Solbrain、ENF Technology、Huseong等将向包括三星电子和SK海力士在内的半导体公司供应电子级氢氟酸，且价格预计将在6月和7月大幅上涨。",
