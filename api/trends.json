@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T05:54:01.886880+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-05-17T06:40:36.527164+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时40分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时40分]"
         },
         {
           "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时40分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -48,19 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时54分]"
-        },
-        {
-          "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
-          "url": "https://wallstreetcn.com/articles/3772419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时40分]"
         },
         {
           "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
@@ -73,8 +62,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时40分]"
+        },
+        {
+          "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
+          "url": "https://wallstreetcn.com/articles/3772419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时40分]"
         },
         {
           "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
@@ -84,8 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时40分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -95,8 +96,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时40分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -108,8 +109,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 05时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 06时40分]"
         },
         {
           "title": "美军AIM-260空空导弹首次亮相",
@@ -144,11 +145,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%A4%9A%E4%B9%B0%E5%B0%8F%E8%B7%8C%E5%B0%91%E4%B9%B0%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 00时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 06时40分]"
         }
       ]
     }
