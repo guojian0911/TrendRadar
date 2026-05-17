@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T01:55:18.097122+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-05-18T03:01:49.740915+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时01分]"
         },
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时01分]"
         },
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时01分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时01分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 03时01分]"
         },
         {
           "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
@@ -70,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时01分]"
         },
         {
           "title": "博主：中国AI算力产业链正在全面腾飞",
@@ -79,11 +79,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时01分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -93,8 +94,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时01分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -104,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 03时01分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -122,7 +123,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "HermesAgent 超越 OpenClaw 成为全球 Token 消耗第一，这意味着什么？",
@@ -130,11 +131,23 @@
           "source": "知乎",
           "ranks": [
             17,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时01分]"
+        },
+        {
+          "title": "据日经新闻：日本将制定利用Anthropic的Mythos进行网络防御的指导方针。",
+          "url": "https://flash.jin10.com/detail/20260518015209366800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         }
       ]
     }
