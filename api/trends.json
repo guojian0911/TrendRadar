@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-05-20T16:32:06.613138+08:00",
-  "total_titles_processed": 1033,
-  "failed_sources": [
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-05-20T19:46:32.784522+08:00",
+  "total_titles_processed": 1230,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -29,11 +27,12 @@
             8,
             6,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时40分 ~ 16时32分]"
+          "appearance_count": 11,
+          "time_info": "[01时40分 ~ 19时46分]"
         },
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -71,8 +70,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时10分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[08时10分 ~ 19时46分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -257,7 +256,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -335,6 +334,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时47分 ~ 13时02分]"
+        },
+        {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 19时46分]"
         },
         {
           "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
@@ -442,6 +453,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "德国总理默茨：在工业人工智能的进步中，数据安全比数据隐私保护更为重要。",
+          "url": "https://flash.jin10.com/detail/20260520193530652800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "谷歌CEO Pichai：AI概览功能月活用户数25亿。 Gemini APP月活用户数一年翻倍，至超过9亿。 公司一个月处理3200万亿Token。 今年夏季，在美国推出“Ask YouTube”AI搜索功能。 “Docs Live”允许用户创作利用语音指令来创建Docs。",
           "url": "https://wallstreetcn.com/livenews/3106187",
           "source": "华尔街见闻-快讯",
@@ -486,17 +508,6 @@
           "time_info": "08时10分"
         },
         {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
           "title": "2026 年 Google I/O 大会有哪些值得关注的信息？",
           "url": "https://www.zhihu.com/question/2040145697911956151",
           "source": "知乎",
@@ -506,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "王力宏演唱会主题曲是 AI 制作，《在梅边》新版也被指 AI 编曲，他是第一个全面拥抱 AI 的主流歌手吗？",
+          "url": "https://www.zhihu.com/question/2040077336809322399",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "谷歌人工智能负责人宣布推出面向科学的研究导向型Gemini。",
@@ -717,6 +739,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "云南：加快发展电子电路铜箔、电子级玻纤等形成印制电路板产能，引进人工智能服务器生产制造项目",
+          "url": "https://wallstreetcn.com/livenews/3106671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "OpenAI投2.34亿美元在新加坡设立新AI实验室",
           "url": "https://flash.jin10.com/detail/20260520115552905800",
           "source": "金十数据",
@@ -764,8 +797,19 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "阿里云：百炼平台将接入智谱GLM-5.1、MiniMax M2.7等第三方模型",
+          "url": "https://wallstreetcn.com/livenews/3106704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
         {
           "title": "金价银价油价集体下跌",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
