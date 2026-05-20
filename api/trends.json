@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-20T19:46:32.784522+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-05-20T22:49:02.322522+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时10分 ~ 22时49分]"
+        },
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
           "url": "https://www.cls.cn/detail/2375797",
@@ -31,8 +45,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时40分 ~ 19时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时40分 ~ 22时49分]"
         },
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -59,19 +73,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时40分 ~ 16时32分]"
-        },
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时10分 ~ 19时46分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -395,6 +396,17 @@
           "time_info": "[16时31分 ~ 16时32分]"
         },
         {
+          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
+          "url": "https://www.zhihu.com/question/2040450519303288568",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 22时49分]"
+        },
+        {
           "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
           "url": "https://www.cls.cn/detail/2376047",
           "source": "财联社热门",
@@ -404,6 +416,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "对标Claude Code！DeepSeek组建Harness团队 入局编程智能体",
+          "url": "https://www.cls.cn/detail/2376780",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 22时49分]"
         },
         {
           "title": "报道：SpaceX计划在美国IPO后30天内收购AI编程初创公司Cursor",
@@ -459,7 +482,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -525,7 +548,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -745,7 +768,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -806,7 +829,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
