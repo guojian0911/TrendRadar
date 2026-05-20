@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T08:10:59.303167+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-05-20T13:02:02.022691+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 55,
+      "match_count": 62,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -25,11 +25,73 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 08时10分]"
+          "appearance_count": 8,
+          "time_info": "[01时40分 ~ 13时02分]"
+        },
+        {
+          "title": "赢!米哈游携千亿进军AI行业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时40分 ~ 13时02分]"
+        },
+        {
+          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时40分 ~ 13时02分]"
+        },
+        {
+          "title": "莫奈钓出嘉豪哥,真迹变AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时40分 ~ 13时02分]"
+        },
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 13时02分]"
+        },
+        {
+          "title": "5月20日投资避雷针：9天6板人气股提示风险 无AI覆铜板及高速覆铜板产品",
+          "url": "https://www.cls.cn/detail/2376131",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
@@ -65,40 +127,6 @@
             12,
             13,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 08时10分]"
-        },
-        {
-          "title": "赢!米哈游携千亿进军AI行业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 08时10分]"
-        },
-        {
-          "title": "莫奈钓出嘉豪哥,真迹变AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 08时10分]"
-        },
-        {
-          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -166,20 +194,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
         {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
+          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
+          "url": "https://www.cls.cn/detail/2376057",
+          "source": "财联社热门",
           "ranks": [
-            4
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 13时02分]"
         },
         {
           "title": "谷歌宣布推出Gemini Omni模型用于视频生成和编辑。",
@@ -278,6 +307,31 @@
           "time_info": "[05时15分 ~ 08时10分]"
         },
         {
+          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
+          "url": "https://wallstreetcn.com/articles/3772609",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 13时02分]"
+        },
+        {
+          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2376118",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 13时02分]"
+        },
+        {
           "title": "摩根大通：AI掀起产业变革正全方位考验管理层的领导力",
           "url": "https://wallstreetcn.com/livenews/3106284",
           "source": "华尔街见闻-快讯",
@@ -290,16 +344,26 @@
           "time_info": "[07时00分 ~ 08时10分]"
         },
         {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
+          "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
+          "url": "https://www.cls.cn/detail/2376047",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时47分 ~ 08时10分]"
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
+          "url": "https://www.cls.cn/detail/2376249",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "报道：SpaceX计划在美国IPO后30天内收购AI编程初创公司Cursor",
@@ -360,17 +424,6 @@
           "time_info": "01时40分"
         },
         {
-          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
-          "url": "https://www.cls.cn/detail/2376057",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
           "title": "据知情人士透露，SpaceX预计在其公司开始IPO 30天后，推进对人工智能编码初创公司Cursor的收购。",
           "url": "https://flash.jin10.com/detail/20260520060549357800",
           "source": "金十数据",
@@ -380,17 +433,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
-        },
-        {
-          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
-          "url": "https://www.cls.cn/detail/2376118",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
         },
         {
           "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
@@ -410,9 +452,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "2026 年 Google I/O 大会有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2040145697911956151",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "谷歌人工智能负责人宣布推出面向科学的研究导向型Gemini。",
@@ -525,13 +578,24 @@
           "time_info": "07时00分"
         },
         {
+          "title": "【平头哥AI芯片真武M890首次亮相】在2026阿里云峰会上，平头哥新一代训推一体AI芯片真武M890首次亮相，该芯片内置144GB显存，片间互联带宽达到800GB/s，性能是真武810E的3倍，原生支持FP32到FP4等多种数据精度，可应用于高精度训练、低精度和超低精度推理的全场景。配合自研ICN Switch1.0芯片，可实现64卡全带宽互联，显著提升大规模智算集群计算的效率与稳定性。这是面向Agentic时代全面升级的重要部分，当天阿里云推出了全新“芯-云-模型-推理”技术体系。",
+          "url": "https://wallstreetcn.com/livenews/3106439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "美联储保尔森：关于人工智能对生产力和通胀影响的考虑仍处于早期阶段。",
           "url": "https://flash.jin10.com/detail/20260520072312271800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -564,7 +628,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -578,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-20）",
+          "url": "https://flash.jin10.com/detail/20260520115627016800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "谷歌发布通用购物车Universal Intelligent Shopping Cart，今年夏季将在美国推出。 将出现在搜索与Gemini APP。",
@@ -600,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "OpenAI投2.34亿美元在新加坡设立新AI实验室",
+          "url": "https://flash.jin10.com/detail/20260520115552905800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
@@ -647,9 +733,26 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度尼西亚总统：我不希望我们的棕榈油价格受到其他国家的影响。我已要求内阁确保我们的商品价格，如镍和黄金，由我们自己决定。",
+          "url": "https://flash.jin10.com/detail/20260520120514918800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     }
