@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T04:50:56.675325+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-05-22T06:16:55.219014+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 06时16分]"
         },
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 06时16分]"
         },
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 06时16分]"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 06时16分]"
         },
         {
           "title": "如何看待 OpenAI 宣布 AI 证明困扰人类 80 年的单位距离问题？证明可信度如何？",
@@ -64,6 +64,17 @@
           "time_info": "[00时13分 ~ 00时14分]"
         },
         {
+          "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
+          "url": "https://www.cls.cn/detail/2378186",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 06时16分]"
+        },
+        {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
           "url": "https://wallstreetcn.com/livenews/3107589",
           "source": "华尔街见闻-快讯",
@@ -73,6 +84,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 06时16分]"
         },
         {
           "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
@@ -86,42 +109,6 @@
           "time_info": "02时57分"
         },
         {
-          "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
-          "url": "https://www.cls.cn/detail/2378186",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时50分]"
-        },
-        {
-          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时50分]"
-        },
-        {
-          "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时50分]"
-        },
-        {
           "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
           "url": "https://wallstreetcn.com/articles/3772780",
           "source": "华尔街见闻",
@@ -131,8 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 06时16分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -140,7 +127,21 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            19
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 06时16分]"
+        },
+        {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -209,7 +210,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -308,7 +309,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -319,7 +320,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         }
@@ -350,8 +351,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 06时16分]"
         },
         {
           "title": "五角大楼加速Claude替代 正在测试多模型寻找新供应商体系",
