@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T07:58:14.170040+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-05-22T11:36:27.851785+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 31,
+      "match_count": 39,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 07时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 11时36分]"
         },
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -104,8 +104,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 07时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 11时36分]"
         },
         {
           "title": "如何看待 OpenAI 宣布 AI 证明困扰人类 80 年的单位距离问题？证明可信度如何？",
@@ -141,6 +141,28 @@
           "time_info": "02时57分"
         },
         {
+          "title": "国家发改委：指导国产大模型加大力度适配国产算力芯片",
+          "url": "https://wallstreetcn.com/livenews/3107761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "为何AI总会一本正经地胡说八道",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "不小心把DeepSeek叫成豆包",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -152,6 +174,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 04时50分]"
+        },
+        {
+          "title": "用上AI后工作时间反而更长了",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 11时36分]"
         },
         {
           "title": "为何AI总会一本正经地胡说八道",
@@ -175,17 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 04时50分]"
-        },
-        {
-          "title": "用上AI后工作时间反而更长了",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
         },
         {
           "title": "为什么搞AI的赚不过卖存储的",
@@ -221,6 +244,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "中国贸促会：第四届链博会首次设立人工智能专区 集聚英伟达等中外人工智能领域领军企业",
+          "url": "https://flash.jin10.com/detail/20260522111320425800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：对职责（实现充分就业+维持价格稳定）两个方面的感到神经紧张。 当前不是实施强有力前瞻指引的时机。 我所接触到的每一个人都在谈论AI相关的失业问题。 周二会见了候任美联储主席沃什，他没有透露自己会在美联储做什么。",
           "url": "https://wallstreetcn.com/livenews/3107583",
           "source": "华尔街见闻-快讯",
@@ -230,6 +264,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "DeepSeek引入API并发限制",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%95%E5%85%A5API%E5%B9%B6%E5%8F%91%E9%99%90%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "国家发改委：正在谋划出台加快人工智能落地的配套文件",
+          "url": "https://wallstreetcn.com/livenews/3107744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "逆转裁判但网文AI对决",
@@ -285,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "国家发改委：指导国产大模型加大力度适配国产算力芯片",
+          "url": "https://flash.jin10.com/detail/20260522105333002800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "加密货币交易平台Blockchain.com秘密提交IPO申请",
@@ -353,13 +420,35 @@
           "time_info": "04时50分"
         },
         {
+          "title": "论文AIGC率如何判定更合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87AIGC%E7%8E%87%E5%A6%82%E4%BD%95%E5%88%A4%E5%AE%9A%E6%9B%B4%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "这波AI短片的梦幻联动给到夯",
+          "url": "https://www.douyin.com/hot/2507151",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
           "url": "https://flash.jin10.com/detail/20260522061919828800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         }
@@ -367,7 +456,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "“烧钱”已是刻板印象！Anthropic预计Q2营收翻倍，首度实现营业利润",
@@ -395,6 +484,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "金十图示：2026年05月22日（周五）上海金早盘价为992.7元/克，较国际金价(988.9元/克)，高3.8元/克",
+          "url": "https://flash.jin10.com/detail/20260522110439298800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "五角大楼加速Claude替代 正在测试多模型寻找新供应商体系",
           "url": "https://flash.jin10.com/detail/20260522020816210800",
           "source": "金十数据",
@@ -404,6 +504,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "智谱大涨逾20% 公司推出ZCube组网架构且有望入恒生科技指数",
+          "url": "https://wallstreetcn.com/livenews/3107737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "智谱发布GLM-5.1高速版 模型输出速度达400 tokens/s",
+          "url": "https://wallstreetcn.com/livenews/3107723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     }
