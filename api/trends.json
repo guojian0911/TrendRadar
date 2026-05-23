@@ -1,44 +1,47 @@
 {
-  "generated_at": "2026-05-24T00:02:18.131758+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-24T01:09:58.467674+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "DeepSeek宣布：永久降价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%A3%E5%B8%83%EF%BC%9A%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
-        },
         {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
+        },
+        {
+          "title": "DeepSeek宣布：永久降价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%A3%E5%B8%83%EF%BC%9A%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         },
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -48,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -59,19 +62,31 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         },
         {
           "title": "AI光算力第一股上市首日暴涨380%",
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%89%E7%AE%97%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E6%B6%A8380%25%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
+        },
+        {
+          "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
+          "url": "https://wallstreetcn.com/livenews/3108395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "time_info": "[00时02分 ~ 01时09分]"
         },
         {
           "title": "SpaceX抢跑 OpenAI追击",
@@ -85,15 +100,26 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
-          "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
-          "url": "https://wallstreetcn.com/livenews/3108395",
-          "source": "华尔街见闻-快讯",
+          "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33220418",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时09分"
+        },
+        {
+          "title": "人工智能会让印度成为最大输家吗",
+          "url": "https://www.toutiao.com/trending/7643036933022551558/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
         }
       ]
     }
