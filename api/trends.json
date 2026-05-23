@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T06:47:46.833792+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-05-24T07:53:38.938673+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时53分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时53分]"
         },
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时53分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -52,11 +52,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时53分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -81,8 +82,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 06时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时53分]"
         },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
@@ -90,11 +91,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 07时53分]"
         },
         {
           "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
@@ -107,8 +109,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 06时47分]"
+          "appearance_count": 6,
+          "time_info": "[03时02分 ~ 07时53分]"
         },
         {
           "title": "AI光算力第一股上市首日暴涨380%",
@@ -132,6 +134,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时02分]"
+        },
+        {
+          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
+          "url": "https://wallstreetcn.com/articles/3772976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "人工智能会让印度成为最大输家吗",
