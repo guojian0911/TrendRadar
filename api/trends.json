@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T04:42:57.541373+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-05-24T05:50:17.761642+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时50分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时50分]"
         },
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时50分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -50,11 +50,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时50分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -64,8 +65,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时50分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -74,11 +75,12 @@
           "ranks": [
             11,
             15,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时50分]"
         },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
@@ -89,8 +91,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时50分]"
+        },
+        {
+          "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
+          "url": "https://www.zhihu.com/question/2040505406502524785",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时02分 ~ 05时50分]"
         },
         {
           "title": "AI光算力第一股上市首日暴涨380%",
@@ -103,18 +118,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时01分 ~ 01时09分]"
-        },
-        {
-          "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
-          "url": "https://www.zhihu.com/question/2040505406502524785",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时42分]"
         },
         {
           "title": "SpaceX抢跑 OpenAI追击",
@@ -137,6 +140,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价与油价何去何从",
+          "url": "https://www.toutiao.com/trending/7643071094315814454/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 05时50分]"
         }
       ]
     }
