@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T07:56:43.524559+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-05-25T10:53:14.660906+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 10时53分]"
         },
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 10时53分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -49,22 +50,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 10时53分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 10时53分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -75,11 +78,12 @@
             28,
             27,
             22,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 10时53分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -132,6 +136,17 @@
           "time_info": "[01时56分 ~ 03时10分]"
         },
         {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
           "title": "据英国《金融时报》：欧洲央行召集银行要求其修补最新人工智能模型暴露出的缺陷。",
           "url": "https://flash.jin10.com/detail/20260525010206221800",
           "source": "金十数据",
@@ -142,6 +157,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时10分]"
+        },
+        {
+          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
+          "url": "https://www.cls.cn/detail/2380061",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
+          "title": "开源大模型本地部署和官网的有什么区别?",
+          "url": "https://www.zhihu.com/question/8211811008",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
+          "title": "AI 中转站是什么，便宜 Token 背后暗藏什么玄机？",
+          "url": "https://www.zhihu.com/question/2040496731704528936",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -159,7 +207,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美伊协议前景缓和通胀担忧，金价反弹超1%",
@@ -168,9 +216,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "金十图示：2026年05月25日（周一）上海金早盘价为997.71元/克，较国际金价(994.55元/克)，高3.16元/克",
+          "url": "https://flash.jin10.com/detail/20260525102727156800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     }
