@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-27T12:20:14.775123+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-05-27T16:37:27.884648+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
+          "url": "https://wallstreetcn.com/articles/3773116",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时17分 ~ 16时37分]"
+        },
         {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
           "url": "https://www.cls.cn/detail/2382007",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时21分 ~ 08时01分]"
-        },
-        {
-          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
-          "url": "https://wallstreetcn.com/articles/3773116",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时17分 ~ 12时20分]"
         },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
@@ -49,22 +49,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时21分 ~ 12时20分]"
-        },
-        {
-          "title": "AI坑爹,棒球名帅丢饭碗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "appearance_count": 8,
+          "time_info": "[02时21分 ~ 16时37分]"
         },
         {
           "title": "高考期间AI功能将受限？豆包、元宝、百度文心等多方最新回应",
@@ -73,7 +63,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -102,6 +92,17 @@
           "time_info": "[06时17分 ~ 12时20分]"
         },
         {
+          "title": "谷歌将于7月1日更新在爱尔兰的博彩和游戏政策，以符合新的监管要求。",
+          "url": "https://flash.jin10.com/detail/20260527163129223800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "中信建投：机器人是AI最好的物理载体之一，看好板块行情演绎",
           "url": "https://wallstreetcn.com/livenews/3109694",
           "source": "华尔街见闻-快讯",
@@ -111,6 +112,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "AI坑爹,棒球名帅丢饭碗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 16时37分]"
+        },
+        {
+          "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
+          "url": "https://www.cls.cn/detail/2382543",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 16时37分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "一人之下被指用AI作画",
@@ -148,15 +184,15 @@
           "time_info": "[12时19分 ~ 12时20分]"
         },
         {
-          "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
-          "url": "https://www.cls.cn/detail/2382543",
-          "source": "财联社热门",
+          "title": "华为 “韬定律”：国产芯片的DeepSeek 时刻！",
+          "url": "https://wallstreetcn.com/articles/3773150",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "time_info": "[08时01分 ~ 16时37分]"
         },
         {
           "title": "夏奇拉发布世界杯主题曲《Dai Dai》，梅西、姆巴佩出镜 MV，如何评价这个主题曲和 MV？",
@@ -181,17 +217,6 @@
           "time_info": "08时01分"
         },
         {
-          "title": "华为 “韬定律”：国产芯片的DeepSeek 时刻！",
-          "url": "https://wallstreetcn.com/articles/3773150",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
           "title": "“港版纳指”掉队，恒生科技指数迎来“AI化”重估",
           "url": "https://wallstreetcn.com/livenews/3109683",
           "source": "华尔街见闻-快讯",
@@ -203,15 +228,37 @@
           "time_info": "08时01分"
         },
         {
+          "title": "AIDC供电架构变革 超级电容有望成为结构性必需品",
+          "url": "https://www.cls.cn/detail/2382316",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "上海：推动AI+广告全链路应用 培育一批拥有核心技术和国际化能力的本土广告品牌企业",
           "url": "https://flash.jin10.com/detail/20260527114141391800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：我们一直在告诉银行增加对网络安全的投资，以应对人工智能风险。",
+          "url": "https://flash.jin10.com/detail/20260527162023995800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-05-27）",
@@ -220,7 +267,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -247,15 +294,48 @@
           "time_info": "02时22分"
         },
         {
+          "title": "前美国芝加哥联储主席Evans：AI虽能提高生产率 但或将加剧通胀",
+          "url": "https://wallstreetcn.com/livenews/3109929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "黄仁勋：反感很多CEO将AI与失业关联",
+          "url": "https://www.toutiao.com/trending/7643647082553655338/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "司法部武增：今年将制定全国统一大市场建设条例，加快推进人工智能健康发展综合性立法",
           "url": "https://wallstreetcn.com/livenews/3109789",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "黄仁勋称AI时代学什么专业并不重要",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0AI%E6%97%B6%E4%BB%A3%E5%AD%A6%E4%BB%80%E4%B9%88%E4%B8%93%E4%B8%9A%E5%B9%B6%E4%B8%8D%E9%87%8D%E8%A6%81",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -274,8 +354,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时21分 ~ 12时20分]"
+          "appearance_count": 8,
+          "time_info": "[02时21分 ~ 16时37分]"
         },
         {
           "title": "多家投行下调金价预判",
