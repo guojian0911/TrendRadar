@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T21:16:45.709258+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-05-30T23:02:48.949155+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时47分 ~ 21时16分]"
+          "appearance_count": 8,
+          "time_info": "[12时47分 ~ 23时02分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -28,11 +28,12 @@
             15,
             18,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时31分 ~ 21时16分]"
+          "appearance_count": 13,
+          "time_info": "[01时31分 ~ 23时02分]"
         },
         {
           "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
@@ -55,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时36分 ~ 21时16分]"
+          "appearance_count": 7,
+          "time_info": "[15时36分 ~ 23时02分]"
         },
         {
           "title": "两名初中生田间用AI识图发现罂粟",
@@ -138,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "面向超大规模药物发现的人工智能虚拟筛选平台——GalaxyVS正式发布",
+          "url": "https://wallstreetcn.com/livenews/3111833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美联储戴利：预计人工智能将推动生产率增长出现积极迹象。",
@@ -254,6 +266,18 @@
           "time_info": "[01时31分 ~ 08时05分]"
         },
         {
+          "title": "全国首个绿色算力全栈AI平台上线",
+          "url": "https://www.cls.cn/detail/2386167",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 23时02分]"
+        },
+        {
           "title": "韩国巨额AI奖金引发科技财富分配大论战",
           "url": "https://wallstreetcn.com/livenews/3111651",
           "source": "华尔街见闻-快讯",
@@ -300,6 +324,17 @@
           "time_info": "[04时13分 ~ 08时05分]"
         },
         {
+          "title": "AI驱动美股狂飙！标普500 5月牛股盘点：戴尔、美光强势领跑",
+          "url": "https://www.cls.cn/detail/2386086",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 23时02分]"
+        },
+        {
           "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。 北美科技软件股指数ETF收涨6.25%，报101.66美元，本周累计上涨8.14%——连续第七周反弹，5月份累涨21.15%，创2001年10月份以来最佳单月表现。",
           "url": "https://wallstreetcn.com/livenews/3111637",
           "source": "华尔街见闻-快讯",
@@ -324,15 +359,27 @@
           "time_info": "[06时25分 ~ 08时05分]"
         },
         {
-          "title": "全国首个绿色算力全栈AI平台上线",
-          "url": "https://www.cls.cn/detail/2386167",
-          "source": "财联社热门",
+          "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
+          "url": "https://wallstreetcn.com/livenews/3111808",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 23时02分]"
+        },
+        {
+          "title": "撬动创新药开发 人工智能虚拟筛选平台在天津发布",
+          "url": "https://flash.jin10.com/detail/20260530215645145800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时16分"
+          "time_info": "23时02分"
         },
         {
           "title": "全国首个绿色算力全栈AI平台在呼和浩特正式上线",
@@ -346,6 +393,17 @@
           "time_info": "19时17分"
         },
         {
+          "title": "用AI整理会议记录或导致泄密",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E6%95%B4%E7%90%86%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95%E6%88%96%E5%AF%BC%E8%87%B4%E6%B3%84%E5%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "传奇对冲基金经理Dan Loeb：拒绝进化的“死硬价值派”都死了，不学AI注定灭绝",
           "url": "https://wallstreetcn.com/articles/3773413",
           "source": "华尔街见闻",
@@ -355,6 +413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
+          "url": "https://wallstreetcn.com/articles/3773496",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "“亚洲最大AI科技展”ComputeX下周开幕，黄仁勋领衔AI巨头轮番登台",
@@ -390,17 +459,6 @@
           "time_info": "01时31分"
         },
         {
-          "title": "AI驱动美股狂飙！标普500 5月牛股盘点：戴尔、美光强势领跑",
-          "url": "https://www.cls.cn/detail/2386086",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
           "title": "国家制造强国建设战略咨询委员会副主任苏波：要深度把握AI与先进制造的融合趋势，完善顶层设计",
           "url": "https://wallstreetcn.com/livenews/3111707",
           "source": "华尔街见闻-快讯",
@@ -412,24 +470,13 @@
           "time_info": "12时47分"
         },
         {
-          "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
-          "url": "https://wallstreetcn.com/livenews/3111808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
           "title": "据悉OpenAI已与花旗、摩根大通讨论参与IPO事宜",
           "url": "https://flash.jin10.com/detail/20260530193729860800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
