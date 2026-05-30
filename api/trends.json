@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T15:37:11.577654+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-05-30T17:54:38.150803+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
@@ -26,11 +26,25 @@
           "ranks": [
             15,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 15时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 17时54分]"
+        },
+        {
+          "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
+          "url": "https://www.cls.cn/detail/2386025",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 17时54分]"
         },
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
@@ -102,16 +116,27 @@
           "time_info": "01时31分"
         },
         {
-          "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
-          "url": "https://www.cls.cn/detail/2386025",
-          "source": "财联社热门",
+          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
+          "url": "https://wallstreetcn.com/articles/3773482",
+          "source": "华尔街见闻",
           "ranks": [
             7,
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时47分 ~ 15时37分]"
+          "time_info": "[15时36分 ~ 17时54分]"
+        },
+        {
+          "title": "两名初中生田间用AI识图发现罂粟",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E7%94%B0%E9%97%B4%E7%94%A8AI%E8%AF%86%E5%9B%BE%E5%8F%91%E7%8E%B0%E7%BD%82%E7%B2%9F",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "美联储戴利：实现人工智能持续生产力增长的障碍主要是监管问题。",
@@ -153,7 +178,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -261,17 +286,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时13分 ~ 08时05分]"
-        },
-        {
-          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
-          "url": "https://wallstreetcn.com/articles/3773482",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
         },
         {
           "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。 北美科技软件股指数ETF收涨6.25%，报101.66美元，本周累计上涨8.14%——连续第七周反弹，5月份累涨21.15%，创2001年10月份以来最佳单月表现。",
