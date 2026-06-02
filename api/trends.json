@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T10:59:10.881009+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2026-06-02T15:26:08.239989+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
         {
           "title": "大力推进人工智能+能源融合发展",
@@ -30,6 +30,55 @@
           "time_info": "[01时26分 ~ 07时24分]"
         },
         {
+          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
+          "url": "https://wallstreetcn.com/articles/3773561",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 15时26分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 15时26分]"
+        },
+        {
+          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 15时26分]"
+        },
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 15时26分]"
+        },
+        {
           "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
           "url": "https://www.cls.cn/detail/2387170",
           "source": "财联社热门",
@@ -39,18 +88,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 05时26分]"
-        },
-        {
-          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
-          "url": "https://wallstreetcn.com/articles/3773561",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 10时59分]"
         },
         {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
@@ -65,38 +102,15 @@
           "time_info": "[01时26分 ~ 10时59分]"
         },
         {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
           "source": "贴吧",
           "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 10时59分]"
-        },
-        {
-          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
-          "url": "https://wallstreetcn.com/articles/3773537",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
-        },
-        {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
+          "time_info": "[15时25分 ~ 15时26分]"
         },
         {
           "title": "英伟达发布个人AI超算",
@@ -154,6 +168,18 @@
           "time_info": "07时24分"
         },
         {
+          "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
+          "url": "https://wallstreetcn.com/articles/3773569",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 15时26分]"
+        },
+        {
           "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
           "url": "https://www.zhihu.com/question/2044719064757397392",
           "source": "知乎",
@@ -166,26 +192,60 @@
           "time_info": "[05时25分 ~ 10时59分]"
         },
         {
-          "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
-          "url": "https://wallstreetcn.com/articles/3773569",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
-        },
-        {
           "title": "我用AI做了祖国人胜利结局",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 15时26分]"
+        },
+        {
+          "title": "Alphabet拟融资800亿美元推进AI战略 伯克希尔将认购100亿美元股份",
+          "url": "https://www.cls.cn/detail/2387726",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
+          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
+          "url": "https://www.cls.cn/detail/2387988",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
+          "title": "Anthropic官宣秘交招股书 上周刚问鼎全球最值钱AI创企",
+          "url": "https://www.cls.cn/detail/2387696",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
+          "title": "AI PC彻底引爆科技股未来预期",
+          "url": "https://www.toutiao.com/trending/7646421330887183926/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
         },
         {
           "title": "谷歌(GOOG.O)美股盘后跌1.7%。",
@@ -205,7 +265,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -249,7 +309,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -260,7 +320,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -274,6 +334,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "Arm：有望提前实现150亿美元AI芯片收入目标",
+          "url": "https://wallstreetcn.com/livenews/3112880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "腾讯港股涨幅扩大至10%，报道称腾讯接近推出微信AI助手。",
+          "url": "https://wallstreetcn.com/livenews/3112879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
@@ -315,9 +397,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "英特尔(INTC.O)正与富士康、西门子、日立等公司合作开发芯片到系统级的人工智能解决方案。",
+          "url": "https://flash.jin10.com/detail/20260602144832874800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
@@ -337,7 +430,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
@@ -345,8 +438,30 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "金十图示：2026年06月02日（周二）上海金午盘价为987.34元/克，较国际金价(985.41元/克)，高1.93元/克",
+          "url": "https://flash.jin10.com/detail/20260602150336533800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "金价大跌为何投行却集体看涨",
+          "url": "https://www.toutiao.com/trending/7646583861052182052/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        },
         {
           "title": "Anthropic将向欧盟开放其先进模型Mythos的访问权限",
           "url": "https://wallstreetcn.com/livenews/3112646",
@@ -365,7 +480,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -401,6 +516,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海：持续提升大宗商品价格和黄金基准价格辐射能力，拓展“上海金”应用场景",
+          "url": "https://wallstreetcn.com/livenews/3112866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     }
