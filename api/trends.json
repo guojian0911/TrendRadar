@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-06T14:25:49.350754+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-06-06T17:22:37.585404+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时02分 ~ 17时22分]"
+        },
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
           "url": "https://wallstreetcn.com/articles/3773915",
@@ -47,16 +59,18 @@
           "time_info": "[01时11分 ~ 14时25分]"
         },
         {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
           "ranks": [
-            4,
-            1
+            10,
+            13,
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时02分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 17时22分]"
         },
         {
           "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
@@ -73,17 +87,16 @@
           "time_info": "[01时11分 ~ 07时03分]"
         },
         {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            13,
-            19
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 14时25分]"
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 17时22分]"
         },
         {
           "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
@@ -129,7 +142,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -143,17 +156,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时11分 ~ 07时03分]"
-        },
-        {
-          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
-          "url": "https://wallstreetcn.com/articles/3774007",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
         },
         {
           "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
@@ -214,6 +216,31 @@
           "time_info": "[01时11分 ~ 05时21分]"
         },
         {
+          "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
+          "url": "https://www.cls.cn/detail/2392502",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 17时22分]"
+        },
+        {
+          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
+          "url": "https://www.zhihu.com/question/2046268823192302620",
+          "source": "知乎",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 17时22分]"
+        },
+        {
           "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
           "url": "https://www.cls.cn/detail/2391915",
           "source": "财联社热门",
@@ -226,28 +253,27 @@
           "time_info": "[01时11分 ~ 05时21分]"
         },
         {
-          "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
-          "url": "https://www.cls.cn/detail/2392502",
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
           "ranks": [
-            9,
-            11
+            13,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时38分 ~ 14时25分]"
+          "time_info": "[14时25分 ~ 17时22分]"
         },
         {
-          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
-          "url": "https://www.zhihu.com/question/2046268823192302620",
-          "source": "知乎",
+          "title": "高考要用AI改卷系谣言",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%A6%81%E7%94%A8AI%E6%94%B9%E5%8D%B7%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
           "ranks": [
-            19,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时38分 ~ 14时25分]"
+          "time_info": "[14时25分 ~ 17时22分]"
         },
         {
           "title": "腾讯高管称今年大部分代码由 AI 生成，工程师更侧重架构设计，怎样看待这一变化？会成为行业趋势吗？",
@@ -272,6 +298,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 14时25分]"
+        },
+        {
+          "title": "印度高温背后的AI问题",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%83%8C%E5%90%8E%E7%9A%84AI%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 17时22分]"
         },
         {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
@@ -307,28 +345,6 @@
           "time_info": "10时38分"
         },
         {
-          "title": "高考要用AI改卷系谣言",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%A6%81%E7%94%A8AI%E6%94%B9%E5%8D%B7%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
           "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
           "url": "https://flash.jin10.com/detail/20260606100207987800",
           "source": "金十数据",
@@ -357,7 +373,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -390,9 +406,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "AI文风太好认",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "市场消息：SpaceX与谷歌(GOOG.O)达成云服务协议。合作协议涉及11万块英伟达GPU、CPU以及内存。",
@@ -412,7 +439,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -445,20 +472,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "印度高温背后的AI问题",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%83%8C%E5%90%8E%E7%9A%84AI%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "14时25分"
         },
         {
           "title": "美国总统特朗普：所有大型AI公司都将前来白宫，也许就在下周。 将讨论民众如何从AI获利。",
@@ -541,8 +557,19 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价跌回2025年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
         {
           "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
           "url": "https://flash.jin10.com/detail/20260606031454932800",
