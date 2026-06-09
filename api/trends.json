@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T00:55:25.707408+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-10T01:43:13.888653+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时43分]"
         },
         {
           "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时43分]"
         },
         {
           "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
@@ -37,19 +37,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时43分]"
         },
         {
           "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
           "url": "https://www.zhihu.com/question/2046196309359646371",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时43分]"
         },
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
@@ -59,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时43分]"
         },
         {
           "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
@@ -70,19 +71,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时43分]"
         },
         {
           "title": "Meta：将针对欧盟的WhatsApp AI命令提出上诉。",
           "url": "https://wallstreetcn.com/livenews/3116943",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时43分]"
         },
         {
           "title": "欧盟勒令Meta暂停针对AI竞争对手们限制WhatsApp。 要求该公司在五个工作日内做到合规。",
@@ -94,6 +96,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "微软(MSFT.O)：Anthropic最新的前沿模型Claude Fable 5现已登陆Microsoft Foundry。",
+          "url": "https://flash.jin10.com/detail/20260610012005660800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "Anthropic发布不具备网络安全功能的Mythos公开版",
+          "url": "https://flash.jin10.com/detail/20260610010751740800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "Anthropic推出限制网络安全能力的“解耦版”新模型Fable 5，同步发布Mythos 5",
+          "url": "https://wallstreetcn.com/livenews/3116966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "Anthropic：面向一小部分网络安全防御人员与基础设施提供商，同时发布Claude Mythos 5。",
+          "url": "https://flash.jin10.com/detail/20260610010437968800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "Anthropic：Mythos 5与Fable 5模型定价为每100万输入tokens收费10美元，每100万输出tokens收费50美元。",
+          "url": "https://flash.jin10.com/detail/20260610010326234800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "Anthropic：计划通过更广泛的“可信访问计划”扩大Claude Mythos 5的使用范围。",
+          "url": "https://flash.jin10.com/detail/20260610010242800800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "Anthropic：Claude Mythos 5最初将通过“Glasswing项目”部署，并与美国政府合作，作为Claude Mythos预览版的升级版本。",
+          "url": "https://flash.jin10.com/detail/20260610010236188800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "Anthropic：发布Claude Fable 5，这是一个Mythos级别的模型，但已调整为适合大众安全使用版本。",
+          "url": "https://flash.jin10.com/detail/20260610010220834800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         }
       ]
     }
