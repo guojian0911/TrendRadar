@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T13:24:00.092796+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-06-09T15:15:12.036792+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 70,
+      "match_count": 76,
       "titles": [
         {
           "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
@@ -31,6 +31,19 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[01时07分 ~ 13时24分]"
+        },
+        {
+          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
+          "url": "https://www.cls.cn/detail/2394196",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时37分 ~ 15时15分]"
         },
         {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
@@ -73,16 +86,17 @@
           "time_info": "[04时51分 ~ 08时38分]"
         },
         {
-          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
-          "url": "https://www.cls.cn/detail/2394196",
-          "source": "财联社热门",
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            2
+            9,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时37分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[08时37分 ~ 15时15分]"
         },
         {
           "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
@@ -95,6 +109,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时07分 ~ 07时28分]"
+        },
+        {
+          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
+          "url": "https://www.zhihu.com/question/2047324900080051711",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时37分 ~ 15时15分]"
         },
         {
           "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
@@ -159,29 +185,19 @@
           "time_info": "[02时50分 ~ 07时28分]"
         },
         {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
           "ranks": [
+            12,
             9,
-            4,
-            3
+            8,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时37分 ~ 13时24分]"
-        },
-        {
-          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
-          "url": "https://www.zhihu.com/question/2047324900080051711",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时37分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[08时37分 ~ 15时15分]"
         },
         {
           "title": "CPU重返数据中心C位 “某国内大模型厂商CPU需求提高了5倍”",
@@ -196,18 +212,29 @@
           "time_info": "[03时45分 ~ 07时28分]"
         },
         {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            9,
             8,
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时37分 ~ 13时24分]"
+          "time_info": "[09时38分 ~ 15时15分]"
+        },
+        {
+          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
+          "url": "https://www.cls.cn/detail/2394258",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时38分 ~ 15时15分]"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果最大的模型“AFM Cloud Pro”将运行在谷歌云基础设施上。",
@@ -227,7 +254,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -241,6 +268,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
+        },
+        {
+          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2394236",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时38分 ~ 15时15分]"
         },
         {
           "title": "美国科技记者古尔曼：尽管这次发布并没有带来颠覆性的创新，但苹果(AAPL.O)刚刚通过实用的人工智能功能、真正能够发挥作用的Siri以及性能提升，重新构建了其各大平台的基础架构。考虑到未来三年将有一系列重磅新设备搭载这些操作系统，这一点至关重要。这是一个正确的决定。",
@@ -274,6 +313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "诺基亚推出首个专为AI时代打造的安全套件。",
+          "url": "https://wallstreetcn.com/livenews/3116613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "DeepSeek开招土木老哥：自建GW级数据中心",
@@ -323,28 +373,16 @@
           "time_info": "[05时35分 ~ 06时33分]"
         },
         {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            9,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时38分 ~ 13时24分]"
-        },
-        {
-          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
-          "url": "https://www.cls.cn/detail/2394258",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 13时24分]"
+          "time_info": "[13时23分 ~ 15时15分]"
         },
         {
           "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
@@ -431,16 +469,16 @@
           "time_info": "[07时27分 ~ 08时38分]"
         },
         {
-          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2394236",
+          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
+          "url": "https://www.cls.cn/detail/2394326",
           "source": "财联社热门",
           "ranks": [
-            13,
+            12,
             11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时38分 ~ 13时24分]"
+          "time_info": "[13时23分 ~ 15时15分]"
         },
         {
           "title": "库克最后一场WWDC：AI Siri登场",
@@ -479,6 +517,17 @@
           "time_info": "[05时35分 ~ 06时33分]"
         },
         {
+          "title": "黄仁勋让出市场 DeepSeek买下昇腾",
+          "url": "https://www.toutiao.com/trending/7649233186517421604/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
+        },
+        {
           "title": "OpenAI已提交IPO申请",
           "url": "https://flash.jin10.com/detail/20260609051454671800",
           "source": "金十数据",
@@ -515,15 +564,15 @@
           "time_info": "[06时33分 ~ 07时28分]"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
+          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
@@ -562,15 +611,15 @@
           "time_info": "[02时50分 ~ 03时45分]"
         },
         {
-          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
-          "url": "https://www.cls.cn/detail/2394326",
+          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
+          "url": "https://www.cls.cn/detail/2394424",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
+          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "谷歌A跌幅收窄至不足1%，此前一度跌2.2%。",
@@ -649,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "特朗普拟推动政府持股AI企业，本周或开启关键谈判",
+          "url": "https://flash.jin10.com/detail/20260609144536111800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：（谈苹果全新智能功能）我们的系统并非基于谷歌搜索。",
@@ -816,6 +876,17 @@
           "time_info": "08时38分"
         },
         {
+          "title": "港股大模型概念股震荡走低，MINIMAX、智谱均跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3116588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "意大利竞争管理局结束了对Meta Platforms(META.O)关于WhatsApp人工智能聊天机器人的调查。",
           "url": "https://flash.jin10.com/detail/20260609000618341800",
           "source": "金十数据",
@@ -841,7 +912,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "金价下跌后郑州金店被挤爆",
@@ -862,11 +933,12 @@
           "ranks": [
             19,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时33分 ~ 13时24分]"
+          "appearance_count": 11,
+          "time_info": "[06时33分 ~ 15时15分]"
         },
         {
           "title": "怎么看诺奖得主联手 Claude，40 轮对话证出 12 年物理猜想?",
@@ -876,8 +948,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时15分]"
         },
         {
           "title": "金价大跌 郑州金店被挤爆",
@@ -902,6 +974,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时33分 ~ 07时28分]"
+        },
+        {
+          "title": "消费者盼金价降至500元每克",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E7%9B%BC%E9%87%91%E4%BB%B7%E9%99%8D%E8%87%B3500%E5%85%83%E6%AF%8F%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "恒指低开0.43%，恒生科技指数跌0.26%。智谱跌近5%，比亚迪电子跌1.8%，小米、阿里巴巴跌约1%；华虹宏力涨2.8%。",
@@ -946,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "【知名科技记者爆料：Anthropic明天将发布“公开版本Mythos”】科技记者Alex Heath发文称，Anthropic计划于明天发布Mythos的公开版本，他们将对Mythos进行更名和小幅调整，并以“Fable 5”的名称发布。该版本将设有严格的安全防护措施，不会像Project Glasswing合作伙伴所能访问的版本那样对网络操作过于宽松，同时，其在长周期、多轮任务方面表现将大幅提升。",
+          "url": "https://wallstreetcn.com/livenews/3116578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         }
       ]
     },
