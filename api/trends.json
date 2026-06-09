@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T21:02:36.567800+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2026-06-09T21:57:18.045567+08:00",
+  "total_titles_processed": 1846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 83,
+      "match_count": 93,
       "titles": [
         {
           "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时37分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[08时37分 ~ 21时57分]"
         },
         {
           "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
@@ -148,6 +148,19 @@
           "time_info": "[01时07分 ~ 05时35分]"
         },
         {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时14分 ~ 21时57分]"
+        },
+        {
           "title": "当我把今年高考语文作文题喂给AI",
           "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
           "source": "百度热搜",
@@ -197,19 +210,6 @@
           "time_info": "[02时50分 ~ 07时28分]"
         },
         {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时14分 ~ 21时02分]"
-        },
-        {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
           "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
@@ -219,8 +219,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时23分 ~ 21时02分]"
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 21时57分]"
         },
         {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
@@ -236,6 +236,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时37分 ~ 15时15分]"
+        },
+        {
+          "title": "Monte vs paiN 科隆Major",
+          "url": "https://search.bilibili.com/all?keyword=Monte%20paiN",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 21时57分]"
         },
         {
           "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
@@ -261,17 +273,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时45分 ~ 07时28分]"
-        },
-        {
-          "title": "Monte vs paiN 科隆Major",
-          "url": "https://search.bilibili.com/all?keyword=Monte%20paiN",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果最大的模型“AFM Cloud Pro”将运行在谷歌云基础设施上。",
@@ -374,6 +375,17 @@
           "time_info": "19时04分"
         },
         {
+          "title": "赛豆科技AIVA品牌激光雷达供应商或为速腾聚创",
+          "url": "https://flash.jin10.com/detail/20260609214418046800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "DeepSeek开招土木老哥：自建GW级数据中心",
           "url": "https://wallstreetcn.com/livenews/3116486",
           "source": "华尔街见闻-快讯",
@@ -383,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "毕马威与微软(MSFT.O)达成协议，帮助客户大规模部署人工智能。",
+          "url": "https://flash.jin10.com/detail/20260609214401616800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
@@ -483,6 +506,19 @@
           "time_info": "[15时14分 ~ 19时04分]"
         },
         {
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时04分 ~ 21时57分]"
+        },
+        {
           "title": "Applied Digital（APLD.O）签署Delta Forge2项目210兆瓦租赁协议，将其“AI工厂”特许经营模式扩展至第五个园区。",
           "url": "https://flash.jin10.com/detail/20260609040707367800",
           "source": "金十数据",
@@ -553,18 +589,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时35分 ~ 07时28分]"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
-          "url": "https://www.cls.cn/detail/2394903",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时04分 ~ 21时02分]"
         },
         {
           "title": "OpenAI：尚未决定首次公开募股的时间。",
@@ -751,6 +775,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "Perplexity CEO：无论Anthropic或OpenAI上市进展如何，公司均计划2028年IPO",
+          "url": "https://wallstreetcn.com/livenews/3116874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "苹果软件主管克雷格·费德里吉：（谈苹果全新智能功能）我们的系统并非基于谷歌搜索。",
           "url": "https://flash.jin10.com/detail/20260609031355429800",
           "source": "金十数据",
@@ -762,6 +797,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "Applied Digital(APLD.O)一度涨逾12%，此前公司签署了一项52亿美元人工智能数据中心租赁协议。",
+          "url": "https://flash.jin10.com/detail/20260609213931003800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "大摩点评英伟达“存储减半”传闻：这是真实的短缺，供应约束已成AI最大拦路虎",
           "url": "https://wallstreetcn.com/articles/3774121",
           "source": "华尔街见闻",
@@ -771,6 +817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2395176",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "苹果(AAPL.O)：我们将于今年晚些时候面向用户推出Siri AI及Beta测试版。",
@@ -850,6 +907,17 @@
           "time_info": "19时04分"
         },
         {
+          "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
+          "url": "https://www.zhihu.com/question/2046196309359646371",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "新闻交易员：大家都在追AI上市，真正的雷可能在利率那边",
           "url": "https://flash.jin10.com/detail/20260609081551926800",
           "source": "金十数据",
@@ -916,6 +984,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "苹果：在多项服务中引入AI智能体验。",
+          "url": "https://wallstreetcn.com/livenews/3116856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "OpenAI：推出OpenAI经济研究交流平台。",
           "url": "https://flash.jin10.com/detail/20260609020325395800",
           "source": "金十数据",
@@ -925,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "米哈游多款游戏已接入 AI，原神未来会引入 AI 功能吗？",
+          "url": "https://www.zhihu.com/question/2041514273738847722",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "谷歌(GOOG.O)：将NotebookLM升级至运行在Gemini 3.5和Antigravity上。",
@@ -947,6 +1037,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "美股开盘，道指涨0.3%，标普500指数涨0.5%，纳指涨0.7%。高通(QCOM.O)涨0.3%，黄仁勋喊话买入该股票。博通(AVGO.O)涨1.1%，其联手黑石和阿波罗成立AI算力平台。费城半导体指数涨1.98%。纳斯达克中国金龙指数涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20260609213038011800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "马斯克展示AI数据中心卫星的更多细节 剑指太空算力网络",
@@ -982,6 +1083,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "赛豆AI汽车AIVA亮相",
+          "url": "https://www.toutiao.com/trending/7649173735878443049/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "从严整治利用AI制作发布涉军虚假信息，典型案例公布。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3116416",
           "source": "华尔街见闻-快讯",
@@ -996,7 +1108,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金价下跌后郑州金店被挤爆",
@@ -1089,7 +1201,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1147,6 +1259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "金价跌成这样你还敢买吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E6%88%90%E8%BF%99%E6%A0%B7%E4%BD%A0%E8%BF%98%E6%95%A2%E4%B9%B0%E5%90%97%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         }
       ]
     },
