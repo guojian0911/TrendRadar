@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T07:29:57.633365+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-06-10T08:44:25.506355+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 08时44分]"
         },
         {
           "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
@@ -69,6 +69,17 @@
           "time_info": "[00时55分 ~ 06时32分]"
         },
         {
+          "title": "苹果发布 Siri AI 等 AI 功能，市值一夜蒸发超 5700 亿元，为何投资者反应平平？",
+          "url": "https://www.zhihu.com/question/2047616042067834810",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 08时44分]"
+        },
+        {
           "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
           "url": "https://www.zhihu.com/question/2046196309359646371",
           "source": "知乎",
@@ -79,17 +90,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 03时43分]"
-        },
-        {
-          "title": "苹果发布 Siri AI 等 AI 功能，市值一夜蒸发超 5700 亿元，为何投资者反应平平？",
-          "url": "https://www.zhihu.com/question/2047616042067834810",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
         },
         {
           "title": "谷歌英伟达",
@@ -107,6 +107,19 @@
           "time_info": "[02时45分 ~ 07时29分]"
         },
         {
+          "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
+          "url": "https://wallstreetcn.com/articles/3774243",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时32分 ~ 08时44分]"
+        },
+        {
           "title": "谷歌(GOOG.O)Gemini：推出智能体风险监控功能。",
           "url": "https://flash.jin10.com/detail/20260610020905007800",
           "source": "金十数据",
@@ -117,18 +130,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时43分]"
-        },
-        {
-          "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
-          "url": "https://wallstreetcn.com/articles/3774243",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时29分]"
         },
         {
           "title": "紧跟福特步伐！通用汽车高调杀入数据中心储能赛道，携手Peak Energy抢占AI电力红利",
@@ -201,6 +202,28 @@
           "time_info": "05时35分"
         },
         {
+          "title": "国产AI芯片企业",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BA%A7AI%E8%8A%AF%E7%89%87%E4%BC%81%E4%B8%9A&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
+          "title": "中国软件国际：签订人民币10亿元高端AI算力设备销售协议",
+          "url": "https://flash.jin10.com/detail/20260610081216461800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
           "title": "针对美国AI标准与创新中心，白宫要求Caisi停止披露公共报告。 Caisi被要求暂停披露关于AI模型评估的信息。 这反映白宫正加强对人工智能模型的管控。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3117045",
           "source": "华尔街见闻-快讯",
@@ -229,9 +252,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "2026 年高考志愿填报，孩子应该选择电气、能动、机械、医学、计算机、还是火爆的人工智能？",
+          "url": "https://www.zhihu.com/question/2045653689407477325",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
         },
         {
           "title": "谷歌(GOOG.O)为Anthropic350亿美元芯片交易提供兜底支持。在谷歌的协助下，Anthropic将在5个数据中心租赁芯片。",
@@ -273,7 +307,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -314,8 +348,19 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "如何评价 Anthropic 发布的 Claude Fable 5？",
+          "url": "https://www.zhihu.com/question/2047851398734394746",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
         {
           "title": "微软(MSFT.O)：Anthropic最新的前沿模型Claude Fable 5现已登陆Microsoft Foundry。",
           "url": "https://flash.jin10.com/detail/20260610012005660800",
@@ -424,6 +469,17 @@
           "time_info": "02时45分"
         },
         {
+          "title": "知名科技记者爆料：Anthropic明天将发布“公开版本Mythos”",
+          "url": "https://wallstreetcn.com/articles/3774197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
           "title": "Anthropic：发布Claude Fable 5，这是一个Mythos级别的模型，但已调整为适合大众安全使用版本。",
           "url": "https://flash.jin10.com/detail/20260610010220834800",
           "source": "金十数据",
@@ -435,13 +491,24 @@
           "time_info": "01时43分"
         },
         {
+          "title": "金价大跌女子狂卖2斤金条",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%A5%B3%E5%AD%90%E7%8B%82%E5%8D%962%E6%96%A4%E9%87%91%E6%9D%A1%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
           "title": "金价调整导致相关ETF规模缩水，业内人士：黄金结构性支撑力量仍存",
           "url": "https://wallstreetcn.com/livenews/3117058",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
