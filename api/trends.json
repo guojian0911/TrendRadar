@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T21:09:39.527580+08:00",
-  "total_titles_processed": 1725,
+  "generated_at": "2026-06-10T23:06:03.015307+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 52,
+      "match_count": 59,
       "titles": [
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -102,11 +102,51 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 23时06分]"
+        },
+        {
+          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
+          "url": "https://www.cls.cn/detail/2396287",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时14分 ~ 21时09分]"
+          "time_info": "[21时09分 ~ 23时06分]"
+        },
+        {
+          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
+          "url": "https://www.cls.cn/detail/2396017",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 23时06分]"
+        },
+        {
+          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
+          "url": "https://wallstreetcn.com/articles/3774282",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时28分 ~ 23时06分]"
         },
         {
           "title": "用AI复原孔子与苏格拉底教育之辩",
@@ -169,15 +209,15 @@
           "time_info": "[00时55分 ~ 03时43分]"
         },
         {
-          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
-          "url": "https://www.cls.cn/detail/2396287",
-          "source": "财联社热门",
+          "title": "美国2026届大学毕业生强烈不满AI，微软回应称人类不会被取代",
+          "url": "https://wallstreetcn.com/livenews/3117585",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时09分"
+          "time_info": "23时06分"
         },
         {
           "title": "谷歌英伟达",
@@ -195,18 +235,6 @@
           "time_info": "[02时45分 ~ 07时29分]"
         },
         {
-          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
-          "url": "https://www.cls.cn/detail/2396017",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 21时09分]"
-        },
-        {
           "title": "谷歌(GOOG.O)Gemini：推出智能体风险监控功能。",
           "url": "https://flash.jin10.com/detail/20260610020905007800",
           "source": "金十数据",
@@ -217,19 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时43分]"
-        },
-        {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 21时09分]"
         },
         {
           "title": "Siri AI将如何改变苹果",
@@ -330,6 +345,17 @@
           "time_info": "[19时16分 ~ 21时09分]"
         },
         {
+          "title": "于娜看到已故老公AI形象崩溃大哭",
+          "url": "https://www.toutiao.com/trending/7649760127175904777/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
+        },
+        {
           "title": "AI热潮催生“芯”需求！三星考虑新建先进芯片封装厂",
           "url": "https://www.cls.cn/detail/2395630",
           "source": "财联社热门",
@@ -366,6 +392,17 @@
           "time_info": "[00时55分 ~ 01时43分]"
         },
         {
+          "title": "专家：AI淘汰的不是人而是重复性工作",
+          "url": "https://www.toutiao.com/trending/7649726725886053894/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
+        },
+        {
           "title": "分析｜受AI产业热潮、价格因素等推动，5月进出口双双高增",
           "url": "https://m.thepaper.cn/newsDetail_forward_33344044",
           "source": "澎湃新闻",
@@ -376,6 +413,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时16分 ~ 21时09分]"
+        },
+        {
+          "title": "Deepseek-Reasonix 与 OpenCode 相比，在性能上有哪些差异？",
+          "url": "https://www.zhihu.com/question/2043657493826492339",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
+        },
+        {
+          "title": "于娜看到已故丈夫AI形象崩溃大哭",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
         },
         {
           "title": "市场消息：白宫人工智能政策顾问托马斯·林德（Thomas Lind）即将离职。",
@@ -395,7 +454,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -538,7 +597,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -598,6 +657,17 @@
           "time_info": "19时16分"
         },
         {
+          "title": "中东战火引发二次通胀，南非央行暗示年内将再度加息，并警告前沿AI模型威胁金融安全",
+          "url": "https://wallstreetcn.com/livenews/3117558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "欧盟勒令Meta暂停针对AI竞争对手们限制WhatsApp。 要求该公司在五个工作日内做到合规。",
           "url": "https://wallstreetcn.com/livenews/3116930",
           "source": "华尔街见闻-快讯",
@@ -618,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "Meta达成印度AI数据中心交易，超大规模云厂商持续加码基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3117555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         }
       ]
     },
@@ -625,6 +706,19 @@
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
       "match_count": 27,
       "titles": [
+        {
+          "title": "IPO前“秀肌肉”：Anthropic推出最强公开模型Fable 5，戴安全枷锁解封Mythos级能力",
+          "url": "https://wallstreetcn.com/articles/3774258",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 23时06分]"
+        },
         {
           "title": "如何评价 Anthropic 发布的 Claude Fable 5？",
           "url": "https://www.zhihu.com/question/2047851398734394746",
@@ -636,19 +730,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时44分 ~ 11时07分]"
-        },
-        {
-          "title": "IPO前“秀肌肉”：Anthropic推出最强公开模型Fable 5，戴安全枷锁解封Mythos级能力",
-          "url": "https://wallstreetcn.com/articles/3774258",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时44分 ~ 21时09分]"
         },
         {
           "title": "香港恒生指数跌1.1%，恒生科技指数跌1.5%。智谱跌超7%，蔚来、联想集团跌超6%。",
