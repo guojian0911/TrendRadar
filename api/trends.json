@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T13:35:44.950429+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-06-11T15:41:18.675760+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时06分 ~ 13时35分]"
+          "appearance_count": 14,
+          "time_info": "[01时06分 ~ 15时41分]"
         },
         {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
@@ -94,11 +94,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 13时35分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 15时41分]"
         },
         {
           "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI客户的Codex进行合作。",
@@ -204,6 +205,18 @@
           "time_info": "[01时06分 ~ 06时37分]"
         },
         {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 15时41分]"
+        },
+        {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
           "url": "https://wallstreetcn.com/livenews/3117653",
           "source": "华尔街见闻-快讯",
@@ -237,6 +250,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 03时49分]"
+        },
+        {
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 15时41分]"
         },
         {
           "title": "为什么感觉 AI Coding 剥夺了我写代码的乐趣？",
@@ -295,15 +319,15 @@
           "time_info": "01时06分"
         },
         {
-          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
-          "url": "https://www.cls.cn/detail/2396831",
-          "source": "财联社热门",
+          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
+          "url": "https://wallstreetcn.com/articles/3774376",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时35分"
+          "time_info": "15时41分"
         },
         {
           "title": "凯雷集团CFO：我们需要招聘初级员工，人工智能无法完成所有工作。",
@@ -372,15 +396,15 @@
           "time_info": "07时33分"
         },
         {
-          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
-          "source": "澎湃新闻",
+          "title": "考生还没出分AI已经开始抢人了",
+          "url": "https://www.toutiao.com/trending/7650032130369523254/",
+          "source": "今日头条",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时35分"
+          "time_info": "15时41分"
         },
         {
           "title": "特朗普称将与AI公司高管讨论回馈公众",
@@ -392,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "追觅Eclix俞雷：即将推出一款没有APP的AI手机",
+          "url": "https://wallstreetcn.com/livenews/3117981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "谷歌发言人：公司致力于与加拿大政府合作，建立所有平台的更高安全标准。",
@@ -455,7 +490,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -485,7 +520,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "花旗：金价可能跌到3500美元",
@@ -539,6 +574,17 @@
           "time_info": "[06时37分 ~ 07时33分]"
         },
         {
+          "title": "金价跌破4100美元",
+          "url": "https://www.douyin.com/hot/2530456",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 15时41分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -562,17 +608,6 @@
           "time_info": "11时08分"
         },
         {
-          "title": "金价跌破4100美元",
-          "url": "https://www.douyin.com/hot/2530456",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
           "title": "IPO前“秀肌肉”：Anthropic推出最强公开模型Fable 5，戴安全枷锁解封Mythos级能力",
           "url": "https://wallstreetcn.com/articles/3774258",
           "source": "华尔街见闻",
@@ -593,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "Claude Fable 5首发实测",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Fable%205%E9%A6%96%E5%8F%91%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "Anthropic CEO：政府应有权阻止新模型部署",
