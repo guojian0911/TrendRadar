@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T19:32:32.635724+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-06-11T21:18:04.317902+08:00",
+  "total_titles_processed": 1791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时06分 ~ 19时32分]"
+          "appearance_count": 18,
+          "time_info": "[01时06分 ~ 21时18分]"
         },
         {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
@@ -101,8 +101,22 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 21时18分]"
+        },
+        {
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时51分 ~ 19时32分]"
+          "time_info": "[13时35分 ~ 21时18分]"
         },
         {
           "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI客户的Codex进行合作。",
@@ -182,6 +196,17 @@
           "time_info": "17时29分"
         },
         {
+          "title": "据报道，谷歌正在与三星洽谈，以共同开发TPU组件。",
+          "url": "https://wallstreetcn.com/livenews/3118215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "小米MiMo：MiMo Code V0.1现已正式发布并开源，内置MiMo V2.5多模态模型，限时免费开放使用，具备100万Token上下文窗口。",
           "url": "https://flash.jin10.com/detail/20260611021819225800",
           "source": "金十数据",
@@ -202,6 +227,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
+          "url": "https://www.cls.cn/detail/2397230",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 21时18分]"
+        },
+        {
+          "title": "IBM与ServiceNow扩大合作协议，以释放企业数据用于AI。",
+          "url": "https://wallstreetcn.com/livenews/3118213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
+          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
+          "url": "https://wallstreetcn.com/articles/3774376",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 21时18分]"
         },
         {
           "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
@@ -229,17 +290,30 @@
           "time_info": "[09时51分 ~ 11时08分]"
         },
         {
-          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
-          "source": "澎湃新闻",
+          "title": "AI大神做漫剧真有一套",
+          "url": "https://www.douyin.com/hot/2530023",
+          "source": "抖音",
           "ranks": [
-            15,
-            13,
-            9
+            24,
+            12,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时35分 ~ 19时32分]"
+          "time_info": "[13时35分 ~ 21时18分]"
+        },
+        {
+          "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 21时18分]"
         },
         {
           "title": "夏奇拉邀请你来跳Dai Dai",
@@ -256,28 +330,16 @@
           "time_info": "[01时06分 ~ 06时37分]"
         },
         {
-          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
-          "url": "https://wallstreetcn.com/articles/3774376",
-          "source": "华尔街见闻",
+          "title": "DeepSeek为何发力Agent",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8
+            19,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时41分 ~ 19时32分]"
-        },
-        {
-          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
-          "url": "https://www.cls.cn/detail/2397230",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 19时32分]"
+          "time_info": "[19时32分 ~ 21时18分]"
         },
         {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
@@ -292,16 +354,15 @@
           "time_info": "[02时53分 ~ 03时49分]"
         },
         {
-          "title": "AI大神做漫剧真有一套",
-          "url": "https://www.douyin.com/hot/2530023",
-          "source": "抖音",
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
           "ranks": [
-            24,
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时35分 ~ 19时32分]"
+          "time_info": "[21时17分 ~ 21时18分]"
         },
         {
           "title": "没有物理AI业务且与2026年世界杯不存在业务合作关系！四连板AI应用概念股发布异动公告|盘后公告集锦",
@@ -327,18 +388,6 @@
           "time_info": "[02时53分 ~ 03时49分]"
         },
         {
-          "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 19时32分]"
-        },
-        {
           "title": "为什么感觉 AI Coding 剥夺了我写代码的乐趣？",
           "url": "https://www.zhihu.com/question/2036188909328143670",
           "source": "知乎",
@@ -349,6 +398,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 11时08分]"
+        },
+        {
+          "title": "模拟20000次用AI预测世界杯冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A8%A1%E6%8B%9F20000%E6%AC%A1%E7%94%A8AI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
         },
         {
           "title": "创业板指跌超1%，此前一度涨超1.4%，物理AI、影视传媒、游戏、体育等板块跌幅居前，沪深京三市下跌个股超4500家。",
@@ -401,9 +461,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "据The Information：谷歌正与三星洽谈，拟采用三星2nm工艺制造部分下一代TPU。",
+          "url": "https://flash.jin10.com/detail/20260611210332755800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "凯雷集团CFO：我们需要招聘初级员工，人工智能无法完成所有工作。",
@@ -415,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "据The Information：由于产能紧张，谷歌转向三星寻求未来的人工智能芯片供应。",
+          "url": "https://flash.jin10.com/detail/20260611210252531800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "Anthropic的CEO：政府应当有权封杀、阻断高风险新AI模型的部署",
@@ -434,7 +516,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -511,7 +593,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -569,17 +651,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "DeepSeek为何发力Agent",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
         },
         {
           "title": "北证50指数跌超3%，创业板指冲高回落翻绿，沪指、深成指均跌超0.4%，影视传媒、物理AI、旅游、机器人等板块跌幅居前，沪深京三市下跌个股超4300只。",
@@ -640,7 +711,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "花旗：金价可能跌到3500美元",
@@ -658,6 +729,28 @@
           "time_info": "[02时53分 ~ 07时33分]"
         },
         {
+          "title": "金价跌破4100美元",
+          "url": "https://www.douyin.com/hot/2530456",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时35分 ~ 21时18分]"
+        },
+        {
+          "title": "金价为何走低",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E8%B5%B0%E4%BD%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
+        },
+        {
           "title": "小米推出MiMo Code，首次进入Coding Agent领域",
           "url": "https://wallstreetcn.com/livenews/3117879",
           "source": "华尔街见闻-快讯",
@@ -667,17 +760,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
-        },
-        {
-          "title": "金价跌破4100美元",
-          "url": "https://www.douyin.com/hot/2530456",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时35分 ~ 19时32分]"
         },
         {
           "title": "金价抹去今年全部涨幅",
@@ -705,6 +787,17 @@
           "time_info": "[06时37分 ~ 07时33分]"
         },
         {
+          "title": "金价反弹拐点何时到来",
+          "url": "https://www.toutiao.com/trending/7650096865626557971/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -715,6 +808,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时44分 ~ 09时51分]"
+        },
+        {
+          "title": "金价跌了生意却没疯涨时好",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E7%94%9F%E6%84%8F%E5%8D%B4%E6%B2%A1%E7%96%AF%E6%B6%A8%E6%97%B6%E5%A5%BD%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
         },
         {
           "title": "金十图示：2026年06月11日（周四）上海金早盘价为892.83元/克，较国际金价(887.35元/克)，高5.48元/克",
@@ -792,6 +896,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金期货价格较近期高点下跌 20%，四年来首次正式迈入熊市，黄金到底为什么崩了？",
+          "url": "https://www.zhihu.com/question/2048414803740160205",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 21时18分]"
         }
       ]
     }
