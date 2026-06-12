@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T04:45:51.091989+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-06-13T05:35:07.327612+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 04时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 05时35分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 04时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 05时35分]"
         },
         {
           "title": "作家自曝用AI写作",
@@ -62,11 +62,24 @@
           "url": "https://www.douyin.com/hot/2531858",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时45分 ~ 05时35分]"
+        },
+        {
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
+          "source": "抖音",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 05时35分]"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
@@ -100,17 +113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
-        },
-        {
-          "title": "全抖音都在DaiDai",
-          "url": "https://www.douyin.com/hot/2531421",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
         }
       ]
     },
@@ -128,8 +130,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时40分 ~ 04时45分]"
+          "appearance_count": 6,
+          "time_info": "[02时40分 ~ 05时35分]"
         },
         {
           "title": "SpaceX在遭遇技术问题后将Colossus 1算力出租给Anthropic",
