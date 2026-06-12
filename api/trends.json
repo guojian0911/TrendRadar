@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T21:09:11.920737+08:00",
-  "total_titles_processed": 1770,
+  "generated_at": "2026-06-12T23:04:27.508036+08:00",
+  "total_titles_processed": 1904,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -152,11 +152,24 @@
           "ranks": [
             5,
             7,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时37分 ~ 21时09分]"
+          "appearance_count": 7,
+          "time_info": "[15时37分 ~ 23时04分]"
+        },
+        {
+          "title": "我们真的需要又一个 DeepSeek V5 吗？",
+          "url": "https://www.zhihu.com/question/2031303606524186735",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时37分 ~ 23时04分]"
         },
         {
           "title": "UP主做了个AI谢苗",
@@ -184,15 +197,18 @@
           "time_info": "17时24分"
         },
         {
-          "title": "我们真的需要又一个 DeepSeek V5 吗？",
-          "url": "https://www.zhihu.com/question/2031303606524186735",
-          "source": "知乎",
+          "title": "LKs AI和真人推歌大PK",
+          "url": "https://search.bilibili.com/all?keyword=LKs%20AI%E5%92%8C%E7%9C%9F%E4%BA%BA%E6%8E%A8%E6%AD%8C%E5%A4%A7PK",
+          "source": "bilibili 热搜",
           "ranks": [
-            11
+            4,
+            30,
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时37分 ~ 21时09分]"
+          "appearance_count": 5,
+          "time_info": "[13时35分 ~ 23时04分]"
         },
         {
           "title": "谷歌：将继续与AT&T、T-Mobile和Verizon合作，在诈骗短信到达用户之前予以拦截。",
@@ -204,6 +220,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "抖音AI创作大赛首个爆款出现",
+          "url": "https://www.douyin.com/hot/2532139",
+          "source": "抖音",
+          "ranks": [
+            19,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 23时04分]"
         },
         {
           "title": "我国成功研制出三维多层片上电容 可直接应用于AI/GPU芯片、高性能处理器等高端芯片",
@@ -226,19 +255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
-        },
-        {
-          "title": "LKs AI和真人推歌大PK",
-          "url": "https://search.bilibili.com/all?keyword=LKs%20AI%E5%92%8C%E7%9C%9F%E4%BA%BA%E6%8E%A8%E6%AD%8C%E5%A4%A7PK",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时35分 ~ 19时18分]"
         },
         {
           "title": "世界杯揭幕赛前记者实测多家 AI，多数倾向墨西哥胜，千问将红牌都预测中，如何评价 AI 在赛事预测中表现？",
@@ -303,27 +319,16 @@
           "time_info": "[09时49分 ~ 13时36分]"
         },
         {
-          "title": "抖音AI创作大赛首个爆款出现",
-          "url": "https://www.douyin.com/hot/2532139",
-          "source": "抖音",
-          "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时09分]"
-        },
-        {
           "title": "全抖音都在DaiDai",
           "url": "https://www.douyin.com/hot/2531421",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时09分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 23时04分]"
         },
         {
           "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
@@ -403,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "分析师：xAI对SpaceX的营收贡献在未来有望进一步提升",
+          "url": "https://flash.jin10.com/detail/20260612223800782800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "谷歌母公司Alphabet旗下无人驾驶部门Waymo面向出行请求频率最高的人员首发每个月30美元的订阅服务。",
@@ -493,6 +509,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "华为AI眼镜与小艺看世界联动",
+          "url": "https://www.toutiao.com/trending/7649393782219112511/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "港股大模型“双雄”走弱，MINIMAX-W(00100.HK)跌超7%；智谱(02513.HK)转跌，此前盘初涨超12%。",
           "url": "https://flash.jin10.com/detail/20260612104025340800",
           "source": "金十数据",
@@ -510,7 +537,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -521,7 +548,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -573,7 +600,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "智谱(02513.HK)涨超10%。",
@@ -626,11 +653,12 @@
           "url": "https://www.zhihu.com/question/2047588334327837644",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时09分]"
+          "appearance_count": 3,
+          "time_info": "[21时08分 ~ 23时04分]"
         },
         {
           "title": "金价跌了生意却没疯涨时好",
@@ -653,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "华为云与MiniMax最新模型M3完成适配",
+          "url": "https://wallstreetcn.com/livenews/3118960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "瑞银：仍对未来12个月金价持看涨观点，理由是未来降息预期、美元走弱以及各国央行持续购金。",
