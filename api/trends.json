@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T00:32:16.965650+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-14T01:32:10.969479+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -14,20 +14,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时32分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
           "url": "https://wallstreetcn.com/articles/3774577",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时32分]"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -37,8 +38,32 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时32分]"
+        },
+        {
+          "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
+          "url": "https://www.cls.cn/detail/2399104",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时32分]"
+        },
+        {
+          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
+          "url": "https://www.cls.cn/detail/2399065",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时32分]"
         },
         {
           "title": "这才是AI发展真正的意义",
@@ -52,32 +77,43 @@
           "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
-          "url": "https://www.cls.cn/detail/2399065",
-          "source": "财联社热门",
+          "title": "ARCRaiders国服首测PV",
+          "url": "https://search.bilibili.com/all?keyword=ARCRaiders%E5%9B%BD%E6%9C%8D%E9%A6%96%E6%B5%8BPV",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
         },
         {
-          "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
-          "url": "https://www.cls.cn/detail/2399104",
-          "source": "财联社热门",
+          "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
+          "url": "https://flash.jin10.com/detail/20260614004325694800",
+          "source": "金十数据",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时32分"
+        },
+        {
+          "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
+          "url": "https://flash.jin10.com/detail/20260614001329812800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
         }
       ]
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "上线仅四日就遭下架，Fable 5和Mythos 5被美政府列出口管制，Anthropic服从但不认同",
@@ -87,8 +123,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时32分]"
         },
         {
           "title": "如何评价智谱 6 月 13 日发布的 GLM5.2 模型？",
@@ -98,19 +134,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时32分]"
         },
         {
           "title": "如何评价 Claude Fable 5 全球暂停访问？",
           "url": "https://www.zhihu.com/question/2049072203191342205",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时32分]"
+        },
+        {
+          "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
+          "url": "https://flash.jin10.com/detail/20260614010232105800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
         },
         {
           "title": "最强模型遭美政府“闪电下线”，Anthropic：这个决定存在“严重误解”",
@@ -120,8 +168,19 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时32分]"
+        },
+        {
+          "title": "美国突然限用Claude 5说明了什么",
+          "url": "https://www.toutiao.com/trending/7650833215002775103/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "time_info": "[01时31分 ~ 01时32分]"
         }
       ]
     }
