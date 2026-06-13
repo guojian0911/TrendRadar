@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-13T20:37:02.882432+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-06-13T21:35:03.758654+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
       "match_count": 28,
       "titles": [
+        {
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 21时35分]"
+        },
         {
           "title": "抖音AI创作大赛首个爆款出现",
           "url": "https://www.douyin.com/hot/2532139",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 06时32分]"
-        },
-        {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时19分 ~ 20时37分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -135,6 +135,19 @@
           "time_info": "[08时45分 ~ 15时19分]"
         },
         {
+          "title": "ARCRaiders国服首测PV",
+          "url": "https://search.bilibili.com/all?keyword=ARCRaiders%E5%9B%BD%E6%9C%8D%E9%A6%96%E6%B5%8BPV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时37分 ~ 21时35分]"
+        },
+        {
           "title": "首尔禁止中小学生戴AI眼镜参加期末考试",
           "url": "https://flash.jin10.com/detail/20260613145419111800",
           "source": "金十数据",
@@ -174,6 +187,18 @@
           "time_info": "[08时45分 ~ 13时32分]"
         },
         {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 21时35分]"
+        },
+        {
           "title": "余承东带队盘古大模型喊话「只做第一」，当下盘古大模型在业内处于什么水平？距离行业第一还有多远？",
           "url": "https://www.zhihu.com/question/2048810661476579092",
           "source": "知乎",
@@ -198,16 +223,27 @@
           "time_info": "[01时01分 ~ 02时40分]"
         },
         {
-          "title": "ARCRaiders国服首测PV",
-          "url": "https://search.bilibili.com/all?keyword=ARCRaiders%E5%9B%BD%E6%9C%8D%E9%A6%96%E6%B5%8BPV",
-          "source": "bilibili 热搜",
+          "title": "太空AI算力泡沫有多大",
+          "url": "https://www.toutiao.com/trending/7650812029468413450/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            15
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 20时37分]"
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 21时35分]"
+        },
+        {
+          "title": "如何评价 HDC 官宣鸿蒙高校创新赛？国赛平台和零门槛 AI 开发，能为参赛大学生带来哪些价值？",
+          "url": "https://www.zhihu.com/question/2048803279166088696",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 21时35分]"
         },
         {
           "title": "全抖音都在DaiDai",
@@ -270,28 +306,6 @@
           "time_info": "[13时32分 ~ 15时19分]"
         },
         {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
-          "title": "太空AI算力泡沫有多大",
-          "url": "https://www.toutiao.com/trending/7650812029468413450/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
-        },
-        {
           "title": "Anthropic：美国政府发布出口管制指令，暂停所有外国国籍人士对人工智能模型FABLE 5和Mythos 5的访问。",
           "url": "https://flash.jin10.com/detail/20260613085422876800",
           "source": "金十数据",
@@ -302,17 +316,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时45分 ~ 11时07分]"
-        },
-        {
-          "title": "如何评价 HDC 官宣鸿蒙高校创新赛？国赛平台和零门槛 AI 开发，能为参赛大学生带来哪些价值？",
-          "url": "https://www.zhihu.com/question/2048803279166088696",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
@@ -362,7 +365,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "上线仅四日就遭下架，Fable 5和Mythos 5被美政府列出口管制，Anthropic服从但不认同",
@@ -374,8 +377,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时32分 ~ 20时37分]"
+          "appearance_count": 11,
+          "time_info": "[13时32分 ~ 21时35分]"
         },
         {
           "title": "如何评价 Claude Fable 5 全球暂停访问？",
@@ -386,8 +389,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时32分 ~ 20时37分]"
+          "appearance_count": 11,
+          "time_info": "[13时32分 ~ 21时35分]"
         },
         {
           "title": "金价回落女子一口气买入90克金手镯",
@@ -560,6 +563,17 @@
           "time_info": "[09时45分 ~ 11时07分]"
         },
         {
+          "title": "最强模型遭美政府“闪电下线”，Anthropic：这个决定存在“严重误解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33373715",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
+        },
+        {
           "title": "金价银价大涨了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E6%B6%A8%E4%BA%86%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -570,6 +584,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时32分 ~ 15时19分]"
+        },
+        {
+          "title": "Anthropic禁止非美用户使用模型",
+          "url": "https://s.weibo.com/weibo?q=Anthropic%E7%A6%81%E6%AD%A2%E9%9D%9E%E7%BE%8E%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%A8%A1%E5%9E%8B&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "智谱：GLM-5.2将面向GLM Coding Plan全量用户开放",
