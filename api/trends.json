@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T11:07:34.264540+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-06-13T13:32:43.012500+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -68,11 +68,12 @@
           "ranks": [
             2,
             7,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 11时07分]"
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 13时32分]"
         },
         {
           "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
@@ -81,22 +82,12 @@
           "ranks": [
             4,
             9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 11时07分]"
-        },
-        {
-          "title": "我们真的需要又一个 DeepSeek V5 吗？",
-          "url": "https://www.zhihu.com/question/2031303606524186735",
-          "source": "知乎",
-          "ranks": [
-            11
+            12,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时40分]"
+          "time_info": "[08时45分 ~ 13时32分]"
         },
         {
           "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
@@ -105,11 +96,12 @@
           "ranks": [
             6,
             11,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 11时07分]"
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 13时32分]"
         },
         {
           "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
@@ -121,8 +113,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 11时07分]"
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 13时32分]"
+        },
+        {
+          "title": "我们真的需要又一个 DeepSeek V5 吗？",
+          "url": "https://www.zhihu.com/question/2031303606524186735",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时40分]"
         },
         {
           "title": "全抖音都在DaiDai",
@@ -173,6 +176,39 @@
           "time_info": "[09时45分 ~ 11时07分]"
         },
         {
+          "title": "九鹭非香把七时吉祥重新做成AI剧了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E9%B9%AD%E9%9D%9E%E9%A6%99%E6%8A%8A%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E9%87%8D%E6%96%B0%E5%81%9A%E6%88%90AI%E5%89%A7%E4%BA%86&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850550&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/3SNELjbbk6Cqk3c21IZ34.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260613120108121800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "余承东带队盘古大模型喊话「只做第一」，当下盘古大模型在业内处于什么水平？距离行业第一还有多远？",
+          "url": "https://www.zhihu.com/question/2048810661476579092",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
           "url": "https://flash.jin10.com/detail/20260613025928526800",
           "source": "金十数据",
@@ -212,7 +248,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
         }
@@ -220,7 +256,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "金价回落女子一口气买入90克金手镯",
@@ -243,11 +279,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 11时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时32分]"
         },
         {
           "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
@@ -255,11 +292,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 11时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时32分]"
         },
         {
           "title": "美国禁止外国主体访问Fable 5和Mythos 5，Anthropic发长文驳斥",
@@ -267,11 +305,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 11时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时32分]"
         },
         {
           "title": "Anthropic称美国限制外国访问Fable 5和Mythos 5",
@@ -279,11 +318,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            8
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时32分]"
+        },
+        {
+          "title": "单线逻辑失效！为何这轮通胀没救起金价？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260613095629145800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时45分 ~ 11时07分]"
+          "time_info": "[11时07分 ~ 13时32分]"
         },
         {
           "title": "Anthropic：目前还没有测试人员能够找到一种通用的越狱方法。",
@@ -346,15 +398,26 @@
           "time_info": "[09时45分 ~ 11时07分]"
         },
         {
-          "title": "单线逻辑失效！为何这轮通胀没救起金价？｜大师复盘",
-          "url": "https://flash.jin10.com/detail/20260613095629145800",
-          "source": "金十数据",
+          "title": "上线仅四日就遭下架，Fable 5和Mythos 5被美政府列出口管制，Anthropic服从但不认同",
+          "url": "https://wallstreetcn.com/articles/3774567",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时07分"
+          "time_info": "13时32分"
+        },
+        {
+          "title": "如何评价 Claude Fable 5 全球暂停访问？",
+          "url": "https://www.zhihu.com/question/2049072203191342205",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "SpaceX在遭遇技术问题后将Colossus 1算力出租给Anthropic",
@@ -366,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "金价银价大涨了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E6%B6%A8%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     }
