@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T05:29:55.570909+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-06-15T06:27:11.075039+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
@@ -62,30 +62,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
           "url": "https://www.cls.cn/detail/2398996",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
           "url": "https://www.cls.cn/detail/2399104",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -124,8 +126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "Anthropic派技术人员赴华盛顿 力图化解白宫争端",
