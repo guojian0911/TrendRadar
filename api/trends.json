@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T15:57:23.965462+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-06-16T17:51:44.921010+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 28,
+      "match_count": 40,
       "titles": [
         {
           "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
@@ -147,6 +147,17 @@
           "time_info": "[00时01分 ~ 06时41分]"
         },
         {
+          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
+          "url": "https://www.cls.cn/detail/2401113",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "据The Information：高通(QCOM.O)正在洽谈收购Tenstorrent，以扩展其人工智能芯片能力。",
           "url": "https://flash.jin10.com/detail/20260616044220007800",
           "source": "金十数据",
@@ -205,6 +216,17 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
+          "title": "如果一门文科课程的作业可以用 AI 完成，这门课该不该取消？",
+          "url": "https://www.zhihu.com/question/2045831566538924509",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 17时51分]"
+        },
+        {
           "title": "机构全面看好AI赋能的锡稀土钨钼 稀土板块有望演绎估值业绩双升",
           "url": "https://www.cls.cn/detail/2400646",
           "source": "财联社热门",
@@ -214,6 +236,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时50分 ~ 13时51分]"
+        },
+        {
+          "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
+          "url": "https://www.zhihu.com/question/2042539496676352614",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 17时51分]"
         },
         {
           "title": "AI宝可梦 看到正版皮卡丘了",
@@ -227,6 +261,17 @@
           "time_info": "[08时50分 ~ 08时51分]"
         },
         {
+          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
+          "url": "https://www.cls.cn/detail/2401236",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "AI版支付宝“阿宝”正式推出",
           "url": "https://flash.jin10.com/detail/20260616105302162800",
           "source": "金十数据",
@@ -238,15 +283,70 @@
           "time_info": "11时09分"
         },
         {
-          "title": "如果一门文科课程的作业可以用 AI 完成，这门课该不该取消？",
-          "url": "https://www.zhihu.com/question/2045831566538924509",
-          "source": "知乎",
+          "title": "腾讯云 DeepSeek-V3.2 模型下线及切换升级",
+          "url": "https://wallstreetcn.com/livenews/3120209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "DeepSeek完成500亿融资",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%8C%E6%88%90500%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时57分"
+          "time_info": "17时51分"
+        },
+        {
+          "title": "五年来首次！英伟达加入“AI发债大军”……",
+          "url": "https://www.cls.cn/detail/2400703",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "DeepSeek完成超500亿元融资",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%8C%E6%88%90%E8%B6%85500%E4%BA%BF%E5%85%83%E8%9E%8D%E8%B5%84&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
+          "url": "https://www.cls.cn/detail/2401228",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
+          "url": "https://www.cls.cn/detail/2401117",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "谷歌宣布2026年及2027年在美国阿拉巴马州投资15亿美元。",
@@ -277,20 +377,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
         {
-          "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
-          "url": "https://www.zhihu.com/question/2042539496676352614",
-          "source": "知乎",
+          "title": "沃什欲押注AI生产率被严重低估，降息大门尚未完全关闭 | 每日市场观察06.16",
+          "url": "https://flash.jin10.com/detail/20260616172307514800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时57分"
+          "time_info": "17时51分"
         },
         {
           "title": "阿里发布首个具身大模型Qwen-Robot系列",
@@ -310,7 +410,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -324,6 +424,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "中国台湾金管会开放保险业投资AI策略性产业，并调高投资私募股权基金限额。",
+          "url": "https://wallstreetcn.com/livenews/3120192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "腾讯云 DeepSeek-V3.2 模型下线及切换升级",
+          "url": "https://flash.jin10.com/detail/20260616171649689800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
+          "url": "https://wallstreetcn.com/livenews/3120188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "6月16日午间收评：创业板指半日涨超2%，AI硬件股持续走强",
@@ -343,7 +476,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         }
@@ -402,6 +535,17 @@
           "time_info": "[06时41分 ~ 07时34分]"
         },
         {
+          "title": "金价年内有望冲5000美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B9%B4%E5%86%85%E6%9C%89%E6%9C%9B%E5%86%B25000%E7%BE%8E%E5%85%83%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 17时51分]"
+        },
+        {
           "title": "美国商务部长卢特尼克在致Anthropic的信中指出，最新的Mythos和Fable模型存在被转用于外国军事情报用户的风险。",
           "url": "https://flash.jin10.com/detail/20260616010609099800",
           "source": "金十数据",
@@ -441,7 +585,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -488,17 +632,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        },
-        {
-          "title": "金价年内有望冲5000美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B9%B4%E5%86%85%E6%9C%89%E6%9C%9B%E5%86%B25000%E7%BE%8E%E5%85%83%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
         }
       ]
     }
