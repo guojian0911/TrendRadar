@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T17:51:44.921010+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-06-16T19:47:58.877384+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
@@ -107,6 +107,18 @@
           "time_info": "[07时34分 ~ 13时51分]"
         },
         {
+          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
+          "url": "https://www.cls.cn/detail/2401113",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时47分]"
+        },
+        {
           "title": "如何评价月之暗面新发布并开源 Kimi K2.7 Code 编程大模型？",
           "url": "https://www.zhihu.com/question/2049041027298750565",
           "source": "知乎",
@@ -147,17 +159,6 @@
           "time_info": "[00时01分 ~ 06时41分]"
         },
         {
-          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
-          "url": "https://www.cls.cn/detail/2401113",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "据The Information：高通(QCOM.O)正在洽谈收购Tenstorrent，以扩展其人工智能芯片能力。",
           "url": "https://flash.jin10.com/detail/20260616044220007800",
           "source": "金十数据",
@@ -167,6 +168,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
+          "url": "https://www.cls.cn/detail/2401236",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时47分]"
         },
         {
           "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
@@ -193,6 +206,19 @@
           "time_info": "[13时50分 ~ 15时57分]"
         },
         {
+          "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
+          "url": "https://www.zhihu.com/question/2042539496676352614",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 19时47分]"
+        },
+        {
           "title": "谷歌加强在美国阿拉巴马州的存在，2026-27年将投资15亿美元。 这笔资金将完全用于自家数据中心的电力与基础设施成本。",
           "url": "https://wallstreetcn.com/livenews/3119817",
           "source": "华尔街见闻-快讯",
@@ -214,6 +240,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时02分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
+          "url": "https://www.cls.cn/detail/2401228",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时47分]"
+        },
+        {
+          "title": "DeepSeek完成500亿融资",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%8C%E6%88%90500%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时47分]"
+        },
+        {
+          "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
+          "url": "https://www.cls.cn/detail/2401117",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时47分]"
         },
         {
           "title": "如果一门文科课程的作业可以用 AI 完成，这门课该不该取消？",
@@ -238,18 +299,6 @@
           "time_info": "[13时50分 ~ 13时51分]"
         },
         {
-          "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
-          "url": "https://www.zhihu.com/question/2042539496676352614",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 17时51分]"
-        },
-        {
           "title": "AI宝可梦 看到正版皮卡丘了",
           "url": "https://s.weibo.com/weibo?q=AI%E5%AE%9D%E5%8F%AF%E6%A2%A6%20%E7%9C%8B%E5%88%B0%E6%AD%A3%E7%89%88%E7%9A%AE%E5%8D%A1%E4%B8%98%E4%BA%86&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -261,15 +310,15 @@
           "time_info": "[08时50分 ~ 08时51分]"
         },
         {
-          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
-          "url": "https://www.cls.cn/detail/2401236",
-          "source": "财联社热门",
+          "title": "昀冢科技：目前公司MLCC产品暂未应用于车规安全系统、AI算力服务器等",
+          "url": "https://wallstreetcn.com/livenews/3120277",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "19时47分"
         },
         {
           "title": "AI版支付宝“阿宝”正式推出",
@@ -289,18 +338,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "DeepSeek完成500亿融资",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%8C%E6%88%90500%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -311,7 +349,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -322,31 +360,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
         {
-          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
-          "url": "https://www.cls.cn/detail/2401228",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
-          "url": "https://www.cls.cn/detail/2401117",
+          "title": "【午报】创业板指震荡走高涨超2%，AI硬件持续爆发，MLCC、玻纤等细分领涨",
+          "url": "https://www.cls.cn/detail/2400951",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "19时47分"
         },
         {
           "title": "谷歌宣布2026年及2027年在美国阿拉巴马州投资15亿美元。",
@@ -371,6 +398,28 @@
           "time_info": "00时02分"
         },
         {
+          "title": "AI投硬币概率是多少",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%8A%95%E7%A1%AC%E5%B8%81%E6%A6%82%E7%8E%87%E6%98%AF%E5%A4%9A%E5%B0%91&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
+          "url": "https://wallstreetcn.com/livenews/3120263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "DeepSeek完成超500亿元融资",
           "url": "https://www.toutiao.com/trending/7651870742430092836/",
           "source": "今日头条",
@@ -388,7 +437,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -432,7 +481,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -443,7 +492,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -454,9 +503,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "抖音利用AI打击诈骗",
+          "url": "https://wallstreetcn.com/livenews/3120248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "6月16日午间收评：创业板指半日涨超2%，AI硬件股持续走强",
@@ -484,7 +544,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "GLM5.2 的 coding 性能有望超过 Opus4.7 吗？",
@@ -621,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "特朗普政府愿与Anthropic就管制规定磋商。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3120251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "金价大涨女子后悔880元没上车",
