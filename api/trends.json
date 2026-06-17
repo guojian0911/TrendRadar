@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T19:35:23.177917+08:00",
-  "total_titles_processed": 1600,
+  "generated_at": "2026-06-17T21:15:19.302245+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -75,6 +75,19 @@
           "time_info": "[01时43分 ~ 09时51分]"
         },
         {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 21时15分]"
+        },
+        {
           "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
           "url": "https://www.cls.cn/detail/2401317",
           "source": "财联社热门",
@@ -103,17 +116,19 @@
           "time_info": "[01时43分 ~ 08时46分]"
         },
         {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            9,
-            3
+            5,
+            1,
+            7,
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 19时35分]"
+          "appearance_count": 6,
+          "time_info": "[13时39分 ~ 21时15分]"
         },
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
@@ -127,20 +142,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时43分 ~ 07时32分]"
-        },
-        {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            1,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时39分 ~ 19时35分]"
         },
         {
           "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
@@ -262,6 +263,18 @@
           "time_info": "[08时45分 ~ 11时08分]"
         },
         {
+          "title": "微信支付宝打响AI支付战",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 21时15分]"
+        },
+        {
           "title": "英伟达时隔五年再发美元债，华尔街 AI 融资热再增 250 亿，巨头为何扎堆融资，透露出哪些信息？",
           "url": "https://www.zhihu.com/question/2050039889400435846",
           "source": "知乎",
@@ -286,18 +299,6 @@
           "time_info": "[01时43分 ~ 07时32分]"
         },
         {
-          "title": "微信支付宝打响AI支付战",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 19时35分]"
-        },
-        {
           "title": "英国首相在G7峰会兜售能源与AI项目获13亿英镑投资",
           "url": "https://wallstreetcn.com/livenews/3120511",
           "source": "华尔街见闻-快讯",
@@ -308,6 +309,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时32分]"
+        },
+        {
+          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2402436",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时15分]"
         },
         {
           "title": "曝微信正测试AI支付功能",
@@ -331,6 +344,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时49分 ~ 15时50分]"
+        },
+        {
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时15分]"
         },
         {
           "title": "HPE强化面向AI客户的网络设备，西门子能源加入合作",
@@ -434,15 +459,15 @@
           "time_info": "08时46分"
         },
         {
-          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
-          "url": "https://www.cls.cn/detail/2402436",
-          "source": "财联社热门",
+          "title": "摩根士丹利Gokul LAROIA：中国市场人工智能相关投资机遇巨大",
+          "url": "https://wallstreetcn.com/livenews/3121013",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时35分"
+          "time_info": "21时15分"
         },
         {
           "title": "德国总理默茨：认为七国集团峰会取得了“积极成果”。 七国集团关于地缘政治议题的联合声明取得成功。 七国集团成员国将通过制裁加大对俄罗斯的压力。 油价下跌是“好兆头”。 G7积极成果包括关键原材料、人工智能。",
@@ -451,7 +476,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -467,6 +492,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：欧盟与美国的金融体系相互交织；让欧盟公民和企业使用最先进的人工智能模型，符合双方的共同利益。",
+          "url": "https://flash.jin10.com/detail/20260617203320648800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "Kalshi因向谷歌、LinkedIn披露用户活动而被起诉。",
           "url": "https://wallstreetcn.com/livenews/3120501",
           "source": "华尔街见闻-快讯",
@@ -478,15 +514,15 @@
           "time_info": "06时39分"
         },
         {
-          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
-          "url": "https://www.zhihu.com/question/2050515273640423854",
-          "source": "知乎",
+          "title": "联想计划发行20亿美元零息可转债：资本市场重估AI与ISG增长潜力",
+          "url": "https://wallstreetcn.com/livenews/3120911",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时35分"
+          "time_info": "21时15分"
         },
         {
           "title": "谷歌：美国数字健康基金增至逾5000万美元。",
@@ -561,9 +597,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2050618204980863708",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "韩国央行：人工智能驱动的奖金激增可能会加剧更广泛的通胀。",
@@ -643,6 +690,17 @@
           "time_info": "11时08分"
         },
         {
+          "title": "工信部：深入实施“人工智能＋制造”专项行动 深入整治“内卷式”竞争",
+          "url": "https://wallstreetcn.com/livenews/3120981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "高盛交易员：中东局势缓和推动美股投资者关注AI以外板块",
           "url": "https://wallstreetcn.com/livenews/3120418",
           "source": "华尔街见闻-快讯",
@@ -676,11 +734,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 21时15分]"
         },
         {
           "title": "GLM-5.2 正式发布：开源之王来了，摸到了Opus-4.8",
@@ -691,8 +750,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 21时15分]"
         },
         {
           "title": "智谱新模型表现如何",
