@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T15:50:10.199966+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-06-17T17:38:32.913763+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时43分 ~ 15时50分]"
+          "appearance_count": 14,
+          "time_info": "[01时43分 ~ 17时38分]"
         },
         {
           "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
@@ -103,18 +103,6 @@
           "time_info": "[01时43分 ~ 08时46分]"
         },
         {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时39分 ~ 15时50分]"
-        },
-        {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
           "url": "https://www.toutiao.com/trending/7651979830128283145/",
           "source": "今日头条",
@@ -137,8 +125,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 15时50分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 17时38分]"
+        },
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 17时38分]"
         },
         {
           "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
@@ -175,6 +176,28 @@
           "time_info": "09时51分"
         },
         {
+          "title": "国务院：深入实施“人工智能+”行动，强化人工智能的就业创造效应",
+          "url": "https://wallstreetcn.com/livenews/3120894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "AI支付",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%94%AF%E4%BB%98&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
           "url": "https://www.cls.cn/detail/2401117",
           "source": "财联社热门",
@@ -185,6 +208,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时43分 ~ 06时39分]"
+        },
+        {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 17时38分]"
         },
         {
           "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
@@ -210,19 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时46分 ~ 09时51分]"
-        },
-        {
-          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
-          "url": "https://www.zhihu.com/question/2050271442697188542",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 15时50分]"
         },
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
@@ -332,6 +355,17 @@
           "time_info": "11时08分"
         },
         {
+          "title": "人工智能拉动铜价飙升 10日元硬币金属价值已超过面值",
+          "url": "https://flash.jin10.com/detail/20260617173053528800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "XREAL联手谷歌发布空间计算眼镜，深度集成Gemini",
           "url": "https://wallstreetcn.com/livenews/3120751",
           "source": "华尔街见闻-快讯",
@@ -349,7 +383,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -365,6 +399,17 @@
           "time_info": "06时39分"
         },
         {
+          "title": "针对英国监管机构关于搜索业务的新规，谷歌(GOOG.O)表示将与英国竞争与市场管理局（CMA）开展建设性合作，以确保“能够为用户维持高质量的搜索体验”。",
+          "url": "https://flash.jin10.com/detail/20260617173014863800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3120568",
           "source": "华尔街见闻-快讯",
@@ -374,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        },
+        {
+          "title": "微信支付宝打响AI支付战",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "谷歌：Wear OS 7今日起向符合条件的Pixel Watch设备推送，为全天候日常使用提供可靠的平台支持。",
@@ -442,13 +498,24 @@
           "time_info": "08时46分"
         },
         {
+          "title": "上交所邱勇：落实好新发布的人工智能领域配套规则 推动更多创新示范案例落地",
+          "url": "https://wallstreetcn.com/livenews/3120875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "新加坡电子产品出口创历史最高增速 得益于人工智能相关需求旺盛",
           "url": "https://wallstreetcn.com/livenews/3120806",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -555,7 +622,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "智谱新模型表现如何",
@@ -578,6 +645,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "当Fable 5全球下架，GLM 5.2逼近Opus 4.8“意义重大”",
+          "url": "https://wallstreetcn.com/articles/3774855",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "GLM-5.2 正式发布：开源之王来了，摸到了Opus-4.8",
+          "url": "https://wallstreetcn.com/articles/3774851",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "恒指高开0.01%，报24495.85点；恒生科技指数跌0.47%。阿里巴巴涨逾1%，MINIMAX、华虹宏力、地平线机器人跌逾2%。",
@@ -608,7 +697,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -619,7 +708,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         }
