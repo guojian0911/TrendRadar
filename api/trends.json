@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T15:41:26.811648+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-06-18T17:32:10.824603+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 47,
+      "match_count": 55,
       "titles": [
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
@@ -15,21 +15,6 @@
             6,
             5,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 08时49分]"
-        },
-        {
-          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2050618204980863708",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            4,
-            7,
-            15
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -47,11 +32,27 @@
             8,
             7,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时43分 ~ 15时41分]"
+          "appearance_count": 13,
+          "time_info": "[03时43分 ~ 17时32分]"
+        },
+        {
+          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2050618204980863708",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            4,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 08时49分]"
         },
         {
           "title": "中国正加紧筹建世界人工智能合作组织",
@@ -93,6 +94,20 @@
           "time_info": "[01时02分 ~ 07时33分]"
         },
         {
+          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
+          "url": "https://www.zhihu.com/question/2050272536898835791",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 17时32分]"
+        },
+        {
           "title": "00后股民全仓AI股2个月赚30万",
           "url": "https://www.toutiao.com/trending/7651658373838274602/",
           "source": "今日头条",
@@ -102,6 +117,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时36分 ~ 13时37分]"
+        },
+        {
+          "title": "Faker拍谷歌广告血赚7个亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 17时32分]"
         },
         {
           "title": "据AXIOS网站：OpenAI创始人奥尔特曼与谷歌旗下Deepmind首席执行官哈萨比斯出席了人工智能会议。",
@@ -148,7 +176,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -164,6 +192,17 @@
           "time_info": "08时49分"
         },
         {
+          "title": "小米正式发布“全屋智能AI开源方案”Xiaomi Miloco 2.0",
+          "url": "https://wallstreetcn.com/livenews/3121595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "据AXIOS网站：美国总统特朗普与人工智能企业首席执行官在七国集团会议上讨论全球人工智能规则。",
           "url": "https://flash.jin10.com/detail/20260618005222154800",
           "source": "金十数据",
@@ -175,30 +214,16 @@
           "time_info": "01时03分"
         },
         {
-          "title": "Faker拍谷歌广告血赚7个亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
-          "source": "贴吧",
+          "title": "黄金和AI：谁在见顶？",
+          "url": "https://wallstreetcn.com/articles/3774914",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
+            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 15时41分]"
-        },
-        {
-          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
-          "url": "https://www.zhihu.com/question/2050272536898835791",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时52分 ~ 15时41分]"
+          "time_info": "[13时36分 ~ 17时32分]"
         },
         {
           "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
@@ -238,6 +263,19 @@
           "time_info": "[01时02分 ~ 03时43分]"
         },
         {
+          "title": "端午和周星驰拍上AI食神大片了",
+          "url": "https://www.douyin.com/hot/2538982",
+          "source": "抖音",
+          "ranks": [
+            28,
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 17时32分]"
+        },
+        {
           "title": "科创板第五套标准扩围至大模型企业，智谱、MiniMax“回A”有望提速",
           "url": "https://wallstreetcn.com/livenews/3121281",
           "source": "华尔街见闻-快讯",
@@ -263,30 +301,6 @@
           "time_info": "[09时52分 ~ 13时37分]"
         },
         {
-          "title": "黄金和AI：谁在见顶？",
-          "url": "https://wallstreetcn.com/articles/3774914",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 15时41分]"
-        },
-        {
-          "title": "端午和周星驰拍上AI食神大片了",
-          "url": "https://www.douyin.com/hot/2538982",
-          "source": "抖音",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 15时41分]"
-        },
-        {
           "title": "谷歌AI研究员Noam Shazeer加入OpenAI。（Information）",
           "url": "https://wallstreetcn.com/livenews/3121316",
           "source": "华尔街见闻-快讯",
@@ -297,6 +311,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时49分 ~ 09时52分]"
+        },
+        {
+          "title": "AI内存极限再创突破！SK海力士宣布交付12层HBM4E样品",
+          "url": "https://www.cls.cn/detail/2403255",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "用AI打开端午的一百种方式",
+          "url": "https://www.douyin.com/hot/2539388",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
+          "url": "https://www.cls.cn/detail/2403573",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "吴倩 我是全中国最会使AI的女演员",
@@ -387,6 +434,17 @@
           "time_info": "08时49分"
         },
         {
+          "title": "OpenAI将与Dentsu等公司合作，在日本开展ChatGPT广告业务。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3121588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "谁是最笨的AI",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%98%AF%E6%9C%80%E7%AC%A8%E7%9A%84AI&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -431,6 +489,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "阿里巴巴集团：阿里云计划在2026年下半年在马来西亚和欧洲市场推出一系列智能AI服务。",
+          "url": "https://flash.jin10.com/detail/20260618170737641800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "下半年投资亮点纷呈，公募策略会看好AI投资范式生变",
           "url": "https://wallstreetcn.com/livenews/3121289",
           "source": "华尔街见闻-快讯",
@@ -464,6 +533,17 @@
           "time_info": "11时08分"
         },
         {
+          "title": "市场消息：阿里云通过在法国、日本、马来西亚和墨西哥新建数据中心，扩展其全球人工智能基础设施。",
+          "url": "https://flash.jin10.com/detail/20260618170654643800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "美联储主席沃什：美联储无法对特定价格产生显著影响。 美联储的工作是，确保不会出现第二轮价格效应。 对第二轮通胀效应有一系列的看法。 FOMC今天讨论了生产力，提到了人工智能（AI）。",
           "url": "https://wallstreetcn.com/livenews/3121214",
           "source": "华尔街见闻-快讯",
@@ -481,9 +561,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "商务部：会同相关部门落实落细各项政策举措，持续推动人工智能与消费深度融合",
+          "url": "https://wallstreetcn.com/livenews/3121577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "谷歌：我们认为欧盟的《云与人工智能发展法案》的某些条款应进行修改，以避免造成非预期的市场隔离。",
@@ -492,7 +583,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -514,7 +605,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -644,7 +735,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
