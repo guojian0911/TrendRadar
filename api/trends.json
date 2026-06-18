@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T21:09:12.589638+08:00",
-  "total_titles_processed": 1769,
+  "generated_at": "2026-06-18T23:10:10.383516+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 68,
+      "match_count": 71,
       "titles": [
         {
           "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
@@ -41,6 +41,20 @@
           "time_info": "[01时02分 ~ 08时49分]"
         },
         {
+          "title": "Faker拍谷歌广告血赚7个亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时36分 ~ 23时10分]"
+        },
+        {
           "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
           "url": "https://www.zhihu.com/question/2050618204980863708",
           "source": "知乎",
@@ -65,11 +79,25 @@
             8,
             6,
             4,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时52分 ~ 21时09分]"
+          "appearance_count": 12,
+          "time_info": "[09时52分 ~ 23时10分]"
+        },
+        {
+          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
+          "url": "https://www.cls.cn/detail/2403573",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 23时10分]"
         },
         {
           "title": "中国正加紧筹建世界人工智能合作组织",
@@ -83,20 +111,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时02分 ~ 11时08分]"
-        },
-        {
-          "title": "Faker拍谷歌广告血赚7个亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时36分 ~ 21时09分]"
         },
         {
           "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
@@ -125,17 +139,15 @@
           "time_info": "[01时02分 ~ 07时33分]"
         },
         {
-          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
-          "url": "https://www.cls.cn/detail/2403573",
-          "source": "财联社热门",
+          "title": "让AI走进千家万户",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            4,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 21时09分]"
+          "appearance_count": 4,
+          "time_info": "[21时08分 ~ 23时10分]"
         },
         {
           "title": "00后股民全仓AI股2个月赚30万",
@@ -147,17 +159,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时36分 ~ 13时37分]"
-        },
-        {
-          "title": "让AI走进千家万户",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "黄金和AI：谁在见顶？",
@@ -275,7 +276,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -341,6 +342,18 @@
           "time_info": "[06时35分 ~ 07时33分]"
         },
         {
+          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
+          "url": "https://www.cls.cn/detail/2403645",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时08分 ~ 23时10分]"
+        },
+        {
           "title": "吴清陆家嘴论坛讲话：扩大第五套标准适用范围至AI领域，支持港股公司境内上市",
           "url": "https://wallstreetcn.com/articles/3774870",
           "source": "华尔街见闻",
@@ -364,17 +377,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时31分 ~ 19时23分]"
-        },
-        {
-          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
-          "url": "https://www.cls.cn/detail/2403645",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "谷歌AI研究员Noam Shazeer加入OpenAI。（Information）",
@@ -453,6 +455,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 05时40分]"
+        },
+        {
+          "title": "AI贡献最大的一道题出现了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%B4%A1%E7%8C%AE%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E9%81%93%E9%A2%98%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "SK海力士开始供应下一代面向AI的存储器“HBM4E”12层堆叠样品",
@@ -626,7 +639,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -648,7 +661,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -675,13 +688,24 @@
           "time_info": "15时41分"
         },
         {
+          "title": "据AXIOS：美国佛蒙特州独立参议员伯尼·桑德斯公布了一项计划，提议美国政府持有大型人工智能公司50%的股权。",
+          "url": "https://flash.jin10.com/detail/20260618222802674800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "智谱等中国大模型何时赶上Fable水平？马斯克：或在2027年一季度",
           "url": "https://wallstreetcn.com/livenews/3121694",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -717,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        },
+        {
+          "title": "机构：美国极少使用AI的科技工作者面临三倍的裁员风险",
+          "url": "https://wallstreetcn.com/livenews/3121775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "A股AI语料板块短线拉升，昆仑万维涨超12%，国安股份封板涨停，天娱数科触及涨停，智度股份、天地在线、因赛集团、宣亚国际、思美传媒等跟涨。",
@@ -810,7 +845,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "当Fable 5全球下架，GLM 5.2逼近Opus 4.8“意义重大”",
@@ -847,6 +882,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时49分 ~ 02时50分]"
+        },
+        {
+          "title": "金价上下乱跳",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E4%B8%8B%E4%B9%B1%E8%B7%B3%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "港股开盘，恒指开跌0.69%，科指开跌0.88%；MINIMAX-W(00100.HK)涨超3.8%，泡泡玛特(09992.HK)跌超3.3%，网易(09999.HK)跌超2.8%。",
