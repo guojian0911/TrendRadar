@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-20T02:37:27.229196+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-06-20T03:34:38.692918+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
           "url": "https://www.cls.cn/detail/2404332",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时34分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时34分]"
         },
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
@@ -38,8 +39,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时34分]"
+        },
+        {
+          "title": "谷歌旗下Deepmind高级研究科学家John Jumper决定离开公司，加入Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260620030401727800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时34分"
         },
         {
           "title": "Faker拍谷歌广告血赚7个亿",
@@ -50,8 +62,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时34分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -61,19 +73,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时37分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时34分]"
         },
         {
           "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
           "url": "https://wallstreetcn.com/articles/3775053",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时34分]"
         },
         {
           "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
@@ -101,7 +114,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价 GLM-5.2？",
@@ -112,19 +125,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时37分]"
-        },
-        {
-          "title": "美国总统特朗普：不要将Anthropic视为国家安全威胁。",
-          "url": "https://flash.jin10.com/detail/20260620021254404800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时34分]"
         },
         {
           "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
@@ -134,8 +136,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时34分]"
         },
         {
           "title": "金价银价双双下跌",
@@ -147,8 +149,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 03时34分]"
+        },
+        {
+          "title": "美国总统特朗普：不要将Anthropic视为国家安全威胁。",
+          "url": "https://flash.jin10.com/detail/20260620021254404800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时34分]"
         },
         {
           "title": "金价陷入低迷",
@@ -160,6 +174,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 01时37分]"
+        },
+        {
+          "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
+          "url": "https://wallstreetcn.com/articles/3775075",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时34分"
         }
       ]
     }
