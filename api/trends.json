@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T22:47:15.229331+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2026-06-20T23:34:57.730052+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时49分 ~ 22时47分]"
+          "appearance_count": 26,
+          "time_info": "[00时49分 ~ 23时34分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时20分 ~ 22时47分]"
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 23时34分]"
         },
         {
           "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
@@ -73,6 +73,19 @@
           "time_info": "[04时32分 ~ 19时39分]"
         },
         {
+          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
+          "url": "https://wallstreetcn.com/articles/3775111",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时04分 ~ 23时34分]"
+        },
+        {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
           "url": "https://www.zhihu.com/question/2051267421386937558",
           "source": "知乎",
@@ -88,19 +101,6 @@
           "time_info": "[01时37分 ~ 09时43分]"
         },
         {
-          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
-          "url": "https://wallstreetcn.com/articles/3775111",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时04分 ~ 22时47分]"
-        },
-        {
           "title": "第一次见心眼这么多的AI",
           "url": "https://www.douyin.com/hot/2541043",
           "source": "抖音",
@@ -114,6 +114,18 @@
           "time_info": "[11时07分 ~ 17时05分]"
         },
         {
+          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
+          "url": "https://wallstreetcn.com/articles/3775113",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时49分 ~ 23时34分]"
+        },
+        {
           "title": "Faker拍谷歌广告血赚7个亿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
           "source": "贴吧",
@@ -124,18 +136,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 05时26分]"
-        },
-        {
-          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
-          "url": "https://wallstreetcn.com/articles/3775113",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时49分 ~ 22时47分]"
         },
         {
           "title": "美国电网扛不住AI热潮",
@@ -181,6 +181,19 @@
           "time_info": "[03时34分 ~ 07时24分]"
         },
         {
+          "title": "AI短剧“买脸” 每张脸500元一年",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时34分]"
+        },
+        {
           "title": "埃森哲股价暴跌18%创近十年新低，AI冲击与中东动荡双重施压",
           "url": "https://wallstreetcn.com/articles/3775063",
           "source": "华尔街见闻",
@@ -192,18 +205,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时21分 ~ 11时07分]"
-        },
-        {
-          "title": "AI短剧“买脸” 每张脸500元一年",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时47分]"
         },
         {
           "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
@@ -219,6 +220,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时21分 ~ 11时07分]"
+        },
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时36分 ~ 23时34分]"
         },
         {
           "title": "男子称高价挂专家号 医生竟悄悄问AI",
@@ -248,15 +260,16 @@
           "time_info": "[09时43分 ~ 15时20分]"
         },
         {
-          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
-          "url": "https://wallstreetcn.com/articles/3775105",
-          "source": "华尔街见闻",
+          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            20,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[20时36分 ~ 22时47分]"
+          "time_info": "[21时34分 ~ 23时34分]"
         },
         {
           "title": "腾讯客服：微信正在灰度测试 AI助手“小微”",
@@ -270,18 +283,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时05分 ~ 19时39分]"
-        },
-        {
-          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时47分]"
         },
         {
           "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
@@ -495,6 +496,21 @@
           "time_info": "[15时20分 ~ 17时05分]"
         },
         {
+          "title": "金价下跌买30克镯子差价有一万多",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            20,
+            19,
+            27,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时39分 ~ 23时34分]"
+        },
+        {
           "title": "诺贝尔获奖者江珀宣布离开DeepMind加入Anthropic",
           "url": "https://wallstreetcn.com/livenews/3122187",
           "source": "华尔街见闻-快讯",
@@ -522,20 +538,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时49分 ~ 07时24分]"
-        },
-        {
-          "title": "金价下跌买30克镯子差价有一万多",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            20,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时39分 ~ 22时47分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
@@ -577,6 +579,28 @@
           "time_info": "[02时37分 ~ 03时34分]"
         },
         {
+          "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时46分 ~ 23时34分]"
+        },
+        {
+          "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33418162",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时46分 ~ 23时34分]"
+        },
+        {
           "title": "金价这轮下跌何时到底",
           "url": "https://www.toutiao.com/trending/7653410213311024681/",
           "source": "今日头条",
@@ -587,28 +611,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时49分 ~ 19时39分]"
-        },
-        {
-          "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
-        },
-        {
-          "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33418162",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
         }
       ]
     }
