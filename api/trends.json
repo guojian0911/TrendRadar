@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T00:32:41.645649+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-21T01:32:25.133054+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时32分]"
         },
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时32分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时32分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -48,8 +48,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时32分]"
+        },
+        {
+          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时32分]"
+        },
+        {
+          "title": "AI短剧“买脸” 每张脸500元一年",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时32分]"
         },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
@@ -63,26 +87,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
-          "source": "澎湃新闻",
+          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
+          "url": "https://wallstreetcn.com/articles/3775114",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "AI短剧“买脸” 每张脸500元一年",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时32分"
         },
         {
           "title": "DeepSeek估值接近4000亿元",
@@ -109,19 +122,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时32分]"
         },
         {
           "title": "金价下跌买30克镯子差价有一万多",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时32分]"
         },
         {
           "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
@@ -131,8 +145,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时32分]"
         }
       ]
     }
