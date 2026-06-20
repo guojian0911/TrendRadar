@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T03:32:24.251290+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-06-21T04:29:57.890322+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
           "url": "https://wallstreetcn.com/articles/3775111",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -48,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
@@ -57,11 +58,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "AI短剧“买脸” 每张脸500元一年",
@@ -70,11 +72,12 @@
           "ranks": [
             22,
             21,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -84,8 +87,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 04时29分]"
         },
         {
           "title": "谐音歌词版WAIYA",
@@ -131,11 +134,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33420304",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
