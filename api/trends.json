@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T21:35:24.617134+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-06-21T22:47:37.414506+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,20 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时32分 ~ 17时16分]"
+        },
+        {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时37分 ~ 22时47分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
@@ -62,20 +76,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时32分 ~ 13时37分]"
-        },
-        {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时37分 ~ 21时35分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -159,8 +159,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时37分 ~ 21时35分]"
+          "appearance_count": 8,
+          "time_info": "[13时37分 ~ 22时47分]"
         },
         {
           "title": "女子用AI写3000字股市谣言被罚",
@@ -197,6 +197,19 @@
           "time_info": "[08时45分 ~ 09时51分]"
         },
         {
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时16分 ~ 22时47分]"
+        },
+        {
           "title": "谐音歌词版WAIYA",
           "url": "https://www.douyin.com/hot/2541878",
           "source": "抖音",
@@ -209,6 +222,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时30分 ~ 07时29分]"
+        },
+        {
+          "title": "父亲节用AI表达爱",
+          "url": "https://www.douyin.com/hot/2542302",
+          "source": "抖音",
+          "ranks": [
+            23,
+            26,
+            25,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时16分 ~ 22时47分]"
         },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
@@ -224,30 +252,15 @@
           "time_info": "[00时32分 ~ 08时45分]"
         },
         {
-          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
-          "source": "澎湃新闻",
+          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
+          "url": "https://www.cls.cn/detail/2404757",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时16分 ~ 21时35分]"
-        },
-        {
-          "title": "父亲节用AI表达爱",
-          "url": "https://www.douyin.com/hot/2542302",
-          "source": "抖音",
-          "ranks": [
-            23,
-            26,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时16分 ~ 21时35分]"
+          "time_info": "[19时04分 ~ 22时47分]"
         },
         {
           "title": "数学博士生2年研究被AI抢发",
@@ -287,27 +300,17 @@
           "time_info": "[11时09分 ~ 13时37分]"
         },
         {
-          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
-          "url": "https://www.cls.cn/detail/2404757",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时04分 ~ 21时35分]"
-        },
-        {
           "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
           "url": "https://wallstreetcn.com/articles/3775129",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 22时47分]"
         },
         {
           "title": "普通人适合学AI专业吗",
@@ -439,11 +442,12 @@
           "ranks": [
             5,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 21时35分]"
+          "appearance_count": 7,
+          "time_info": "[15时38分 ~ 22时47分]"
         },
         {
           "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
