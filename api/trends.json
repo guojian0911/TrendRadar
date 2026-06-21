@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T08:45:32.171490+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-06-21T09:51:17.012929+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 08时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时51分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
@@ -38,11 +38,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 08时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时51分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -52,11 +53,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 08时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时51分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -102,6 +104,18 @@
           "time_info": "[00时32分 ~ 08时45分]"
         },
         {
+          "title": "谷歌 Gemini 负责人 NoamShazeer 赴 OpenAI，对两家公司有何影响？",
+          "url": "https://www.zhihu.com/question/2050866813181994242",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 09时51分]"
+        },
+        {
           "title": "谐音歌词版WAIYA",
           "url": "https://www.douyin.com/hot/2541878",
           "source": "抖音",
@@ -116,15 +130,28 @@
           "time_info": "[02时30分 ~ 07时29分]"
         },
         {
-          "title": "谷歌 Gemini 负责人 NoamShazeer 赴 OpenAI，对两家公司有何影响？",
-          "url": "https://www.zhihu.com/question/2050866813181994242",
+          "title": "MiniMax 股价遭遇腰斩，大模型市场估值逻辑发生了怎样的变化？",
+          "url": "https://www.zhihu.com/question/2047642950771946873",
           "source": "知乎",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
+          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 09时51分]"
         },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
@@ -140,27 +167,37 @@
           "time_info": "[00时32分 ~ 08时45分]"
         },
         {
-          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
-          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时28分 ~ 08时45分]"
-        },
-        {
           "title": "女子用AI写3000字股市谣言被罚",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
           "source": "百度热搜",
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 09时51分]"
+        },
+        {
+          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
+          "url": "https://wallstreetcn.com/articles/3775114",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "华泰证券：AI服务器测试电源或迎国产替代机遇",
+          "url": "https://flash.jin10.com/detail/20260621083741810800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时45分"
+          "time_info": "09时51分"
         },
         {
           "title": "DeepSeek估值接近4000亿元",
@@ -189,8 +226,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 08时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时51分]"
         },
         {
           "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
