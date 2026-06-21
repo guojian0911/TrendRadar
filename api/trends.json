@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T00:34:02.851574+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-22T01:33:04.149639+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 01时33分]"
         },
         {
           "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 01时33分]"
         },
         {
           "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 01时33分]"
         },
         {
           "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
@@ -48,19 +48,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 01时33分]"
         },
         {
           "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
           "url": "https://www.cls.cn/detail/2404757",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 01时33分]"
         },
         {
           "title": "父亲节用AI表达爱",
@@ -70,8 +71,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 01时33分]"
         },
         {
           "title": "AI的疯狂行情何时到头",
@@ -98,8 +99,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 01时33分]"
         }
       ]
     }
