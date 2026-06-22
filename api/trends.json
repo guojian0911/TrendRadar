@@ -1,14 +1,11 @@
 {
-  "generated_at": "2026-06-22T16:01:14.104421+08:00",
-  "total_titles_processed": 1259,
-  "failed_sources": [
-    "cls-hot",
-    "weibo"
-  ],
+  "generated_at": "2026-06-22T18:13:38.771383+08:00",
+  "total_titles_processed": 1429,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
@@ -45,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 16时01分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 18时13分]"
         },
         {
           "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
@@ -132,11 +129,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 16时01分]"
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 18时13分]"
         },
         {
           "title": "AI的疯狂行情何时到头",
@@ -183,6 +181,39 @@
           "time_info": "13时50分"
         },
         {
+          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
+          "url": "https://wallstreetcn.com/articles/3775170",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
+          "url": "https://www.cls.cn/detail/2405734",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "【午报】三大指数集体收红，有色金属等AI上游材料概念持续活跃，大金融板块爆发",
+          "url": "https://www.cls.cn/detail/2405347",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "首程控股(00697.HK)：近日，本集团所属首程资本旗下公司所管理的基金投资AI服务公司智子芯元。",
           "url": "https://flash.jin10.com/detail/20260622062950039800",
           "source": "金十数据",
@@ -192,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "国际铝业协会（IAI）：5月份全球原铝产量为615万公吨。",
+          "url": "https://flash.jin10.com/detail/20260622180158027800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "外资巨头年中投资展望出炉，A股AI板块被视为“价值洼地”",
@@ -230,7 +272,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "GPT-5.6或将下周问世：从“模型”迈向“可执行Agent”，定价或仅为竞品1/3",
@@ -251,7 +293,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时01分"
         },
@@ -289,6 +331,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时50分 ~ 15时59分]"
+        },
+        {
+          "title": "沪指涨近2%，全市场成交额历史第二，培育钻石飙升，大金融崛起，恒科指跌超1%，智谱暴涨15%市值破万亿港元",
+          "url": "https://wallstreetcn.com/articles/3775154",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "香港恒生指数跌幅扩大至1.86%，恒生科技指数跌1.53%。智谱涨超30%。",
