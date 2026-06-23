@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-24T03:38:13.759886+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-06-24T04:44:06.463917+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2407151",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 03时38分]"
-        },
         {
           "title": "AI算力新变局：谁能动英伟达奶酪",
           "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
@@ -27,8 +16,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时44分]"
+        },
+        {
+          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2407151",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时44分]"
         },
         {
           "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
@@ -37,11 +38,12 @@
           "ranks": [
             9,
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时44分]"
         },
         {
           "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
@@ -51,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时44分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -62,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时44分]"
         },
         {
           "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
@@ -73,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时44分]"
         },
         {
           "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
@@ -84,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时44分]"
         },
         {
           "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
@@ -95,30 +97,58 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时44分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时44分]"
         },
         {
           "title": "大模型横评:多款AI翻车实录",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
           "source": "贴吧",
           "ranks": [
-            28
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时44分]"
+        },
+        {
+          "title": "用AI小卡应援世界杯",
+          "url": "https://www.douyin.com/hot/2544441",
+          "source": "抖音",
+          "ranks": [
+            20,
+            22,
+            21
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时49分 ~ 03时38分]"
+          "time_info": "[01时36分 ~ 04时44分]"
+        },
+        {
+          "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
+          "url": "https://www.zhihu.com/question/2051696278954946774",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 04时44分]"
         },
         {
           "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
@@ -158,18 +188,6 @@
           "time_info": "[00时49分 ~ 02时42分]"
         },
         {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/hot/2544441",
-          "source": "抖音",
-          "ranks": [
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时38分]"
-        },
-        {
           "title": "Grok融资6.5亿美元，旨在扩大数据中心算力，并成为一家AI计算供应商。",
           "url": "https://wallstreetcn.com/livenews/3123591",
           "source": "华尔街见闻-快讯",
@@ -183,18 +201,6 @@
           "time_info": "[01时36分 ~ 03时38分]"
         },
         {
-          "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
-          "url": "https://www.zhihu.com/question/2051696278954946774",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 03时38分]"
-        },
-        {
           "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
           "url": "https://www.zhihu.com/question/2052439090260178506",
           "source": "知乎",
@@ -204,6 +210,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 00时50分]"
+        },
+        {
+          "title": "AI时代计算机专业还能学吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E5%AD%A6%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 04时44分]"
         },
         {
           "title": "黑石集团计划在日本人工智能数据中心投资300亿美元",
@@ -263,11 +280,12 @@
             17,
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时44分]"
         },
         {
           "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
@@ -278,8 +296,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 04时44分]"
         },
         {
           "title": "市场消息：Anthropic希望Claude以更深入的方式融入Slack聊天。",
