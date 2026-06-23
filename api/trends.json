@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-24T00:50:08.557641+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-24T01:36:53.584274+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
-        },
         {
           "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2407151",
@@ -26,19 +15,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时36分]"
+        },
+        {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时36分]"
+        },
+        {
+          "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
+          "url": "https://wallstreetcn.com/livenews/3123596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
         },
         {
           "title": "据纽约时报：Meta Platforms(META.O)公司还在尝试开发一款名为Meta Photos的应用程序，该程序将利用人工智能创造新型媒体。",
           "url": "https://flash.jin10.com/detail/20260624004750674800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时36分]"
         },
         {
           "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
@@ -48,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时36分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -59,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时36分]"
         },
         {
           "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
@@ -70,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时36分]"
         },
         {
           "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
@@ -81,8 +94,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时36分]"
+        },
+        {
+          "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
+          "url": "https://www.zhihu.com/question/2052673340993811952",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时36分]"
         },
         {
           "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
@@ -92,19 +117,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
-        },
-        {
-          "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
-          "url": "https://www.zhihu.com/question/2052673340993811952",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时36分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -114,8 +128,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时36分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
@@ -125,8 +139,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时36分]"
+        },
+        {
+          "title": "大模型横评:多款AI翻车实录",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时36分]"
         },
         {
           "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
@@ -140,15 +165,15 @@
           "time_info": "[00时49分 ~ 00时50分]"
         },
         {
-          "title": "大模型横评:多款AI翻车实录",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
-          "source": "贴吧",
+          "title": "Grok融资6.5亿美元，旨在扩大数据中心算力，并成为一家AI计算供应商。",
+          "url": "https://wallstreetcn.com/livenews/3123591",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
         },
         {
           "title": "黑石集团计划在日本人工智能数据中心投资300亿美元",
@@ -157,37 +182,71 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "Baird：预计特斯拉与SpaceX有可能合并",
+          "url": "https://flash.jin10.com/detail/20260624005226023800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "用AI小卡应援世界杯",
+          "url": "https://www.douyin.com/hot/2544441",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "AI时代不想被淘汰？这5个能力很重要",
+          "url": "https://www.toutiao.com/trending/7654532881838001673/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
         }
       ]
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "GLM-5.2 放弃了开源社区曾广泛采用的 GRPO，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2052108642686706557",
-          "source": "知乎",
+          "title": "市场消息：Anthropic希望Claude以更深入的方式融入Slack聊天。",
+          "url": "https://flash.jin10.com/detail/20260624010703489800",
+          "source": "金十数据",
           "ranks": [
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
         },
         {
           "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
           "url": "https://www.zhihu.com/question/2052707670289806571",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时36分]"
         },
         {
           "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
@@ -195,6 +254,17 @@
           "source": "澎湃新闻",
           "ranks": [
             19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时36分]"
+        },
+        {
+          "title": "GLM-5.2 放弃了开源社区曾广泛采用的 GRPO，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2052108642686706557",
+          "source": "知乎",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
