@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T15:15:02.362445+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-06-23T17:08:16.069986+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时33分 ~ 15时15分]"
+          "appearance_count": 15,
+          "time_info": "[01时33分 ~ 17时08分]"
         },
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
@@ -60,15 +60,30 @@
           "time_info": "[01时33分 ~ 08时41分]"
         },
         {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 17时08分]"
+        },
+        {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 17时08分]"
         },
         {
           "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
@@ -97,6 +112,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时41分 ~ 15时15分]"
+        },
+        {
+          "title": "华为中国：上海电信建成全国首张5G-A×AI大上行网络，在核心城区实现“泛在20Mbps”上行连续覆盖。",
+          "url": "https://flash.jin10.com/detail/20260623164540584800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "法国向Harmattan AI订购5,000架作战无人机",
+          "url": "https://wallstreetcn.com/livenews/3123320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "据Business Insider：在近期发生敏感数据泄露并可被全公司访问事件后，Meta公司暂停了一项内部人工智能培训项目。",
@@ -144,19 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 03时06分]"
-        },
-        {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 15时15分]"
         },
         {
           "title": "液冷概念股开盘活跃，英维克、大元泵业、康盛股份、金富科技涨停，高澜股份涨超18%，飞龙股份、强瑞技术、川环科技、淳中科技、佳力图、新朋股份纷纷高开，消息上，英伟达发文详细介绍了即将量产的Vera Rubin平台所使用的45℃全面液冷技术，表示其帮助AI数据中心大幅降低能耗，并称Rubin是全球首个实现100%液冷的AI计算平台。",
@@ -218,6 +242,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时35分]"
+        },
+        {
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "港股AI双雄遭空头伏击 7月超千亿港元解禁潮如何考验其成色？",
+          "url": "https://www.cls.cn/detail/2406475",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "郭明錤：联发科赢得谷歌升级版TPU芯片订单",
@@ -310,6 +356,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "六部门：加大人工智能等新技术在广告领域应用，培育数智广告新业态",
+          "url": "https://wallstreetcn.com/livenews/3123297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "IBM(IBM.N)盘后涨2%，此前宣布与OpenAI合作推出与企业网络安全防御相关的人工智能产品。",
           "url": "https://flash.jin10.com/detail/20260623043807971800",
           "source": "金十数据",
@@ -379,8 +436,19 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
+          "url": "https://www.cls.cn/detail/2406212",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时41分 ~ 17时08分]"
+        },
         {
           "title": "沪指涨近2%，全市场成交额历史第二，培育钻石飙升，大金融崛起，恒科指跌超1%，智谱暴涨15%市值破万亿港元",
           "url": "https://wallstreetcn.com/articles/3775154",
@@ -395,17 +463,6 @@
           "time_info": "[01时33分 ~ 15时15分]"
         },
         {
-          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
-          "url": "https://www.cls.cn/detail/2406212",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时41分 ~ 15时15分]"
-        },
-        {
           "title": "金价又又又崩了",
           "url": "https://news.ifeng.com/c/8uBh0V2wuzK",
           "source": "凤凰网",
@@ -413,8 +470,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时15分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 17时08分]"
         },
         {
           "title": "金价暴跌黄金该买还是该卖",
@@ -439,6 +496,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 13时22分]"
+        },
+        {
+          "title": "金价狂泻30%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E6%B3%BB30%25%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "国际金价“高台跳水” 金饰价格降了",
@@ -474,6 +542,17 @@
           "time_info": "09时41分"
         },
         {
+          "title": "美伊局势缓和仍是双刃剑，金价定价权在谁手里？",
+          "url": "https://flash.jin10.com/detail/20260623163720506800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "MiniMax 解禁在即：阿里、米哈游两大战略投资人表示不减持",
           "url": "https://wallstreetcn.com/livenews/3123152",
           "source": "华尔街见闻-快讯",
@@ -491,7 +570,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }
