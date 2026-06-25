@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T07:26:53.611083+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-06-25T08:41:53.788658+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 43,
+      "match_count": 50,
       "titles": [
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 08时41分]"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 08时41分]"
         },
         {
           "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
@@ -42,11 +42,12 @@
             6,
             5,
             4,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 08时41分]"
         },
         {
           "title": "美财长大放厥词：AI的最大风险是中国超越美国",
@@ -68,8 +69,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 08时41分]"
         },
         {
           "title": "用AI制作一部玄幻短片",
@@ -81,8 +82,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 08时41分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -93,8 +94,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 08时41分]"
         },
         {
           "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
@@ -106,8 +107,36 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时36分 ~ 08时41分]"
+        },
+        {
+          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
+          "url": "https://wallstreetcn.com/articles/3775365",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[02时36分 ~ 07时26分]"
+          "time_info": "[00时45分 ~ 08时41分]"
+        },
+        {
+          "title": "用AI小卡应援世界杯",
+          "url": "https://www.douyin.com/hot/2544441",
+          "source": "抖音",
+          "ranks": [
+            13,
+            12,
+            20,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时36分 ~ 08时41分]"
         },
         {
           "title": "AI 对制造业的影响预计何时显现？",
@@ -122,52 +151,27 @@
           "time_info": "[01时37分 ~ 05时34分]"
         },
         {
-          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
-          "url": "https://wallstreetcn.com/articles/3775365",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 07时26分]"
-        },
-        {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/hot/2544441",
-          "source": "抖音",
-          "ranks": [
-            13,
-            12,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时36分 ~ 07时26分]"
-        },
-        {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
           "url": "https://www.cls.cn/detail/2408510",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时26分]"
+          "appearance_count": 3,
+          "time_info": "[06时29分 ~ 08时41分]"
         },
         {
-          "title": "黄仁勋：本轮AI基建周期长达数十年",
-          "url": "https://flash.jin10.com/detail/20260625071208706800",
-          "source": "金十数据",
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "08时41分"
         },
         {
           "title": "OpenAI：推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
@@ -214,6 +218,18 @@
           "time_info": "00时45分"
         },
         {
+          "title": "黄仁勋：本轮AI基建周期长达数十年",
+          "url": "https://flash.jin10.com/detail/20260625071208706800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 08时41分]"
+        },
+        {
           "title": "美光强劲财报引爆芯片股盘后行情 高通AI前景助推股价飙升",
           "url": "https://flash.jin10.com/detail/20260625061135675800",
           "source": "金十数据",
@@ -250,6 +266,18 @@
           "time_info": "[06时29分 ~ 07时26分]"
         },
         {
+          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 08时41分]"
+        },
+        {
           "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
           "url": "https://wallstreetcn.com/livenews/3124168",
           "source": "华尔街见闻-快讯",
@@ -260,6 +288,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时36分]"
+        },
+        {
+          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
+          "url": "https://www.cls.cn/detail/2408477",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 08时41分]"
         },
         {
           "title": "高通(QCOM.O)：公司目标是在2029财年实现Personal AI 与计算业务收入约60亿美元。",
@@ -351,20 +391,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
         {
-          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
-          "source": "澎湃新闻",
+          "title": "中金：未来高端AI服务器有望采用“金刚石热沉+全液冷”复合散热方案",
+          "url": "https://flash.jin10.com/detail/20260625075729784800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "08时41分"
         },
         {
           "title": "谷歌(GOOG.O)：在 Gemini 3.5 Flash 中引入“计算机使用”功能。",
@@ -387,17 +438,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
-        },
-        {
-          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
-          "url": "https://www.cls.cn/detail/2408477",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
         },
         {
           "title": "谷歌(GOOG.O)跌幅扩大至0.8%，消息称谷歌将Gemini 3.5 Pro大模型发布时间推迟至7月，因为他们还在花更多时间收集早期测试者的反馈并调整模型。",
@@ -442,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "AI协助报志愿靠谱吗",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%8D%8F%E5%8A%A9%E6%8A%A5%E5%BF%97%E6%84%BF%E9%9D%A0%E8%B0%B1%E5%90%97%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
           "title": "特斯拉人工智能主管Ashok Elluswamy在社交平台X上发帖称，事发时特斯拉的驾驶辅助系统并未启动，但并未提供任何证据。",
@@ -499,6 +550,39 @@
           "time_info": "05时34分"
         },
         {
+          "title": "黄仁勋：本轮AI基建周期长达数十年",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AC%E8%BD%AEAI%E5%9F%BA%E5%BB%BA%E5%91%A8%E6%9C%9F%E9%95%BF%E8%BE%BE%E6%95%B0%E5%8D%81%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "浙江大学1978年就有AI专业了",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A61978%E5%B9%B4%E5%B0%B1%E6%9C%89AI%E4%B8%93%E4%B8%9A%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "黄仁勋股东大会放言：本轮AI基建周期长达数十年",
+          "url": "https://wallstreetcn.com/livenews/3124282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
           "title": "韩乔生七旬老汉大战AI",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%B9%94%E7%94%9F%E4%B8%83%E6%97%AC%E8%80%81%E6%B1%89%E5%A4%A7%E6%88%98AI%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -513,7 +597,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -527,6 +611,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时45分 ~ 02时36分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
           "title": "受美元走强及加息预期影响，金价收于4000美元下方",
