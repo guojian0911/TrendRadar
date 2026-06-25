@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T21:43:46.700998+08:00",
-  "total_titles_processed": 1985,
+  "generated_at": "2026-06-25T22:59:53.945685+08:00",
+  "total_titles_processed": 2106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 79,
+      "match_count": 82,
       "titles": [
         {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时41分 ~ 21时43分]"
+          "appearance_count": 13,
+          "time_info": "[08时41分 ~ 22时59分]"
         },
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -90,18 +90,6 @@
           "time_info": "[00时45分 ~ 08时41分]"
         },
         {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时42分 ~ 21时43分]"
-        },
-        {
           "title": "AI机器女友发布,仿真拉满",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
@@ -110,8 +98,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时12分 ~ 21时43分]"
+          "appearance_count": 7,
+          "time_info": "[15时12分 ~ 22时59分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时42分 ~ 22时59分]"
         },
         {
           "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
@@ -165,8 +165,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时45分 ~ 21时43分]"
+          "appearance_count": 24,
+          "time_info": "[00时45分 ~ 22时59分]"
         },
         {
           "title": "用AI制作一部玄幻短片",
@@ -235,20 +235,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时21分 ~ 21时43分]"
-        },
-        {
-          "title": "AI 对制造业的影响预计何时显现？",
-          "url": "https://www.zhihu.com/question/2019843435763353551",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时37分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[13时21分 ~ 22时59分]"
         },
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
@@ -261,8 +249,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 21时43分]"
+          "appearance_count": 5,
+          "time_info": "[18时58分 ~ 22时59分]"
+        },
+        {
+          "title": "AI 对制造业的影响预计何时显现？",
+          "url": "https://www.zhihu.com/question/2019843435763353551",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时37分 ~ 05时34分]"
         },
         {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
@@ -288,6 +288,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时06分 ~ 18时58分]"
+        },
+        {
+          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时06分 ~ 22时59分]"
         },
         {
           "title": "OpenAI：推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
@@ -318,7 +333,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -340,7 +355,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -354,6 +369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "市场消息：美国寻求与欧盟在人工智能监管和供应链领域建立合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260625222717365800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "链博会把AI全产业链搬来了",
@@ -387,21 +413,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
-        },
-        {
-          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时06分 ~ 21时43分]"
         },
         {
           "title": "IDC：AI产业正从基础设施建设转向企业级应用爆发",
@@ -463,6 +474,19 @@
           "time_info": "[06时29分 ~ 07时26分]"
         },
         {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时56分 ~ 22时59分]"
+        },
+        {
           "title": "AI时代计算机专业怎么选",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89",
           "source": "bilibili 热搜",
@@ -473,6 +497,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时21分 ~ 18时58分]"
+        },
+        {
+          "title": "你对AI脸产生生理性厌恶了吗",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时59分]"
         },
         {
           "title": "浙江大学1978年就有AI专业了",
@@ -488,16 +524,28 @@
           "time_info": "[08时41分 ~ 11时07分]"
         },
         {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
+          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
+          "source": "澎湃新闻",
           "ranks": [
-            15,
-            13
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时56分 ~ 21时43分]"
+          "time_info": "[20时48分 ~ 22时59分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2409159",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 22时59分]"
         },
         {
           "title": "黄仁勋：本轮AI基建周期长达数十年",
@@ -547,6 +595,18 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
+          "title": "高考志愿要选AI专业吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A6%81%E9%80%89AI%E4%B8%93%E4%B8%9A%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时59分]"
+        },
+        {
           "title": "Scale AI与Circadence构建合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3124185",
           "source": "华尔街见闻-快讯",
@@ -569,18 +629,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时34分]"
-        },
-        {
-          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 21时43分]"
         },
         {
           "title": "Prosus将在法国AI公司Alan投资4亿欧元。",
@@ -617,17 +665,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时33分 ~ 04时36分]"
-        },
-        {
-          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2409159",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 21时43分]"
         },
         {
           "title": "小伙用折叠屏AI两分钟写歌",
@@ -672,17 +709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
-        },
-        {
-          "title": "高考志愿要选AI专业吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A6%81%E9%80%89AI%E4%B8%93%E4%B8%9A%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "利和兴：30个交易日涨幅偏离值超200% MLCC暂未用于AI服务器",
@@ -746,7 +772,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -760,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        },
+        {
+          "title": "美光业绩提振AI板块 纳指期货涨超2% PCE数据缓解加息担忧 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2409443",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "谷歌(GOOG.O)跌幅扩大至0.8%，消息称谷歌将Gemini 3.5 Pro大模型发布时间推迟至7月，因为他们还在花更多时间收集早期测试者的反馈并调整模型。",
@@ -793,17 +830,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
-        },
-        {
-          "title": "你对AI脸产生生理性厌恶了吗",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "韩国轻易带崩华尔街，AI储存线还有多久？",
@@ -905,13 +931,24 @@
           "time_info": "05时34分"
         },
         {
+          "title": "DeepSeek发布招聘广告：正努力将所有部门的规模扩大至少一倍",
+          "url": "https://wallstreetcn.com/livenews/3124723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "屎山BUG半决赛之DeepSeek",
           "url": "https://search.bilibili.com/all?keyword=%E5%B1%8E%E5%B1%B1BUG%E5%8D%8A%E5%86%B3%E8%B5%9B%E4%B9%8BDeepSeek",
           "source": "bilibili 热搜",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -952,7 +989,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -1051,6 +1088,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "华尔街机构对金价前景判断分化",
+          "url": "https://www.toutiao.com/trending/7655314315704012314/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "金十图示：2026年06月25日（周四）上海金早盘价为869.65元/克，较国际金价(872.02元/克)，低2.37元/克",
