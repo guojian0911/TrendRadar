@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T09:43:01.175481+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-06-25T11:07:55.861389+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             5,
             4,
             2,
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 09时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 11时07分]"
         },
         {
           "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
@@ -50,6 +51,19 @@
           "time_info": "[00时45分 ~ 08时41分]"
         },
         {
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时29分 ~ 11时07分]"
+        },
+        {
           "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
           "url": "https://wallstreetcn.com/articles/3775422",
           "source": "华尔街见闻",
@@ -59,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时36分 ~ 09时43分]"
+          "appearance_count": 12,
+          "time_info": "[02时36分 ~ 11时07分]"
         },
         {
           "title": "美财长大放厥词：AI的最大风险是中国超越美国",
@@ -83,8 +97,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 11时07分]"
         },
         {
           "title": "霓虹AI超美?实则组队打工仔",
@@ -93,11 +107,12 @@
           "ranks": [
             8,
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 09时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 11时07分]"
         },
         {
           "title": "用AI制作一部玄幻短片",
@@ -107,11 +122,12 @@
             12,
             11,
             15,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 09时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 11时07分]"
         },
         {
           "title": "用AI小卡应援世界杯",
@@ -126,8 +142,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时36分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[02时36分 ~ 11时07分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -142,17 +158,28 @@
           "time_info": "[00时45分 ~ 09时43分]"
         },
         {
-          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
-          "url": "https://www.cls.cn/detail/2408510",
-          "source": "财联社热门",
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            5,
-            4
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时41分 ~ 11时07分]"
+        },
+        {
+          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            4,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[06时29分 ~ 09时43分]"
+          "time_info": "[07时26分 ~ 11时07分]"
         },
         {
           "title": "AI 对制造业的影响预计何时显现？",
@@ -167,27 +194,18 @@
           "time_info": "[01时37分 ~ 05时34分]"
         },
         {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
+          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
+          "url": "https://www.cls.cn/detail/2408477",
+          "source": "财联社热门",
           "ranks": [
-            2
+            13,
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时41分 ~ 09时43分]"
-        },
-        {
-          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 09时43分]"
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 11时07分]"
         },
         {
           "title": "OpenAI：推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
@@ -240,7 +258,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -281,19 +299,6 @@
           "time_info": "[02时36分 ~ 03时33分]"
         },
         {
-          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
-          "url": "https://www.cls.cn/detail/2408477",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 09时43分]"
-        },
-        {
           "title": "AI驱动债务狂潮创纪录 6月美国高评级债券发行飙至1750亿美元",
           "url": "https://flash.jin10.com/detail/20260625060708840800",
           "source": "金十数据",
@@ -311,11 +316,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时41分 ~ 09时43分]"
+          "appearance_count": 4,
+          "time_info": "[08时41分 ~ 11时07分]"
         },
         {
           "title": "浙江大学1978年就有AI专业了",
@@ -323,11 +329,24 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            10
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时41分 ~ 11时07分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时41分 ~ 09时43分]"
+          "time_info": "[09时42分 ~ 11时07分]"
         },
         {
           "title": "黄仁勋：本轮AI基建周期长达数十年",
@@ -339,17 +358,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时41分 ~ 09时43分]"
-        },
-        {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 09时43分]"
         },
         {
           "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
@@ -626,7 +634,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -640,6 +648,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时45分 ~ 02时36分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 11时07分]"
         },
         {
           "title": "金价回落刺激刚需消费回暖",
@@ -659,20 +679,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "09时43分"
         },
         {
           "title": "受美元走强及加息预期影响，金价收于4000美元下方",
@@ -684,6 +693,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "金十图示：2026年06月25日（周四）上海金早盘价为869.65元/克，较国际金价(872.02元/克)，低2.37元/克",
+          "url": "https://flash.jin10.com/detail/20260625103618213800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "金价大跌金饰消费遇冷",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%87%91%E9%A5%B0%E6%B6%88%E8%B4%B9%E9%81%87%E5%86%B7%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
         }
       ]
     }
