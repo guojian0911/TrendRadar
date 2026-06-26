@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T19:02:31.241332+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2026-06-26T20:43:47.801185+08:00",
+  "total_titles_processed": 1780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
@@ -61,11 +61,12 @@
             15,
             17,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时47分 ~ 19时02分]"
+          "appearance_count": 19,
+          "time_info": "[00时47分 ~ 20时43分]"
         },
         {
           "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
@@ -175,6 +176,20 @@
           "time_info": "[00时47分 ~ 06时32分]"
         },
         {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 20时43分]"
+        },
+        {
           "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
           "url": "https://wallstreetcn.com/articles/3775441",
           "source": "华尔街见闻",
@@ -199,17 +214,18 @@
           "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
             9,
-            6
+            8,
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时07分 ~ 19时02分]"
+          "time_info": "[13时27分 ~ 20时43分]"
         },
         {
           "title": "UP主手搓AI实时生成游戏",
@@ -270,20 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
-        },
-        {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 19时02分]"
         },
         {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
@@ -411,6 +413,18 @@
           "time_info": "[15时17分 ~ 19时02分]"
         },
         {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时06分 ~ 20时43分]"
+        },
+        {
           "title": "DeepSeek大规模招聘",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -460,17 +474,6 @@
           "time_info": "[08时42分 ~ 11时07分]"
         },
         {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 19时02分]"
-        },
-        {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
           "url": "https://flash.jin10.com/detail/20260626044755013800",
           "source": "金十数据",
@@ -483,6 +486,30 @@
           "time_info": "[05时33分 ~ 06时32分]"
         },
         {
+          "title": "2025年至今我国已经研制发布40余项人工智能国家标准",
+          "url": "https://wallstreetcn.com/livenews/3125266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时43分]"
+        },
+        {
+          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
+          "url": "https://wallstreetcn.com/articles/3775599",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时43分]"
+        },
+        {
           "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
           "url": "https://wallstreetcn.com/livenews/3124775",
           "source": "华尔街见闻-快讯",
@@ -493,6 +520,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时52分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时43分]"
         },
         {
           "title": "据The Information：根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。",
@@ -531,6 +570,17 @@
           "time_info": "[05时33分 ~ 06时32分]"
         },
         {
+          "title": "AI时代如何选专业",
+          "url": "https://www.douyin.com/hot/2548080",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时43分]"
+        },
+        {
           "title": "七部门发文加快培育 AI 一人公司，专家称「有助于让人才以极低成本创业」，当代年轻人如何抓住政策机遇？",
           "url": "https://www.zhihu.com/question/2053149752162890384",
           "source": "知乎",
@@ -540,6 +590,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时17分 ~ 15时18分]"
+        },
+        {
+          "title": "短剧男主被AI抢工作 返乡卖豆芽菜",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%A2%ABAI%E6%8A%A2%E5%B7%A5%E4%BD%9C+%E8%BF%94%E4%B9%A1%E5%8D%96%E8%B1%86%E8%8A%BD%E8%8F%9C",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时43分]"
         },
         {
           "title": "据AXIOS：Meta Platforms(META.O)超级智能实验室聘请Virtue AI创始人。",
@@ -575,17 +637,6 @@
           "time_info": "05时33分"
         },
         {
-          "title": "2025年至今我国已经研制发布40余项人工智能国家标准",
-          "url": "https://wallstreetcn.com/livenews/3125266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "DeepSeek发英雄帖：扩大所有部门规模",
           "url": "https://www.toutiao.com/trending/7654952957498195994/",
           "source": "今日头条",
@@ -595,28 +646,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
-        },
-        {
-          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
-          "url": "https://wallstreetcn.com/articles/3775599",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2410276",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "市场消息：美国特拉华县特雷纳（Trainer）炼油厂发生大火。",
@@ -696,17 +725,6 @@
           "time_info": "11时07分"
         },
         {
-          "title": "AI时代如何选专业",
-          "url": "https://www.douyin.com/hot/2548080",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "银河证券下半年机械行业展望：紧抓跟AI相关科技成长主线",
           "url": "https://flash.jin10.com/detail/20260626092901622800",
           "source": "金十数据",
@@ -768,20 +786,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
         {
-          "title": "短剧男主被AI抢工作 返乡卖豆芽菜",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%A2%ABAI%E6%8A%A2%E5%B7%A5%E4%BD%9C+%E8%BF%94%E4%B9%A1%E5%8D%96%E8%B1%86%E8%8A%BD%E8%8F%9C",
-          "source": "百度热搜",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/zowhLxJ1oGWg2qc8N-V44.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260626193725009800",
+          "source": "金十数据",
           "ranks": [
-            28
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "20时43分"
+        },
+        {
+          "title": "DeepSeek为何大规模招人",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E4%BA%BA%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "台积电闭门会预计全球半导体市场将在今年突破1万亿美元，业内：再度坚定业界的AI信仰",
@@ -820,7 +849,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "金价跌回3字头半年回撤30%",
@@ -844,8 +873,23 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时42分 ~ 20时43分]"
+        },
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2547979",
+          "source": "抖音",
+          "ranks": [
+            6,
+            18,
+            17,
+            19,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[08时42分 ~ 19时02分]"
+          "time_info": "[11时07分 ~ 20时43分]"
         },
         {
           "title": "金价跌回3字头 半年回撤30%",
@@ -863,18 +907,15 @@
           "time_info": "[09时44分 ~ 17时06分]"
         },
         {
-          "title": "金价持续下跌",
-          "url": "https://www.douyin.com/hot/2547979",
-          "source": "抖音",
+          "title": "金价大跌但金店没有迎来“好日子”",
+          "url": "https://www.toutiao.com/trending/7655659578599673407/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            18,
-            17,
-            19
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时07分 ~ 19时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "恒生科技指数日内跌超2%，恒指跌近1%。舜宇光学科技、智谱跌超6%。",
