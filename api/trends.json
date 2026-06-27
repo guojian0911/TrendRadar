@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T18:40:50.794857+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-06-27T19:32:36.120189+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
@@ -77,6 +77,19 @@
           "time_info": "[00时41分 ~ 07时27分]"
         },
         {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时06分 ~ 19时32分]"
+        },
+        {
           "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
           "url": "https://wallstreetcn.com/articles/3775640",
           "source": "华尔街见闻",
@@ -88,8 +101,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时27分 ~ 18时40分]"
+          "appearance_count": 13,
+          "time_info": "[07时27分 ~ 19时32分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -101,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时40分 ~ 18时40分]"
+          "appearance_count": 12,
+          "time_info": "[08时40分 ~ 19时32分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -120,8 +133,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 18时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时41分 ~ 19时32分]"
         },
         {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
@@ -162,19 +175,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时41分 ~ 11时06分]"
-        },
-        {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时06分 ~ 18时40分]"
         },
         {
           "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
@@ -266,11 +266,12 @@
           "ranks": [
             4,
             13,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 19时32分]"
         },
         {
           "title": "Anthropic迈向与美国政府达成协议，解除对AI模型的限制。",
@@ -299,6 +300,19 @@
           "time_info": "[11时06分 ~ 15时05分]"
         },
         {
+          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
+          "url": "https://www.cls.cn/detail/2410894",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 19时32分]"
+        },
+        {
           "title": "如何评价 OpenAI 发布 GPT-5.6 系列模型？这次更新最值得关注的是什么？",
           "url": "https://www.zhihu.com/question/2054058863066886644",
           "source": "知乎",
@@ -309,6 +323,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时39分 ~ 11时06分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 19时32分]"
         },
         {
           "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
@@ -337,6 +362,19 @@
           "time_info": "[03时34分 ~ 05时31分]"
         },
         {
+          "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
+          "url": "https://www.zhihu.com/question/2050591443664779181",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 19时32分]"
+        },
+        {
           "title": "伊朗革命卫队称将回应美军袭击 OpenAI推出旗舰大模型GPT‑5.6系列 | 环球市场",
           "url": "https://www.cls.cn/detail/2410782",
           "source": "财联社热门",
@@ -348,6 +386,18 @@
           "time_info": "[11时06分 ~ 16时56分]"
         },
         {
+          "title": "DeepSeek发布DSpark",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83DSpark%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 19时32分]"
+        },
+        {
           "title": "OpenAI发布GPT5.6",
           "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
           "source": "百度热搜",
@@ -357,17 +407,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时05分 ~ 16时56分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时40分]"
         },
         {
           "title": "48小时行情过山车，揭秘AI拥挤交易有多脆弱？｜大师复盘",
@@ -405,30 +444,6 @@
           "time_info": "[09时39分 ~ 09时40分]"
         },
         {
-          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
-          "url": "https://www.cls.cn/detail/2410894",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时40分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
-          "url": "https://www.zhihu.com/question/2050591443664779181",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时40分]"
-        },
-        {
           "title": "DeepSeek招聘薪资待遇",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%8B%9B%E8%81%98%E8%96%AA%E8%B5%84%E5%BE%85%E9%81%87%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -439,18 +454,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时35分]"
-        },
-        {
-          "title": "DeepSeek发布DSpark",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83DSpark%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时40分]"
         },
         {
           "title": "美联储卡什卡利：尽管有人工智能，我仍然对劳动力前景持乐观态度。",
@@ -533,8 +536,45 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "金价大跌 有商家称跌没一辆迈巴赫",
+          "url": "https://www.toutiao.com/trending/7655931453586849835/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "国际金价银价上涨",
+          "url": "https://www.douyin.com/hot/2549494",
+          "source": "抖音",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 19时32分]"
+        },
+        {
+          "title": "金价大跌 有商家称跌没一辆迈巴赫",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%9C%89%E5%95%86%E5%AE%B6%E7%A7%B0%E8%B7%8C%E6%B2%A1%E4%B8%80%E8%BE%86%E8%BF%88%E5%B7%B4%E8%B5%AB",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            12,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时55分 ~ 19时32分]"
+        },
         {
           "title": "superpowers 对比 openspec 、 speckit 这些编程工作流核心差异是什么？",
           "url": "https://www.zhihu.com/question/2019179509673411383",
@@ -560,31 +600,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时34分 ~ 05时31分]"
-        },
-        {
-          "title": "国际金价银价上涨",
-          "url": "https://www.douyin.com/hot/2549494",
-          "source": "抖音",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时40分]"
-        },
-        {
-          "title": "金价大跌 有商家称跌没一辆迈巴赫",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%9C%89%E5%95%86%E5%AE%B6%E7%A7%B0%E8%B7%8C%E6%B2%A1%E4%B8%80%E8%BE%86%E8%BF%88%E5%B7%B4%E8%B5%AB",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 18时40分]"
         },
         {
           "title": "智谱股价为何是小米的100倍",
