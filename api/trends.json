@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T09:44:04.066000+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-06-28T11:08:06.282717+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 11时08分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 11时08分]"
         },
         {
           "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
@@ -84,11 +84,12 @@
           "ranks": [
             6,
             9,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 09时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 11时08分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -97,11 +98,12 @@
           "ranks": [
             13,
             10,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时25分 ~ 09时44分]"
+          "appearance_count": 13,
+          "time_info": "[02时25分 ~ 11时08分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -110,11 +112,12 @@
           "ranks": [
             23,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 11时08分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -149,11 +152,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 09时44分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 11时08分]"
         },
         {
           "title": "黄灿灿 AI你猜错了",
@@ -177,6 +181,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
+          "url": "https://wallstreetcn.com/articles/3775673",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
         }
       ]
     },
