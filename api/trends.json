@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T02:43:47.714171+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-06-30T03:35:04.099677+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时35分]"
         },
         {
           "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
@@ -27,21 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时43分]"
-        },
-        {
-          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
-          "url": "https://wallstreetcn.com/livenews/3126270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时35分]"
         },
         {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
@@ -51,8 +38,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时35分]"
+        },
+        {
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
+          "url": "https://wallstreetcn.com/livenews/3126270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时35分]"
         },
         {
           "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
@@ -63,8 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时35分]"
         },
         {
           "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
@@ -75,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时35分]"
         },
         {
           "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
@@ -87,8 +88,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时35分]"
         },
         {
           "title": "AI手机进入Agent时代",
@@ -97,11 +98,12 @@
           "ranks": [
             26,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时35分]"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
@@ -113,8 +115,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 03时35分]"
         },
         {
           "title": "吴启华自曝卖肖像权拍AI电影",
@@ -122,11 +124,12 @@
           "source": "抖音",
           "ranks": [
             30,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 03时35分]"
         },
         {
           "title": "据The Information：亚马逊(AMZN.O)正在评估其他人工智能模型，以应对不断上升的Anthropic成本。",
@@ -146,7 +149,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
         },
@@ -174,11 +177,12 @@
           "ranks": [
             8,
             21,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时35分]"
         },
         {
           "title": "据The Information：Anthropic与亚马逊(AMZN.O)重新谈判的协议已改为基于token计费而非计算小时。",
