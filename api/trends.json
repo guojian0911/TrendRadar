@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T15:42:27.003053+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2026-06-29T17:36:45.484258+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -134,6 +134,20 @@
           "time_info": "[02时25分 ~ 07时24分]"
         },
         {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 17时36分]"
+        },
+        {
           "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
           "url": "https://wallstreetcn.com/livenews/3125692",
           "source": "华尔街见闻-快讯",
@@ -148,20 +162,6 @@
           "time_info": "[00时28分 ~ 06时23分]"
         },
         {
-          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
-          "url": "https://wallstreetcn.com/articles/3775705",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 15时42分]"
-        },
-        {
           "title": "据网络状况监测网站DownDetector：用户报告称，Apple Maps和Google Maps出现故障。",
           "url": "https://flash.jin10.com/detail/20260629082202960800",
           "source": "金十数据",
@@ -171,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "据知情人士称，由黑石集团支持的数据中心运营商AirTrunk接近在新加坡秘密提交房地产投资信托基金首次公开募股申请。此前由报道称，AirTrunk寻求通过此次发行筹资约15亿美元，这将使其成为新加坡自2017年以来规模最大的IPO。",
+          "url": "https://flash.jin10.com/detail/20260629173232059800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "韩国公布芯片、物理AI及AI数据中心领域的大型项目计划。",
@@ -184,6 +195,17 @@
           "time_info": "13时36分"
         },
         {
+          "title": "国务院：推进人工智能全学段教育，提升学生人工智能素养",
+          "url": "https://wallstreetcn.com/livenews/3126032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "韩国总统李在明：需要比其他国家更快地确保人工智能要素发展。",
           "url": "https://flash.jin10.com/detail/20260629130627114800",
           "source": "金十数据",
@@ -193,6 +215,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "清华姚班UP主详解AI专业就业",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 17时36分]"
         },
         {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
@@ -221,16 +256,17 @@
           "time_info": "[00时27分 ~ 02时25分]"
         },
         {
-          "title": "清华姚班UP主详解AI专业就业",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
-          "source": "bilibili 热搜",
+          "title": "马斯克：Grok 4.5内测已比肩Opus，今年每月都发布一个全新大模型！",
+          "url": "https://www.cls.cn/detail/2411430",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            10
+            12,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 17时36分]"
         },
         {
           "title": "全球科技股同步回调，券商研报：AI主线地位不改但再平衡需求上升",
@@ -257,16 +293,15 @@
           "time_info": "[08时42分 ~ 09时45分]"
         },
         {
-          "title": "马斯克：Grok 4.5内测已比肩Opus，今年每月都发布一个全新大模型！",
-          "url": "https://www.cls.cn/detail/2411430",
-          "source": "财联社热门",
+          "title": "当一个人的创造力加上 AI 杠杆，这代年轻人能做出多有趣的事来？",
+          "url": "https://www.zhihu.com/roundtable/opc",
+          "source": "知乎",
           "ranks": [
-            12,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时36分 ~ 15时42分]"
+          "time_info": "[15时42分 ~ 17时36分]"
         },
         {
           "title": "韩国宣布在芯片、物理人工智能和人工智能数据中心方面的重大项目计划。",
@@ -280,15 +315,15 @@
           "time_info": "13时36分"
         },
         {
-          "title": "当一个人的创造力加上 AI 杠杆，这代年轻人能做出多有趣的事来？",
-          "url": "https://www.zhihu.com/roundtable/opc",
-          "source": "知乎",
+          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2411748",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "17时36分"
         },
         {
           "title": "韩国在考场紧急封禁AI眼镜",
@@ -297,7 +332,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -319,7 +354,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -341,7 +376,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -413,7 +448,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
