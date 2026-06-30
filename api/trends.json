@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T04:39:32.519238+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-07-01T05:33:04.068669+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2055040930516824522",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 05时33分]"
         },
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -26,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 05时33分]"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -37,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 05时33分]"
         },
         {
           "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
@@ -48,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 05时33分]"
         },
         {
           "title": "终于明白AI免费和订阅的区别了",
