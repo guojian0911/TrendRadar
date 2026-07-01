@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T19:06:42.078264+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2026-07-01T20:57:58.735109+08:00",
+  "total_titles_processed": 1801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时29分 ~ 19时06分]"
+          "appearance_count": 10,
+          "time_info": "[07时29分 ~ 20时57分]"
         },
         {
           "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
@@ -71,18 +71,6 @@
           "time_info": "[00时44分 ~ 05时33分]"
         },
         {
-          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
-          "url": "https://www.cls.cn/detail/2413771",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时33分 ~ 17时09分]"
-        },
-        {
           "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
           "url": "https://www.zhihu.com/question/2055055883843925167",
           "source": "知乎",
@@ -94,8 +82,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 19时06分]"
+          "appearance_count": 7,
+          "time_info": "[11时08分 ~ 20时57分]"
+        },
+        {
+          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
+          "url": "https://www.cls.cn/detail/2413771",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时33分 ~ 17时09分]"
         },
         {
           "title": "AI热情驱动，标普、纳指创2020年来最佳单季表现，原油承压",
@@ -109,6 +109,19 @@
           "time_info": "[06时28分 ~ 06时29分]"
         },
         {
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 20时57分]"
+        },
+        {
           "title": "澳大利亚6月AIG/PWC制造业表现指数 -16.8，前值-22.4。",
           "url": "https://flash.jin10.com/detail/20260701070002377800",
           "source": "金十数据",
@@ -118,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "Meta正在构建云业务，以出售其富余的AI算力资源。",
+          "url": "https://wallstreetcn.com/livenews/3127424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "澳大利亚6月AIG建筑业表现指数 -38.1，前值-9.9。",
@@ -140,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "如何评价AI巨头之间的混战",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
@@ -177,18 +212,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
-          "url": "https://www.cls.cn/detail/2413957",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 19时06分]"
-        },
-        {
           "title": "终于明白AI免费和订阅的区别了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BDAI%E5%85%8D%E8%B4%B9%E5%92%8C%E8%AE%A2%E9%98%85%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BA%86%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -200,6 +223,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 02时37分]"
+        },
+        {
+          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
+          "url": "https://www.cls.cn/detail/2414015",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 20时57分]"
         },
         {
           "title": "AI预测2026英雄联盟MSI谁能夺冠",
@@ -214,6 +250,19 @@
           "time_info": "[09时47分 ~ 15时30分]"
         },
         {
+          "title": "美团开源万亿参数大模型 longcat-2.0，将对大模型领域和 AI 行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2055252813568119737",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 20时57分]"
+        },
+        {
           "title": "AI裁员 硅谷叶文洁出现了",
           "url": "https://s.weibo.com/weibo?q=AI%E8%A3%81%E5%91%98%20%E7%A1%85%E8%B0%B7%E5%8F%B6%E6%96%87%E6%B4%81%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -224,18 +273,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时30分 ~ 17时09分]"
-        },
-        {
-          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
-          "url": "https://www.cls.cn/detail/2414015",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 19时06分]"
         },
         {
           "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
@@ -285,18 +322,6 @@
           "time_info": "[07时29分 ~ 11时08分]"
         },
         {
-          "title": "美团开源万亿参数大模型 longcat-2.0，将对大模型领域和 AI 行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2055252813568119737",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 19时06分]"
-        },
-        {
           "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
           "url": "https://www.zhihu.com/question/2053591589927262082",
           "source": "知乎",
@@ -306,6 +331,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时32分 ~ 17时09分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
+          "url": "https://www.zhihu.com/question/2054320593491715458",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 20时57分]"
+        },
+        {
+          "title": "AI进入下半场：模型不再稀缺",
+          "url": "https://www.toutiao.com/trending/7657493112633167403/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 20时57分]"
+        },
+        {
+          "title": "AI漫剧 好看",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%AB%E5%89%A7%20%E5%A5%BD%E7%9C%8B&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 20时57分]"
         },
         {
           "title": "男子打到无人车全程给AI当教练",
@@ -328,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "Meta Platforms(META.O)盘前涨幅一度扩大至逾8%，其正在构建一项云业务，以出售过剩的AI算力。",
+          "url": "https://flash.jin10.com/detail/20260701204429091800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "据英国金融时报：苹果(AAPL.O)CEO库克与欧盟科技主管就“Siri AI”展开建设性的对话。",
@@ -385,17 +457,6 @@
           "time_info": "06时29分"
         },
         {
-          "title": "AI漫剧 好看",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%AB%E5%89%A7%20%E5%A5%BD%E7%9C%8B&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
           "title": "英国央行官员称AI模型犹如会说谎的青少年，智能体兴起或引发市场崩盘",
           "url": "https://wallstreetcn.com/livenews/3126902",
           "source": "华尔街见闻-快讯",
@@ -413,18 +474,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
-          "url": "https://www.zhihu.com/question/2054320593491715458",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -462,15 +512,15 @@
           "time_info": "00时45分"
         },
         {
-          "title": "AI进入下半场：模型不再稀缺",
-          "url": "https://www.toutiao.com/trending/7657493112633167403/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：我们在美国建设很多汽车工厂和人工智能项目。",
+          "url": "https://flash.jin10.com/detail/20260701203753909800",
+          "source": "金十数据",
           "ranks": [
-            30
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时06分"
+          "time_info": "20时57分"
         },
         {
           "title": "A股AI语料概念震荡反弹，新华传媒涨停，德生科技、读客文化、中信出版、果麦文化、人民网、同方股份、中国出版等跟涨。",
@@ -498,7 +548,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
@@ -509,8 +559,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时33分 ~ 19时06分]"
+          "appearance_count": 6,
+          "time_info": "[13时33分 ~ 20时57分]"
         },
         {
           "title": "黄金主权需求被严重低估，高盛重申年底5400美元的金价预测",
@@ -561,6 +611,18 @@
           "time_info": "[01时36分 ~ 03时35分]"
         },
         {
+          "title": "美国对Anthropic Fable 5顶尖模型“解禁”，Anthropic：周三起恢复访问",
+          "url": "https://wallstreetcn.com/articles/3775902",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 20时57分]"
+        },
+        {
           "title": "万物 Agent 的时代，拥有「手搓精神」的人都「长什么样」？",
           "url": "https://www.zhihu.com/topic/2048772796415571841/hot",
           "source": "知乎",
@@ -570,18 +632,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时08分 ~ 13时34分]"
-        },
-        {
-          "title": "美国对Anthropic Fable 5顶尖模型“解禁”，Anthropic：周三起恢复访问",
-          "url": "https://wallstreetcn.com/articles/3775902",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 19时06分]"
         },
         {
           "title": "Anthropic推出Claude Sonnet 5。",
@@ -616,6 +666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
@@ -695,13 +756,24 @@
           "time_info": "08时42分"
         },
         {
+          "title": "世界黄金协会：亚洲投资者（及消费者）在价格发现和金价走向中日益重要",
+          "url": "https://wallstreetcn.com/livenews/3127404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "金价大跌后未来怎么走",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E6%9C%AA%E6%9D%A5%E6%80%8E%E4%B9%88%E8%B5%B0",
           "source": "百度热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -748,6 +820,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "Anthropic将Kimi K2.7与Opus 4.8、GPT-5.5纳入同场安全测试",
+          "url": "https://wallstreetcn.com/livenews/3127389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "GLM5.2能代替Opus吗",
