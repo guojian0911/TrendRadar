@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T09:47:19.076952+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-07-01T11:08:53.926089+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -47,6 +47,18 @@
           "time_info": "[00时44分 ~ 07时29分]"
         },
         {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 11时08分]"
+        },
+        {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
@@ -56,18 +68,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时44分 ~ 05时33分]"
-        },
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时29分 ~ 09时47分]"
         },
         {
           "title": "AI热情驱动，标普、纳指创2020年来最佳单季表现，原油承压",
@@ -109,7 +109,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -136,6 +136,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 02时37分]"
+        },
+        {
+          "title": "AI预测2026英雄联盟MSI谁能夺冠",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B2026%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FMSI%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 11时08分]"
         },
         {
           "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
@@ -174,6 +186,17 @@
           "time_info": "[00时45分 ~ 01时36分]"
         },
         {
+          "title": "上半年银行理财收益率“冰火两重天”！AI算力类产品暴涨近200%、悦己经济跌超60%",
+          "url": "https://www.cls.cn/detail/2413162",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 11时08分]"
+        },
+        {
           "title": "男子打到无人车全程给AI当教练",
           "url": "https://www.toutiao.com/trending/7656723549856497714/",
           "source": "今日头条",
@@ -183,28 +206,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 00时45分]"
-        },
-        {
-          "title": "AI预测2026英雄联盟MSI谁能夺冠",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B2026%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FMSI%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "上半年银行理财收益率“冰火两重天”！AI算力类产品暴涨近200%、悦己经济跌超60%",
-          "url": "https://www.cls.cn/detail/2413162",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
         },
         {
           "title": "据英国金融时报：苹果(AAPL.O)CEO库克与欧盟科技主管就“Siri AI”展开建设性的对话。",
@@ -262,6 +263,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
           "title": "谷歌(GOOG.O)：Gemini Omni Flash正式进入公开预览阶段。",
           "url": "https://flash.jin10.com/detail/20260701000614387800",
           "source": "金十数据",
@@ -293,13 +305,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "A股AI语料概念震荡反弹，新华传媒涨停，德生科技、读客文化、中信出版、果麦文化、人民网、同方股份、中国出版等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701103204339800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "黄金主权需求被严重低估，高盛重申年底5400美元的金价预测",
+          "url": "https://flash.jin10.com/detail/20260701110435543800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
         {
           "title": "Anthropic推出Claude Science助力科研自动化",
           "url": "https://flash.jin10.com/detail/20260701011624752800",
@@ -346,6 +380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "万物 Agent 的时代，拥有「手搓精神」的人都「长什么样」？",
+          "url": "https://www.zhihu.com/topic/2048772796415571841/hot",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "报道：Anthropic的Fable模型出口限制将于今晚解除",
@@ -456,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "金十图示：2026年07月01日（周三）上海金早盘价为869.62元/克，较国际金价(870.23元/克)，低0.61元/克",
+          "url": "https://flash.jin10.com/detail/20260701103600829800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     }
