@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T04:36:14.215886+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-07-02T05:33:36.515753+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "如何评价AI巨头之间的混战",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "人工智能冲击婚纱影楼",
@@ -64,22 +64,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时36分]"
-        },
-        {
-          "title": "越来越多公司证明AI无法替代人工",
-          "url": "https://www.toutiao.com/trending/7657394487626416137/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            14,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
@@ -92,30 +78,23 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时33分]"
+        },
+        {
+          "title": "越来越多公司证明AI无法替代人工",
+          "url": "https://www.toutiao.com/trending/7657394487626416137/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            14,
+            8,
+            4,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时36分]"
-        },
-        {
-          "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
-          "url": "https://flash.jin10.com/detail/20260702041739954800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
-          "url": "https://flash.jin10.com/detail/20260702041320467800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "[01时37分 ~ 05时33分]"
         },
         {
           "title": "报道：SpaceX开发出类似手机的AI原型机",
@@ -131,6 +110,18 @@
           "time_info": "[02时40分 ~ 04时36分]"
         },
         {
+          "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
+          "url": "https://flash.jin10.com/detail/20260702041739954800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时33分]"
+        },
+        {
           "title": "SpaceX披露手机形态AI设备原型 采用高通芯片并接入xAI",
           "url": "https://flash.jin10.com/detail/20260702020830991800",
           "source": "金十数据",
@@ -143,6 +134,18 @@
           "time_info": "[02时40分 ~ 03时34分]"
         },
         {
+          "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
+          "url": "https://flash.jin10.com/detail/20260702041320467800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时33分]"
+        },
+        {
           "title": "据华尔街日报：消息人士透露，该原型机将运行在集成SpaceX(SPCX.O)旗下xAI人工智能技术的专有操作系统上。该原型机设计时尚，比iPhone更纤薄。该设备将采用高通(QCOM.O)骁龙芯片组。",
           "url": "https://flash.jin10.com/detail/20260702020102144800",
           "source": "金十数据",
@@ -153,6 +156,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时40分 ~ 03时34分]"
+        },
+        {
+          "title": "如何看待 rust 2026 roadmap 计划实现 Move Trait, 移除 Pin?",
+          "url": "https://www.zhihu.com/question/2055677703194403478",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 05时33分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）围绕人工智能（AI）准确率问题的政策声明征求意见。",
@@ -191,17 +206,6 @@
           "time_info": "[00时51分 ~ 01时37分]"
         },
         {
-          "title": "如何看待 rust 2026 roadmap 计划实现 Move Trait, 移除 Pin?",
-          "url": "https://www.zhihu.com/question/2055677703194403478",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 04时36分]"
-        },
-        {
           "title": "据华尔街日报：消息人士透露，SpaceX(SPCX.O)已开发一款类似手机的设备原型，旨在改变人们与人工智能的交互方式。SpaceX在IPO前夕向部分投资者展示了该原型机。",
           "url": "https://flash.jin10.com/detail/20260702020034996800",
           "source": "金十数据",
@@ -224,13 +228,24 @@
           "time_info": "03时34分"
         },
         {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
           "title": "华尔街分析师丹·艾夫斯离开韦德布什 创办AI投资银行",
           "url": "https://flash.jin10.com/detail/20260702033153805800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -270,8 +285,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
@@ -283,8 +298,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "金价",
@@ -296,8 +311,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时33分]"
         },
         {
           "title": "美国对Anthropic的Mythos模型设限，外国企业陷入不确定状态",
