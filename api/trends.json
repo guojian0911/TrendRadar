@@ -1,15 +1,11 @@
 {
-  "generated_at": "2026-07-01T15:32:11.184008+08:00",
-  "total_titles_processed": 1353,
-  "failed_sources": [
-    "baidu",
-    "wallstreetcn-hot",
-    "bilibili-hot-search"
-  ],
+  "generated_at": "2026-07-01T17:09:23.565967+08:00",
+  "total_titles_processed": 1484,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -22,6 +18,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时44分 ~ 07时29分]"
+        },
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 17时09分]"
         },
         {
           "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
@@ -37,18 +45,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时44分 ~ 08时42分]"
-        },
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 15时30分]"
         },
         {
           "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
@@ -74,6 +70,18 @@
           "time_info": "[00时44分 ~ 05时33分]"
         },
         {
+          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
+          "url": "https://www.cls.cn/detail/2413771",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时33分 ~ 17时09分]"
+        },
+        {
           "title": "AI热情驱动，标普、纳指创2020年来最佳单季表现，原油承压",
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
@@ -83,6 +91,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 06时29分]"
+        },
+        {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 17时09分]"
         },
         {
           "title": "澳大利亚6月AIG/PWC制造业表现指数 -16.8，前值-22.4。",
@@ -113,7 +135,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -140,30 +162,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
-          "url": "https://www.cls.cn/detail/2413771",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时33分 ~ 15时32分]"
-        },
-        {
-          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
-          "url": "https://www.zhihu.com/question/2055055883843925167",
-          "source": "知乎",
-          "ranks": [
-            19,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 15时32分]"
-        },
-        {
           "title": "终于明白AI免费和订阅的区别了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BDAI%E5%85%8D%E8%B4%B9%E5%92%8C%E8%AE%A2%E9%98%85%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BA%86%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -177,6 +175,18 @@
           "time_info": "[00时44分 ~ 02时37分]"
         },
         {
+          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
+          "url": "https://www.cls.cn/detail/2413870",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时30分 ~ 17时09分]"
+        },
+        {
           "title": "AI预测2026英雄联盟MSI谁能夺冠",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B2026%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FMSI%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0",
           "source": "bilibili 热搜",
@@ -187,6 +197,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时47分 ~ 15时30分]"
+        },
+        {
+          "title": "AI裁员 硅谷叶文洁出现了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A3%81%E5%91%98%20%E7%A1%85%E8%B0%B7%E5%8F%B6%E6%96%87%E6%B4%81%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时30分 ~ 17时09分]"
         },
         {
           "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
@@ -213,17 +235,6 @@
           "time_info": "[07时29分 ~ 08时42分]"
         },
         {
-          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
-          "url": "https://www.cls.cn/detail/2413870",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 15时32分]"
-        },
-        {
           "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
           "url": "https://wallstreetcn.com/livenews/3126913",
           "source": "华尔街见闻-快讯",
@@ -247,15 +258,15 @@
           "time_info": "[07时29分 ~ 11时08分]"
         },
         {
-          "title": "AI裁员 硅谷叶文洁出现了",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%A3%81%E5%91%98%20%E7%A1%85%E8%B0%B7%E5%8F%B6%E6%96%87%E6%B4%81%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
+          "url": "https://www.zhihu.com/question/2053591589927262082",
+          "source": "知乎",
           "ranks": [
-            16
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时30分 ~ 15时32分]"
+          "time_info": "[15时32分 ~ 17时09分]"
         },
         {
           "title": "男子打到无人车全程给AI当教练",
@@ -269,15 +280,37 @@
           "time_info": "[00时44分 ~ 00时45分]"
         },
         {
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "软银：已执行对OpenAI300亿美元后续投资中的100亿美元。 计划于10月1日进行对OpenAI的第三轮投资。",
           "url": "https://wallstreetcn.com/livenews/3127224",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
+          "url": "https://www.cls.cn/detail/2414015",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "据英国金融时报：苹果(AAPL.O)CEO库克与欧盟科技主管就“Siri AI”展开建设性的对话。",
@@ -319,18 +352,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
-          "url": "https://www.zhihu.com/question/2053591589927262082",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -355,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "美团开源万亿参数大模型 longcat-2.0，将对大模型领域和 AI 行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2055252813568119737",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "谷歌(GOOG.O)：Gemini Omni Flash正式进入公开预览阶段。",
@@ -399,13 +432,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：现在判断第二轮效应已经结束还为时过早。 六月的行动从来就不是一次保险性加息。 今年通胀将维持在高位。2027年通胀仍将高于目标水平。高通胀可能引发第二轮效应。 对于7月和9月的决策，我将保持开放选项。仍需观望和平协议会带来什么影响。 目前尚未看到（通胀）向工资的传导效应。德国经济预测尚可，但我们还能做得更多。 养老金改革对德国来说是好消息。德国央行具备管理养老金的知识和专业能力。 养老金改革（有利于）欧洲资本市场。 人工智能在初期会略微推高通胀。非常乐观地认为人工智能将为我们带来更高的生产率。",
+          "url": "https://wallstreetcn.com/livenews/3127272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
+          "url": "https://www.zhihu.com/question/2055348161544295141",
+          "source": "知乎",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时33分 ~ 17时09分]"
+        },
         {
           "title": "黄金主权需求被严重低估，高盛重申年底5400美元的金价预测",
           "url": "https://flash.jin10.com/detail/20260701110435543800",
@@ -416,18 +472,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
-        },
-        {
-          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
-          "url": "https://www.zhihu.com/question/2055348161544295141",
-          "source": "知乎",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 15时32分]"
         },
         {
           "title": "Anthropic推出Claude Science助力科研自动化",
@@ -441,6 +485,19 @@
           "time_info": "01时36分"
         },
         {
+          "title": "Claude偷偷给中国用户打水印",
+          "url": "https://s.weibo.com/weibo?q=Claude%E5%81%B7%E5%81%B7%E7%BB%99%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E6%89%93%E6%B0%B4%E5%8D%B0&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时33分 ~ 17时09分]"
+        },
+        {
           "title": "Anthropic推出Claude Science，助力科研自动化",
           "url": "https://wallstreetcn.com/livenews/3126932",
           "source": "华尔街见闻-快讯",
@@ -452,18 +509,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时36分 ~ 03时35分]"
-        },
-        {
-          "title": "Claude偷偷给中国用户打水印",
-          "url": "https://s.weibo.com/weibo?q=Claude%E5%81%B7%E5%81%B7%E7%BB%99%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E6%89%93%E6%B0%B4%E5%8D%B0&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时33分 ~ 15时32分]"
         },
         {
           "title": "万物 Agent 的时代，拥有「手搓精神」的人都「长什么样」？",
@@ -498,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "美国对Anthropic Fable 5顶尖模型“解禁”，Anthropic：周三起恢复访问",
+          "url": "https://wallstreetcn.com/articles/3775902",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "报道：Anthropic的Fable模型出口限制将于今晚解除",
@@ -550,7 +606,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
