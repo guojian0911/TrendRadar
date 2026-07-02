@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T19:31:06.175308+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-07-02T21:46:53.367270+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 19时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 21时46分]"
         },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -65,8 +65,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 19时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 21时46分]"
         },
         {
           "title": "人工智能冲击婚纱影楼",
@@ -91,11 +91,26 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时30分 ~ 19时31分]"
+          "appearance_count": 9,
+          "time_info": "[07时30分 ~ 21时46分]"
+        },
+        {
+          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
+          "url": "https://wallstreetcn.com/articles/3776029",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时54分 ~ 21时46分]"
         },
         {
           "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
@@ -123,30 +138,30 @@
           "time_info": "[00时51分 ~ 06时29分]"
         },
         {
-          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
-          "url": "https://wallstreetcn.com/articles/3776029",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 19时31分]"
-        },
-        {
           "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
           "url": "https://www.zhihu.com/question/2055934590297150773",
           "source": "知乎",
           "ranks": [
             13,
             6,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 19时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时54分 ~ 21时46分]"
+        },
+        {
+          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
+          "url": "https://wallstreetcn.com/articles/3775997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 21时46分]"
         },
         {
           "title": "AI模型预测世界杯",
@@ -171,6 +186,17 @@
           "time_info": "13时54分"
         },
         {
+          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2415745",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "英媒： 白宫正加快人工智能模型标准制定计划",
           "url": "https://flash.jin10.com/detail/20260702071546206800",
           "source": "金十数据",
@@ -180,18 +206,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
-          "url": "https://wallstreetcn.com/articles/3775997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 19时31分]"
         },
         {
           "title": "越来越多公司证明AI无法替代人工",
@@ -332,6 +346,17 @@
           "time_info": "[05时33分 ~ 07时31分]"
         },
         {
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 21时46分]"
+        },
+        {
           "title": "AI已出现欺骗行为 联合国发出警告",
           "url": "https://www.baidu.com/s?wd=AI%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%AC%BA%E9%AA%97%E8%A1%8C%E4%B8%BA+%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A",
           "source": "百度热搜",
@@ -342,6 +367,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时48分 ~ 19时31分]"
+        },
+        {
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 21时46分]"
         },
         {
           "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
@@ -380,15 +417,15 @@
           "time_info": "[04时35分 ~ 05时33分]"
         },
         {
-          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
-          "url": "https://www.cls.cn/detail/2415416",
-          "source": "财联社热门",
+          "title": "好多人为啥根本意识不到，就算 AI 崩盘，消费级 DDR 内存也不会暴跌至远低于 2024 年的低位价格？",
+          "url": "https://www.zhihu.com/question/2052018919150450628",
+          "source": "知乎",
           "ranks": [
-            7
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时31分]"
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 21时46分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）围绕人工智能（AI）准确率问题的政策声明征求意见。",
@@ -414,15 +451,16 @@
           "time_info": "[19时29分 ~ 19时31分]"
         },
         {
-          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
-          "url": "https://www.cls.cn/detail/2415407",
-          "source": "财联社热门",
+          "title": "AI演员已经能演出情绪变化了",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
+            27,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时31分]"
+          "time_info": "[19时31分 ~ 21时46分]"
         },
         {
           "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
@@ -449,15 +487,15 @@
           "time_info": "[00时51分 ~ 01时37分]"
         },
         {
-          "title": "好多人为啥根本意识不到，就算 AI 崩盘，消费级 DDR 内存也不会暴跌至远低于 2024 年的低位价格？",
-          "url": "https://www.zhihu.com/question/2052018919150450628",
-          "source": "知乎",
+          "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
+          "url": "https://www.cls.cn/detail/2415670",
+          "source": "财联社热门",
           "ranks": [
-            19
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "据华尔街日报：消息人士透露，SpaceX(SPCX.O)已开发一款类似手机的设备原型，旨在改变人们与人工智能的交互方式。SpaceX在IPO前夕向部分投资者展示了该原型机。",
@@ -515,6 +553,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：就业数据与强劲经济状况相符。 尊重美联储的独立性。 经济增长没有理由必然导致通货膨胀。 相信沃什能够说服同事们接受他的观点。 （谈持股问题）英特尔的情况特殊。 我们正在与所有人工智能公司探讨分享收益。",
+          "url": "https://wallstreetcn.com/livenews/3128071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "英矽智能与武田制药达成一项价值最高可达6亿美元的AI赋能药物发现战略合作",
           "url": "https://wallstreetcn.com/livenews/3127690",
           "source": "华尔街见闻-快讯",
@@ -557,6 +606,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
+        },
+        {
+          "title": "美媒：中国人工智能发展愿景以人为本",
+          "url": "https://wallstreetcn.com/livenews/3128068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "脉脉发布校招数据：校招岗位量增长3.56%，AI岗位增长47.3%",
+          "url": "https://wallstreetcn.com/livenews/3128067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "报道：OpenAI提议让美国政府持有公司5%股份",
@@ -603,6 +674,17 @@
           "time_info": "16时48分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：我们正在与所有人工智能公司讨论分享收益的事宜。",
+          "url": "https://flash.jin10.com/detail/20260702211921655800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "Guggenheim称AI并非该行业的“丧钟”",
           "url": "https://wallstreetcn.com/livenews/3127515",
           "source": "华尔街见闻-快讯",
@@ -614,24 +696,13 @@
           "time_info": "00时51分"
         },
         {
-          "title": "AI演员已经能演出情绪变化了",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
           "title": "市场大跌AI行情要结束了吗",
           "url": "https://www.toutiao.com/trending/7657850303982603827/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
