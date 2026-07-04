@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-04T06:05:08.084079+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-07-04T08:01:35.804789+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
           "url": "https://wallstreetcn.com/articles/3776101",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 08时01分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -41,6 +42,41 @@
           "time_info": "[01时19分 ~ 04时58分]"
         },
         {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 08时01分]"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 08时01分]"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
@@ -52,26 +88,16 @@
           "time_info": "[06时04分 ~ 06时05分]"
         },
         {
-          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
-          "url": "https://wallstreetcn.com/livenews/3128844",
-          "source": "华尔街见闻-快讯",
+          "title": "Meta股价因AI进展不及预期下跌",
+          "url": "https://www.douyin.com/hot/2556589",
+          "source": "抖音",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 06时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 08时01分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -80,17 +106,6 @@
           "ranks": [
             8,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 06时05分]"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -115,11 +130,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 08时01分]"
+        },
+        {
+          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
+          "url": "https://wallstreetcn.com/livenews/3128844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时05分]"
+          "time_info": "[06时05分 ~ 08时01分]"
         },
         {
           "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
@@ -127,23 +155,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时05分]"
-        },
-        {
-          "title": "Meta股价因AI进展不及预期下跌",
-          "url": "https://www.douyin.com/hot/2556589",
-          "source": "抖音",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 06时05分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 08时01分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -163,11 +180,34 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 08时01分]"
+        },
+        {
+          "title": "韩国AI大跃进",
+          "url": "https://wallstreetcn.com/articles/3776121",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "如何看待AI模型蒸馏",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时05分]"
+          "time_info": "[08时00分 ~ 08时01分]"
         }
       ]
     },
@@ -175,6 +215,32 @@
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
       "match_count": 7,
       "titles": [
+        {
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 08时01分]"
+        },
+        {
+          "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2056394331271999624",
+          "source": "知乎",
+          "ranks": [
+            14,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 08时01分]"
+        },
         {
           "title": "曝阿里7月10日起全面禁用Claude",
           "url": "https://www.toutiao.com/trending/7658254613019102783/",
@@ -190,38 +256,12 @@
           "time_info": "[01时19分 ~ 06时05分]"
         },
         {
-          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
-          "url": "https://www.cls.cn/detail/2416593",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 06时05分]"
-        },
-        {
           "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
           "url": "https://www.zhihu.com/question/2056384180200498322",
           "source": "知乎",
           "ranks": [
             11,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 06时05分]"
-        },
-        {
-          "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/2056394331271999624",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18,
-            16
           ],
           "is_new": false,
           "appearance_count": 5,
