@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T08:01:35.804789+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-07-04T11:33:21.658375+08:00",
+  "total_titles_processed": 717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -31,6 +31,31 @@
           "time_info": "[01时19分 ~ 06时05分]"
         },
         {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 11时33分]"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时00分 ~ 11时33分]"
+        },
+        {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
@@ -52,29 +77,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时19分 ~ 08时01分]"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 08时01分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -208,13 +210,82 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://wallstreetcn.com/articles/3776134",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "常州市市长周伟调研人工智能上游产业",
+          "url": "https://flash.jin10.com/detail/20260704100159012800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
+          "url": "https://flash.jin10.com/detail/20260704095032353800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
+          "url": "https://flash.jin10.com/detail/20260704084017236800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2056394331271999624",
+          "source": "知乎",
+          "ranks": [
+            14,
+            18,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 11时33分]"
+        },
         {
           "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
           "url": "https://www.cls.cn/detail/2416593",
@@ -223,19 +294,6 @@
             13,
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 08时01分]"
-        },
-        {
-          "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/2056394331271999624",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18,
-            16
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -302,6 +360,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "Claude：正在调查多个模型中出现的异常错误。",
+          "url": "https://flash.jin10.com/detail/20260704083232326800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宇树高管谈具身智能ChatGPT时刻",
+          "url": "https://flash.jin10.com/detail/20260704110855518800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     }
