@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-04T21:11:37.742327+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-07-04T23:02:42.351946+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
-        {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 08时01分]"
-        },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
           "url": "https://wallstreetcn.com/articles/3776124",
@@ -30,8 +18,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时00分 ~ 23时02分]"
+        },
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[08时00分 ~ 21时11分]"
+          "time_info": "[01时19分 ~ 08时01分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -81,6 +81,18 @@
           "time_info": "[01时19分 ~ 08时01分]"
         },
         {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 23时02分]"
+        },
+        {
           "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
           "url": "https://wallstreetcn.com/articles/3776170",
           "source": "华尔街见闻",
@@ -106,6 +118,19 @@
           "time_info": "[06时04分 ~ 06时05分]"
         },
         {
+          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
+          "url": "https://wallstreetcn.com/articles/3776196",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 23时02分]"
+        },
+        {
           "title": "Meta股价因AI进展不及预期下跌",
           "url": "https://www.douyin.com/hot/2556589",
           "source": "抖音",
@@ -116,17 +141,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 08时01分]"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -192,18 +206,6 @@
           "time_info": "[04时58分 ~ 08时01分]"
         },
         {
-          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
-          "url": "https://wallstreetcn.com/articles/3776196",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 21时11分]"
-        },
-        {
           "title": "业内首个AI-eSIM产业协同平台成立",
           "url": "https://wallstreetcn.com/livenews/3128902",
           "source": "华尔街见闻-快讯",
@@ -241,6 +243,18 @@
           "time_info": "[04时58分 ~ 08时01分]"
         },
         {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 23时02分]"
+        },
+        {
           "title": "韩国AI大跃进",
           "url": "https://wallstreetcn.com/articles/3776121",
           "source": "华尔街见闻",
@@ -275,17 +289,6 @@
           "time_info": "[08时00分 ~ 08时01分]"
         },
         {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
           "title": "常州市市长周伟调研人工智能上游产业",
           "url": "https://flash.jin10.com/detail/20260704100159012800",
           "source": "金十数据",
@@ -308,6 +311,17 @@
           "time_info": "11时33分"
         },
         {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://flash.jin10.com/detail/20260704205119305800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "曝摄像头AirPodsPro项目暂停",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%91%84%E5%83%8F%E5%A4%B4AirPodsPro%E9%A1%B9%E7%9B%AE%E6%9A%82%E5%81%9C%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -325,7 +339,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
