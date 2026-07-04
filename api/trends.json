@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T17:18:48.437848+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-07-04T19:22:35.954765+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时00分 ~ 17时18分]"
+          "appearance_count": 6,
+          "time_info": "[08时00分 ~ 19时22分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -127,6 +128,19 @@
           "time_info": "[01时19分 ~ 04时58分]"
         },
         {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 19时22分]"
+        },
+        {
           "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
           "url": "https://wallstreetcn.com/livenews/3128834",
           "source": "华尔街见闻-快讯",
@@ -175,18 +189,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时43分 ~ 17时18分]"
-        },
-        {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 17时18分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -248,6 +250,17 @@
           "time_info": "[08时00分 ~ 08时01分]"
         },
         {
+          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
+          "url": "https://wallstreetcn.com/articles/3776196",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "常州市市长周伟调研人工智能上游产业",
           "url": "https://flash.jin10.com/detail/20260704100159012800",
           "source": "金十数据",
@@ -268,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "曝摄像头AirPodsPro项目暂停",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%91%84%E5%83%8F%E5%A4%B4AirPodsPro%E9%A1%B9%E7%9B%AE%E6%9A%82%E5%81%9C%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
@@ -404,7 +428,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
