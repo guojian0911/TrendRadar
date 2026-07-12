@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:55:16.838628+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-07-12T21:06:49.771189+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时50分 ~ 19时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 21时06分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时50分 ~ 19时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 21时06分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -87,11 +88,12 @@
           "url": "https://wallstreetcn.com/articles/3776722",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时06分]"
         },
         {
           "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
@@ -118,6 +120,19 @@
           "time_info": "[13时51分 ~ 19时55分]"
         },
         {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时06分]"
+        },
+        {
           "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
           "url": "https://wallstreetcn.com/livenews/3132380",
           "source": "华尔街见闻-快讯",
@@ -142,18 +157,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 07时50分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时55分]"
         },
         {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
