@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T22:52:05.912983+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2026-07-12T23:54:51.795630+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时50分 ~ 22时52分]"
+          "appearance_count": 20,
+          "time_info": "[00时50分 ~ 23时54分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时50分 ~ 22时52分]"
+          "appearance_count": 20,
+          "time_info": "[00时50分 ~ 23时54分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -42,6 +42,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时50分 ~ 04时03分]"
+        },
+        {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时54分 ~ 23时54分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -69,18 +81,6 @@
           "time_info": "[00时50分 ~ 07时50分]"
         },
         {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时54分 ~ 22时52分]"
-        },
-        {
           "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
           "url": "https://www.zhihu.com/question/2055029429290771542",
           "source": "知乎",
@@ -103,8 +103,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时54分]"
         },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -117,8 +117,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 22时52分]"
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 23时54分]"
         },
         {
           "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
