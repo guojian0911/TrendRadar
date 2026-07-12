@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T16:07:43.506269+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-07-12T18:22:41.867391+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时50分 ~ 16时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 18时22分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时50分 ~ 16时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 18时22分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -88,11 +88,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 16时07分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 18时22分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
@@ -119,6 +120,30 @@
           "time_info": "[05时43分 ~ 07时50分]"
         },
         {
+          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
+          "url": "https://wallstreetcn.com/livenews/3132380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 18时22分]"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 18时22分]"
+        },
+        {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
           "url": "https://www.cls.cn/detail/2423447",
           "source": "财联社热门",
@@ -130,38 +155,26 @@
           "time_info": "[04时02分 ~ 05时43分]"
         },
         {
-          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
-          "url": "https://wallstreetcn.com/livenews/3132380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 16时07分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 16时07分]"
-        },
-        {
           "title": "机构：HBM4价格今年下半年或涨至4-5美元/千比特 AI需求与产能瓶颈致全球DRAM半数产能被大厂锁定",
           "url": "https://flash.jin10.com/detail/20260712150627108800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
+        },
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "据福克斯新闻：人工智能连续第三个月成为美国裁员的主要原因。",
@@ -192,7 +205,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -214,7 +227,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         }
@@ -236,8 +249,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时02分 ~ 16时07分]"
+          "appearance_count": 10,
+          "time_info": "[04时02分 ~ 18时22分]"
         },
         {
           "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
