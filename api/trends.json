@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T14:10:30.052224+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2026-07-13T18:20:10.303601+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -74,8 +74,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 18时20分]"
+        },
+        {
+          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 18时20分]"
+        },
+        {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
@@ -91,16 +115,28 @@
           "time_info": "[01时55分 ~ 07时47分]"
         },
         {
-          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
-          "source": "澎湃新闻",
+          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
+          "url": "https://www.cls.cn/detail/2424196",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            13
+            6,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时10分]"
+          "time_info": "[14时10分 ~ 18时20分]"
+        },
+        {
+          "title": "“存储双雄”又暴跌！韩国央行发声：AI驱动的芯片超级周期将持续",
+          "url": "https://www.cls.cn/detail/2424084",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 18时20分]"
         },
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
@@ -108,11 +144,23 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 18时20分]"
+        },
+        {
+          "title": "AI需求蔓延至成熟制程 台积电拟上调报价 预计明年1月生效",
+          "url": "https://www.cls.cn/detail/2424076",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "苹果指控OpenAI偷窃商业机密",
@@ -148,6 +196,17 @@
           "time_info": "[10时10分 ~ 10时11分]"
         },
         {
+          "title": "华尔街已消化不动？AI超级巨头的“无底洞”举债 正遭遇大跌回应",
+          "url": "https://www.cls.cn/detail/2424096",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
           "title": "印度本土为何跑不出一家OpenAI",
           "url": "https://www.toutiao.com/trending/7661777860511665706/",
           "source": "今日头条",
@@ -159,35 +218,13 @@
           "time_info": "[10时10分 ~ 10时11分]"
         },
         {
-          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
-          "url": "https://www.cls.cn/detail/2424196",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
           "title": "A股AI应用概念局部异动，中国软件直线涨停，浪潮软件触及涨停，国子软件、绿盟科技、诚迈科技、久其软件等快速冲高。",
           "url": "https://wallstreetcn.com/livenews/3132644",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        },
-        {
-          "title": "“存储双雄”又暴跌！韩国央行发声：AI驱动的芯片超级周期将持续",
-          "url": "https://www.cls.cn/detail/2424084",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -198,9 +235,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "【沪电股份：预计上半年净利润同比增长68.17%–78.28%】沪电股份公告，预计2026年上半年净利润为28.3亿元–30亿元，同比增长68.17%–78.28%。受益于高速交换机、AI服务器、高性能计算及智能汽车等应用领域的结构性需求，叠加公司产品结构的持续优化，预计2026年上半年公司营业收入和净利润较上年同期均有较快增长。",
+          "url": "https://wallstreetcn.com/livenews/3132790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "韩国总统李在明：将设立“未来应对基金”，将超额税收收入引导至有成效的未来投资项目。将政府支持引导至芯片、AI数据中心和物理AI三大巨型项目。",
@@ -209,7 +257,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -220,9 +268,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "《扩大消费“十五五”规划》：深入推进“人工智能+消费”，增加人工智能手机和电脑、智能穿戴、智能机器人、桌面级三维（3D）打印设备等新一代智能终端产品有效供给",
+          "url": "https://wallstreetcn.com/livenews/3132767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "特斯拉次时代AI芯片AI5，已完成设计定案，即将进入大规模量产准备阶段。该芯片由三星电子德州泰勒厂采用2纳米制程制造。 (台湾电子时报)",
@@ -231,7 +290,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         }
