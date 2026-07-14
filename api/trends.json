@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T12:48:07.028278+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-07-14T15:08:36.047575+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 12时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 15时08分]"
         },
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 12时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 15时08分]"
         },
         {
           "title": "解锁2026世界人工智能大会新亮点",
@@ -72,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 12时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 15时08分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -94,8 +94,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 15时08分]"
         },
         {
           "title": "QuestMobile发布AI应用市场发展半年报，豆包月活居首",
@@ -104,7 +104,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -153,8 +153,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 15时08分]"
         },
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -164,19 +164,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 15时08分]"
         },
         {
           "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 15时08分]"
         },
         {
           "title": "险资年内密集参设股权投资基金，布局AI、半导体等领域",
@@ -190,13 +191,24 @@
           "time_info": "07时49分"
         },
         {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
           "url": "https://flash.jin10.com/detail/20260714122538668800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -221,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
+        },
+        {
+          "title": "AI杀死时尚行业",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "全球AI龙头股共振下跌，机构称后续关注三个信号",
@@ -254,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
+        },
+        {
+          "title": "AI脸 恐怖谷效应",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "LG电子与GS E&C共同开发下一代AI家居解决方案",
@@ -306,7 +340,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -358,8 +392,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时49分 ~ 12时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时49分 ~ 15时08分]"
         },
         {
           "title": "金价俯冲谁还在逆势买金",
@@ -426,7 +460,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
