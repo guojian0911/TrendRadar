@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T07:48:07.809677+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-07-15T09:53:05.543116+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -31,19 +31,6 @@
           "time_info": "[01时08分 ~ 07时48分]"
         },
         {
-          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
-          "url": "https://www.zhihu.com/question/2060385485915263811",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时48分]"
-        },
-        {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
           "url": "https://wallstreetcn.com/articles/3776903",
           "source": "华尔街见闻",
@@ -54,8 +41,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时48分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 09时53分]"
+        },
+        {
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 09时53分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -67,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时48分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 09时53分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -79,11 +80,28 @@
             10,
             13,
             27,
-            23
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 09时53分]"
+        },
+        {
+          "title": "UP主解读AI浪潮下的资本周期",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            26,
+            10,
+            28,
+            19,
+            21
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时48分]"
+          "time_info": "[01时08分 ~ 09时53分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
@@ -95,23 +113,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时48分]"
-        },
-        {
-          "title": "UP主解读AI浪潮下的资本周期",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            26,
-            10,
-            28,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 07时48分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 09时53分]"
         },
         {
           "title": "经纬度：中国人工智能发展的战略定力",
@@ -124,6 +127,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时08分 ~ 05时54分]"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -293,7 +307,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -304,7 +318,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -337,7 +351,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -348,7 +362,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -397,6 +411,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "据媒体报道，人工智能云计算公司 CoreWeave正在探索使用金融衍生品，作为防范未来内存和存储芯片价格下跌的潜在对冲手段。",
+          "url": "https://wallstreetcn.com/livenews/3133955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "谷歌公司位于美国阿肯色州（Arkansas）的2.5 GWDC光伏项目破土动工。 Steel River能源中心将新增2.9 GWh电池储能。",
           "url": "https://wallstreetcn.com/livenews/3133774",
           "source": "华尔街见闻-快讯",
@@ -411,7 +436,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
@@ -421,11 +446,12 @@
             4,
             6,
             18,
-            17
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时10分 ~ 07时48分]"
+          "appearance_count": 11,
+          "time_info": "[03时10分 ~ 09时53分]"
         },
         {
           "title": "金价又绷不住了网友直言想抄底",
@@ -455,6 +481,17 @@
           "time_info": "[05时54分 ~ 06时53分]"
         },
         {
+          "title": "恒指高开0.87%，报24551.34点；恒生科技指数涨0.78%。智谱涨超6%，中国人寿涨超4%，宁德时代、联想集团涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3133976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "花旗：随着通胀降温减轻美联储加息压力，预计铂金价格将反弹。",
           "url": "https://flash.jin10.com/detail/20260715003710951800",
           "source": "金十数据",
@@ -464,6 +501,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "ChatGPT出现故障",
+          "url": "https://www.baidu.com/s?wd=ChatGPT%E5%87%BA%E7%8E%B0%E6%95%85%E9%9A%9C",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         }
       ]
     }
