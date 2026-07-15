@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T19:27:05.081107+08:00",
-  "total_titles_processed": 1509,
+  "generated_at": "2026-07-15T21:24:10.977740+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 74,
+      "match_count": 79,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -57,6 +57,22 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时08分 ~ 09时53分]"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            7,
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时52分 ~ 21时24分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -118,30 +134,52 @@
           "time_info": "[01时08分 ~ 09时53分]"
         },
         {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
+          "title": "5张图看懂中国人工智能进化之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时24分]"
+        },
+        {
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
             4,
-            7,
-            10,
-            11
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时24分]"
+        },
+        {
+          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时24分]"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6,
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时52分 ~ 19时27分]"
-        },
-        {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 19时27分]"
+          "time_info": "[12时47分 ~ 21时24分]"
         },
         {
           "title": "经纬度：中国人工智能发展的战略定力",
@@ -156,37 +194,27 @@
           "time_info": "[01时08分 ~ 05时54分]"
         },
         {
-          "title": "5张图看懂中国人工智能进化之路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
-          "source": "澎湃新闻",
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 21时24分]"
         },
         {
-          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
-          "source": "澎湃新闻",
+          "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
+          "url": "https://www.cls.cn/detail/2427348",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
-        },
-        {
-          "title": "国行苹果AI完成备案",
-          "url": "https://www.douyin.com/hot/2572485",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "time_info": "[21时23分 ~ 21时24分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -198,6 +226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 01时09分]"
+        },
+        {
+          "title": "摩根士丹利CEO：预计人工智能资本支出将持续增长。",
+          "url": "https://flash.jin10.com/detail/20260715210906228800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "梁文锋登顶全球大模型首富",
@@ -222,6 +261,18 @@
           "time_info": "01时09分"
         },
         {
+          "title": "“Apple智能”等7款提供手机端侧生成式人工智能服务已备案",
+          "url": "https://www.cls.cn/detail/2427185",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 21时24分]"
+        },
+        {
           "title": "【佰维存储：预计上半年净利润70亿元至75亿元，上年同期亏损2.26亿元】本期业绩大幅增长，主要受益于AI算力爆发与存储行业进入高景气周期，公司的产品和客户结构持续优化，同时公司在芯片设计、解决方案、先进封测及测试设备等领域不断加大投入力度，增强市场竞争力。",
           "url": "https://wallstreetcn.com/livenews/3134270",
           "source": "华尔街见闻-快讯",
@@ -231,19 +282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
-        },
-        {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            14,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 19时27分]"
         },
         {
           "title": "美联储理事巴尔：迄今几乎没有证据表明，人工智能已在广泛范围内导致就业岗位流失。",
@@ -269,6 +307,18 @@
           "time_info": "[17时57分 ~ 19时27分]"
         },
         {
+          "title": "AI乐观情绪重燃，阿斯麦绩后涨7%，韩股涨到熔断、SK海力士涨约9%，油价维持80美元高位",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时24分]"
+        },
+        {
           "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
           "url": "https://flash.jin10.com/detail/20260715044652988800",
           "source": "金十数据",
@@ -291,6 +341,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 05时54分]"
+        },
+        {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时24分]"
         },
         {
           "title": "市场消息：OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。",
@@ -329,6 +391,17 @@
           "time_info": "[01时08分 ~ 03时11分]"
         },
         {
+          "title": "苹果AI在中国完成备案",
+          "url": "https://www.toutiao.com/trending/7662353903802974258/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时24分]"
+        },
+        {
           "title": "AI 编程时代，被誉为「软件工程圣经」的《人月神话》，有哪些理论过时了？",
           "url": "https://www.zhihu.com/question/2058996805182960802",
           "source": "知乎",
@@ -340,18 +413,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时11分 ~ 19时27分]"
-        },
-        {
-          "title": "“Apple智能”等7款提供手机端侧生成式人工智能服务已备案",
-          "url": "https://www.cls.cn/detail/2427185",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 19时27分]"
         },
         {
           "title": "苹果AI国行版已过审",
@@ -390,28 +451,6 @@
           "time_info": "[04时55分 ~ 05时54分]"
         },
         {
-          "title": "AI乐观情绪重燃，阿斯麦绩后涨7%，韩股涨到熔断、SK海力士涨约9%，油价维持80美元高位",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
-        },
-        {
-          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
-          "url": "https://www.cls.cn/detail/2427193",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
-        },
-        {
           "title": "AI短剧以假乱真了",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -422,17 +461,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 15时11分]"
-        },
-        {
-          "title": "苹果AI在中国完成备案",
-          "url": "https://www.toutiao.com/trending/7662353903802974258/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
@@ -457,6 +485,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 15时11分]"
+        },
+        {
+          "title": "当一个孩子问「我为什么要学自己不会的东西，用 AI 不就知道了」，你会怎么回答？",
+          "url": "https://www.zhihu.com/question/2057919284106498140",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
         },
         {
           "title": "OpenAI计划推出家用智能音箱",
@@ -564,7 +603,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -602,13 +641,24 @@
           "time_info": "01时09分"
         },
         {
+          "title": "市场消息：3M与微软宣布战略合作伙伴关系，推动人工智能数据中心基础设施和企业转型。",
+          "url": "https://flash.jin10.com/detail/20260715210127764800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "知网：对AI署名论文已做下架处理",
           "url": "https://wallstreetcn.com/livenews/3134318",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -630,7 +680,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -718,7 +768,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -773,7 +823,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -864,6 +914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "苹果AI完成国内备案，千问、百度各有合作侧重",
+          "url": "https://wallstreetcn.com/livenews/3134386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         }
       ]
     },
