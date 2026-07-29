@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T13:46:51.294723+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-07-29T16:31:56.187434+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 13时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 16时31分]"
         },
         {
           "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
@@ -59,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 13时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 16时31分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -168,6 +168,18 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时59分 ~ 16时31分]"
+        },
+        {
           "title": "黄仁勋重申支持开放权重AI模型",
           "url": "https://flash.jin10.com/detail/20260729034255257800",
           "source": "金十数据",
@@ -204,17 +216,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "会计被AI取代的概率",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%9A%E8%AE%A1%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
           "title": "人工智能相关产品成为中国外贸新名片",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9B%B8%E5%85%B3%E4%BA%A7%E5%93%81%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%96%B0%E5%90%8D%E7%89%87%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -237,16 +238,16 @@
           "time_info": "10时51分"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
+          "title": "会计被AI取代的概率",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%9A%E8%AE%A1%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时59分 ~ 13时46分]"
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 16时31分]"
         },
         {
           "title": "AI剧 一本万利",
@@ -309,6 +310,18 @@
           "time_info": "[06时59分 ~ 08时02分]"
         },
         {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 16时31分]"
+        },
+        {
           "title": "黄仁勋呼吁支持开源权重人工智能模型",
           "url": "https://wallstreetcn.com/livenews/3141151",
           "source": "华尔街见闻-快讯",
@@ -358,6 +371,17 @@
           "time_info": "[06时59分 ~ 08时02分]"
         },
         {
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 16时31分]"
+        },
+        {
           "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
           "url": "https://www.zhihu.com/question/2065097727604741240",
           "source": "知乎",
@@ -404,15 +428,15 @@
           "time_info": "06时00分"
         },
         {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时46分"
+          "time_info": "16时31分"
         },
         {
           "title": "ASM业绩指引超预期，AI热潮提振芯片设备需求",
@@ -424,17 +448,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
         },
         {
           "title": "工科博士谈AI时代专业选择",
@@ -492,6 +505,17 @@
           "time_info": "02时09分"
         },
         {
+          "title": "券商晨会精华：AI驱动半导体产业资本开支上行，半导体设备开启新一轮成长周期",
+          "url": "https://www.cls.cn/detail/2439569",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "马克·扎克伯格称，美国不应该封堵中国人工智能，在美国禁止中国人工智能不会奏效。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3141379",
           "source": "华尔街见闻-快讯",
@@ -512,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "明星为什么愿意把脸“卖”给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%BF%E6%84%8F%E6%8A%8A%E8%84%B8%E2%80%9C%E5%8D%96%E2%80%9D%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "AI重现被困师生救援事件",
@@ -547,6 +582,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "闲鱼：AI订单半年成交近千万，同比增157%",
+          "url": "https://wallstreetcn.com/livenews/3141553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "AI热潮推动数据存储需求，希捷科技第四财季利润飙升",
           "url": "https://flash.jin10.com/detail/20260729042841314800",
           "source": "金十数据",
@@ -575,7 +621,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -600,6 +646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "闲鱼：AI订单半年成交近千万，同比增157%",
+          "url": "https://flash.jin10.com/detail/20260729154718441800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "华尔街大行被视为“AI周边板块”，分析师：股价料因多重利好而跑赢大盘",
@@ -704,8 +761,19 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "港股收盘：恒生指数收涨1.96%，恒生科技指数收涨2.84%。理想汽车涨近10%，小米集团涨近9%，MINIMAX涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/3141566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
         {
           "title": "路透调查：分析师自2023年底以来首次下调金价预测，但料央行买盘将缓解跌势",
           "url": "https://flash.jin10.com/detail/20260728233407678800",
