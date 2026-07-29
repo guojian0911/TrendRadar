@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T16:31:56.187434+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-07-29T19:20:43.409312+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 64,
+      "match_count": 68,
       "titles": [
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 16时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 19时20分]"
         },
         {
           "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
@@ -157,6 +157,19 @@
           "time_info": "[02时09分 ~ 08时02分]"
         },
         {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时59分 ~ 19时20分]"
+        },
+        {
           "title": "美股收盘：AI概念延续“血色一夜”",
           "url": "https://www.toutiao.com/trending/7667714133717945882/",
           "source": "今日头条",
@@ -168,16 +181,17 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
           "ranks": [
-            10,
-            8
+            8,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时59分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时46分 ~ 19时20分]"
         },
         {
           "title": "黄仁勋重申支持开放权重AI模型",
@@ -236,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "KT宫斗实锤,Aiming被抬走",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356617&amp;topic_name=KT%E5%AE%AB%E6%96%97%E5%AE%9E%E9%94%A4%2CAiming%E8%A2%AB%E6%8A%AC%E8%B5%B0",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "会计被AI取代的概率",
@@ -310,18 +335,6 @@
           "time_info": "[06时59分 ~ 08时02分]"
         },
         {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 16时31分]"
-        },
-        {
           "title": "黄仁勋呼吁支持开源权重人工智能模型",
           "url": "https://wallstreetcn.com/livenews/3141151",
           "source": "华尔街见闻-快讯",
@@ -345,6 +358,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时12分 ~ 06时59分]"
+        },
+        {
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时46分 ~ 19时20分]"
         },
         {
           "title": "抖火杯AI番外大电影",
@@ -371,15 +395,39 @@
           "time_info": "[06时59分 ~ 08时02分]"
         },
         {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
           "ranks": [
-            8
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时46分 ~ 16时31分]"
+          "time_info": "[16时31分 ~ 19时20分]"
+        },
+        {
+          "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778163",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 19时20分]"
+        },
+        {
+          "title": "明星为什么愿意把脸“卖”给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%BF%E6%84%8F%E6%8A%8A%E8%84%B8%E2%80%9C%E5%8D%96%E2%80%9D%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 19时20分]"
         },
         {
           "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
@@ -417,6 +465,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "外交部批日本右翼用AI歪曲侵华历史",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%89%B9%E6%97%A5%E6%9C%AC%E5%8F%B3%E7%BF%BC%E7%94%A8AI%E6%AD%AA%E6%9B%B2%E4%BE%B5%E5%8D%8E%E5%8E%86%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "SpaceXAI：GROK 4.5现已在GitHub Copilot上发布。",
           "url": "https://flash.jin10.com/detail/20260729050426478800",
           "source": "金十数据",
@@ -426,17 +485,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
-        },
-        {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         },
         {
           "title": "ASM业绩指引超预期，AI热潮提振芯片设备需求",
@@ -483,17 +531,6 @@
           "time_info": "08时02分"
         },
         {
-          "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778163",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
           "title": "OpenAI与Anthropic员工联名致信 呼吁美政府建立机制监控AI发展",
           "url": "https://flash.jin10.com/detail/20260729012330560800",
           "source": "金十数据",
@@ -511,9 +548,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "马克·扎克伯格称，美国不应该封堵中国人工智能，在美国禁止中国人工智能不会奏效。（英国金融时报）",
@@ -536,17 +584,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "明星为什么愿意把脸“卖”给AI",
-          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%BF%E6%84%8F%E6%8A%8A%E8%84%B8%E2%80%9C%E5%8D%96%E2%80%9D%E7%BB%99AI",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         },
         {
           "title": "AI重现被困师生救援事件",
@@ -588,7 +625,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -648,13 +685,24 @@
           "time_info": "02时09分"
         },
         {
+          "title": "马来西亚拟推出“全民人工智能计划”",
+          "url": "https://wallstreetcn.com/livenews/3141647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "闲鱼：AI订单半年成交近千万，同比增157%",
           "url": "https://flash.jin10.com/detail/20260729154718441800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -761,7 +809,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "港股收盘：恒生指数收涨1.96%，恒生科技指数收涨2.84%。理想汽车涨近10%，小米集团涨近9%，MINIMAX涨近8%。",
@@ -770,7 +818,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -797,6 +845,17 @@
           "time_info": "06时00分"
         },
         {
+          "title": "如何评价 Anthropic CEO 发布的文章《我们对于开放权重模型的立场》？",
+          "url": "https://www.zhihu.com/question/2065381249368299375",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "金十图示：2026年07月29日（周三）上海金早盘价为878.54元/克，较国际金价(877.92元/克)，高0.62元/克",
           "url": "https://flash.jin10.com/detail/20260729102641367800",
           "source": "金十数据",
@@ -806,6 +865,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "等待Codex输出时你都在干嘛",
+          "url": "https://s.weibo.com/weibo?q=%E7%AD%89%E5%BE%85Codex%E8%BE%93%E5%87%BA%E6%97%B6%E4%BD%A0%E9%83%BD%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     },
