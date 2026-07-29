@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T21:56:07.141119+08:00",
-  "total_titles_processed": 1578,
+  "generated_at": "2026-07-29T23:48:03.098344+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 73,
+      "match_count": 82,
       "titles": [
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -88,6 +88,20 @@
           "time_info": "[04时12分 ~ 08时02分]"
         },
         {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时59分 ~ 23时48分]"
+        },
+        {
           "title": "真逗,DeepSeek说要去吃饭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
           "source": "贴吧",
@@ -101,18 +115,19 @@
           "time_info": "[00时02分 ~ 13时46分]"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
           "ranks": [
-            10,
             8,
-            9,
-            7
+            4,
+            3,
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时59分 ~ 21时56分]"
+          "appearance_count": 7,
+          "time_info": "[13时46分 ~ 23时48分]"
         },
         {
           "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
@@ -126,20 +141,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时09分 ~ 13时46分]"
-        },
-        {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时46分 ~ 21时56分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
@@ -170,6 +171,18 @@
           "time_info": "[00时02分 ~ 08时02分]"
         },
         {
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时46分 ~ 23时48分]"
+        },
+        {
           "title": "AI公司 原版书籍销毁",
           "url": "https://s.weibo.com/weibo?q=AI%E5%85%AC%E5%8F%B8%20%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D%E9%94%80%E6%AF%81&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -183,6 +196,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时09分 ~ 08时02分]"
+        },
+        {
+          "title": "KT宫斗实锤,Aiming被抬走",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356617&amp;topic_name=KT%E5%AE%AB%E6%96%97%E5%AE%9E%E9%94%A4%2CAiming%E8%A2%AB%E6%8A%AC%E8%B5%B0",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 23时48分]"
         },
         {
           "title": "中国国产大模型不断刷新全球纪录",
@@ -207,6 +233,20 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            12,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 23时48分]"
+        },
+        {
           "title": "黄仁勋重申支持开放权重AI模型",
           "url": "https://flash.jin10.com/detail/20260729034255257800",
           "source": "金十数据",
@@ -224,7 +264,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -265,30 +305,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时46分 ~ 21时56分]"
-        },
-        {
-          "title": "KT宫斗实锤,Aiming被抬走",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356617&amp;topic_name=KT%E5%AE%AB%E6%96%97%E5%AE%9E%E9%94%A4%2CAiming%E8%A2%AB%E6%8A%AC%E8%B5%B0",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时56分]"
-        },
-        {
           "title": "报道：OceanBase寻求筹集高达30亿元人民币用于AI研发",
           "url": "https://wallstreetcn.com/livenews/3141392",
           "source": "华尔街见闻-快讯",
@@ -298,6 +314,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
+          "url": "https://wallstreetcn.com/livenews/3141787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 23时48分]"
         },
         {
           "title": "会计被AI取代的概率",
@@ -384,19 +424,6 @@
           "time_info": "[02时09分 ~ 04时13分]"
         },
         {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 21时56分]"
-        },
-        {
           "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3778163",
           "source": "华尔街见闻",
@@ -406,6 +433,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时51分 ~ 21时56分]"
+        },
+        {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 23时48分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -421,16 +460,16 @@
           "time_info": "[04时12分 ~ 06时59分]"
         },
         {
-          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
-          "url": "https://www.cls.cn/detail/2440260",
-          "source": "财联社热门",
+          "title": "AI手机大战全面开打",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            9
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时56分]"
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 23时48分]"
         },
         {
           "title": "抖火杯AI番外大电影",
@@ -469,6 +508,17 @@
           "time_info": "[16时31分 ~ 19时20分]"
         },
         {
+          "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
+          "url": "https://www.cls.cn/detail/2440344",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时47分 ~ 23时48分]"
+        },
+        {
           "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
           "url": "https://www.zhihu.com/question/2065097727604741240",
           "source": "知乎",
@@ -481,26 +531,37 @@
           "time_info": "[06时00分 ~ 06时59分]"
         },
         {
-          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2065710393360479149",
-          "source": "知乎",
+          "title": "AI漫剧走红,国动流量狂跌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
+          "source": "贴吧",
           "ranks": [
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
+          "time_info": "[23时47分 ~ 23时48分]"
         },
         {
-          "title": "AI手机大战全面开打",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
-          "source": "百度热搜",
+          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
+          "source": "澎湃新闻",
           "ranks": [
-            21
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
+          "time_info": "[23时47分 ~ 23时48分]"
+        },
+        {
+          "title": "外交部批日本右翼利用AI歪曲侵华历史",
+          "url": "https://www.toutiao.com/trending/7667310119856570418/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时47分 ~ 23时48分]"
         },
         {
           "title": "AI科技板块大跌原因",
@@ -546,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
+        },
+        {
+          "title": "伊拉克真主党旅（Kataib Hezbollah）：将“不可避免地”对美沙联合打击作出回应，可能针对美国在沙特境内的“工具”。 向伊拉克政府下最后通牒，要求在8月6日之前证明其能够捍卫伊拉克的主权。",
+          "url": "https://wallstreetcn.com/livenews/3141783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "ASM业绩指引超预期，AI热潮提振芯片设备需求",
@@ -603,6 +675,17 @@
           "time_info": "02时09分"
         },
         {
+          "title": "谷歌：Gemini语音功能支持屏幕上下文推理。",
+          "url": "https://flash.jin10.com/detail/20260729231413227800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "券商晨会精华：AI驱动半导体产业资本开支上行，半导体设备开启新一轮成长周期",
           "url": "https://www.cls.cn/detail/2439569",
           "source": "财联社热门",
@@ -612,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "谷歌：Gemini MACOS语音模式启用智能听写功能。",
+          "url": "https://flash.jin10.com/detail/20260729231407077800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "马克·扎克伯格称，美国不应该封堵中国人工智能，在美国禁止中国人工智能不会奏效。（英国金融时报）",
@@ -840,9 +934,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "摩根大通在市场情报（JPM Market Intel）警告称，下一轮抛售将不仅重创个股，还会波及各大指数。 “目前的焦点依然牢牢锁定在AI/科技/动量股（MOMO）的平仓解杠杆上。核心担忧包括来自中国的竞争威胁——即开源模型和DUV（深紫外光刻）生产，尽管今天中国特殊目的实体（SPEs）的股价再次下跌；此外还有循环融资以及杠杆所扮演的角色。英伟达信用违约互换（CDS）的利差走阔（作为资本支出的接收方，其自由现金流FCF正在上升）比超大规模云服务商（hyperscalers）的CDS走势更令人担忧。 由于我们账面上的拥挤交易风险尚未完全出清，我们继续维持因子对冲。值得注意的是，我们需要考虑从这里再下一个台阶时，是否会伴随着指数相关性的显著上升。”",
+          "url": "https://wallstreetcn.com/livenews/3141766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "上海市新增16款已完成备案的生成式人工智能服务",
