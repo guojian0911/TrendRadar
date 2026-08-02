@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T22:58:08.332084+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-08-02T23:59:41.311114+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
@@ -85,8 +85,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时51分 ~ 22时58分]"
+          "appearance_count": 10,
+          "time_info": "[13时51分 ~ 23时59分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
@@ -100,23 +100,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时53分 ~ 22时58分]"
-        },
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            10,
-            12,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时56分 ~ 22时58分]"
+          "appearance_count": 12,
+          "time_info": "[07时53分 ~ 23时59分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
@@ -132,6 +117,22 @@
           "time_info": "[06时49分 ~ 19时58分]"
         },
         {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            10,
+            12,
+            15,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时56分 ~ 23时59分]"
+        },
+        {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
@@ -142,8 +143,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时56分 ~ 22时58分]"
+          "appearance_count": 21,
+          "time_info": "[00时56分 ~ 23时59分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -182,6 +183,19 @@
           "time_info": "[16时12分 ~ 19时58分]"
         },
         {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时12分 ~ 23时59分]"
+        },
+        {
           "title": "AI生成的作品算艺术吗",
           "url": "https://www.douyin.com/hot/2591797",
           "source": "抖音",
@@ -194,17 +208,15 @@
           "time_info": "[00时56分 ~ 06时49分]"
         },
         {
-          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
-          "url": "https://www.cls.cn/detail/2443437",
-          "source": "财联社热门",
+          "title": "国产大模型调用量全球领先",
+          "url": "https://www.douyin.com/hot/2594706",
+          "source": "抖音",
           "ranks": [
-            13,
-            12,
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时12分 ~ 22时58分]"
+          "appearance_count": 4,
+          "time_info": "[21时18分 ~ 23时59分]"
         },
         {
           "title": "人工智能助力直肠癌个性化化疗",
@@ -220,17 +232,6 @@
           "time_info": "[00时57分 ~ 10时10分]"
         },
         {
-          "title": "国产大模型调用量全球领先",
-          "url": "https://www.douyin.com/hot/2594706",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时18分 ~ 22时58分]"
-        },
-        {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
           "url": "https://wallstreetcn.com/articles/3778505",
           "source": "华尔街见闻",
@@ -240,8 +241,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 22时58分]"
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 23时59分]"
         },
         {
           "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
@@ -289,11 +290,12 @@
           "ranks": [
             1,
             12,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时58分 ~ 22时58分]"
+          "appearance_count": 4,
+          "time_info": "[19时58分 ~ 23时59分]"
         },
         {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
@@ -308,6 +310,17 @@
           "time_info": "[10时10分 ~ 16时13分]"
         },
         {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时57分 ~ 23时59分]"
+        },
+        {
           "title": "便宜90%！美企偷偷换上中国大模型",
           "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%AE%9C90%25%EF%BC%81%E7%BE%8E%E4%BC%81%E5%81%B7%E5%81%B7%E6%8D%A2%E4%B8%8A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B",
           "source": "百度热搜",
@@ -319,15 +332,15 @@
           "time_info": "[18时29分 ~ 19时58分]"
         },
         {
-          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
-          "url": "https://wallstreetcn.com/articles/3778516",
-          "source": "华尔街见闻",
+          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时57分 ~ 22时58分]"
+          "appearance_count": 3,
+          "time_info": "[22时57分 ~ 23时59分]"
         },
         {
           "title": "中金：AI回调高度类似2000年四轮回撤，本轮企稳需三大压力缓解",
@@ -411,17 +424,6 @@
           "time_info": "[16时12分 ~ 16时13分]"
         },
         {
-          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时57分 ~ 22时58分]"
-        },
-        {
           "title": "陆毅鲍蕾看女儿做的AI生日短片",
           "url": "https://www.douyin.com/hot/2594728",
           "source": "抖音",
@@ -442,6 +444,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
+          "url": "https://www.zhihu.com/question/2067212789714778007",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
+          "url": "https://www.cls.cn/detail/2443548",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
