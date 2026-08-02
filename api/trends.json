@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T13:51:25.351493+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-08-02T16:13:04.886949+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
@@ -79,11 +79,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 13时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 16时13分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -94,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 13时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 16时13分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -107,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 13时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 16时13分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -148,6 +149,42 @@
           "time_info": "[00时57分 ~ 10时10分]"
         },
         {
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时49分 ~ 16时13分]"
+        },
+        {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 16时13分]"
+        },
+        {
+          "title": "中国AI大模型的优势在哪里",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 16时13分]"
+        },
+        {
           "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
           "url": "https://wallstreetcn.com/articles/3778491",
           "source": "华尔街见闻",
@@ -162,19 +199,6 @@
           "time_info": "[05时49分 ~ 13时51分]"
         },
         {
-          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
-          "url": "https://wallstreetcn.com/articles/3778497",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时49分 ~ 13时51分]"
-        },
-        {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
           "url": "https://flash.jin10.com/detail/20260802095047745800",
           "source": "金十数据",
@@ -186,18 +210,6 @@
           "time_info": "10时10分"
         },
         {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 13时51分]"
-        },
-        {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
           "url": "https://wallstreetcn.com/articles/3778495",
           "source": "华尔街见闻",
@@ -206,8 +218,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 16时13分]"
+        },
+        {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 16时13分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -220,6 +244,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时58分]"
+        },
+        {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 16时13分]"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -245,6 +280,17 @@
           "time_info": "[00时56分 ~ 00时57分]"
         },
         {
+          "title": "天才女友 AI片头",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%20AI%E7%89%87%E5%A4%B4&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 16时13分]"
+        },
+        {
           "title": "Visa(V.N)计划裁员2600人，因人工智能应用和成本削减推动重组。",
           "url": "https://flash.jin10.com/detail/20260802094512188800",
           "source": "金十数据",
@@ -256,24 +302,13 @@
           "time_info": "10时10分"
         },
         {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
           "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
           "url": "https://www.zhihu.com/question/2066611104294482895",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -301,9 +336,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“黑色黄金”价格打下来了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%89%B2%E9%BB%84%E9%87%91%E2%80%9D%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 16时13分]"
         }
       ]
     }
