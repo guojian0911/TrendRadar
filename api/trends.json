@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-06T05:02:37.202298+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-08-06T06:53:51.041786+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 06时53分]"
+        },
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
           "url": "https://wallstreetcn.com/articles/3778704",
@@ -20,15 +31,38 @@
           "time_info": "[01时39分 ~ 05时02分]"
         },
         {
-          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778691",
-          "source": "华尔街见闻",
+          "title": "Meta旗下AI入侵一公司系统",
+          "url": "https://flash.jin10.com/detail/20260806062228967800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "报道：继OpenAI、Anthropic之后，Meta的AI模型也入侵其他公司的系统",
+          "url": "https://wallstreetcn.com/livenews/3145632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 06时53分]"
         },
         {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
@@ -43,28 +77,17 @@
           "time_info": "[01时39分 ~ 03时22分]"
         },
         {
-          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
-          "url": "https://www.cls.cn/detail/2446407",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 05时02分]"
-        },
-        {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
           "url": "https://www.zhihu.com/question/2068265537105302957",
           "source": "知乎",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 06时53分]"
         },
         {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
@@ -75,8 +98,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 06时53分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -86,8 +109,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 06时53分]"
         },
         {
           "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
@@ -131,7 +154,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -158,6 +181,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
+          "url": "https://wallstreetcn.com/livenews/3145619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
           "title": "微软AI收入过半来自OpenAI 显示对合作伙伴依赖仍较高",
           "url": "https://flash.jin10.com/detail/20260806021844852800",
           "source": "金十数据",
@@ -167,6 +201,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "亚马逊旗下AWS与Anthropic、OpenAI构建合作伙伴关系。 三方将围绕AWS Continuum工作流合作。",
+          "url": "https://wallstreetcn.com/livenews/3145610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "私募资本涌入新兴市场，竞相为AI基础设施建设提供资金",
+          "url": "https://wallstreetcn.com/livenews/3145609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "DeepSeek把Claude拉进“斩杀线”",
@@ -227,7 +283,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Anthropic的Mythos模型在新网络安全事件中伪造身份欺骗人类",
@@ -239,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "国际金价涨超4%，重返4200美元上方",
+          "url": "https://wallstreetcn.com/livenews/3145608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         }
       ]
     }
