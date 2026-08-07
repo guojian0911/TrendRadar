@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T17:56:06.783656+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-08-07T18:47:48.169832+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 17时56分]"
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 18时47分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -25,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 18时47分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
@@ -44,8 +45,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 17时56分]"
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 18时47分]"
         },
         {
           "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
@@ -58,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 17时56分]"
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 18时47分]"
         },
         {
           "title": "眼镜店老板副业做的AI视频火到海外",
@@ -151,6 +152,45 @@
           "time_info": "16时52分"
         },
         {
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 18时47分]"
+        },
+        {
+          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
+          "url": "https://www.zhihu.com/question/2068986574256312589",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 18时47分]"
+        },
+        {
+          "title": "中国AI偶像能飞",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            27,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 18时47分]"
+        },
+        {
           "title": "汪峰公司因AI从1100人减到400人",
           "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA",
           "source": "百度热搜",
@@ -162,18 +202,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时31分 ~ 16时52分]"
-        },
-        {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 17时56分]"
         },
         {
           "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
@@ -201,6 +229,19 @@
           "time_info": "[08时38分 ~ 13时31分]"
         },
         {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时47分]"
+        },
+        {
           "title": "戚薇AI短剧 雷霆视角",
           "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -214,29 +255,26 @@
           "time_info": "[15时06分 ~ 17时56分]"
         },
         {
-          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
-          "url": "https://www.zhihu.com/question/2068986574256312589",
-          "source": "知乎",
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时06分 ~ 17时56分]"
+          "time_info": "[16时52分 ~ 18时47分]"
         },
         {
-          "title": "中国AI偶像能飞",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
-          "source": "bilibili 热搜",
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
           "ranks": [
-            29,
-            27,
             20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时06分 ~ 17时56分]"
+          "time_info": "[16时52分 ~ 18时47分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -251,38 +289,27 @@
           "time_info": "[08时38分 ~ 11时46分]"
         },
         {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时56分]"
-        },
-        {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
           "source": "凤凰网",
           "ranks": [
-            12
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时56分]"
+          "time_info": "[17时55分 ~ 18时47分]"
         },
         {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
+          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
+          "url": "https://www.cls.cn/detail/2448228",
+          "source": "财联社热门",
           "ranks": [
-            20
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时56分]"
+          "time_info": "[17时55分 ~ 18时47分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -296,15 +323,16 @@
           "time_info": "[08时38分 ~ 08时39分]"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
+          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
+          "url": "https://wallstreetcn.com/livenews/3146612",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时55分 ~ 17时56分]"
+          "time_info": "[17时56分 ~ 18时47分]"
         },
         {
           "title": "美银抛出激进预测：美联储将连续加息三次 AI支出周期不会脱轨",
@@ -316,17 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时38分 ~ 08时39分]"
-        },
-        {
-          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
-          "url": "https://www.cls.cn/detail/2448228",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 17时56分]"
         },
         {
           "title": "戚薇 授权AI",
@@ -453,17 +470,6 @@
           "time_info": "[08时38分 ~ 08时39分]"
         },
         {
-          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
-          "url": "https://wallstreetcn.com/livenews/3146612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
           "url": "https://wallstreetcn.com/articles/3778824",
           "source": "华尔街见闻",
@@ -497,6 +503,17 @@
           "time_info": "16时52分"
         },
         {
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "谷歌将人工智能管理重心迁至加州 全力迎战Anthropic与OpenAI",
           "url": "https://wallstreetcn.com/livenews/3146580",
           "source": "华尔街见闻-快讯",
@@ -525,7 +542,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -558,7 +575,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
