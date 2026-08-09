@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:48:23.362309+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-08-09T14:45:25.655634+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
             6,
             5,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 13时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 14时45分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -70,8 +71,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 13时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 14时45分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -100,8 +101,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 13时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 14时45分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -116,8 +117,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 13时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 14时45分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -170,11 +171,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 14时45分]"
         },
         {
           "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
@@ -195,11 +197,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 14时45分]"
         },
         {
           "title": "大爷听AI洒农药 150亩苗一夜枯萎",
@@ -240,6 +243,18 @@
           "time_info": "[09时13分 ~ 11时29分]"
         },
         {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 14时45分]"
+        },
+        {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
           "url": "https://wallstreetcn.com/articles/3778982",
           "source": "华尔街见闻",
@@ -264,17 +279,6 @@
           "time_info": "[09时13分 ~ 11时29分]"
         },
         {
-          "title": "AI推理前瞻——从基础设施建设到商业化变现",
-          "url": "https://wallstreetcn.com/articles/3778997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时48分]"
-        },
-        {
           "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
           "url": "https://wallstreetcn.com/articles/3779002",
           "source": "华尔街见闻",
@@ -283,8 +287,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 14时45分]"
         },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -360,7 +364,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -379,7 +383,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价猛涨踏空的人哭麻了",
@@ -394,6 +398,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时25分 ~ 07时22分]"
+        },
+        {
+          "title": "金价为何突然大涨",
+          "url": "https://www.douyin.com/hot/2602679",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         }
       ]
     }
