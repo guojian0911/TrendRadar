@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T20:56:00.022341+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-08-12T22:18:56.161160+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 77,
+      "match_count": 89,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时42分 ~ 20时55分]"
+          "appearance_count": 11,
+          "time_info": "[06时42分 ~ 22时18分]"
         },
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -43,6 +43,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时53分 ~ 12时02分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 22时18分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -104,17 +117,18 @@
           "time_info": "[00时53分 ~ 09时22分]"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            3,
-            4
+            7,
+            4,
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 20时55分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 22时18分]"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
@@ -144,19 +158,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时53分 ~ 12时02分]"
-        },
-        {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时22分 ~ 20时55分]"
         },
         {
           "title": "城市竞争进入AI答案时代",
@@ -219,6 +220,22 @@
           "time_info": "[00时53分 ~ 04时06分]"
         },
         {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 22时18分]"
+        },
+        {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
           "url": "https://flash.jin10.com/detail/20260812003202953800",
           "source": "金十数据",
@@ -230,19 +247,26 @@
           "time_info": "00时53分"
         },
         {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
+          "title": "谷歌推出Pixel 11、11 Pro、11 Pro XL和11 Pro Fold手机。",
+          "url": "https://flash.jin10.com/detail/20260812220126580800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            11,
-            10,
-            8,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 20时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "【谷歌提高新款手机价格，因内存“严重”短缺】谷歌新款手机比上一代提价100美元。",
+          "url": "https://wallstreetcn.com/livenews/3148673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "AI云服务巨头Coreweave(CRWV.O)第二财季营收25.8亿美元，市场预期25.6亿美元；第二财季净亏损6.26亿美元，市场预期亏损7.571亿美元；截至2026年6月30日，合同在手订单总额约为1040亿美元。",
@@ -267,6 +291,28 @@
           "time_info": "13时43分"
         },
         {
+          "title": "谷歌宣布升级版Pixel Watch 5，起售价为399美元。",
+          "url": "https://flash.jin10.com/detail/20260812220117525800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "【谷歌发布PIXEL 11、11 PRO、11 PRO XL和11 PRO折叠屏手机】谷歌发布升级版Pixel Watch 5，起售价399美元。",
+          "url": "https://wallstreetcn.com/livenews/3148672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "央行：支持政策性开发性金融机构推进新型政策性金融工具，重点支持数字经济、人工智能、消费基础设施，以及交通、能源、地下管网建设改造等城市更新领域",
           "url": "https://flash.jin10.com/detail/20260812183458695800",
           "source": "金十数据",
@@ -276,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "谷歌(GOOG.O)因内存严重短缺而提高新手机价格，谷歌新款智能手机起价899美元，折叠屏手机售价1899美元，比上一代贵100美元。",
+          "url": "https://flash.jin10.com/detail/20260812220110145800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "【腾讯控股：第二季度录得负自由现金流人民币138亿元，若剔除算力采购的预付款项，自由现金流为人民币376亿元】第二季，本集团录得负自由现金流人民币138亿元，此乃由于经营活动所产生的现金净额人民币527亿元，被资本开支付款人民币593亿元、媒体内容付款人民币50亿元及租赁负债付款人民币22亿元超额抵销。我们的经营现金流包括大额AI相关预付款项，用于提供基础设施以支持Hy模型升级、WorkBuddy及CodeBuddy推理的需求、微信AI举措，以及我们各项产品与服务的AI能力建设，同时满足外部客户对我们的云服务持续增长的需求。若剔除算力采购的预付款项，我们的自由现金流为人民币376亿元。",
@@ -494,6 +551,18 @@
           "time_info": "[02时55分 ~ 04时06分]"
         },
         {
+          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
+          "url": "https://www.cls.cn/detail/2452579",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 22时18分]"
+        },
+        {
           "title": "梁文锋跻身全球最富有50人之列",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
           "source": "百度热搜",
@@ -598,6 +667,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "中国算电协同航母来了 一度绿电可生成30秒AI文生视频",
+          "url": "https://wallstreetcn.com/livenews/3148666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "企业AI降本新路径：开源模型成本仅为闭源8%",
           "url": "https://flash.jin10.com/detail/20260812150102741800",
           "source": "金十数据",
@@ -607,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "全球最大单体智算中心投产 一度绿电可生成30秒AI文生视频",
+          "url": "https://flash.jin10.com/detail/20260812215306582800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "标普500指数初步收跌0.3%，电信板块跌2.2%，科技板块跌0.2%，能源板块涨0.9%。 纳斯达克100指数初步收跌0.3%，成分股中，Applovin初步收跌5.8%，Honeywell Technologies Inc.跌5.3%，Datadog跌超5%，SpaceX跌4.5%，谷歌A跌3.9%，拼多多ADR跌2.5%，亚马逊跌2%，希捷科技涨2.3%，闪迪涨2.5%，阿斯麦ADR涨3.6%，AXON涨6.7%。",
@@ -637,7 +728,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -664,17 +755,6 @@
           "time_info": "17时08分"
         },
         {
-          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
-          "url": "https://www.cls.cn/detail/2452579",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
           "title": "Omdia：AI需求激增2026年半导体市场增幅上调至94.1%",
           "url": "https://flash.jin10.com/detail/20260812124218633800",
           "source": "金十数据",
@@ -695,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "腾讯高管谈AI业务利润：WorkBuddy付费用户毛利率相当不错",
+          "url": "https://wallstreetcn.com/livenews/3148661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "鸿海：预计第三季度营收将同比增长。 预计2026财年收入同比增长。 预计第三季度零部件及其他产品营收将实现显著同比增长。 第三季度AI机架出货量环比增长预计将达到高双位数。 AI基础设施正推动增长，对AI服务器前景持强劲看法。 预计强劲的AI需求将推动全年增长。",
@@ -728,6 +819,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "腾讯总裁刘炽平再谈微信AI：微信会成为以AI为先的生态系统，有望转化成巨大的价值",
+          "url": "https://wallstreetcn.com/livenews/3148658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
+          "url": "https://www.zhihu.com/question/2070810807168980648",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "DeepSeek智能体要来了？公众号已完成注册认证",
@@ -772,6 +885,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "腾讯总裁刘炽平谈AI资本开支增加：多款应用表现良好，已看到明显上行空间",
+          "url": "https://wallstreetcn.com/livenews/3148651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "SpaceXAI：Grok Bot聊天机器人目前处于测试阶段，今日向SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium订阅用户开放，支持桌面端和iOS端使用。",
@@ -906,6 +1030,17 @@
           "time_info": "12时02分"
         },
         {
+          "title": "腾讯高管谈AI业务利润：WorkBuddy付费用户毛利率相当不错",
+          "url": "https://flash.jin10.com/detail/20260812213921394800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-08-12）",
           "url": "https://flash.jin10.com/detail/20260812115808837800",
           "source": "金十数据",
@@ -920,7 +1055,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
@@ -951,6 +1086,28 @@
           "time_info": "[04时43分 ~ 06时42分]"
         },
         {
+          "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
+          "url": "https://www.cls.cn/detail/2452735",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "荣耀Magic9将首发纯血Agentic OS",
+          "url": "https://wallstreetcn.com/livenews/3148664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "怎么看 Claude 将在新的 Claude 模型的生成文本里加入隐形水印？",
           "url": "https://www.zhihu.com/question/2070443311802867884",
           "source": "知乎",
@@ -979,7 +1136,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
