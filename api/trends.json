@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T20:53:37.865716+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2026-08-14T22:13:43.198102+08:00",
+  "total_titles_processed": 1777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 84,
+      "match_count": 91,
       "titles": [
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时51分 ~ 20时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 22时13分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -105,8 +105,21 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时51分 ~ 20时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 22时13分]"
+        },
+        {
+          "title": "中国AI把价格打下来，美国巨头一口气降80%",
+          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 22时13分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -165,11 +178,12 @@
             7,
             6,
             12,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时51分 ~ 20时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 22时13分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -249,19 +263,6 @@
           "time_info": "[00时51分 ~ 17时55分]"
         },
         {
-          "title": "中国AI把价格打下来，美国巨头一口气降80%",
-          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 20时53分]"
-        },
-        {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
           "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
@@ -272,6 +273,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时51分 ~ 07时35分]"
+        },
+        {
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 22时13分]"
         },
         {
           "title": "DeepSeek Harness 来了，它不想做下一个Codex",
@@ -298,19 +312,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时02分 ~ 17时55分]"
-        },
-        {
-          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
-          "url": "https://www.zhihu.com/question/2071486982732223991",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 20时53分]"
         },
         {
           "title": "DeepSeek发布调价公告",
@@ -343,6 +344,31 @@
           "time_info": "[01时54分 ~ 06时36分]"
         },
         {
+          "title": "人工智能激活力 “新”意盎然促发展",
+          "url": "https://www.toutiao.com/trending/7673797019718598698/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 22时13分]"
+        },
+        {
+          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
+          "url": "https://www.cls.cn/detail/2454270",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 22时13分]"
+        },
+        {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
           "url": "https://www.toutiao.com/trending/7673637537293798953/",
           "source": "今日头条",
@@ -353,6 +379,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时22分 ~ 12时03分]"
+        },
+        {
+          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
+          "url": "https://www.cls.cn/detail/2454596",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 22时13分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -392,17 +432,6 @@
           "time_info": "12时03分"
         },
         {
-          "title": "人工智能激活力 “新”意盎然促发展",
-          "url": "https://www.toutiao.com/trending/7673797019718598698/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
           "title": "DeepSeek Harness是什么",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -412,32 +441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
-        },
-        {
-          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
-          "url": "https://www.cls.cn/detail/2454270",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 20时53分]"
-        },
-        {
-          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
-          "url": "https://www.cls.cn/detail/2454596",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 20时53分]"
         },
         {
           "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
@@ -462,6 +465,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 02时56分]"
+        },
+        {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            5,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时09分 ~ 22时13分]"
         },
         {
           "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
@@ -511,18 +527,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 02时56分]"
-        },
-        {
-          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
-          "url": "https://www.zhihu.com/question/2071361705183899939",
-          "source": "知乎",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 17时55分]"
         },
         {
           "title": "AI用配音演员声线接广告",
@@ -688,6 +692,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
+          "url": "https://wallstreetcn.com/articles/3779448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "AI驱动半导体景气度高涨，两大晶圆厂第二季度收入均创新高",
           "url": "https://wallstreetcn.com/livenews/3149345",
           "source": "华尔街见闻-快讯",
@@ -708,6 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
@@ -760,7 +786,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -908,6 +934,17 @@
           "time_info": "18时54分"
         },
         {
+          "title": "AI算力CPI",
+          "url": "https://flash.jin10.com/detail/20260814211050407800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "OpenAI在不到一年内任命新首席营收官。",
           "url": "https://flash.jin10.com/detail/20260813235531398800",
           "source": "金十数据",
@@ -941,6 +978,17 @@
           "time_info": "12时03分"
         },
         {
+          "title": "深度体验DeepSeek Harness 原谅涨价",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8CDeepSeek+Harness+%E5%8E%9F%E8%B0%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "一个视频看懂DeepSeek Harness",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
           "source": "bilibili 热搜",
@@ -961,6 +1009,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "智洋创新：拟定增募资不超9.04亿元，用于多垂域具身智能及人工智能体研发等项目",
+          "url": "https://flash.jin10.com/detail/20260814210933708800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
@@ -1018,6 +1077,28 @@
           "time_info": "17时55分"
         },
         {
+          "title": "SpaceX豪掷600亿收购Cursor 马斯克AI版图再落重子",
+          "url": "https://flash.jin10.com/detail/20260814210317465800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "美银：共和党若赢下中期选举，AI热潮或延续至2027年",
+          "url": "https://flash.jin10.com/detail/20260814210223473800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "当AI汽车长了双灵眸大眼",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93AI%E6%B1%BD%E8%BD%A6%E9%95%BF%E4%BA%86%E5%8F%8C%E7%81%B5%E7%9C%B8%E5%A4%A7%E7%9C%BC%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -1043,8 +1124,20 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
+          "url": "https://www.zhihu.com/question/2071591447367770456",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 22时13分]"
+        },
         {
           "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
           "url": "https://www.cls.cn/detail/2453351",
@@ -1056,18 +1149,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时51分 ~ 06时36分]"
-        },
-        {
-          "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
-          "url": "https://www.zhihu.com/question/2071591447367770456",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 20时53分]"
         },
         {
           "title": "智谱发布GLM-5.3模型",
@@ -1118,6 +1199,17 @@
           "time_info": "[01时54分 ~ 02时56分]"
         },
         {
+          "title": "表现惊艳,glm5.3稳胜DSpro",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357516&amp;topic_name=%E8%A1%A8%E7%8E%B0%E6%83%8A%E8%89%B3%2Cglm5.3%E7%A8%B3%E8%83%9CDSpro",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 22时13分]"
+        },
+        {
           "title": "黄金价格反弹意味什么",
           "url": "https://www.toutiao.com/trending/7673529634117389887/",
           "source": "今日头条",
@@ -1151,17 +1243,6 @@
           "time_info": "12时03分"
         },
         {
-          "title": "表现惊艳,glm5.3稳胜DSpro",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357516&amp;topic_name=%E8%A1%A8%E7%8E%B0%E6%83%8A%E8%89%B3%2Cglm5.3%E7%A8%B3%E8%83%9CDSpro",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
           "title": "智谱：发布GLM-5.3模型 在复杂编码和长时程任务方面表现更佳",
           "url": "https://flash.jin10.com/detail/20260814134055071800",
           "source": "金十数据",
@@ -1171,6 +1252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "如何看待 Anthropic 传出最快 10 月 IPO，估值目标飙升至 2 万亿美元？",
+          "url": "https://www.zhihu.com/question/2071279053672277791",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "MINIMAX-W(00100.HK)：定于2026年8月26日举行本公司董事会会议，以考虑及通过本集团截至2026年6月30日止的六个月中期业绩，以及处理其他事项。",
@@ -1197,8 +1289,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时55分 ~ 20时53分]"
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 22时13分]"
         },
         {
           "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",
