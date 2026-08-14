@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T12:03:19.001965+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-08-14T14:09:56.736190+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 67,
+      "match_count": 71,
       "titles": [
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时09分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时09分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -68,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时09分]"
         },
         {
           "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
@@ -131,8 +131,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时09分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -143,11 +143,12 @@
             10,
             11,
             7,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时09分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -186,11 +187,12 @@
             23,
             18,
             13,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时09分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -202,11 +204,12 @@
             19,
             17,
             16,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时09分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -215,11 +218,12 @@
           "ranks": [
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 12时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时09分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -241,11 +245,23 @@
             8,
             7,
             17,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 12时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 14时09分]"
+        },
+        {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时09分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -261,17 +277,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时54分 ~ 06时36分]"
-        },
-        {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
@@ -318,9 +323,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "DeepSeek Harness是什么",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "DeepSeek Harness 开发者预览版：一切皆插件",
@@ -331,8 +347,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 12时03分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 14时09分]"
+        },
+        {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
@@ -383,6 +410,42 @@
           "time_info": "[01时54分 ~ 02时56分]"
         },
         {
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时09分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时09分]"
+        },
+        {
+          "title": "AI用配音演员声线接广告",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%94%A8%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%A3%B0%E7%BA%BF%E6%8E%A5%E5%B9%BF%E5%91%8A&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时09分]"
+        },
+        {
           "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
           "url": "https://wallstreetcn.com/livenews/3149305",
           "source": "华尔街见闻-快讯",
@@ -393,17 +456,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时39分]"
-        },
-        {
-          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
-          "url": "https://www.zhihu.com/question/2068993919958742400",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
@@ -440,17 +492,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 02时56分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "谷歌(GOOG.O)：Gemini Spark从今天起将使用Gemini 3.7 Flash。",
@@ -510,17 +551,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 04时36分]"
-        },
-        {
-          "title": "AI用配音演员声线接广告",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%94%A8%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%A3%B0%E7%BA%BF%E6%8E%A5%E5%B9%BF%E5%91%8A&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "DeepSeek官网撤公告疑似回滚",
@@ -771,9 +801,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "一个视频看懂DeepSeek Harness",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "人工智能芯片制造商Cerebras：对AMD联合产品的需求巨大。",
@@ -785,6 +826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3149477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "人工智能芯片制造商Cerebras：业务将以卓越的速度增长。",
@@ -815,7 +867,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         }
@@ -823,7 +875,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
@@ -885,15 +937,37 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
+          "title": "智谱将发布GLM-5.3模型",
+          "url": "https://wallstreetcn.com/livenews/3149504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "PPI环比零增长，金价为何却开始“倒车”？",
           "url": "https://flash.jin10.com/detail/20260814113533271800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "智谱：发布GLM-5.3模型 在复杂编码和长时程任务方面表现更佳",
+          "url": "https://flash.jin10.com/detail/20260814134055071800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     },
