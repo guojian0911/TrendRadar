@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T18:18:01.506066+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-08-16T19:15:45.556513+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时56分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 19时15分]"
         },
         {
           "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时56分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 19时15分]"
         },
         {
           "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
@@ -56,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时20分 ~ 18时18分]"
+          "appearance_count": 9,
+          "time_info": "[10时20分 ~ 19时15分]"
         },
         {
           "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
@@ -72,6 +72,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时56分 ~ 16时22分]"
+        },
+        {
+          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
+          "url": "https://wallstreetcn.com/articles/3779518",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 19时15分]"
         },
         {
           "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
@@ -101,18 +115,48 @@
           "time_info": "[08时56分 ~ 12时31分]"
         },
         {
-          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
-          "url": "https://wallstreetcn.com/articles/3779518",
-          "source": "华尔街见闻",
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/livenews/3150029",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7,
-            6,
-            5
+            1,
+            3,
+            8,
+            16,
+            23,
+            29
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时31分 ~ 18时18分]"
+          "time_info": "[12时31分 ~ 19时15分]"
+        },
+        {
+          "title": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型",
+          "url": "https://wallstreetcn.com/livenews/3150028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            9,
+            17,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 19时15分]"
+        },
+        {
+          "title": "中国医生用AI解决数学圈22年难题",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时20分 ~ 19时15分]"
         },
         {
           "title": "60岁AI动画赛道新人",
@@ -128,21 +172,6 @@
           "time_info": "[08时56分 ~ 14时29分]"
         },
         {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/livenews/3150029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            8,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 18时18分]"
-        },
-        {
           "title": "我和闺蜜联手掀翻AI穿书剧本",
           "url": "https://www.douyin.com/hot/2610954",
           "source": "抖音",
@@ -156,21 +185,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时56分 ~ 14时29分]"
-        },
-        {
-          "title": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型",
-          "url": "https://wallstreetcn.com/livenews/3150028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            9,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 18时18分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -217,16 +231,17 @@
           "time_info": "[08时56分 ~ 11时43分]"
         },
         {
-          "title": "中国医生用AI解决数学圈22年难题",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            3
+            10,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时20分 ~ 18时18分]"
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 19时15分]"
         },
         {
           "title": "“AI版金融创新”：CDO vs CCO=2008 vs 2026？",
@@ -238,17 +253,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
-        },
-        {
-          "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
-          "url": "https://wallstreetcn.com/livenews/3150051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -264,17 +268,32 @@
           "time_info": "[08时56分 ~ 11时43分]"
         },
         {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
+            14,
+            11,
             8,
             6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时23分 ~ 18时18分]"
+          "time_info": "[14时29分 ~ 19时15分]"
+        },
+        {
+          "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
+          "url": "https://www.zhihu.com/question/2071916942760342436",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 19时15分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -291,6 +310,31 @@
           "time_info": "[08时56分 ~ 16时22分]"
         },
         {
+          "title": "王祖贤：我们是用AI不是被AI用",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E7%94%A8AI%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 19时15分]"
+        },
+        {
+          "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
+          "url": "https://wallstreetcn.com/livenews/3150051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时15分]"
+        },
+        {
           "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
           "url": "https://flash.jin10.com/detail/20260816080958361800",
           "source": "金十数据",
@@ -304,30 +348,27 @@
           "time_info": "[08时57分 ~ 11时43分]"
         },
         {
-          "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
-          "url": "https://www.zhihu.com/question/2071916942760342436",
-          "source": "知乎",
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            8,
-            14
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时29分 ~ 18时18分]"
+          "time_info": "[16时22分 ~ 19时15分]"
         },
         {
-          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
-          "source": "澎湃新闻",
+          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
+          "url": "https://www.cls.cn/detail/2455252",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            11,
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时29分 ~ 18时18分]"
+          "time_info": "[16时22分 ~ 19时15分]"
         },
         {
           "title": "“AI神童”爆仓引发连锁反应",
@@ -343,19 +384,6 @@
           "time_info": "[08时56分 ~ 11时43分]"
         },
         {
-          "title": "王祖贤：我们是用AI不是被AI用",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E7%94%A8AI%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 18时18分]"
-        },
-        {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
@@ -368,27 +396,16 @@
           "time_info": "[08时56分 ~ 11时43分]"
         },
         {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时18分]"
-        },
-        {
-          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
-          "url": "https://www.cls.cn/detail/2455252",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时18分]"
+          "time_info": "[18时17分 ~ 19时15分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -424,17 +441,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时20分 ~ 11时43分]"
-        },
-        {
-          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
-          "url": "https://wallstreetcn.com/articles/3779522",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "纯数学研究者未来会被 AI 取代吗？",
@@ -553,8 +559,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时56分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 19时15分]"
         },
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -565,8 +571,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时15分]"
         },
         {
           "title": "Anthropic二季度营收同比暴涨1400%",
