@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T06:15:54.758440+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-08-17T07:15:18.704780+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
           "url": "https://www.cls.cn/detail/2455237",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
@@ -35,22 +36,24 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
           "url": "https://www.cls.cn/detail/2455147",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -60,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -72,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -83,31 +86,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "全球开源AI大洗牌 中国开源模型加速崛起",
-          "url": "https://wallstreetcn.com/livenews/3150072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "市场消息：Stripe即将以超过70亿美元的价格收购人工智能公司OpenRouter。",
-          "url": "https://flash.jin10.com/detail/20260817035338220800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -117,8 +97,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "全球开源AI大洗牌 中国开源模型加速崛起",
+          "url": "https://wallstreetcn.com/livenews/3150072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -128,8 +120,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -139,8 +131,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "一条AI短片演绎时间焦虑",
@@ -152,8 +144,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "AI正在批量制造“幽灵”",
@@ -162,11 +154,27 @@
           "ranks": [
             23,
             14,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "大爷手搓AI长片赛博英雄传",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            28,
+            19,
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -177,22 +185,21 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
-          "title": "大爷手搓AI长片赛博英雄传",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
-          "source": "bilibili 热搜",
+          "title": "市场消息：Stripe即将以超过70亿美元的价格收购人工智能公司OpenRouter。",
+          "url": "https://flash.jin10.com/detail/20260817035338220800",
+          "source": "金十数据",
           "ranks": [
-            30,
-            28,
-            19,
-            26
+            2,
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 07时15分]"
         },
         {
           "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
@@ -204,6 +211,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 06时15分]"
+        },
+        {
+          "title": "Anthropic CEO：击败AI怀疑论者的最好方式就是兑现炒作承诺",
+          "url": "https://flash.jin10.com/detail/20260817062707189800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "AI如何能辅助办公",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%83%BD%E8%BE%85%E5%8A%A9%E5%8A%9E%E5%85%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     },
@@ -219,8 +248,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
         }
       ]
     }
