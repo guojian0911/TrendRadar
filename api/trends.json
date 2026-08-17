@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-08-17T11:45:19.228154+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2026-08-17T12:36:08.671560+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 36,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
+          "url": "https://www.cls.cn/detail/2455353",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 12时36分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 12时36分]"
+        },
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
           "url": "https://wallstreetcn.com/articles/3779518",
@@ -31,17 +58,34 @@
           "time_info": "[00时18分 ~ 08时55分]"
         },
         {
-          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
-          "url": "https://www.cls.cn/detail/2455353",
-          "source": "财联社热门",
+          "title": "一条AI短片演绎时间焦虑",
+          "url": "https://www.douyin.com/hot/2612104",
+          "source": "抖音",
           "ranks": [
-            6,
-            7,
-            4
+            14,
+            15,
+            13,
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 11时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 12时36分]"
+        },
+        {
+          "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33792037",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            14,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 12时36分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -85,47 +129,15 @@
           "time_info": "[00时18分 ~ 10时18分]"
         },
         {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
-          "source": "华尔街见闻",
+          "title": "DeepSeek正式涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            8,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 11时45分]"
-        },
-        {
-          "title": "一条AI短片演绎时间焦虑",
-          "url": "https://www.douyin.com/hot/2612104",
-          "source": "抖音",
-          "ranks": [
-            14,
-            15,
-            13,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 11时45分]"
-        },
-        {
-          "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33792037",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            14,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 11时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时36分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -189,17 +201,6 @@
           "time_info": "[00时18分 ~ 10时18分]"
         },
         {
-          "title": "DeepSeek正式涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
           "title": "涉中美AI，美被曝想逼多国“二选一”",
           "url": "https://flash.jin10.com/detail/20260817084226020800",
           "source": "金十数据",
@@ -220,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "IDC：2025年中国AI视频云市场已形成两大核心赛道 市场规模合计近10亿元",
+          "url": "https://flash.jin10.com/detail/20260817120041122800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -248,6 +260,32 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 12时36分]"
+        },
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 12时36分]"
+        },
+        {
           "title": "市场消息：Stripe即将以超过70亿美元的价格收购人工智能公司OpenRouter。",
           "url": "https://flash.jin10.com/detail/20260817035338220800",
           "source": "金十数据",
@@ -273,6 +311,18 @@
           "time_info": "[08时55分 ~ 10时18分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时18分 ~ 12时36分]"
+        },
+        {
           "title": "AI融资需求不断攀升 Alphabet考虑首次发行澳元债券",
           "url": "https://wallstreetcn.com/livenews/3150129",
           "source": "华尔街见闻-快讯",
@@ -283,6 +333,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 10时18分]"
+        },
+        {
+          "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
+          "url": "https://www.cls.cn/detail/2455490",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时18分 ~ 12时36分]"
+        },
+        {
+          "title": "DeepSeek调价生效 涨幅最高达1100%",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时18分 ~ 12时36分]"
         },
         {
           "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
@@ -296,64 +371,94 @@
           "time_info": "[00时18分 ~ 06时15分]"
         },
         {
-          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
-          "source": "澎湃新闻",
+          "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
+          "url": "https://www.cls.cn/detail/2455422",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            18,
-            19
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时45分]"
+          "time_info": "[11时45分 ~ 12时36分]"
         },
         {
-          "title": "DeepSeek正式涨价",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时45分]"
-        },
-        {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时18分 ~ 11时45分]"
-        },
-        {
-          "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
-          "url": "https://www.cls.cn/detail/2455490",
+          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
+          "url": "https://www.cls.cn/detail/2455546",
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时18分 ~ 11时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时36分]"
         },
         {
-          "title": "DeepSeek调价生效 涨幅最高达1100%",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
-          "source": "百度热搜",
+          "title": "储能竞争逻辑重塑：Q3电芯价格回升 AIDC与海外市场成增量方向 |行业观察",
+          "url": "https://www.cls.cn/detail/2455347",
+          "source": "财联社热门",
           "ranks": [
-            26,
-            25
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时36分]"
+        },
+        {
+          "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
+          "url": "https://wallstreetcn.com/articles/3779533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时18分 ~ 11时45分]"
+          "time_info": "[12时35分 ~ 12时36分]"
+        },
+        {
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
+        },
+        {
+          "title": "一块玻璃的进阶之路 蓝思科技向AI全域智能终端延伸 |活力中国调研行",
+          "url": "https://www.cls.cn/detail/2455402",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
+        },
+        {
+          "title": "博主：DeepSeek要当全球Agent的底座",
+          "url": "https://www.toutiao.com/trending/7674830497876282921/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
+        },
+        {
+          "title": "OpenAI 人事地震",
+          "url": "https://www.baidu.com/s?wd=OpenAI+%E4%BA%BA%E4%BA%8B%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
         },
         {
           "title": "Anthropic CEO：击败AI怀疑论者的最好方式就是兑现炒作承诺",
@@ -367,6 +472,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "IDC：2025年中国AI视频云市场已形成两大核心赛道 市场规模合计近10亿元",
+          "url": "https://wallstreetcn.com/livenews/3150212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "DeepSeek Harness邪修攻略",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E9%82%AA%E4%BF%AE%E6%94%BB%E7%95%A5",
           "source": "bilibili 热搜",
@@ -378,37 +494,15 @@
           "time_info": "08时55分"
         },
         {
-          "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
-          "url": "https://www.cls.cn/detail/2455422",
-          "source": "财联社热门",
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-17）",
+          "url": "https://flash.jin10.com/detail/20260817120021600800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
-          "url": "https://www.cls.cn/detail/2455546",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "储能竞争逻辑重塑：Q3电芯价格回升 AIDC与海外市场成增量方向 |行业观察",
-          "url": "https://www.cls.cn/detail/2455347",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "12时36分"
         },
         {
           "title": "AI产业链的受益面正在变宽，模拟芯片也开始吃到AI红利",
@@ -447,7 +541,7 @@
     },
     {
       "keyword_group": "Anthropic Claude Claude Code Codex OpenCode 智谱 GLM MiniMax Agent AI Agent 工作流 Workflow Context Engineering Prompt AI Skills 金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -458,19 +552,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 11时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 12时36分]"
+        },
+        {
+          "title": "金价大涨藏着什么信号",
+          "url": "https://www.toutiao.com/trending/7674833333351632403/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
         },
         {
           "title": "9月按兵不动成主流，本周金价线索藏在美联储细节中",
           "url": "https://flash.jin10.com/detail/20260817113428866800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时36分]"
         },
         {
           "title": "香港恒生指数高开0.74%，报25303.41点；恒生科技指数涨1.14%。商汤涨超7%，京东涨超3%，联想、MINIMAX涨超2%。",
@@ -495,6 +601,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 10时18分]"
+        },
+        {
+          "title": "Codex调用豆包清理C盘",
+          "url": "https://s.weibo.com/weibo?q=Codex%E8%B0%83%E7%94%A8%E8%B1%86%E5%8C%85%E6%B8%85%E7%90%86C%E7%9B%98&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
         },
         {
           "title": "Anthropic Claude大规模服务故障",
