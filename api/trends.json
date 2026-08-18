@@ -1,22 +1,48 @@
 {
-  "generated_at": "2026-08-18T20:34:24.255187+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-08-18T23:28:04.041913+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "功率半导体又酝酿涨价？AI用电拉动需求 部分企业或10月行动",
+          "url": "https://www.cls.cn/detail/2457030",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 23时28分]"
+        },
         {
           "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
           "url": "https://wallstreetcn.com/articles/3779645",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 20时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 23时28分]"
+        },
+        {
+          "title": "AI私服来袭,二游圈传噩耗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 23时28分]"
         },
         {
           "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
@@ -30,6 +56,19 @@
           "time_info": "[12时30分 ~ 12时31分]"
         },
         {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 23时28分]"
+        },
+        {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
           "url": "https://www.cls.cn/detail/2456558",
           "source": "财联社热门",
@@ -39,6 +78,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "新规一刀切,AI漫剧被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358152&amp;topic_name=%E6%96%B0%E8%A7%84%E4%B8%80%E5%88%80%E5%88%87%2CAI%E6%BC%AB%E5%89%A7%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 23时28分]"
         },
         {
           "title": "大批AI博主停更了",
@@ -52,30 +104,6 @@
           "time_info": "00时21分"
         },
         {
-          "title": "AI私服来袭,二游圈传噩耗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 20时34分]"
-        },
-        {
-          "title": "功率半导体又酝酿涨价？AI用电拉动需求 部分企业或10月行动",
-          "url": "https://www.cls.cn/detail/2457030",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
           "title": "预告：交通运输部定于8月20日就“人工智能+交通运输”典型应用场景创新行动举行专题新闻发布会",
           "url": "https://flash.jin10.com/detail/20260818120807749800",
           "source": "金十数据",
@@ -87,28 +115,84 @@
           "time_info": "12时31分"
         },
         {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
+          "title": "美银认为英伟达因AI风险折价高达50%",
+          "url": "https://wallstreetcn.com/livenews/3151210",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 20时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
-          "title": "新规一刀切,AI漫剧被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358152&amp;topic_name=%E6%96%B0%E8%A7%84%E4%B8%80%E5%88%80%E5%88%87%2CAI%E6%BC%AB%E5%89%A7%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "title": "集中撤榜,起点斩杀AI文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
           "source": "贴吧",
           "ranks": [
-            4,
-            12
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时30分 ~ 20时34分]"
+          "time_info": "[20时34分 ~ 23时28分]"
+        },
+        {
+          "title": "AI暗雷！美科技巨头表外负债膨胀至3万亿美元，约为年资本开支的5倍",
+          "url": "https://wallstreetcn.com/articles/3779679",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 23时28分]"
+        },
+        {
+          "title": "创业板跌近1%，农业股逆势爆发，年内最贵新股上市首日暴涨超500%，港股阿里午后拉升涨近4%，AI大模型双雄齐跌",
+          "url": "https://wallstreetcn.com/articles/3779668",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 23时28分]"
+        },
+        {
+          "title": "人工智能安全：下一阶段人工智能产业竞争的新赛道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33799807",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 23时28分]"
+        },
+        {
+          "title": "公安机关公布14起涉企网络谣言案例：编造智驾事故，AI生成假车祸视频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33803492",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 23时28分]"
+        },
+        {
+          "title": "UP主用AI给盲人装上眼睛",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E7%BB%99%E7%9B%B2%E4%BA%BA%E8%A3%85%E4%B8%8A%E7%9C%BC%E7%9D%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 23时28分]"
         },
         {
           "title": "OpenAI锁定4.25GW数据中心容量",
@@ -131,6 +215,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "菲尔兹奖得主谈「人工智能可能会杀死数学」，您如何看待这个问题？",
+          "url": "https://www.zhihu.com/question/2065714833606104237",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时27分 ~ 23时28分]"
+        },
+        {
+          "title": "自制AI电影出马仙镇东北",
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E7%94%B5%E5%BD%B1%E5%87%BA%E9%A9%AC%E4%BB%99%E9%95%87%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时27分 ~ 23时28分]"
         },
         {
           "title": "哈佛麻省理工造了83亿AI人",
@@ -188,24 +294,13 @@
           "time_info": "00时21分"
         },
         {
-          "title": "AI暗雷！美科技巨头表外负债膨胀至3万亿美元，约为年资本开支的5倍",
-          "url": "https://wallstreetcn.com/articles/3779679",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
           "title": "AI大战转折点？与管理层会面后，华尔街的感受：腾讯在打“中途岛战役”",
           "url": "https://wallstreetcn.com/articles/3779652",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -219,28 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "创业板跌近1%，农业股逆势爆发，年内最贵新股上市首日暴涨超500%，港股阿里午后拉升涨近4%，AI大模型双雄齐跌",
-          "url": "https://wallstreetcn.com/articles/3779668",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "集中撤榜,起点斩杀AI文",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
         },
         {
           "title": "“新债王”发出见顶警告：华尔街押注AI芯片资产化，风险正在累积",
@@ -265,35 +338,13 @@
           "time_info": "00时21分"
         },
         {
-          "title": "人工智能安全：下一阶段人工智能产业竞争的新赛道",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33799807",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
           "title": "字节跳动与美国电影协会签署AI版权协议",
           "url": "https://wallstreetcn.com/livenews/3151113",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
-          "title": "公安机关公布14起涉企网络谣言案例：编造智驾事故，AI生成假车祸视频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33803492",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -309,17 +360,6 @@
           "time_info": "00时21分"
         },
         {
-          "title": "UP主用AI给盲人装上眼睛",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E7%BB%99%E7%9B%B2%E4%BA%BA%E8%A3%85%E4%B8%8A%E7%9C%BC%E7%9D%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
           "title": "创业板指跌超2%，沪指跌0.64%，深成指跌1.62%，AI应用、算力租赁、医药医疗、软件开发等方向跌幅居前，沪深京三市下跌个股近4200只。",
           "url": "https://wallstreetcn.com/livenews/3150811",
           "source": "华尔街见闻-快讯",
@@ -329,6 +369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "法国预算部长：政府将不会采用OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260818230031378800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "企业微信全面升级CLI与MCP，主流AI Agent可直接接入",
@@ -348,7 +399,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -359,9 +410,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
+        },
+        {
+          "title": "法国预算部长：政府将采用主权人工智能，例如Mistral。",
+          "url": "https://flash.jin10.com/detail/20260818225812704800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         }
       ]
     },
