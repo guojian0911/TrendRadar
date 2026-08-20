@@ -1,22 +1,59 @@
 {
-  "generated_at": "2026-08-20T10:15:38.139766+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-20T15:36:50.302472+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 大模型 AIGC 多模态 LLM DeepSeek 梁文锋 AI 企业培训 谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美联储会议纪要偏鹰：7月加息阵营不止三人，多人认为若通胀不降需行动，部分料AI推升通胀",
           "url": "https://wallstreetcn.com/articles/3779834",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 15时36分]"
+        },
+        {
+          "title": "莫德纳市值单日暴增445亿美元 AI医药技术成隐秘功臣",
+          "url": "https://www.cls.cn/detail/2459016",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 15时36分]"
+        },
+        {
+          "title": "饭碗要凉,AI作者录屏自证手搓",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28359015&amp;topic_name=%E9%A5%AD%E7%A2%97%E8%A6%81%E5%87%89%2CAI%E4%BD%9C%E8%80%85%E5%BD%95%E5%B1%8F%E8%87%AA%E8%AF%81%E6%89%8B%E6%90%93",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 15时36分]"
+        },
+        {
+          "title": "集中撤榜,起点斩杀AI文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 15时36分]"
         },
         {
           "title": "美国财政部刚缓解美债压力，AI债务洪流又来了",
@@ -44,17 +81,6 @@
           "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
           "url": "https://wallstreetcn.com/articles/3779762",
           "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "饭碗要凉,AI作者录屏自证手搓",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28359015&amp;topic_name=%E9%A5%AD%E7%A2%97%E8%A6%81%E5%87%89%2CAI%E4%BD%9C%E8%80%85%E5%BD%95%E5%B1%8F%E8%87%AA%E8%AF%81%E6%89%8B%E6%90%93",
-          "source": "贴吧",
           "ranks": [
             9
           ],
@@ -96,17 +122,6 @@
           "time_info": "10时15分"
         },
         {
-          "title": "莫德纳市值单日暴增445亿美元 AI医药技术成隐秘功臣",
-          "url": "https://www.cls.cn/detail/2459016",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
           "title": "AI演员能替代真人演员吗",
           "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E8%83%BD%E6%9B%BF%E4%BB%A3%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E5%90%97",
           "source": "百度热搜",
@@ -118,15 +133,15 @@
           "time_info": "10时15分"
         },
         {
-          "title": "集中撤榜,起点斩杀AI文",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
-          "source": "贴吧",
+          "title": "高盛：开放模型加速替代，美国大型电信运营商AI成本降80%—90%",
+          "url": "https://flash.jin10.com/detail/20260820150320912800",
+          "source": "金十数据",
           "ranks": [
-            22
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "15时36分"
         },
         {
           "title": "自制AI电影出马仙镇东北",
